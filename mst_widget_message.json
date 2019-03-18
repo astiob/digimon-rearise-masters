@@ -1,0 +1,8320 @@
+{
+	"masterRows": [
+		{
+			"voice_type": "1",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "お前のことを待っているデジモンがいるぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹が減ったな。早く来てくれ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おい！リクエストがあるぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "偶然、デジモンと出会ったぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンといろいろ話してきたぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンと仲良くなったぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムを発見したぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "見ろ！アイテムを見つけたぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "アイテム発見。どうだこれ？"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おう、アプリを起動してくれ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索は終わりにするぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "お前も今日は休むか？"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、よく頑張ったな。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探してるぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが見つかりそうだぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こちらはいい天気だ。そっちはどうだ？"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日は機嫌が良いぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "おい、「お手」などしないぞ！"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どうだ？強そうに見えるか？"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街を知ってるか？"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "・・・。退屈ではなく集中していたのだ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルの練習に付き合ってくれるか？"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "背中に乗せてほしいだと？"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルとの戦いは避けらないようだな。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "いつまでもお前のパートナーでいてやるぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと勝負してみないか？"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "ん、どうした？何か用か。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけるぞ！"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "いま忙しいのか？"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしくな。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "なんだか匂うな・・・。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "まだまだ走れるぞ！"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーともうまくやっているか？"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってるようだな。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "なんだ？それはどういう意味だ？"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "今日もよろしく頼むぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日は早く目が覚めてしまってな。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなるぞ！"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化を見て驚いたか？"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマー自身も強くなくてはいけないぞ。"
+		},
+		{
+			"voice_type": "1",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "お前のことは信頼しているぞ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "お前を待っているデジモンがいるぞ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹が減ったぞ！おい、早く来るんだ！"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエスト発生中だぞ！"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "偶然、デジモンと出会ったぜ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "他のデジモンと密談してきたぜ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "絡んできたデジモンがいたから遊んでやったぜ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "フハハ！アイテム発見！"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテムを見つけたぞ！山分けするぞ！"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "おい、アイテムがあったぞ！"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おう！アプリを起動してみろよ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はもうやめだ！"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "お前もさっさと休んじまえよ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "今日はもう動けねぇ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを見つけてやるぞ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうだぞ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "いい曇り空だ。そっちはどうだ？"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日の俺は機嫌が悪いから気をつけな。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "ん？俺の迫力にビビったか？"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "黒い歯車ってなんだ？"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "俺をシカトするとは、いい度胸だな。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルの練習台になるか？"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントは知っているんだろうな？"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラル？逆らうなら消すだけだ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "これからもパートナーでいてやってもいいぞ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーとも戦わせろ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "なんかやる気がしないぜ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "おい、冒険に出かけるぞ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "忙しい？生意気だぞ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "明日もよろしく頼むぞ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにあるのか…？"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "俺はまだ暴れ足りない気分だぜ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーをうまく利用してやるんだぞ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "おっ、デジモンバトルか？俺も混ぜろ！"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "危ねぇな…どこに目付けてんだ？"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "おう、今日もよろしく頼むぞ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "たっぷり二度寝してきたぜ。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "俺はまだまだ強くなるぞ！"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってスゲェよな。"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "他のテイマーは全員敵なのか？"
+		},
+		{
+			"voice_type": "10",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "お前のことは認めてやる。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "お前を待っているデジモンがいるぞ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹が減ったぞ！おい、早く来るんだ！"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエスト発生中だぞ！"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "偶然、デジモンと出会ったぜ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "他のデジモンと密談してきたぜ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "絡んできたデジモンがいたから遊んでやったぜ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "フハハ！アイテム発見！"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテムを見つけたぞ！山分けするぞ！"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "おい、アイテムがあったぞ！"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おう！アプリを起動してみろよ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はもうやめだ！"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "お前もさっさと休んじまえよ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "今日はもう動けねぇ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを見つけてやるぞ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうだぞ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "いい曇り空だ。そっちはどうだ？"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日の俺は機嫌が悪いから気をつけな。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "ん？俺の迫力にビビったか？"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "黒い歯車ってなんだ？"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "俺をシカトするとは、いい度胸だな。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルの練習台になるか？"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントは知っているんだろうな？"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラル？逆らうなら消すだけだ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "これからもパートナーでいてやってもいいぞ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーとも戦わせろ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "なんかやる気がしないぜ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "おい、冒険に出かけるぞ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "忙しい？生意気だぞ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "明日もよろしく頼むぞ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにあるのか…？"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "俺はまだ暴れ足りない気分だぜ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーをうまく利用してやるんだぞ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "おっ、デジモンバトルか？俺も混ぜろ！"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "危ねぇな…どこに目付けてんだ？"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "おう、今日もよろしく頼むぞ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "たっぷり二度寝してきたぜ。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "俺はまだまだ強くなるぞ！"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってスゲェよな。"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "他のテイマーは全員敵なのか？"
+		},
+		{
+			"voice_type": "11",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "お前のことは認めてやる。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "あなたのことを待っているデジモンがいるわ。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹がすいたわ…。お願い！早く来て。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "ねぇ、リクエストが発生しているわよ。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり、デジモンと出会っちゃった。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンとたくさんお話してきたわ。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンと仲良くなったわ！"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "あっ！アイテム発見よ！"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテムを見つけたわ！"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "いいものを見つけたわよ！"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう！アプリを起動してみて。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はこれでおしまいよ！"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "あなたもそろそろ休んだら？"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、おつかれさま。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているわ。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうなの。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気よー。そっちはどう？"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日の私はごきげんなのよ！"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どう？私、魅力的かしら？"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街って知ってる？"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "ねぇ、遊びに来てよー。さみしい。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルの練習に付き合ってくれない？"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントは知ってる？"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "どうしてスパイラルは私たちを襲うの…？"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "ずっとあなたのパートナーでいたいわ。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーさんと勝負してみたいわ。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "少しお腹がすいちゃったわ。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけましょう！"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "ごめん、いま忙しかった？"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしくね！"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにありそう。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "私はまだまだ頑張れる！"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーさんと仲良くしてる？"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってるみたいね。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "痛っ！足をぶつけちゃったわ…。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "今日もよろしくね！"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日は早く目が覚めちゃったわ。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたいわ！"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってすごいわよね。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーってみんな優しいわね。"
+		},
+		{
+			"voice_type": "12",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "あなた、なかなか素敵よ。"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "お前のこと待ってるデジモンがいるぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹が減ったぞ…。頼む早く来てくれ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おーい！リクエストがあるぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "偶然、デジモンと出会ったぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンといろいろ話してきたぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "デジモンと意気投合して、再会を約束してきたぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "おっ！アイテム発見だ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテムを見つけたぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "アイテム見っけ！早く見に来い！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "よう、アプリを起動してくれ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はこれで終わりにするぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "お前も今日はもう休め！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "お前も一日よく頑張ったな！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうだぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気だぞ！そっちはどうだ？"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日の俺は機嫌が良いぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "・・・・・・。"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "黒い歯車ってなんだ？"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街を知ってるか？"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "おい、遊びに来い！退屈だぞ。"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "俺のスキルの練習に付き合え！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントは知ってるか？"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルはまとめて俺が倒してやるぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "俺とお前はいつまでもパートナーだ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと勝負させてくれ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "腹が減っては戦ができぬぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "よし、冒険に出かけるぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "お前にはライバルはいるか？"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "明日もよろしく頼むぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにあるぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "安心しろ…俺はまだ動けるぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーとも仲良くするんだぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦っているみたいだな！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "痛っ！足をぶつけたぞ。"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "おう、今日もよろしくな！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "百獣の王？俺のことか？"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "俺はまだまだ強くなるぞ！"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "強そうか？俺もそう思ってるぞ。"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーはみんないいやつだな。"
+		},
+		{
+			"voice_type": "13",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "お前がピンチの時は俺が守ってやる！"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "オマエを待っているデジモンがいるぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "こう見えても腹は減るのだ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエスト発生中だぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "未知のデジモンとの遭遇！"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンと話してきたぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "デジモンと友好を深めてきたぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムを見つけたぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテムの反応あり。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "おい、アイテムがあったぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "さあ、早くアプリを起動するんだ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "本日の探索は終了だ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "オマエはまだ休まないのか？"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "今日はもうエネルギー切れだ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを見つけてやるぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうだぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちの天候は良好だ。そっちはどうだ？"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日もオレ様はいい気分だ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "ピーピーピー…"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "・・・・・・。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "我々のテクノロジーが遥かに進んでいるな。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "いま近寄ると危険だぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "おい、オレ様をいつまで待たせる気だ？"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルのシミュレーション中だ。後にしろ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントは知っているんだろうな？"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラル？逆らうなら消すだけだ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "これからもパートナーでいてやってもいいぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーとも戦わせろ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "なんだかノイズのようなモノを感じるな。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "おい、冒険に出かけるぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "オレ様のスペックどうだ？"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "明日もよろしく頼むぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "ん…？センサーに反応があるな。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "フハハッ！エネルギー満タンだ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーをうまく利用してやるんだぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンバトルが起きているな。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "今度ゆっくりオマエの情報を共有してもらおう。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "おう、今日もよろしく頼むぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "たっぷり二度寝してきたぜ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "オレ様はまだまだ強くなれるぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化はいいぞ。"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "他のテイマーは全員敵なのか？"
+		},
+		{
+			"voice_type": "14",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "オマエのことは認めてやる。"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "デジモンがオマエを待ってるぞ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹が減ったー！おい、早く来てくれ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエスト発生中だぞ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "偶然、デジモンと出会ったぜ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "他のデジモンと話してきたぜ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "知らないデジモンがいたからイタズラしてやったぜ。"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "やった！アイテム発見！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテムを見つけたぞー！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "おい、アイテムがあったぞ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おう！アプリを起動してみろよ。"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はもう終わりだ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "オマエもさっさと休んじゃえー。"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "今日はもう疲れたー！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探してるぞ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが見つかりそうだぞ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "いい曇り空だ。そっちはどうだ？"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日のオレは機嫌が悪いぞ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "ん？オレが怖いのか？"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街？なんだそれ。"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "退屈だぞ。どうにかしろ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルの練習台にしちゃうぞ。"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントってなんだ？"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラル？ジャマするなら倒す！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "オレはこれからもお前のパートナーか？"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーとも戦わせろー！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "なんかやる気がしないぜ。"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "おい、冒険に出かけるぞー！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "忙しい？生意気だなー。"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "明日もよろしくな！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "どうした？何かあったか？"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "オレはまだまだ元気だぞ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーと仲良くしてるか？"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "おっ、デジモンバトルだ！オレも混ぜろー！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "わっ！おどろいたか？"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "おう、今日もよろしくな！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "たっぷり二度寝しちゃったぞ。"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "オレはまだまだ強くなるぞ！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってスゴイな！"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "他のテイマーに悪いヤツはいるか？"
+		},
+		{
+			"voice_type": "15",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "オマエのことは嫌いじゃないぞ。"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "デジモンがキミに会いたいって言ってるよ～。"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "早くきてよー。お腹すいた～！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエストがあるよ～！会いに来てー。"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり！デジモンと会っちゃった！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンといっぱいおしゃべりしたんだー！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "デジモンとなかよしになったよ！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテム見つけちゃった！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "みてみて～！アイテム発見！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "やったー！いいものみっけ！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよー！アプリを起動してみて！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日はもうおしまい！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "キミもそろそろ休んだら～？"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日おつかれさま！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探してるよ～！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが見つかりそうだよ～！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "ポカポカいい天気！そっちはどう？"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日のボクはごきげんだよ！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "進化～！なんちゃって。"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街って知ってる？"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "まだかな～、さみしいな～。"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "えいっ！スキルの練習だ！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントってなぁに？"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "どうしてスパイラルはまねっこするの？"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "ずっとキミのパートナーでいたいな～。"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーさんと勝負しよう！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "おなかへっちゃったよ～。"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけようよ！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "ボクはどんな進化すると思う？"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう！明日もよろしくね。"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにあるかも！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "うぅ～、おなかいっぱい・・・"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーさんと友だちになった？"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってる！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "イテテ…よそ見して転んじゃった。"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "やぁ、今日もよろしく！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日は早起きしちゃった！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたい！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "もっと進化したい！"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーってみんないい人？"
+		},
+		{
+			"voice_type": "16",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "キミはとってもやさしいね！"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "君のことを待っているデジモンがいるよ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹がすいたなー。早く来てほしいな。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエストがありますよ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったりデジモンと出会ったよ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンといろいろ話してきたんだ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンと仲良くなったよ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "見て！アイテムを見つけたんだ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "珍しい形の石と思ったらアイテムだったよ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "アイテム発見。これ、どうかな？"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "ねえ、アプリを起動してみて。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はこれでおしまい。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "君も今日はもう休む？"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、おつかれさまでした。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているよ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうだよ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気。そっちはどうかな？"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日は機嫌が良いぞ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "進化ってすごいよね。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街って知ってる？"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "・・・あっ！ごめん、ちょっと考えごと。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "ねぇねぇ、僕のスキル見てみて。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "じゃんけん！グー！"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "どうしてスパイラルは僕たちを襲うんだろう？"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "君と僕は固い絆で結ばれているよ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと勝負してみたいんだ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "石の上にも三年だよ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "僕と冒険に出かけようよ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "いま大丈夫？忙しいのかな。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしくな。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにありそう…。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "転がったほうが速いかな？"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーと仲良くしている？"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってるみたい。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "そんな堅いことを言わずにさ～。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "やぁ、今日もよろしく。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "早起きしたから良いことあるかな？"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "僕はもっと強くなるんだ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "丈夫さには自信があるんだ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーも頑丈さがなきゃダメだよ。"
+		},
+		{
+			"voice_type": "17",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "君のことは信頼しているよ。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "デジモンがお前のことを待っているぞ！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹がすいた…。まだ来ないのか？"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おい！リクエストしているヤツがいるぞ！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "偶然、デジモンと出会ったぞ。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンと少し話してきたぞ。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンと情報交換してきたぞ。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムを発見したぞ！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテムを見つけたから、見に来い！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "玉虫色に光る…これはアイテムだ！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "よう！アプリを起動してみてくれ。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はもう終わりにするぞ。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "お前も今日はもう休んだらどうだ？"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、ごくろうさん。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているぞ。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが見つかりそうだ！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気だ。そっちはどうだ？"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日はなんだか気分が良いぞ。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "・・・・・・。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どうだ？俺、強そうだろ？"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街って知ってるか？"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "あ～、退屈だぜ…。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "おい、スキルの練習に付き合ってくれ！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "暑いのと寒いのどっちが好きだ？"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルがそのつもりなら戦わないとならない…！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "俺はずっとお前のパートナーだよな？"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと力試ししてみたい…！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "ん？なんだ虫の知らせか…？"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "なあ、冒険に出かけようぜ！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "お、悪い。いま忙しかったか？"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしくな！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにありそうな気配がするぞ。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "俺はまだまだ余裕だ。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーとも仲良くやってるか？"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってるようだな。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "どうした？元気か？"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "今日も一日よろしくな。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "美味そうな花の蜜の匂いがするぞ。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "俺はもっともっと強くなる！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってすごいよな！"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーはいいヤツが多いんだな。"
+		},
+		{
+			"voice_type": "18",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "お前のことは信頼しているぞ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "お前のこと待ってるデジモンがいるぞ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹が減ったな…。頼む早く来てくれ！"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おーい！リクエストがあるぞ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "偶然、デジモンと出会ったんだ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンといろいろ話してきたぞ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンと仲良くなったぞ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "おっ！アイテム発見だ！"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテムを見つけたぞ！"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "アイテム見っけ！どうだこれ？"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう！アプリを起動してくれ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はこれでおしまいだ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "お前もそろそろ休む時間か？"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、おつかれさん。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているぞ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうだぞ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気だ。そっちはどうだ？"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日の俺は機嫌が良いんだ！"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どうだ？俺、強そうに見えるか？"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街を知ってるか？"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "おい、遊びに来ないか。退屈なんだ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルの練習に付き合ってくれないか？"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントは知ってるよな？"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "どうしてスパイラルは俺たちを襲うのか…？"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "俺とお前はいつまでもパートナーだ！"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと勝負させてくれないか？"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "少し腹が減ってきたな。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "よし、冒険に出かけよう！"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "いま忙しかったか？"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしく！"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにありそうだ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "俺はまだまだ元気だ！"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーと仲良くしているか？"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってるみたいだな。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "痛っ！足をぶつけてしまった。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "おう、今日もよろしくな！"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日は早起きしたんだ。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたいんだ！"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってすごいな！"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーはみんないいやつだな。"
+		},
+		{
+			"voice_type": "19",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "お前には感謝しているぞ。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "アナタを待っているデジモンがイマス"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "こう見えてもお腹がすくのデスヨ"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエスト発生中デス！"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "未知のデジモンとの遭遇！"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンとお話してきマシタ"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "デジモンと友好を深めマシタ"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムを見つけマシタ！"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテム探索結果をご確認クダサイ。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "アイテム発見をお知らせシマス"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "オハヨウゴザイマス。アプリを起動してクダサイ。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "本日の探索は終了しマシタ"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "アナタもリフレッシュの時間デハ？"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "今日はもうエネルギー切れデス・・・"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテム探索中デス…。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "近くにアイテムの反応アリ！"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "コチラの天候は良好デス。そちらはどうデスカ？"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日のワタクシはイイ感じでありマス。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "ピーピーピー…"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "アナタの世界のテクノロジーにも興味がありマス。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "キケンですので、少し離れててクダサイ。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "マダでしょうか、待ちくたびれておりマス・・・。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルのシミュレーション中デス。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントはわかりマスカ？"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラル…ワタクシのデータベースにも情報がありマセン。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "ワタクシはいつまでもアナタのパートナーデス。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと実力をテストしてみまセンカ？"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "なんだかノイズのようなモノを感じマス。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけまショウ！"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "ワタクシのスペックはまだアップするでしょうか？"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "明日もよろしくお願いシマス。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "ムムッ…センサーに反応がありマスヨ。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "フフッ…エネルギー満タンでありマス。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "たくさんのテイマーさんと友好的な関係を結びまショウ。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "オヤ…どこかでデジモンどうしがバトルしているようデスネ。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "今度ゆっくりアナタの情報を共有させてもらいたいモノデス。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "ハロー、今日もヨロシクお願いシマス。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日はいつもより高速に起動したのデスヨ。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "ワタクシのさらなる性能アップを望んでおりマス。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "バージョンアップ…いや、進化は素晴らしいモノデス。"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "アナタ以外のテイマーも皆さん友好的なのデショウカ？"
+		},
+		{
+			"voice_type": "2",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "ワタクシとアナタの関係は良好と言えるデショウ。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "デジモンがお前のこと待ってるぞー。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹が減った！頼む早く来てくれー！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おーい！リクエストがあるぞー。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり、デジモンと出会ったんだ。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンといろいろ話してきたぞ。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンと仲良くなった！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "おおっ！アイテム発見！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテムを見つけたぞー！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "アイテム見っけ！どうだこれ？"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう！アプリを起動してみよう。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はこれで終わり。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "お前もそろそろ休む時間？"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、おつかれさん。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているぞ。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうだぞ。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気だなー。そっちはどうだ？"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日の俺は機嫌が良いぞ！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どう？俺、強そうに見える？"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街を知ってるか？"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "なあ、遊びに来てくれよー。さみしいぞ。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルの練習に付き合ってくれないか？"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントは知ってるよな？"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "どうしてスパイラルは俺たちを襲うんだ…？"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "俺はずっとお前のパートナーだからな！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと勝負してみたい！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "少し腹が減ってきたなー。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけよう！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "いま忙しいのか？"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしくな！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにありそうだ。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "俺はまだまだ動けるぞ！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーと仲良くしているか？"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってるみたいだな。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "思いっきり吠えるとスカッとするぞ！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "やぁ、今日もよろしくな！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日は早起きしたんだぜ。"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたいぞ！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってすごいよな！"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーってみんないいやつか？"
+		},
+		{
+			"voice_type": "20",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "お前はほんと優しいよな！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "あなたのことを待っているデジモンがいるわ。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹がすいたわ…。お願い！早く来て。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "ねぇ、リクエストが発生しているわよ。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり、デジモンと出会っちゃった。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンとたくさんお話してきたわ。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンと仲良くなったわ！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "あっ！アイテム発見よ！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテムを見つけたわ！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "いいものを見つけたわよ！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう！アプリを起動してみて。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はこれでおしまいよ！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "あなたもそろそろ休んだら？"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、おつかれさま。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているわ。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうなの。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気よー。そっちはどう？"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日の私はごきげんなのよ！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どう？私、カワイイ？"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街って知ってる？"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "ねぇ、遊びに来てよー。さみしい。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルの練習に付き合ってくれない？"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントは知ってる？"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "どうしてスパイラルは私たちを襲うの…？"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "ずっとあなたのパートナーでいたいわ。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーさんと勝負してみたいわ。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "少しお腹がすいちゃったわ。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけましょう！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "ごめん、いま忙しかった？"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしくね！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにありそう。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "私はまだまだ頑張れる！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーさんと仲良くしてる？"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってるみたいね。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "ねぇねぇ、あなたの話、聞かせて！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "今日もよろしくね！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日は早く目が覚めちゃったわ。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたいわ！"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってすごいわよね。"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーってみんな優しいの？"
+		},
+		{
+			"voice_type": "21",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "あなたって優しいのね。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "キミを待ってるデジモンがいるよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹ペコペコ～！早くきてね。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエストがあるよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり！デジモンと出会ったよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンとおしゃべりしてきたよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "デジモンとなかよしになったよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテム発見～！見にきてね。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "ムムッ～！アイテム発見！"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "川の底でアイテム見つけたよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう！アプリを起動してみてよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はおしまいだよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "キミもそろそろ休んだら～？"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、おつかれさまです～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうだよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気だよ。そっちはどう～？"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日のボクはいい感じだよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どう？みずみずしいでしょ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街って知ってる～？"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "まだかな～、さみしいよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "えいっ！スキルの練習だよ～！"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントってなに～？"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルはデジモンがきらい？"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "ずっとあなたのパートナーでいたいよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーさんと勝負したいよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "おなかペコペコだよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "ボクと冒険に出かけようよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "いま忙しい～？"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう！明日もよろしく～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにあるかもよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "ふぁ～、ちょっと眠たいよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーさんと仲良くしてる～？"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしがバトルしているよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "水のかけあいっこする～？"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "やぁ、今日もよろしく～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "泳ぎならキミに絶対勝てるよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたいよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "水の中は気持ちいいよ～。"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーさんってみんないい人～？"
+		},
+		{
+			"voice_type": "22",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "あなたはとても優しいですよ～。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "デジモンたちがお主のことを待っておる。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹を空かしている者がおる。来てやってくれ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエストをしている者がおるぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "デジモンとの偶然の出会い。一期一会。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンにお主の話をしてきたぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンと意見を交わしてきたぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムを見つけたぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテム発見。ぜひ見に来てくれ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "川の底からアイテムを拾ったぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう。アプリを起動してみるのだ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索は終了だ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "お主も今日は休んではどうだ？"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、ごくろうであった。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しておる。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにあるようだぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こちらは良い天気だ。そちらはどうだ？"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日も良い一日にしよう。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "・・・・・・。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "ほう…お主にもわかるのか。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街を知っているかな？"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "・・・。退屈ではない。集中していたのだ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "私のスキルの練習に付き合ってくれるかな？"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "そんなに焦るでない。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルとはいずれ決着を付けなければならぬ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "私はいつまでもお主のパートナーであるぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーともお手合わせ願いたい。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "水の濁りを感じるぞ…。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "お主、冒険に出かけるぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "たまには家族水入らずの時間も良いぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしく頼むぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにありそうな気配がするぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "私はまだまだ余裕であるぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーとも仲良くやっておるか？"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦っておるようだ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "せせらぎの音を聴いていると落ち着くぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "今日も一日よろしく頼むぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "まさしく水を得たなんとか…であるな。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "私はまだまだ止まらぬぞ。"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化とはとても神秘的と思わぬか？"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "他のテイマーも皆、優しい者ばかりか？"
+		},
+		{
+			"voice_type": "23",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "お主と出会えて私は感謝しておるぞ。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "あなたを待ってるデジモンがいるです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹ペコペコ～！早くきて～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエストがあるのです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり！デジモンと出会ったです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンとおしゃべりしてきたよ。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "デジモンとなかよしになったです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテム見つけたです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "おやおや～！アイテム発見！"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "きれいな花といっしょに何か見つけたよ。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう！アプリを起動してみるです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はおしまいです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "あなたもそろそろ休んだら～？"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、おつかれさまです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが見つかりそうです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気だよ。そっちはどうです～？"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日の私はいい感じです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "あなたは花粉症？"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街って知ってる？"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "まだかな～、さみしいです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "えいっ！スキルの練習です～！"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントって何です～？"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルはデジモンがきらい？"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "ずっとあなたのパートナーでいたいです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーさんと勝負しましょう！"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "おなかペコペコです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけましょう！"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "いま忙しいです～？"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう！明日もよろしくです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにあるかもです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "ふぁ～、すこし眠たいです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーさんと仲良くしてます？"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしがバトルしているです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "小さなことからコツコツとです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "はーい、今日もよろしくです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "いい匂い…花の蜜の香りかな？"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたいです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "陽の光を浴びるのはいいことです～。"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーさんってみんないい人です～？"
+		},
+		{
+			"voice_type": "24",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "あなたはとても良い人です～。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "デジモンたちがキミのことを待ってるよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹が空いてきたんだ。待ってるよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエストがあるからデジタウンへおいでよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "さっき会ったデジモンをキミに紹介するよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンと楽しくお話してきたよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "偶然、会ったデジモンと仲良くなったよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムを見つけたからキミにあげるよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテム発見！見においでよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "上空から光るものが見えましたがアイテムだったよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう。アプリを起動してみよう。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はおしまいにしよう。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "キミもそろそろ休まないかい？"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "今日も一日、よく頑張ったね。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが見つかりそうだよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "いい天気、きれいな青空だ。そちらはどうだい？"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日はいい気分で過ごせそう。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "・・・・・・。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "キミといっしょに空を飛んでみたいよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街を知っているかい？"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "退屈してたよ、遊びにおいでよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "これからスキルの練習をするんだ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "翼がカッコイイ？ありがとう。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルなんて吹き飛ばしてやるよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "キミと私はいいパートナーだと思うよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと勝負してみたいんだ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "大空のように広い心を持とう。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "私と冒険に出かけよう。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "フフ、それくらいひとっ飛びだよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしくね。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "近くにデジタルポイントがありそうだね。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "私はまだまだ飛び足りないね。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーとも協力しよう。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモン同士が戦っているようだ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "思いっきり羽根を伸ばすと気持ちがいいよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "やぁ、今日もよろしくね。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "三歩歩いたら忘れる？そんなことないよ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "私はまだまだ強くなりたいんだ。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化って神秘的だよね。"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "他のテイマーもみんな優しいかい？"
+		},
+		{
+			"voice_type": "25",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "キミのことは信頼しているよ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "デジモンがおまえのこと待っている。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹が減った…。早く来てくれ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おい、リクエストしているデジモンがいるぞ…。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "デジモンにばったり出会ったぞ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンと少し話してきた。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンがいいやつだった。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "おっ…、アイテム見つけたぞ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "見てみろ、アイテム発見だ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "アイテムだ…、どうだこれ？"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう。アプリを起動してくれ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はもう終わりだ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "おまえもそろそろ休むか？"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、ご苦労さん。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているぞ…。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうだぞ…。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気だ。そっちはどうだ？"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日のオレは機嫌が良い…。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "・・・・・・。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "オレが怖いのか？"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街を知ってるか？"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "たまにはオレと遊ぶか？"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "おい、スキルの練習を始めるぞ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントって知ってるか？"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラル…、気に入らないやつだ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "オレはこれからもおまえのパートナーか？"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと勝負するぞ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "少し腹が減ってきたな…。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "おい、冒険に出かけるぞ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "いま忙しいのか？"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしくな。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "おまえはキャンプは好きか？"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "俺はまだまだ戦えるぞ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーと仲良くしているか？"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってるみたいだな。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "今度ゆっくりおまえの話を聞かせてくれ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "おう、今日もよろしく頼む。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "たまには早起きするのもいいな。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "オレはもっともっと強くなるぞ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化はいいぞ。"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーはみんないいヤツか？"
+		},
+		{
+			"voice_type": "26",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "おまえはいいヤツだな。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "デジモンがおまえのこと待っている。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹が減った…。早く来てくれ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おい、リクエストしているデジモンがいるぞ…。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "デジモンにばったり出会ったぞ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンと少し話してきた。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンがいいやつだった。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "おっ…、アイテム見つけたぞ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "見てみろ、アイテム発見だ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "アイテムだ…、どうだこれ？"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう。アプリを起動してくれ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はもう終わりだ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "おまえもそろそろ休むか？"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、ご苦労さん。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているぞ…。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうだぞ…。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気だ。そっちはどうだ？"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日のオレは機嫌が良い…。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "・・・・・・。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "オレが怖いのか？"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街を知ってるか？"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "たまにはオレと遊ぶか？"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "おい、スキルの練習を始めるぞ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントって知ってるか？"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラル…、気に入らないやつだ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "オレはこれからもおまえのパートナーか？"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと勝負するぞ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "少し腹が減ってきたな…。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "おい、冒険に出かけるぞ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "いま忙しいのか？"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしくな。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "おまえはキャンプは好きか？"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "俺はまだまだ戦えるぞ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーと仲良くしているか？"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってるみたいだな。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "今度ゆっくりおまえの話を聞かせてくれ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "おう、今日もよろしく頼む。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "たまには早起きするのもいいな。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "オレはもっともっと強くなるぞ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化はいいぞ。"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーはみんないいヤツか？"
+		},
+		{
+			"voice_type": "27",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "おまえはいいヤツだな。"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "キミのことをまってるデジモンがいるよ！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "おなかすいた～！はやくきてよ！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おーい！リクエストがあるよー！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり！デジモンとであったよ！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンとおしゃべりしてきたんだー！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "ともだちがふえたよ！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムみつけたよ！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "みてみて～！アイテムはっけん！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "いいものみっけ！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう！アプリをきどうしてみて！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "きょうのたんさくはおしまい！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "キミもそろそろやすむじかん？"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "いちにちおつかれさま！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムをさがしてるよ！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムがみつかりそうだよ！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいいてんきだよ！そっちはどう？"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "きょうのボクはごきげんだよ！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "しんか～！なんちゃって。"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりのまちってしってる？"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "まだかな～、さみしいな～。"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "えいっ！スキルのれんしゅうだ！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントってなぁに？"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルはデジモンがきらい？"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "ずっとキミのパートナーでいたい！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "ほかのテイマーさんとしょうぶしよう！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "おなかへっちゃったよ～。"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "ぼうけんにでかけようよ！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "ボクはどんなしんかするとおもう？"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう！あしたもよろしくね。"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントがちかくにあるかも！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "うぅ～、おなかいっぱい・・・"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "ほかのテイマーさんとなかよくね？"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしがたたかってる！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "イテテ…よそみしてころんじゃった。"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "やぁ、きょうもよろしく！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "きょうははやおきしちゃった！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっとつよくなりたい！"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "しんかってどんなかんじなのかな？"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーっていいひとたちなの？"
+		},
+		{
+			"voice_type": "28",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "キミはとってもやさしいね"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "デジモンが君のことを待っているよ！"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹がすいた…。早く来てほしいよ。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おーい！リクエストがあるよ！"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "偶然、デジモンと出会ったよ。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンといろいろお話してきたよ。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンと仲良くなったよ。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムを発見したよ。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテムを見つけたから、見に来て！"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "いいものを見つけたよ。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう！アプリを起動してみよう。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索は終わりにしようかな。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "今日は君も休む時間かな？"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日おつかれさま！"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探してるよ。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが見つかりそうだよ。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こちらはいい天気だ。そちらはどうかな？"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日は機嫌が良いんだー。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どう？強そうに見えるかな？"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街って知ってるかい？"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "うーん、退屈だな～。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "いまスキルの練習中！"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントってわかる？"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルとは戦わないといけないのかな。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "いつまでも君のパートナーだよ。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーさんと勝負してみよう！"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "・・・あっ、ちょっと考え事をしていたんだ。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけようよ！"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "いま忙しい？"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう！明日もよろしく。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにありそう。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "まだまだ元気だよ！"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーさんと仲良くしてる？"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってるみたいだ。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "ん？顔に何かついている？"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "やぁ、今日もよろしくね。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日は早く目が覚めちゃったよ。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなるんだ！"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってすごいことだよね。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーは優しい人が多いんだね。"
+		},
+		{
+			"voice_type": "29",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "君のことはもちろん信頼しているよ。"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "デジモンがキミのことを待っているっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "キミの助けを必要としてる者がいるのさっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おーい！リクエストがあるぞっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり！デジモンと遭遇だっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンと楽しくお話してきたぞっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンと私が握手っ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテム見つけたっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "見たまえっ、アイテム発見だっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "これはいいものを見つけたぞっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう！さあ、アプリを起動だっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索は終了だっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "キミも少しは休みたまえ。"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、ごくろうさんだったね。"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しているぞっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうだぞっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "素晴らしい快晴だ。そっちはどうかな？"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日も私が大活躍してしまうな。"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "・・・失礼！少し眠気が。"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "ハッハッハッハッ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "進化～！トォッ！・・・ジョークだ。"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "ここは危険だ！離れていたまえっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "遅かったではないか。待っていたぞっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "ハァッ！スキルの練習だっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "ああ、私は頼もしいだろう。"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルは私が倒そうっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "キミと私は永遠にパートナーである。"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと力比べがしてみたいぞ。"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "この程度で落ち込む私ではないのだっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけようじゃないかっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "すまない、忙しかったかな？"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう！また明日会おう！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "私を呼ぶ声が聴こえるぞっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "あぶないっ！伏せろっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーとも仲良くするんだぞ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦っているなっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "ムムッ…私の行く手を阻むものがっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "やあっ！今日もよろしく！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "規則正しい生活を送っているかな？"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "私はまだまだ強くなるぞっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "変身ではない進化であるっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "私は善良なテイマーたちの味方でもあるっ！"
+		},
+		{
+			"voice_type": "3",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "キミが困っている時は私が助けよう。"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "君のことを待ってるデジモンがいるよ！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹すいた～！早くきてよ！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おーい！リクエストがあるよー！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり！デジモンと出会ったよ！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンとおしゃべりしてきたんだー！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "ともだちがふえたよ！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムを見つけたよ！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "みてみて～！アイテム発見！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "いいものみっけ！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "キミもそろそろ休む時間？"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "一日おつかれさま！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "アイテムを探しているよ！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "アイテムが見つかりそう！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "おはよう！アプリを起動してみて！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "今日の探索はおしまい！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気だよ！そっちはどう？"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日のボクはごきげんだよ！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz......"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "進化～！なんちゃって。"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街ってしってる？"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "まだかな～、さみしいな～"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "えいっ！スキルの練習だ！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントってなぁに？"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルはデジモンがきらい？"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "ずっとキミのパートナーでいたいな"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーさんと勝負しよう！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "おなかへっちゃったよ～"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけようよ！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "ボクはどんな進化すると思う？"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう！明日もよろしくね"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにあるかも！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "うぅ～、おなかいっぱい・・・"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーさんと仲良くね？"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモン同士が戦ってる！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "イテテ…よそ見して転んじゃった。"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "やぁ、今日もよろしく"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日は早起きしちゃった！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたい！"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってどんな感じなのかな？"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーっていい人たちなの？"
+		},
+		{
+			"voice_type": "30",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "キミはとってもやさしいね"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "君のことを待ってるデジモンがいるよ！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹すいた～！早くきてよ！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おーい！リクエストがあるよー！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり！デジモンと出会ったよ！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンとおしゃべりしてきたんだー！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "ともだちがふえたよ！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムを見つけたよ！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "みてみて～！アイテム発見！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "いいものみっけ！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "キミもそろそろ休む時間？"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "一日おつかれさま！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "アイテムを探しているよ！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "アイテムが見つかりそう！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "おはよう！アプリを起動してみて！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "今日の探索はおしまい！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気だよ！そっちはどう？"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日のボクはごきげんだよ！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz......"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "進化～！なんちゃって。"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街ってしってる？"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "まだかな～、さみしいな～"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "えいっ！スキルの練習だ！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントってなぁに？"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルはデジモンがきらい？"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "ずっとキミのパートナーでいたいな"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーさんと勝負しよう！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "おなかへっちゃったよ～"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけようよ！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "ボクはどんな進化すると思う？"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう！明日もよろしくね"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにあるかも！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "うぅ～、おなかいっぱい・・・"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーさんと仲良くね？"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモン同士が戦ってる！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "イテテ…よそ見して転んじゃった。"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "やぁ、今日もよろしく"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日は早起きしちゃった！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたい！"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってどんな感じなのかな？"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーっていい人たちなの？"
+		},
+		{
+			"voice_type": "31",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "キミはとってもやさしいね"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "あんさんを待ってるデジモンがおるんや。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹減って死にそうや～……。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエストがあるみたいでっせ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったりデジモンと出会ったんですわ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "よそのデジモンはんとおしゃべりしてきたんや。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "友達が増えるっちゅうのは嬉しいもんですわ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムがありまっせ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "見てくだはれ！アイテムでっせ！"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "なんやコレ？アイテムでっか？"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはようさん。アプリを起動してくだはれ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "ほな、今日のところは探索終了ですわ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "そろそろ休んだらどないでっしゃろ？"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "今日も一日、おつかれさんです。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探してるんや。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "近くにアイテムがありそうでっせ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちは気持ちのいい天気でっせ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日のわては絶好調や！"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どや？わて、強そうでっしゃろ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "そろそろ疲れてきたんとちゃいまっか？"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "ちょっと休みまひょ。わて、バテましたがな。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルの練習に付き合ってもらえまっか？"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイント……なんや不思議な感じですわ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルには気を付けなはれ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "わてらはずっと友達でっせ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーはんと勝負してみまへんか？"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "なんや、考え事でっか？"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に行きまへんか？"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "思う存分泣きなはれ、甘えなはれ～。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "今日も一日ありがとさんです。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにあるみたいですわ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "まだまだ元気いっぱいでっせ！"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "テイマーの友達いっぱい作りなはれ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってる気配がしまんな。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "わての顔、そんなにおもろいでっか？"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "今日もよろしゅうたのんます。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "早起きは三文の徳っちゅうことですわ。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "わての強いところ、もっと見せまっせ！"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "プログラムを使って進化できませんやろか？"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーはみなはん優しい人たちばかりでんな。"
+		},
+		{
+			"voice_type": "32",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "あんさんの知りたがる心、わては好きでっせ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "あんさんを待ってるデジモンがおるんや。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹減って死にそうや～……。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエストがあるみたいでっせ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったりデジモンと出会ったんですわ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "よそのデジモンはんとおしゃべりしてきたんや。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "友達が増えるっちゅうのは嬉しいもんですわ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムがありまっせ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "見てくだはれ！アイテムでっせ！"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "なんやコレ？アイテムでっか？"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはようさん。アプリを起動してくだはれ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "ほな、今日のところは探索終了ですわ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "そろそろ休んだらどないでっしゃろ？"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "今日も一日、おつかれさんです。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探してるんや。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "近くにアイテムがありそうでっせ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちは気持ちのいい天気でっせ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日のわては絶好調や！"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どや？わて、強そうでっしゃろ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "そろそろ疲れてきたんとちゃいまっか？"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "ちょっと休みまひょ。わて、バテましたがな。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルの練習に付き合ってもらえまっか？"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイント……なんや不思議な感じですわ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルには気を付けなはれ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "わてらはずっと友達でっせ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーはんと勝負してみまへんか？"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "なんや、考え事でっか？"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に行きまへんか？"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "思う存分泣きなはれ、甘えなはれ～。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "今日も一日ありがとさんです。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにあるみたいですわ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "まだまだ元気いっぱいでっせ！"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "テイマーの友達いっぱい作りなはれ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってる気配がしまんな。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "わての顔、そんなにおもろいでっか？"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "今日もよろしゅうたのんます。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "早起きは三文の徳っちゅうことですわ。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "わての強いところ、もっと見せまっせ！"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "プログラムを使って進化できませんやろか？"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーはみなはん優しい人たちばかりでんな。"
+		},
+		{
+			"voice_type": "33",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "あんさんの知りたがる心、わては好きでっせ。"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "キミのことを待ってるデジモンがいるよ！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹すいた～！早くきてよ！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おーい！リクエストがあるよー！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり！デジモンと出会ったよ！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンとおしゃべりしてきたんだー！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "ともだちがふえたよ！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテム見つけたよ！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "みてみて～！アイテム発見！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "いいものみっけ！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう！アプリを起動してみて！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はおしまい！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "キミもそろそろ休む時間？"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日おつかれさま！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテム探してるよー！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにありそうだよー！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気だよ！そっちはどう？"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日のボクはごきげんだよ！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "進化～！なんちゃって。"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街って知ってる？"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "まだかな～、さみしいな～。"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "えいっ！スキルの練習だ！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントってなぁに？"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルはデジモンがきらい？"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "ずっとキミのパートナーでいたい！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーさんと勝負しよう！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "おなかへっちゃったよ～。"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけようよ！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "ボクはどんな進化すると思う？"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう！明日もよろしくね。"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "キミはキャンプって好き？"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "うぅ～、おなかいっぱい・・・"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーさんと仲良くね？"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってる！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "イテテ…よそ見して転んじゃった。"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "やぁ、今日もよろしく！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日は早起きしちゃった！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたい！"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってどんな感じなのかな？"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーっていい人たちなの？"
+		},
+		{
+			"voice_type": "4",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "キミはとってもやさしいね"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "君のことを待っているデジモンがいます。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹がすきましたね。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエストがあるので来てください。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "偶然、デジモンと出会いました。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンと楽しくお話してきました。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "デジモンと交流してきましたよ。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムを見つけました。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "見てください。アイテム発見です。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "いいものを見つけましたよ。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはようございます。アプリを起動しましょう。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索は終わりにします。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "君もそろそろ休んではどうでしょうか？"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、おつかれさまでした。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しています。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが見つかりそうです。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こちらは良い天気です。そちらはどうですか？"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日は良い気分です。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "・・・失礼。少し眠気が。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "・・・・・・。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どうですか？この身のこなし！"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街は知っていますか？"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "あまり放っておかれると困ります。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "ハァッ！スキルの練習中です！"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "立派ですか？ありがとうございます。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルは倒さなければなりません。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "君が望むならいつまでもパートナーでいましょう。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと手合わせしたいです。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "適度に休憩を取りましょう。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけましょう。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "日々、腕を磨かないと錆びてしまいます。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしくお願いします。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "何やら怪しい気配を感じます。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "何奴！・・・失礼。気のせいでした。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーとも力を合わせていますか？"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモン同士が戦っているようです。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "急に飛び出すと危ないですよ。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "どうも。今日もよろしくお願いします。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "規則正しい生活が良いですよ。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたいです。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化は素晴らしいものです。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーの皆さんは心優しいですね。"
+		},
+		{
+			"voice_type": "5",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "君には敬意を持っております。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "君のことを待っているデジモンがいます。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹がすきましたね。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "リクエストがあるので来てください。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "偶然、デジモンと出会いました。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンと楽しくお話してきました。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "デジモンと交流してきましたよ。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムを見つけました。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "見てください。アイテム発見です。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "いいものを見つけましたよ。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはようございます。アプリを起動しましょう。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索は終わりにします。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "君もそろそろ休んではどうでしょうか？"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、おつかれさまでした。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探しています。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが見つかりそうです。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こちらは良い天気です。そちらはどうですか？"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日は良い気分です。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "・・・失礼。少し眠気が。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "・・・・・・。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どうですか？この身のこなし！"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街は知っていますか？"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "あまり放っておかれると困ります。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "ハァッ！スキルの練習中です！"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "立派ですか？ありがとうございます。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルは倒さなければなりません。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "君が望むならいつまでもパートナーでいましょう。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと手合わせしたいです。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "適度に休憩を取りましょう。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけましょう。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "日々、腕を磨かないと錆びてしまいます。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしくお願いします。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "何やら怪しい気配を感じます。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "何奴！・・・失礼。気のせいでした。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーとも力を合わせていますか？"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモン同士が戦っているようです。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "急に飛び出すと危ないですよ。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "どうも。今日もよろしくお願いします。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "規則正しい生活が良いですよ。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたいです。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化は素晴らしいものです。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーの皆さんは心優しいですね。"
+		},
+		{
+			"voice_type": "6",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "君には敬意を持っております。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "オマエを待ってるデジモンがいるっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹へりましたわ～。早く来るっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おーい！リクエストがあるっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり会ったデジモンにクサいって言われたっス…。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンとおしゃべりしてきたっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "そこで会ったデジモンとクサい中になったっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテム見つけたっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "見るっス！アイテム発見っス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "これは…黄金に輝くアイテムっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはようっス！アプリを起動するっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はもう終わりっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "オマエも今日はもう寝るっスか？"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "今日も一日おつかれさまっス。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテム探してるっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが近くにあるっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "どんよりした天気で気持ちがいいっスねぇ。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日もオラはいい感じっスよ～。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "鼻をつまんでどうしたっス？"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "オマエ、具合でも悪いっスか？"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "かまってくれないと、さみしいっス。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "やめるっス！除菌しないでくれっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "全然汚くないっス。慣れれば問題ないっスよ～。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "スパイラルも嫌われ者っスか？"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "オラとオマエはこれからもクサれ縁っスよ～。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーさん勝負したいっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "おなかへっちゃったっスよ～。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "オラと冒険に出かけるっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "オラ、もっとみんなに好かれたいっス…。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "サンキューっス！明日もよろしくっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "何だか匂うっスよ…。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "ブッ！おなかいっぱいっス。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーさんと仲良くしてるっスか？"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってるっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "みんな近寄ってくれないっス…。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "オッス、今日もよろしくっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日は少し寝坊しちゃったっス。いつものことっス。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっとクサくなるっス！"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化って感動するっスねぇ～。"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "他のテイマーはオラを嫌わないっスかね…？"
+		},
+		{
+			"voice_type": "7",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "オラがイヤじゃないっスか？"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "デジモンがお前のこと待ってるぞー。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "腹が減ったな…。頼む早く来てくれ！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "おーい！リクエストがあるぞー。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "ばったり、デジモンと出会ったんだ。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンといろいろ話してきたぞ。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "出会ったデジモンと仲良くなった！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "おおっ！アイテム発見！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "アイテムを見つけたぞー！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "アイテム見っけ！どうだこれ？"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはよう！アプリを起動してみよう。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索はこれで終わり。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "お前もそろそろ休む時間？"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、おつかれさん。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探してるぞー！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテムが見つかりそうだぞー！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こっちはいい天気だなー。そっちはどうだ？"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日の俺は機嫌が良いぞ！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "Zzzz……"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "♪♪～"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "どう？俺、強そうに見える？"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街を知ってるか？"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "なあ、遊びに来てくれよー。さみしいぞ。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "スキルの練習に付き合ってくれないか？"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "デジタルポイントは知ってるよな？"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "どうしてスパイラルは俺たちを襲うんだ…？"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "俺はずっとお前のパートナーだからな！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーと勝負してみたい！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "少し腹が減ってきたなー。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけよう！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "いま忙しいのか？"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとう。明日もよろしくな！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "デジタルポイントが近くにありそうだ。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "俺はまだまだ動けるぞ！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーと仲良くしているか？"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモンどうしが戦ってるみたいだな。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "痛っ！足をぶつけちゃったぜ。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "やぁ、今日もよろしくな！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "今日は早起きしたんだぜ。"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "もっともっと強くなりたいぞ！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化ってすごいよな！"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーってみんないいやつか？"
+		},
+		{
+			"voice_type": "8",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "お前はほんと優しいよな！"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "0",
+			"index": "0",
+			"message": "あなたのことを待っているデジモンがおります。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "0",
+			"index": "1",
+			"message": "お腹がすいてしまいました。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "0",
+			"index": "2",
+			"message": "救いを求めている者に手を差し伸べてください。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "1",
+			"index": "0",
+			"message": "偶然、デジモンと出会いました。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "1",
+			"index": "1",
+			"message": "デジモンと楽しくお話してきました。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "1",
+			"index": "2",
+			"message": "デジモンとの出会い。これも素敵な縁ですね。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "2",
+			"index": "0",
+			"message": "アイテムを見つけました。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "2",
+			"index": "1",
+			"message": "見てください。アイテム発見です。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "2",
+			"index": "2",
+			"message": "聖なる光の中からアイテムを手に入れました。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "3",
+			"index": "0",
+			"message": "おはようございます。アプリを起動しましょう。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "4",
+			"index": "0",
+			"message": "今日の探索は終わりにします。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "4",
+			"index": "1",
+			"message": "あなたもそろそろお休みになってください。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "4",
+			"index": "2",
+			"message": "一日、おつかれさまでした。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "5",
+			"index": "0",
+			"message": "アイテムを探す旅路の途中です。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "6",
+			"index": "0",
+			"message": "アイテム探索に光明が見えます。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "0",
+			"message": "こちらは良い天気です。そちらはいかがですか？"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "1",
+			"message": "今日も一日、平和に過ごしましょう。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "10",
+			"message": "・・・！少しウトウトとしてしまいました。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "11",
+			"message": "おや？天使の歌声が聴こえます。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "12",
+			"message": "私はまだ強くなれるでしょうか？"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "13",
+			"message": "はじまりの街はご存知ですか？"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "14",
+			"message": "あまり放っておかれると困ります。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "15",
+			"message": "あなたもいっしょに祈りましょう。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "16",
+			"message": "この光の輝き、あなたにもわかるでしょうか？"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "17",
+			"message": "望みませんがスパイラルとの戦いは避けられません。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "18",
+			"message": "私は永遠にあなたのパートナーです。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "19",
+			"message": "他のテイマーとも手合わせしたいですね。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "2",
+			"message": "休息は安寧をもたらします。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "20",
+			"message": "冒険に出かけましょう。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "21",
+			"message": "いまお忙しいですか？"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "22",
+			"message": "ありがとうございます。明日もお願いいたします。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "23",
+			"message": "何やら邪悪な気配を感じます。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "24",
+			"message": "願えばいつか叶います。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "25",
+			"message": "他のテイマーとも力を合わせていますか？"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "26",
+			"message": "どこかでデジモン同士が戦っているようです。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "3",
+			"message": "急に飛び出すと危ないですよ。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "4",
+			"message": "ごきげんよう。今日も無事に過ごせますよう…。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "5",
+			"message": "規則正しい生活が良いですよ。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "6",
+			"message": "まだまだ私には修行が必要です。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "7",
+			"message": "進化はとても神聖なものです。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "8",
+			"message": "テイマーの皆さんは心優しいですね。"
+		},
+		{
+			"voice_type": "9",
+			"message_pattern": "7",
+			"index": "9",
+			"message": "あなたにもご加護がありますよう…。"
+		}
+	]
+}

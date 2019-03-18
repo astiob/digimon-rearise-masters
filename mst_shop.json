@@ -1,0 +1,114 @@
+{
+	"masterRows": [
+		{
+			"shop_id": "1",
+			"name": "デジルビー購入",
+			"cost_item_id": "-1",
+			"disp_order": "0",
+			"entrance_asset": "shop/entrance/shop_entrance007",
+			"tab_asset": "shop/skin/shop_skin007",
+			"start_date": "",
+			"new_end_date": "",
+			"end_date": ""
+		},
+		{
+			"shop_id": "10",
+			"name": "ハロウィンメダル交換",
+			"cost_item_id": "22005",
+			"disp_order": "15",
+			"entrance_asset": "shop/entrance/shop_entrance008",
+			"tab_asset": "shop/skin/shop_skin008",
+			"start_date": "2018/10/24 12:00:00",
+			"new_end_date": "2018/11/09 11:59:59",
+			"end_date": "2018/11/09 11:59:59"
+		},
+		{
+			"shop_id": "11",
+			"name": "クリスマスメダル交換",
+			"cost_item_id": "22006",
+			"disp_order": "15",
+			"entrance_asset": "shop/entrance/shop_entrance009",
+			"tab_asset": "shop/skin/shop_skin009",
+			"start_date": "2018-12-14 12:00:00",
+			"new_end_date": "2019-01-02 11:59:59",
+			"end_date": "2019-01-02 11:59:59"
+		},
+		{
+			"shop_id": "12",
+			"name": "デジオーブ交換",
+			"cost_item_id": "22007",
+			"disp_order": "12",
+			"entrance_asset": "shop/entrance/shop_entrance002",
+			"tab_asset": "shop/skin/shop_skin011",
+			"start_date": "2019-01-09 16:00:00",
+			"new_end_date": "2019-02-08 11:59:59",
+			"end_date": ""
+		},
+		{
+			"shop_id": "13",
+			"name": "お正月メダル交換",
+			"cost_item_id": "22008",
+			"disp_order": "13",
+			"entrance_asset": "shop/entrance/shop_entrance010",
+			"tab_asset": "shop/skin/shop_skin010",
+			"start_date": "2019-01-01 00:00:00",
+			"new_end_date": "2019-01-17 23:59:59",
+			"end_date": "2019-01-17 23:59:59"
+		},
+		{
+			"shop_id": "14",
+			"name": "バレンタインメダル交換",
+			"cost_item_id": "22009",
+			"disp_order": "15",
+			"entrance_asset": "shop/entrance/shop_entrance012",
+			"tab_asset": "shop/skin/shop_skin012",
+			"start_date": "2019-01-31 12:00:00",
+			"new_end_date": "2019-02-15 11:59:59",
+			"end_date": "2019-02-22 11:59:59"
+		},
+		{
+			"shop_id": "2",
+			"name": "アイテム購入",
+			"cost_item_id": "21000",
+			"disp_order": "10",
+			"entrance_asset": "shop/entrance/shop_entrance006",
+			"tab_asset": "shop/skin/shop_skin006",
+			"start_date": "",
+			"new_end_date": "",
+			"end_date": ""
+		},
+		{
+			"shop_id": "4",
+			"name": "コミュpt交換",
+			"cost_item_id": "22004",
+			"disp_order": "40",
+			"entrance_asset": "shop/entrance/shop_entrance004",
+			"tab_asset": "shop/skin/shop_skin004",
+			"start_date": "",
+			"new_end_date": "",
+			"end_date": ""
+		},
+		{
+			"shop_id": "5",
+			"name": "BPメダル交換",
+			"cost_item_id": "22001",
+			"disp_order": "20",
+			"entrance_asset": "shop/entrance/shop_entrance001",
+			"tab_asset": "shop/skin/shop_skin001",
+			"start_date": "",
+			"new_end_date": "",
+			"end_date": ""
+		},
+		{
+			"shop_id": "6",
+			"name": "CBメダル交換",
+			"cost_item_id": "22002",
+			"disp_order": "30",
+			"entrance_asset": "shop/entrance/shop_entrance002",
+			"tab_asset": "shop/skin/shop_skin002",
+			"start_date": "",
+			"new_end_date": "",
+			"end_date": ""
+		}
+	]
+}

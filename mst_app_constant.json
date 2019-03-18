@@ -1,0 +1,424 @@
+{
+	"masterRows": [
+		{
+			"category": "BATTLE",
+			"name": "ACCUMULATE_ATTACK_EFFECT_VALUE_MAX",
+			"value": "75",
+			"description": "累積攻撃力アップスキルの上昇量の最大値"
+		},
+		{
+			"category": "BATTLEPARK",
+			"name": "BP_POINT_MAX",
+			"value": "18",
+			"description": "ランダムで増減するBPポイントの最大値"
+		},
+		{
+			"category": "BATTLEPARK",
+			"name": "BP_POINT_MIN",
+			"value": "17",
+			"description": "ランダムで増減するBPポイントの最小値"
+		},
+		{
+			"category": "BATTLEPARK",
+			"name": "BP_STAMINA_MAX",
+			"value": "5",
+			"description": "BPスタミナの最大値"
+		},
+		{
+			"category": "BATTLEPARK",
+			"name": "BP_STAMINA_RECOVERY_TIME",
+			"value": "1800",
+			"description": "BPスタミナの回復時間(秒)"
+		},
+		{
+			"category": "BATTLEPARK",
+			"name": "BP_TREND_RANKING_MAX",
+			"value": "20",
+			"description": "トレンドランキングの最大順位"
+		},
+		{
+			"category": "BATTLEPARK",
+			"name": "BPMATCHING_ACCESS_TIME_MAX",
+			"value": "43200",
+			"description": "バトルパーク対戦相手抽選条件：アクセス日時幅最大値（秒）"
+		},
+		{
+			"category": "BATTLEPARK",
+			"name": "BPMATCHING_ACCESS_TIME_MIN",
+			"value": "43200",
+			"description": "バトルパーク対戦相手抽選条件：アクセス日時幅最小値（秒）"
+		},
+		{
+			"category": "BATTLEPARK",
+			"name": "CLOSE_TIME",
+			"value": "0,23:59:59",
+			"description": "バトルパークを終了する時間(曜日(DayOfWeek,HH:mm:ss)"
+		},
+		{
+			"category": "BATTLEPARK",
+			"name": "OPEN_TIME",
+			"value": "1,06:00:00",
+			"description": "バトルパークを開始する時間(曜日(DayOfWeek,HH:mm:ss)"
+		},
+		{
+			"category": "BATTLEPARK",
+			"name": "OPPONENT_PARAMETER_REVISE_WIN_STREAK",
+			"value": "50",
+			"description": "対戦相手のパラメータを補正するようになるプレイヤーの連勝数 50連勝以上で補正"
+		},
+		{
+			"category": "BATTLEPARK",
+			"name": "PARAMETER_REVISE_VALUE",
+			"value": "15",
+			"description": "バトルパークのキャラにパラメータ補正をかける場合の、各パラメータ増加量(割合) +15%"
+		},
+		{
+			"category": "BATTLEPARK",
+			"name": "YOUR_PARAMETER_REVISE_WIN_RATE",
+			"value": "40",
+			"description": "プレイヤーのパラメータを補正するようになる勝率(百分率) 40%を下回ると補正"
+		},
+		{
+			"category": "CLAN",
+			"name": "CHANGE_TRADEMARK_PRICE",
+			"value": "1",
+			"description": "トレードマークを変更するのに必要なデジルビー数"
+		},
+		{
+			"category": "CLAN",
+			"name": "CHEER_RECOVER_STAMINA",
+			"value": "2",
+			"description": "応援によって回復するスタミナ値"
+		},
+		{
+			"category": "CLAN",
+			"name": "CREATE_COST",
+			"value": "5000",
+			"description": "クラン創設に必要なbit"
+		},
+		{
+			"category": "CLAN",
+			"name": "MEMBER_MAX",
+			"value": "40",
+			"description": "クランメンバーの最大数"
+		},
+		{
+			"category": "CLAN",
+			"name": "REQUESTING_MAX",
+			"value": "10",
+			"description": "クラン加入申請の最大数(超過分は古いものから破棄)"
+		},
+		{
+			"category": "COST",
+			"name": "RECOVER_BPSTAMINA_DIGIRUBY_AMOUNT",
+			"value": "5",
+			"description": "BPスタミナ回復に必要なデジルビーの個数"
+		},
+		{
+			"category": "COST",
+			"name": "RECOVER_RAID_DIGIRUBY_AMOUNT",
+			"value": "5",
+			"description": "激突戦回数回復に必要なデジルビーのい個数"
+		},
+		{
+			"category": "COST",
+			"name": "RECOVER_STAMINA_COMMU_POINT_AMOUNT",
+			"value": "400",
+			"description": "スタミナ回復に必要なコミュptの個数"
+		},
+		{
+			"category": "COST",
+			"name": "RECOVER_STAMINA_DIGIRUBY_AMOUNT",
+			"value": "10",
+			"description": "スタミナ回復に必要なデジルビーの個数"
+		},
+		{
+			"category": "COST",
+			"name": "RECOVER_STAMINA_DRINK_AMOUNT",
+			"value": "1",
+			"description": "スタミナ回復に必要なスタミナ回復ドリンクの個数"
+		},
+		{
+			"category": "DIGIMON",
+			"name": "PARTNER_INFLUENCE_FRIENDSHIP_VALUE_RATE",
+			"value": "30",
+			"description": "パートナーによるお世話、バトルで獲得する友情ポイントの上昇率(百分率)"
+		},
+		{
+			"category": "DIGIMON",
+			"name": "PARTNER_INFLUENCE_MOOD_VALUE_RATE",
+			"value": "30",
+			"description": "パートナーによるお世話で獲得するごきげん度の上昇率(百分率)"
+		},
+		{
+			"category": "DIGIMON",
+			"name": "PARTNER_USE_FRIENDSHIP_SKILL",
+			"value": "20",
+			"description": "友情必殺技使用したことによるパートナーの友情度上昇率(百分率)"
+		},
+		{
+			"category": "DIGIMON",
+			"name": "SUPER_ULTIMATE_RELEASE_DATE",
+			"value": "2019/02/28 00:00:00",
+			"description": "超究極体の表示とかを有効にする時刻"
+		},
+		{
+			"category": "DIGIMON",
+			"name": "USUALLY_ITEM_INFLUENCE_FRIENDSHIP_VALUE_RATE",
+			"value": "80",
+			"description": "通常アイテムでお世話したときの友情ポイントの影響率(百分率) 基礎値×0.8とする"
+		},
+		{
+			"category": "DIGIMON",
+			"name": "USUALLY_ITEM_INFLUENCE_MOOD_VALUE_RATE",
+			"value": "80",
+			"description": "通常アイテムでお世話したときのごきげん度の影響率(百分率) 基礎値×0.8とする"
+		},
+		{
+			"category": "EXTENSION",
+			"name": "DECO_SLOT_ADD",
+			"value": "5",
+			"description": "デコ枠の1回拡張分の増加数"
+		},
+		{
+			"category": "EXTENSION",
+			"name": "DECO_SLOT_COST",
+			"value": "10",
+			"description": "デコ枠の1回拡張分のデジルビーの消費数"
+		},
+		{
+			"category": "EXTENSION",
+			"name": "DECO_SLOT_MAX",
+			"value": "150",
+			"description": "デコ枠の最大値"
+		},
+		{
+			"category": "EXTENSION",
+			"name": "DIGIMON_SLOT_ADD",
+			"value": "5",
+			"description": "デジモン枠の1回拡張分の増加数"
+		},
+		{
+			"category": "EXTENSION",
+			"name": "DIGIMON_SLOT_COST",
+			"value": "10",
+			"description": "デジモン枠の1回拡張分のデジルビーの消費数"
+		},
+		{
+			"category": "EXTENSION",
+			"name": "DIGIMON_SLOT_MAX",
+			"value": "750",
+			"description": "デジモン枠の最大値\n500->750 (2018/11/27 変更)"
+		},
+		{
+			"category": "EXTENSION",
+			"name": "PLUGIN_SLOT_ADD",
+			"value": "5",
+			"description": "プラグイン枠の1回拡張分の増加数"
+		},
+		{
+			"category": "EXTENSION",
+			"name": "PLUGIN_SLOT_COST",
+			"value": "10",
+			"description": "プラグイン枠の1回拡張分のデジルビーの消費数"
+		},
+		{
+			"category": "EXTENSION",
+			"name": "PLUGIN_SLOT_MAX",
+			"value": "750",
+			"description": "プラグイン枠の最大値\n500->750 (2018/10/30 変更)"
+		},
+		{
+			"category": "FOOTPRINT",
+			"name": "TALK_REWARD_AMOUNT",
+			"value": "1",
+			"description": "会話で獲得するコミュpt"
+		},
+		{
+			"category": "GASHA",
+			"name": "DIGIMON_GASHA_SLOT_OFFSET",
+			"value": "100",
+			"description": "デジモンガシャの上限＋Ｎ枠"
+		},
+		{
+			"category": "GASHA",
+			"name": "GASHA_SLOT_OFFSET_RELEASE_DATE",
+			"value": "2019/03/12 00:00:00",
+			"description": "ガシャ上限＋N枠が有効になる時刻"
+		},
+		{
+			"category": "GASHA",
+			"name": "PLUGIN_GASHA_SLOT_OFFSET",
+			"value": "100",
+			"description": "プラグインガシャの上限＋Ｎ枠"
+		},
+		{
+			"category": "MISSION",
+			"name": "DAILY_MISSION_RESET_TIME",
+			"value": "04:00:00",
+			"description": "デイリーミッションをリセットする時間(HH:mm:ss)"
+		},
+		{
+			"category": "MISSION",
+			"name": "WEEKLY_MISSION_RESET_TIME",
+			"value": "1,04:00:00",
+			"description": "ウィークリーミッションをリセットする時間(曜日(DayOfWeek,HH:mm:ss)"
+		},
+		{
+			"category": "PLUGIN",
+			"name": "SAME_CATEGORY_STRENGTHEN_POINT_RATE",
+			"value": "100",
+			"description": "プラグイン強化で素材とベースが同じカテゴリの場合の、強化ポイントの倍率(百分率)"
+		},
+		{
+			"category": "QUEST",
+			"name": "CP_MOTIVATION_BONUS_RATE",
+			"value": "90/60/30",
+			"description": "ドロップUPCP時の調子ボーナスによる追加ドロップ確率（絶好調/好調/普通）"
+		},
+		{
+			"category": "QUEST",
+			"name": "MOTIVATION_BONUS_RATE",
+			"value": "60/30/10",
+			"description": "調子ボーナスによる追加ドロップ確率（絶好調/好調/普通）"
+		},
+		{
+			"category": "QUEST",
+			"name": "STAMINA_RECOVERY_TIME",
+			"value": "180",
+			"description": "スタミナの回復時間(秒)"
+		},
+		{
+			"category": "RAID",
+			"name": "POSSIBLE_INTRUSION_COUNT_MAX",
+			"value": "3",
+			"description": "激突戦スタミナ上限"
+		},
+		{
+			"category": "RAID",
+			"name": "POSSIBLE_INTRUSION_COUNT_RECOVER_TIME",
+			"value": "3600",
+			"description": "激突戦スタミナが 1 回復する時間（sec）"
+		},
+		{
+			"category": "RAID",
+			"name": "POSSIBLE_INTRUSION_PARTICIPANTS_COUNT_LIMIT",
+			"value": "5",
+			"description": "乱入可能激突戦 における対象激突戦の参加枠上限（例. 最大50のとき5指定だと参加人数45以下が条件に加わる）"
+		},
+		{
+			"category": "RAID",
+			"name": "POSSIBLE_INTRUSION_REMAINING_TIME_RANGE",
+			"value": "600/1800",
+			"description": "野良救援条件の対象激突戦残り時間（sec）の範囲 （例. 600/1800 指定だと 10〜30 分）"
+		},
+		{
+			"category": "SHOP",
+			"name": "BIT_SHOP_ID",
+			"value": "2",
+			"description": "bit交換所 2018/1/19 bit交換所がリリース時ないため、不要となりました。使用されていません。"
+		},
+		{
+			"category": "SHOP",
+			"name": "DIGIRUBY_SHOP_ID",
+			"value": "1",
+			"description": "デジルビー交換所"
+		},
+		{
+			"category": "SYSTEM",
+			"name": "COMBACK_DAYS",
+			"value": "30",
+			"description": "カムバック扱いになる日数"
+		},
+		{
+			"category": "SYSTEM",
+			"name": "DIGIMON_UPPER_LIMIT",
+			"value": "9999",
+			"description": "デジモンの所持上限"
+		},
+		{
+			"category": "SYSTEM",
+			"name": "DIGITAMA_UPPER_LIMIT",
+			"value": "99",
+			"description": "デジタマ の 所持上限"
+		},
+		{
+			"category": "SYSTEM",
+			"name": "PLUGIN_UPPER_LIMIT",
+			"value": "9999",
+			"description": "プラグインの所持上限"
+		},
+		{
+			"category": "SYSTEM",
+			"name": "STAMINA_UPPER_LIMIT",
+			"value": "999",
+			"description": "スタミナの上限"
+		},
+		{
+			"category": "SYSTEM",
+			"name": "STORE_REVIEW_QUEST",
+			"value": "{\"questIdList\":[1002081,500101]}",
+			"description": "ストアレビューに誘導するクエストのIDリスト(JSON)"
+		},
+		{
+			"category": "UNLOCK",
+			"name": "UNLOCK_BATTLEPARK_QUEST_ID",
+			"value": "1003040",
+			"description": "バトルパークの機能解放クエストID（3章6話）（TutorialType:303）"
+		},
+		{
+			"category": "UNLOCK",
+			"name": "UNLOCK_CAREDIGIMON_QUEST_ID",
+			"value": "1002040",
+			"description": "お世話デジモンの機能解放クエストID（2章4話）（TutorialType:300）"
+		},
+		{
+			"category": "UNLOCK",
+			"name": "UNLOCK_CLAN_QUEST_ID",
+			"value": "1005030",
+			"description": "クランの機能解放クエストID（5章3話）（TutorialType:305）"
+		},
+		{
+			"category": "UNLOCK",
+			"name": "UNLOCK_DIGICONNE_QUEST_ID",
+			"value": "1003031",
+			"description": "デジコネの機能解放クエストID（3章5話）（TutorialType:308）"
+		},
+		{
+			"category": "UNLOCK",
+			"name": "UNLOCK_EVOLVE_QUEST_ID",
+			"value": "1003020",
+			"description": "進化の機能解放クエストID（3章3話）（チュートリアルなし）"
+		},
+		{
+			"category": "UNLOCK",
+			"name": "UNLOCK_PARTNERDIGIMON_QUEST_ID",
+			"value": "1005010",
+			"description": "パートナー選択の機能解放クエストID（5章1話）（TutorialType:304）"
+		},
+		{
+			"category": "UNLOCK",
+			"name": "UNLOCK_RAID_QUEST_ID",
+			"value": "1003020",
+			"description": "激突戦の機能解放クエストID（3章3話）（TutorialType:302）"
+		},
+		{
+			"category": "UNLOCK",
+			"name": "UNLOCK_TRAINING_QUEST_ID",
+			"value": "1002030",
+			"description": "特訓の機能解放クエストID（2章3話）（TutorialType:307）"
+		},
+		{
+			"category": "UNLOCK",
+			"name": "UNLOCK_UNDERWORLD_QUEST_ID",
+			"value": "1007150",
+			"description": "アンダーワールドの機能解放クエストID（7章最終話）（TutorialType:306）"
+		},
+		{
+			"category": "UNLOCK",
+			"name": "UNLOCK_WEEKLYQUEST_QUEST_ID",
+			"value": "1002100",
+			"description": "時限の渦の機能解放クエストID（2章最終話）（TutorialType:301）"
+		}
+	]
+}

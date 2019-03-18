@@ -1,0 +1,517 @@
+{
+	"masterRows": [
+		{
+			"training_id": "101",
+			"icon_asset": "icon/training/icontraining101",
+			"rising_hp": "20",
+			"rising_attack": "0",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingFoot"
+		},
+		{
+			"training_id": "102",
+			"icon_asset": "icon/training/icontraining102",
+			"rising_hp": "40",
+			"rising_attack": "0",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingFoot"
+		},
+		{
+			"training_id": "103",
+			"icon_asset": "icon/training/icontraining103",
+			"rising_hp": "60",
+			"rising_attack": "0",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingFoot"
+		},
+		{
+			"training_id": "104",
+			"icon_asset": "icon/training/icontraining104",
+			"rising_hp": "80",
+			"rising_attack": "0",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingFoot"
+		},
+		{
+			"training_id": "105",
+			"icon_asset": "icon/training/icontraining105",
+			"rising_hp": "120",
+			"rising_attack": "0",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingFoot"
+		},
+		{
+			"training_id": "111",
+			"icon_asset": "icon/training/icontraining111",
+			"rising_hp": "0",
+			"rising_attack": "5",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "112",
+			"icon_asset": "icon/training/icontraining112",
+			"rising_hp": "0",
+			"rising_attack": "15",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "113",
+			"icon_asset": "icon/training/icontraining113",
+			"rising_hp": "0",
+			"rising_attack": "25",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "114",
+			"icon_asset": "icon/training/icontraining114",
+			"rising_hp": "0",
+			"rising_attack": "40",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "115",
+			"icon_asset": "icon/training/icontraining115",
+			"rising_hp": "0",
+			"rising_attack": "60",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "121",
+			"icon_asset": "icon/training/icontraining121",
+			"rising_hp": "0",
+			"rising_attack": "5",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "122",
+			"icon_asset": "icon/training/icontraining122",
+			"rising_hp": "0",
+			"rising_attack": "15",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "123",
+			"icon_asset": "icon/training/icontraining123",
+			"rising_hp": "0",
+			"rising_attack": "25",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "124",
+			"icon_asset": "icon/training/icontraining124",
+			"rising_hp": "0",
+			"rising_attack": "40",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "125",
+			"icon_asset": "icon/training/icontraining125",
+			"rising_hp": "0",
+			"rising_attack": "60",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "131",
+			"icon_asset": "icon/training/icontraining131",
+			"rising_hp": "0",
+			"rising_attack": "0",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "132",
+			"icon_asset": "icon/training/icontraining132",
+			"rising_hp": "0",
+			"rising_attack": "0",
+			"rising_defense": "10",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "133",
+			"icon_asset": "icon/training/icontraining133",
+			"rising_hp": "0",
+			"rising_attack": "0",
+			"rising_defense": "15",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "134",
+			"icon_asset": "icon/training/icontraining134",
+			"rising_hp": "0",
+			"rising_attack": "0",
+			"rising_defense": "30",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "135",
+			"icon_asset": "icon/training/icontraining135",
+			"rising_hp": "0",
+			"rising_attack": "0",
+			"rising_defense": "40",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "141",
+			"icon_asset": "icon/training/icontraining141",
+			"rising_hp": "10",
+			"rising_attack": "5",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "142",
+			"icon_asset": "icon/training/icontraining142",
+			"rising_hp": "20",
+			"rising_attack": "10",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "143",
+			"icon_asset": "icon/training/icontraining143",
+			"rising_hp": "30",
+			"rising_attack": "5",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "144",
+			"icon_asset": "icon/training/icontraining144",
+			"rising_hp": "10",
+			"rising_attack": "15",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "145",
+			"icon_asset": "icon/training/icontraining145",
+			"rising_hp": "40",
+			"rising_attack": "20",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "151",
+			"icon_asset": "icon/training/icontraining151",
+			"rising_hp": "10",
+			"rising_attack": "5",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "152",
+			"icon_asset": "icon/training/icontraining152",
+			"rising_hp": "20",
+			"rising_attack": "10",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "153",
+			"icon_asset": "icon/training/icontraining153",
+			"rising_hp": "30",
+			"rising_attack": "5",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "154",
+			"icon_asset": "icon/training/icontraining154",
+			"rising_hp": "10",
+			"rising_attack": "15",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "155",
+			"icon_asset": "icon/training/icontraining155",
+			"rising_hp": "40",
+			"rising_attack": "20",
+			"rising_defense": "0",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "161",
+			"icon_asset": "icon/training/icontraining161",
+			"rising_hp": "10",
+			"rising_attack": "0",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingFoot"
+		},
+		{
+			"training_id": "162",
+			"icon_asset": "icon/training/icontraining162",
+			"rising_hp": "20",
+			"rising_attack": "0",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingFoot"
+		},
+		{
+			"training_id": "163",
+			"icon_asset": "icon/training/icontraining163",
+			"rising_hp": "30",
+			"rising_attack": "0",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingFoot"
+		},
+		{
+			"training_id": "164",
+			"icon_asset": "icon/training/icontraining164",
+			"rising_hp": "10",
+			"rising_attack": "0",
+			"rising_defense": "10",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingFoot"
+		},
+		{
+			"training_id": "165",
+			"icon_asset": "icon/training/icontraining165",
+			"rising_hp": "40",
+			"rising_attack": "0",
+			"rising_defense": "15",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingFoot"
+		},
+		{
+			"training_id": "171",
+			"icon_asset": "icon/training/icontraining171",
+			"rising_hp": "0",
+			"rising_attack": "5",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "172",
+			"icon_asset": "icon/training/icontraining172",
+			"rising_hp": "0",
+			"rising_attack": "10",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "173",
+			"icon_asset": "icon/training/icontraining173",
+			"rising_hp": "0",
+			"rising_attack": "15",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "174",
+			"icon_asset": "icon/training/icontraining174",
+			"rising_hp": "0",
+			"rising_attack": "5",
+			"rising_defense": "10",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "175",
+			"icon_asset": "icon/training/icontraining175",
+			"rising_hp": "0",
+			"rising_attack": "20",
+			"rising_defense": "15",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "181",
+			"icon_asset": "icon/training/icontraining181",
+			"rising_hp": "0",
+			"rising_attack": "5",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "182",
+			"icon_asset": "icon/training/icontraining182",
+			"rising_hp": "0",
+			"rising_attack": "10",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "183",
+			"icon_asset": "icon/training/icontraining183",
+			"rising_hp": "0",
+			"rising_attack": "15",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "184",
+			"icon_asset": "icon/training/icontraining184",
+			"rising_hp": "0",
+			"rising_attack": "5",
+			"rising_defense": "10",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "185",
+			"icon_asset": "icon/training/icontraining185",
+			"rising_hp": "0",
+			"rising_attack": "20",
+			"rising_defense": "15",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingBody"
+		},
+		{
+			"training_id": "191",
+			"icon_asset": "icon/training/icontraining191",
+			"rising_hp": "10",
+			"rising_attack": "5",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "192",
+			"icon_asset": "icon/training/icontraining192",
+			"rising_hp": "30",
+			"rising_attack": "5",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "193",
+			"icon_asset": "icon/training/icontraining193",
+			"rising_hp": "10",
+			"rising_attack": "15",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "194",
+			"icon_asset": "icon/training/icontraining194",
+			"rising_hp": "10",
+			"rising_attack": "5",
+			"rising_defense": "10",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "195",
+			"icon_asset": "icon/training/icontraining195",
+			"rising_hp": "30",
+			"rising_attack": "15",
+			"rising_defense": "10",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "196",
+			"icon_asset": "icon/training/icontraining196",
+			"rising_hp": "50",
+			"rising_attack": "25",
+			"rising_defense": "15",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "201",
+			"icon_asset": "icon/training/icontraining201",
+			"rising_hp": "10",
+			"rising_attack": "5",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "202",
+			"icon_asset": "icon/training/icontraining202",
+			"rising_hp": "30",
+			"rising_attack": "5",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "203",
+			"icon_asset": "icon/training/icontraining203",
+			"rising_hp": "10",
+			"rising_attack": "15",
+			"rising_defense": "5",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "204",
+			"icon_asset": "icon/training/icontraining204",
+			"rising_hp": "10",
+			"rising_attack": "5",
+			"rising_defense": "10",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "205",
+			"icon_asset": "icon/training/icontraining205",
+			"rising_hp": "30",
+			"rising_attack": "15",
+			"rising_defense": "10",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		},
+		{
+			"training_id": "206",
+			"icon_asset": "icon/training/icontraining206",
+			"rising_hp": "50",
+			"rising_attack": "25",
+			"rising_defense": "15",
+			"rising_speed": "0",
+			"animation_name": "MiniTrainingHand"
+		}
+	]
+}

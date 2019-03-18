@@ -1,0 +1,16 @@
+{
+	"masterRows": [
+		{
+			"special_mission_id": "10001",
+			"special_mission_begin_reward_id": "100011",
+			"active_condition": "0",
+			"value": "",
+			"home_asset": "special_mission/special_mission_001_home",
+			"begin_scenario_id": "80011",
+			"begin_asset": "special_mission/special_mission_001_begin",
+			"achieved_asset": "special_mission/special_mission_001_achieved",
+			"received_asset": "special_mission/special_mission_001_received",
+			"end_scenario_id": "80012"
+		}
+	]
+}

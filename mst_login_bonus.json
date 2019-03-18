@@ -1,0 +1,112 @@
+{
+	"masterRows": [
+		{
+			"login_bonus_id": "1",
+			"name": "ログインボーナス",
+			"disp_priority": "0",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "1",
+			"start_date": "2000-01-01 04:00:00",
+			"end_date": "2999-01-01 03:59:59",
+			"receivable_days": "0",
+			"asset_path": "login_bonus/nomal_login_bonus"
+		},
+		{
+			"login_bonus_id": "100",
+			"name": "100万DL記念ログインボーナス",
+			"disp_priority": "2",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2018-07-04 12:00:00",
+			"end_date": "2018-07-18 11:59:59",
+			"receivable_days": "0",
+			"asset_path": "login_bonus/g2385_login_bonus"
+		},
+		{
+			"login_bonus_id": "2",
+			"name": "スタートダッシュログインボーナス",
+			"disp_priority": "1",
+			"start_trigger_type": "1",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2018-06-25 04:00:00",
+			"end_date": "2999-01-01 03:59:59",
+			"receivable_days": "999",
+			"asset_path": "login_bonus/startdash_login_bonus"
+		},
+		{
+			"login_bonus_id": "3",
+			"name": "リリース記念ログインボーナス",
+			"disp_priority": "2",
+			"start_trigger_type": "0",
+			"start_trigger": "{\"startableLimitDate\":\"2099-12-25 18:00:00\"}",
+			"is_loop": "0",
+			"start_date": "2018-06-25 04:00:00",
+			"end_date": "2018-07-07 03:59:59",
+			"receivable_days": "12",
+			"asset_path": "login_bonus/release_login_bonus"
+		},
+		{
+			"login_bonus_id": "4",
+			"name": "8月1日はデジモンの日！記念日ログインボーナス",
+			"disp_priority": "2",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2018-07-25 12:00:00",
+			"end_date": "2018-08-10 11:59:59",
+			"receivable_days": "17",
+			"asset_path": "login_bonus/g2384_login_bonus"
+		},
+		{
+			"login_bonus_id": "5",
+			"name": "トリックオアトリート！ハロウィン記念ログインボーナス",
+			"disp_priority": "2",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2018-10-19 12:00:00",
+			"end_date": "2018-11-01 11:59:59",
+			"receivable_days": "13",
+			"asset_path": "login_bonus/g2707_login_bonus"
+		},
+		{
+			"login_bonus_id": "6",
+			"name": "メリークリスマス！クリスマス記念ログインボーナス",
+			"disp_priority": "2",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2018-12-14 12:00:00",
+			"end_date": "2018-12-27 11:59:59",
+			"receivable_days": "13",
+			"asset_path": "login_bonus/g2831_login_bonus"
+		},
+		{
+			"login_bonus_id": "7",
+			"name": "謹賀新年！お年玉ログインボーナス",
+			"disp_priority": "2",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2019-01-01 00:00:00",
+			"end_date": "2019-01-14 23:59:59",
+			"receivable_days": "14",
+			"asset_path": "login_bonus/g2833_login_bonus"
+		},
+		{
+			"login_bonus_id": "8",
+			"name": "デジアド20周年スタート記念ログインボーナス",
+			"disp_priority": "2",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2019-02-21 12:00:00",
+			"end_date": "2019-04-01 11:59:59",
+			"receivable_days": "40",
+			"asset_path": "login_bonus/g3149_login_bonus"
+		}
+	]
+}

@@ -1,0 +1,780 @@
+{
+	"masterRows": [
+		{
+			"campaign_id": "1",
+			"campaign_type": "1",
+			"campaign_value": "",
+			"start_date": "2018-09-10 06:00:00",
+			"end_date": "2018-09-23 23:59:59",
+			"message_text_id": "1924"
+		},
+		{
+			"campaign_id": "100102",
+			"campaign_type": "1",
+			"campaign_value": "",
+			"start_date": "2017-08-13 06:00:00",
+			"end_date": "2017-08-26 23:59:59",
+			"message_text_id": "1924"
+		},
+		{
+			"campaign_id": "100103",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2018-09-03 06:00:00",
+			"end_date": "2018-09-09 23:59:59",
+			"message_text_id": "1969"
+		},
+		{
+			"campaign_id": "100104",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2018-09-17 06:00:00",
+			"end_date": "2018-09-23 23:59:59",
+			"message_text_id": "2028"
+		},
+		{
+			"campaign_id": "100105",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2018-09-24 06:00:00",
+			"end_date": "2018-09-25 03:59:59",
+			"message_text_id": "2089"
+		},
+		{
+			"campaign_id": "100106",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-09-25 04:00:00",
+			"end_date": "2018-09-30 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100107",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2018-09-30 04:00:00",
+			"end_date": "2018-09-30 23:59:59",
+			"message_text_id": "2091"
+		},
+		{
+			"campaign_id": "100108",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2018-10-01 06:00:00",
+			"end_date": "2018-10-07 23:59:59",
+			"message_text_id": "2092"
+		},
+		{
+			"campaign_id": "100109",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2018-10-08 6:00:00",
+			"end_date": "2018-10-09 3:59:59",
+			"message_text_id": "2089"
+		},
+		{
+			"campaign_id": "100110",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-10-09 4:00:00",
+			"end_date": "2018-10-10 3:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100111",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-10-10 4:00:00",
+			"end_date": "2018-10-11 3:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100112",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-10-11 4:00:00",
+			"end_date": "2018-10-12 3:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100113",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-10-12 4:00:00",
+			"end_date": "2018-10-13 3:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100114",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-10-13 4:00:00",
+			"end_date": "2018-10-14 3:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100115",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2018-10-14 4:00:00",
+			"end_date": "2018-10-14 23:59:59",
+			"message_text_id": "2091"
+		},
+		{
+			"campaign_id": "100116",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2018-10-15 6:00:00",
+			"end_date": "2018-10-21 23:59:59",
+			"message_text_id": "2100"
+		},
+		{
+			"campaign_id": "100117",
+			"campaign_type": "1",
+			"campaign_value": "",
+			"start_date": "2018-10-22 6:00:00",
+			"end_date": "2018-10-28 23:59:59",
+			"message_text_id": "1924"
+		},
+		{
+			"campaign_id": "100118",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2018-10-29 6:00:00",
+			"end_date": "2018-11-04 23:59:59",
+			"message_text_id": "2092"
+		},
+		{
+			"campaign_id": "100119",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2018-11-05 06:00:00",
+			"end_date": "2018-11-06 03:59:59",
+			"message_text_id": "2089"
+		},
+		{
+			"campaign_id": "100120",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-11-06 04:00:00",
+			"end_date": "2018-11-07 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100121",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-11-07 04:00:00",
+			"end_date": "2018-11-08 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100122",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-11-08 04:00:00",
+			"end_date": "2018-11-09 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100123",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-11-09 04:00:00",
+			"end_date": "2018-11-10 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100124",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-11-10 04:00:00",
+			"end_date": "2018-11-11 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100125",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2018-11-11 04:00:00",
+			"end_date": "2018-11-11 23:59:59",
+			"message_text_id": "2091"
+		},
+		{
+			"campaign_id": "100126",
+			"campaign_type": "1",
+			"campaign_value": "",
+			"start_date": "2018-11-12 06:00:00",
+			"end_date": "2018-11-18 23:59:59",
+			"message_text_id": "1924"
+		},
+		{
+			"campaign_id": "100127",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2018-11-19 06:00:00",
+			"end_date": "2018-11-25 23:59:59",
+			"message_text_id": "2028"
+		},
+		{
+			"campaign_id": "100128",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2018-11-26 06:00:00",
+			"end_date": "2018-11-27 03:59:59",
+			"message_text_id": "2089"
+		},
+		{
+			"campaign_id": "100129",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-11-27 04:00:00",
+			"end_date": "2018-11-28 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100130",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-11-28 04:00:00",
+			"end_date": "2018-11-29 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100131",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-11-29 04:00:00",
+			"end_date": "2018-11-30 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100132",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-11-30 04:00:00",
+			"end_date": "2018-12-01 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100133",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2018-12-01 04:00:00",
+			"end_date": "2018-12-02 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100134",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2018-12-02 04:00:00",
+			"end_date": "2018-12-02 23:59:59",
+			"message_text_id": "2091"
+		},
+		{
+			"campaign_id": "100135",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2018-12-03 06:00:00",
+			"end_date": "2018-12-09 23:59:59",
+			"message_text_id": "2100"
+		},
+		{
+			"campaign_id": "100136",
+			"campaign_type": "1",
+			"campaign_value": "",
+			"start_date": "2018-12-10 06:00:00",
+			"end_date": "2018-12-16 23:59:59",
+			"message_text_id": "1924"
+		},
+		{
+			"campaign_id": "100137",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2018-12-17 06:00:00",
+			"end_date": "2018-12-23 23:59:59",
+			"message_text_id": "2154"
+		},
+		{
+			"campaign_id": "100138",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2018-12-24 06:00:00",
+			"end_date": "2018-12-25 03:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100139",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2018-12-25 04:00:00",
+			"end_date": "2018-12-26 03:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100140",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2018-12-26 04:00:00",
+			"end_date": "2018-12-27 03:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100141",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2018-12-27 04:00:00",
+			"end_date": "2018-12-28 03:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100142",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2018-12-28 04:00:00",
+			"end_date": "2018-12-29 03:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100143",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2018-12-29 04:00:00",
+			"end_date": "2018-12-30 03:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100144",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2018-12-30 04:00:00",
+			"end_date": "2018-12-30 23:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100145",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2018-12-31 06:00:00",
+			"end_date": "2019-01-01 03:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100146",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2019-01-01 04:00:00",
+			"end_date": "2019-01-02 03:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100147",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2019-01-02 04:00:00",
+			"end_date": "2019-01-03 03:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100148",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2019-01-03 04:00:00",
+			"end_date": "2019-01-04 03:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100149",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2019-01-04 04:00:00",
+			"end_date": "2019-01-05 03:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100150",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2019-01-05 04:00:00",
+			"end_date": "2019-01-06 03:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100151",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2019-01-06 04:00:00",
+			"end_date": "2019-01-06 23:59:59",
+			"message_text_id": "2168"
+		},
+		{
+			"campaign_id": "100152",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2018-12-24 06:00:00",
+			"end_date": "2018-12-30 23:59:59",
+			"message_text_id": "2169"
+		},
+		{
+			"campaign_id": "100153",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2018-12-31 06:00:00",
+			"end_date": "2019-01-06 23:59:59",
+			"message_text_id": "2171"
+		},
+		{
+			"campaign_id": "100154",
+			"campaign_type": "1",
+			"campaign_value": "",
+			"start_date": "2019-01-07 06:00:00",
+			"end_date": "2019-01-13 23:59:59",
+			"message_text_id": "1924"
+		},
+		{
+			"campaign_id": "100157",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-01-28 06:00:00",
+			"end_date": "2019-01-29 03:59:59",
+			"message_text_id": "2089"
+		},
+		{
+			"campaign_id": "100158",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2019-01-29 04:00:00",
+			"end_date": "2019-01-30 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100159",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2019-01-30 04:00:00",
+			"end_date": "2019-01-31 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100160",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2019-01-31 04:00:00",
+			"end_date": "2019-02-01 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100161",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2019-02-01 04:00:00",
+			"end_date": "2019-02-02 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100162",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2019-02-02 04:00:00",
+			"end_date": "2019-02-03 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100163",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-02-03 04:00:00",
+			"end_date": "2019-02-03 23:59:59",
+			"message_text_id": "2091"
+		},
+		{
+			"campaign_id": "100164",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2019-02-04 06:00:00",
+			"end_date": "2019-02-10 23:59:59",
+			"message_text_id": "2100"
+		},
+		{
+			"campaign_id": "100165",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-02-11 06:00:00",
+			"end_date": "2019-02-12 03:59:59",
+			"message_text_id": "2089"
+		},
+		{
+			"campaign_id": "100166",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2019-02-12 04:00:00",
+			"end_date": "2019-02-13 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100167",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2019-02-13 04:00:00",
+			"end_date": "2019-02-14 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100168",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2019-02-14 04:00:00",
+			"end_date": "2019-02-15 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100169",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2019-02-15 04:00:00",
+			"end_date": "2019-02-16 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100170",
+			"campaign_type": "2",
+			"campaign_value": "21/22",
+			"start_date": "2019-02-16 04:00:00",
+			"end_date": "2019-02-17 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100171",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-02-17 04:00:00",
+			"end_date": "2019-02-17 23:59:59",
+			"message_text_id": "2091"
+		},
+		{
+			"campaign_id": "100172",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2019-02-18 06:00:00",
+			"end_date": "2019-02-24 23:59:59",
+			"message_text_id": "2092"
+		},
+		{
+			"campaign_id": "100173",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2019-02-25 06:00:00",
+			"end_date": "2019-02-26 03:59:59",
+			"message_text_id": "2089"
+		},
+		{
+			"campaign_id": "100174",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-02-26 04:00:00",
+			"end_date": "2019-02-27 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100175",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-02-27 04:00:00",
+			"end_date": "2019-02-28 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100176",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-02-28 04:00:00",
+			"end_date": "2019-03-01 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100177",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-03-01 04:00:00",
+			"end_date": "2019-03-02 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100178",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-03-02 04:00:00",
+			"end_date": "2019-03-03 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100179",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2019-03-03 04:00:00",
+			"end_date": "2019-03-03 23:59:59",
+			"message_text_id": "2091"
+		},
+		{
+			"campaign_id": "100180",
+			"campaign_type": "3",
+			"campaign_value": "",
+			"start_date": "2019-02-25 06:00:00",
+			"end_date": "2019-03-03 23:59:59",
+			"message_text_id": "2202"
+		},
+		{
+			"campaign_id": "100181",
+			"campaign_type": "3",
+			"campaign_value": "",
+			"start_date": "2019-03-04 06:00:00",
+			"end_date": "2019-03-10 23:59:59",
+			"message_text_id": "1969"
+		},
+		{
+			"campaign_id": "100182",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2019-03-11 06:00:00",
+			"end_date": "2019-03-12 03:59:59",
+			"message_text_id": "2089"
+		},
+		{
+			"campaign_id": "100183",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-03-12 04:00:00",
+			"end_date": "2019-03-13 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100184",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-03-13 04:00:00",
+			"end_date": "2019-03-14 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100185",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-03-14 04:00:00",
+			"end_date": "2019-03-15 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100186",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-03-15 04:00:00",
+			"end_date": "2019-03-16 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100187",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-03-16 04:00:00",
+			"end_date": "2019-03-17 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100188",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2019-03-17 04:00:00",
+			"end_date": "2019-03-17 23:59:59",
+			"message_text_id": "2091"
+		},
+		{
+			"campaign_id": "100189",
+			"campaign_type": "3",
+			"campaign_value": "",
+			"start_date": "2019-03-18 06:00:00",
+			"end_date": "2019-03-24 23:59:59",
+			"message_text_id": "2346"
+		},
+		{
+			"campaign_id": "100190",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2019-03-25 06:00:00",
+			"end_date": "2019-03-26 03:59:59",
+			"message_text_id": "2089"
+		},
+		{
+			"campaign_id": "100191",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-03-26 04:00:00",
+			"end_date": "2019-03-27 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100192",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-03-27 04:00:00",
+			"end_date": "2019-03-28 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100193",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-03-28 04:00:00",
+			"end_date": "2019-03-29 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100194",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-03-29 04:00:00",
+			"end_date": "2019-03-30 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100195",
+			"campaign_type": "2",
+			"campaign_value": "22/23",
+			"start_date": "2019-03-30 04:00:00",
+			"end_date": "2019-03-31 03:59:59",
+			"message_text_id": "2090"
+		},
+		{
+			"campaign_id": "100196",
+			"campaign_type": "2",
+			"campaign_value": "27/28",
+			"start_date": "2019-03-31 04:00:00",
+			"end_date": "2019-03-31 23:59:59",
+			"message_text_id": "2091"
+		},
+		{
+			"campaign_id": "100197",
+			"campaign_type": "3",
+			"campaign_value": "",
+			"start_date": "2019-04-01 06:00:00",
+			"end_date": "2019-04-07 23:59:59",
+			"message_text_id": "1969"
+		},
+		{
+			"campaign_id": "10155",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2019-01-14 06:00:00",
+			"end_date": "2019-01-20 23:59:59",
+			"message_text_id": "2092"
+		},
+		{
+			"campaign_id": "10156",
+			"campaign_type": "3",
+			"campaign_value": "1",
+			"start_date": "2019-01-21 06:00:00",
+			"end_date": "2019-01-27 23:59:59",
+			"message_text_id": "2202"
+		}
+	]
+}
