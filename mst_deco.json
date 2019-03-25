@@ -541,6 +541,30 @@
 			"description": "現実世界では交通整理や規制などに使用されるが、デジモンたちにはあまり効果がない。ずいぶんと使い込まれているようだ。(5x5)"
 		},
 		{
+			"deco_id": "78",
+			"name": "ウンチ",
+			"size_x": "1",
+			"size_y": "1",
+			"is_limited": "0",
+			"selling_price": "1",
+			"icon_asset": "deco/icon/icondeco078",
+			"model_asset": "deco/deco0078",
+			"emotion_icon_asset": "",
+			"description": "スカモンお手製ウンチ……の置物。置物なので臭くないし病気の心配もない。(1x1)<color=#e75600>【通過可能】</color>"
+		},
+		{
+			"deco_id": "79",
+			"name": "金のウンチ",
+			"size_x": "1",
+			"size_y": "1",
+			"is_limited": "0",
+			"selling_price": "20000",
+			"icon_asset": "deco/icon/icondeco079",
+			"model_asset": "deco/deco0079",
+			"emotion_icon_asset": "",
+			"description": "スカモンお手製金のウンチ……の置物。その輝きからスカモンの意気込みが伝わってくるようだ。(1x1)<color=#e75600>【通過可能】</color>"
+		},
+		{
 			"deco_id": "8",
 			"name": "キャンプファイヤー",
 			"size_x": "7",
