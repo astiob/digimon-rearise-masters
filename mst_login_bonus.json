@@ -107,6 +107,18 @@
 			"end_date": "2019-04-01 11:59:59",
 			"receivable_days": "40",
 			"asset_path": "login_bonus/g3149_login_bonus"
+		},
+		{
+			"login_bonus_id": "9",
+			"name": "育成応援ログインボーナス！",
+			"disp_priority": "2",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2019-04-09 12:00:00",
+			"end_date": "2019-04-25 11:59:59",
+			"receivable_days": "17",
+			"asset_path": "login_bonus/g3354_login_bonus"
 		}
 	]
 }

@@ -3556,6 +3556,33 @@
 			"message_text_id": "1970"
 		},
 		{
+			"campaign_id": "100205",
+			"sequence": "1",
+			"target_type": "4",
+			"target_value": "4",
+			"parameter_type": "1",
+			"parameter_value": "130",
+			"message_text_id": "2203"
+		},
+		{
+			"campaign_id": "100205",
+			"sequence": "2",
+			"target_type": "4",
+			"target_value": "4",
+			"parameter_type": "2",
+			"parameter_value": "130",
+			"message_text_id": "2203"
+		},
+		{
+			"campaign_id": "100205",
+			"sequence": "3",
+			"target_type": "4",
+			"target_value": "4",
+			"parameter_type": "4",
+			"parameter_value": "130",
+			"message_text_id": "2203"
+		},
+		{
 			"campaign_id": "10155",
 			"sequence": "1",
 			"target_type": "1",
