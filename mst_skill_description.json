@@ -239,6 +239,41 @@
 			"text": "クリティカル発生時[@add_critical_damage_rate][:add_critical_damage_rate:]倍[/@add_critical_damage_rate]のダメージ"
 		},
 		{
+			"action_efficacy_type": "0",
+			"index_in_type": "6",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "敵とシールドに対してダメージを与える"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "6",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "敵とシールドに対してダメージを与える"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "6",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "敵とシールドに対してダメージを与える"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "6",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "敵とシールドに対してダメージを与える"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "6",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "敵とシールドに対してダメージを与える"
+		},
+		{
 			"action_efficacy_type": "1",
 			"index_in_type": "0",
 			"target_type": "10",
@@ -1945,6 +1980,83 @@
 			"target_type": "2",
 			"target_num": "1",
 			"text": "自分に敵からの攻撃によるダメージを[@shield_hp][:shield_hp:][/@shield_hp]まで肩代わりするシールド効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "37",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "37",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "37",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "37",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "37",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "37",
+			"index_in_type": "0",
+			"target_type": "10",
+			"target_num": "5",
+			"text": "個性が「勇敢」の味方に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "37",
+			"index_in_type": "0",
+			"target_type": "11",
+			"target_num": "5",
+			"text": "個性が「冷静」の味方に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "37",
+			"index_in_type": "0",
+			"target_type": "12",
+			"target_num": "5",
+			"text": "個性が「器用」の味方に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "37",
+			"index_in_type": "0",
+			"target_type": "13",
+			"target_num": "5",
+			"text": "個性が「不屈」の味方に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "37",
+			"index_in_type": "0",
+			"target_type": "14",
+			"target_num": "5",
+			"text": "個性が「献身」の味方に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "37",
+			"index_in_type": "0",
+			"target_type": "2",
+			"target_num": "1",
+			"text": "自分に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "4",

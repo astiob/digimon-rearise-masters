@@ -116,6 +116,12 @@
 		},
 		{
 			"category": "COST",
+			"name": "RECOVER_CBSTAMINA_DIGIRUBY_AMOUNT",
+			"value": "5",
+			"description": "CBスタミナ回復に必要なデジルビーの個数"
+		},
+		{
+			"category": "COST",
 			"name": "RECOVER_RAID_DIGIRUBY_AMOUNT",
 			"value": "5",
 			"description": "激突戦回数回復に必要なデジルビーのい個数"
@@ -290,6 +296,18 @@
 		},
 		{
 			"category": "RAID",
+			"name": "CB_STAMINA_MAX",
+			"value": "5",
+			"description": "CBスタミナの最大値"
+		},
+		{
+			"category": "RAID",
+			"name": "CB_STAMINA_RECOVERY_TIME",
+			"value": "1800",
+			"description": "CBスタミナの回復時間(秒)"
+		},
+		{
+			"category": "RAID",
 			"name": "POSSIBLE_INTRUSION_COUNT_MAX",
 			"value": "3",
 			"description": "激突戦スタミナ上限"
@@ -311,6 +329,12 @@
 			"name": "POSSIBLE_INTRUSION_REMAINING_TIME_RANGE",
 			"value": "600/1800",
 			"description": "野良救援条件の対象激突戦残り時間（sec）の範囲 （例. 600/1800 指定だと 10〜30 分）"
+		},
+		{
+			"category": "RAID",
+			"name": "RAID_CATALOG_RELEASE_DATE",
+			"value": "2020-04-11 12:00:00",
+			"description": "過去激突戦ボタンが有効になる時刻"
 		},
 		{
 			"category": "SHOP",

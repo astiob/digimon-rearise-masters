@@ -760,6 +760,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "10124",
+			"item_name": "インペリアルドラモンDMの進化コード",
+			"sort_key": "",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10023",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がインペリアルドラモンDMの系譜の進化を導くアイテム",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "101435001",
 			"item_name": "守α(献身 リリモン)",
 			"sort_key": "",
@@ -827,7 +838,7 @@
 		},
 		{
 			"item_id": "1020091",
-			"item_name": "メタルガルルモンスキルストーンの欠片(小)",
+			"item_name": "メタルガルルモン(冷静)スキルストーンの欠片(小)",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1020091",
@@ -838,7 +849,7 @@
 		},
 		{
 			"item_id": "1020092",
-			"item_name": "メタルガルルモンスキルストーンの欠片(大)",
+			"item_name": "メタルガルルモン(冷静)スキルストーンの欠片(大)",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1020092",
@@ -849,7 +860,7 @@
 		},
 		{
 			"item_id": "1020093",
-			"item_name": "メタルガルルモンスキルストーン",
+			"item_name": "メタルガルルモン(冷静)スキルストーン",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1020093",
@@ -860,7 +871,7 @@
 		},
 		{
 			"item_id": "1020523",
-			"item_name": "マリンエンジェモンスキルストーン",
+			"item_name": "マリンエンジェモン(献身)スキルストーン",
 			"sort_key": "マリンエンジェモンスキルストーン",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1020523",
@@ -871,7 +882,7 @@
 		},
 		{
 			"item_id": "1020823",
-			"item_name": "エリスモンスキルストーン",
+			"item_name": "エリスモン(勇敢)スキルストーン",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1020823",
@@ -882,7 +893,7 @@
 		},
 		{
 			"item_id": "1020851",
-			"item_name": "ウォーグレイモンスキルストーンの欠片(小)",
+			"item_name": "ウォーグレイモン(勇敢)スキルストーンの欠片(小)",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1020851",
@@ -893,7 +904,7 @@
 		},
 		{
 			"item_id": "1020852",
-			"item_name": "ウォーグレイモンスキルストーンの欠片(大)",
+			"item_name": "ウォーグレイモン(勇敢)スキルストーンの欠片(大)",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1020852",
@@ -904,7 +915,7 @@
 		},
 		{
 			"item_id": "1020853",
-			"item_name": "ウォーグレイモンスキルストーン",
+			"item_name": "ウォーグレイモン(勇敢)スキルストーン",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1020853",
@@ -915,7 +926,7 @@
 		},
 		{
 			"item_id": "1021073",
-			"item_name": "ヴリトラモンスキルストーン",
+			"item_name": "ヴリトラモン(勇敢)スキルストーン",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021073",
@@ -926,13 +937,24 @@
 		},
 		{
 			"item_id": "1021133",
-			"item_name": "ディアボロモンスキルストーン",
+			"item_name": "ディアボロモン(不屈)スキルストーン",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021133",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "究極体ディアボロモン（不屈）の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021213",
+			"item_name": "パイルドラモン(不屈)スキルストーン",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021213",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体パイルドラモン（不屈）の系譜のスキルレベルを確実にアップできる貴重な石板",
 			"max_amount": "9999"
 		},
 		{
@@ -6348,6 +6370,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "161414001",
+			"item_name": "攻α(不屈 パイルドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment161414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のパイルドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "161414002",
+			"item_name": "攻α(不屈 パイルドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment161414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のパイルドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "161414003",
+			"item_name": "攻α(不屈 パイルドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment161414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のパイルドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "161414004",
+			"item_name": "攻α(不屈 パイルドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment161414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のパイルドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "161414005",
+			"item_name": "攻α(不屈 パイルドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment161414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のパイルドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "161434001",
+			"item_name": "守α(不屈 パイルドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment161434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のパイルドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "161434002",
+			"item_name": "守α(不屈 パイルドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment161434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のパイルドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "161434003",
+			"item_name": "守α(不屈 パイルドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment161434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のパイルドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "161434004",
+			"item_name": "守α(不屈 パイルドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment161434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のパイルドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "161434005",
+			"item_name": "守α(不屈 パイルドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment161434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のパイルドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "162",
 			"item_name": "耐久の特訓チップⅡ",
 			"sort_key": "",
@@ -8064,6 +8196,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "22010",
+			"item_name": "コネクトメダル",
+			"sort_key": "",
+			"item_type": "11",
+			"icon_asset": "icon/item/icon_connect_medal",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "激突戦！古代竜との戦い！で獲得できるメダル、色々なものと交換できる",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "2202",
 			"item_name": "俊敏性の特訓フラグメントⅡ",
 			"sort_key": "",
@@ -8831,6 +8974,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "時限の渦:バレンタインエリアを一定時間解放する。(使用期限：2019/02/15 11:59)",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "23005",
+			"item_name": "コネクトエリア解放キー",
+			"sort_key": "コネクトエリアカイホウキー",
+			"item_type": "12",
+			"icon_asset": "icon/item/icon_openticket004",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "時限の渦:コネクトエリアを一定時間解放する。(開催期間 2019/04/22 12:00 ～ 2019/05/07 11:59)",
 			"max_amount": "9999"
 		},
 		{
@@ -14804,6 +14958,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "究極体ホウオウモン系譜、究極体ケルビモン(善)系譜、究極体オファニモン系譜、究極体プレシオモン系譜のいずれかが各25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25162",
+			"item_name": "忠誠の甲殻竜人のデジタマ",
+			"sort_key": "チュウセイノコウカクリュウジンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama034",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "パイルドラモンに育つデジモンが産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25163",
+			"item_name": "コネクティックな春のデジタマ",
+			"sort_key": "コネクティックナハルノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama033",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体に育つデジモンが必ず産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{

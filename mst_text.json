@@ -261,6 +261,10 @@
 			"text": "デジクラン加入後24時間以内のテイマーは\n除名することができません。"
 		},
 		{
+			"text_id": "1000065",
+			"text": "これ以上激突戦を発生できません。\n発見済みの強敵を討伐してください。"
+		},
+		{
 			"text_id": "1001",
 			"text": "デコ所持枠拡張"
 		},
@@ -3965,6 +3969,26 @@
 			"text": "推奨Lv."
 		},
 		{
+			"text_id": "1840",
+			"text": "勇敢キラー"
+		},
+		{
+			"text_id": "1841",
+			"text": "冷静キラー"
+		},
+		{
+			"text_id": "1842",
+			"text": "器用キラー"
+		},
+		{
+			"text_id": "1843",
+			"text": "不屈キラー"
+		},
+		{
+			"text_id": "1844",
+			"text": "献身キラー"
+		},
+		{
 			"text_id": "185",
 			"text": "消費スタミナ"
 		},
@@ -5135,6 +5159,10 @@
 		{
 			"text_id": "2017009",
 			"text": "強力なデジモンがデジタルワールドから\n出現しようとしている……"
+		},
+		{
+			"text_id": "2017010",
+			"text": "<color=#e75600>過去に登場した強敵</color>とも戦うことができるぞ！\n『<color=#e75600>CBスタミナ</color>』を使って強敵をサーチしよう！"
 		},
 		{
 			"text_id": "2018",
@@ -6825,12 +6853,80 @@
 			"text": "開催時期 : 2019/04/25 11:59まで"
 		},
 		{
+			"text_id": "2359",
+			"text": "『冒険』の「メインストーリー」や「時限の渦」などを\n冒険していると、激突戦が発生することがあります。\n<br>また『激突戦サーチ』から\n過去に出現した激突戦を発生させることもできます。\n<br>強敵を倒して進化コードを手に入れよう！"
+		},
+		{
 			"text_id": "236",
 			"text": "終了"
 		},
 		{
+			"text_id": "2360",
+			"text": "メダル所持数"
+		},
+		{
+			"text_id": "2361",
+			"text": "サーチしたい強敵を選択してください"
+		},
+		{
+			"text_id": "2362",
+			"text": "激突戦サーチ"
+		},
+		{
+			"text_id": "2363",
+			"text": "Lv.開放状況"
+		},
+		{
+			"text_id": "2364",
+			"text": "スタミナ最大値を超えているため出発できません。\n<br>テイマーレベルを上げてスタミナ最大値を増やそう！"
+		},
+		{
+			"text_id": "2365",
+			"text": "強敵選択"
+		},
+		{
+			"text_id": "2366",
+			"text": "シナリオ{0}"
+		},
+		{
+			"text_id": "2367",
+			"text": "消費スタミナ"
+		},
+		{
+			"text_id": "2368",
+			"text": "Lv.{0}"
+		},
+		{
+			"text_id": "2369",
+			"text": "Lv.がロックされています。\n開放済みのLv.からサーチしてください。"
+		},
+		{
 			"text_id": "237",
 			"text": "討伐へ"
+		},
+		{
+			"text_id": "2370",
+			"text": "強敵を見つけました"
+		},
+		{
+			"text_id": "2371",
+			"text": "Next"
+		},
+		{
+			"text_id": "2372",
+			"text": "スタミナ最大値を超えているためサーチできません。\n<br>テイマーレベルを上げてスタミナ最大値を増やそう！"
+		},
+		{
+			"text_id": "2375",
+			"text": "初回クリア報酬"
+		},
+		{
+			"text_id": "2376",
+			"text": "サーチする"
+		},
+		{
+			"text_id": "2377",
+			"text": "シナリオ無し"
 		},
 		{
 			"text_id": "2378",
@@ -6845,6 +6941,10 @@
 			"text": "救援依頼"
 		},
 		{
+			"text_id": "2398",
+			"text": "コネクトメダル"
+		},
+		{
 			"text_id": "24",
 			"text": "進化不可"
 		},
@@ -6853,12 +6953,56 @@
 			"text": "ショップ"
 		},
 		{
+			"text_id": "2401",
+			"text": "激突戦イベント開催中！"
+		},
+		{
 			"text_id": "241",
 			"text": "参加"
 		},
 		{
+			"text_id": "2416",
+			"text": "コネクトチャレンジ 前半"
+		},
+		{
+			"text_id": "2417",
+			"text": "パイルドラモン"
+		},
+		{
+			"text_id": "2418",
+			"text": "これがジョグレス進化の力だ！"
+		},
+		{
+			"text_id": "2419",
+			"text": "俺の動きに付いてこい！"
+		},
+		{
 			"text_id": "242",
 			"text": "参加人数　　{0}人"
+		},
+		{
+			"text_id": "2420",
+			"text": "噂どおりだ。なかなかやるな！"
+		},
+		{
+			"text_id": "2421",
+			"text": "コネクトチャレンジ 後半"
+		},
+		{
+			"text_id": "2422",
+			"text": "インペリアルドラモンDM"
+		},
+		{
+			"text_id": "2423",
+			"text": "究極進化！\n本当の力を見せてやるよ！"
+		},
+		{
+			"text_id": "2424",
+			"text": "最高の一発で決着をつけよう！"
+		},
+		{
+			"text_id": "2425",
+			"text": "お前たち、強くなったな！"
 		},
 		{
 			"text_id": "243",
@@ -8102,15 +8246,15 @@
 		},
 		{
 			"text_id": "490071",
-			"text": "・<color=#FFE25AFF>挑発</color>して攻撃を引き付けよう！\n・<color=#FFE25AFF>回復</color>してくれるデジモンを連れて行こう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
+			"text": "・<color=#FFE25AFF>挑発</color>して攻撃を引き付けよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
 		},
 		{
 			"text_id": "490101",
-			"text": "・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！\n・<color=#FFE25AFF>毒</color><sprite=5><color=#FFE25AFF>ヤケド</color><sprite=6><color=#FFE25AFF>エラー</color><sprite=7>が有効だ！\n・<color=#FFE25AFF>PWR</color>を上げるデジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！\n・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！\n・<color=#FFE25AFF>PWR</color>を上げるデジモンと挑もう！"
 		},
 		{
 			"text_id": "490111",
-			"text": "・<color=#FFE25AFF>回復</color>してくれるデジモンを連れていこう！\n・<color=#FFE25AFF>DEF</color>を高めよう！\n・<color=#FFE25AFF>エラー</color><sprite=7>や<color=#FFE25AFF>ヤケド</color><sprite=6>が有効だぞ！"
+			"text": "・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！\n・<color=#FFE25AFF>ヤケド</color><sprite=6>や<color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！"
 		},
 		{
 			"text_id": "490131",
@@ -8199,6 +8343,10 @@
 		{
 			"text_id": "490341",
 			"text": "・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！\n・<color=#FFE25AFF>DEF</color>を高めよう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
+		},
+		{
+			"text_id": "490351",
+			"text": "・<color=#FFE25AFF>DEF</color>を高めよう！\n・<color=#FFE25AFF>暗闇</color><sprite=9>対策をしよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
 		},
 		{
 			"text_id": "491",
