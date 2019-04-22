@@ -2111,6 +2111,54 @@
 			"scenario_id": "12007",
 			"movie_id": "17",
 			"is_battle_scenario": "0"
+		},
+		{
+			"id": "20020",
+			"sub_category_id": "0",
+			"order": "5",
+			"scenario_id": "60015",
+			"movie_id": "20",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "60011",
+			"sub_category_id": "601",
+			"order": "1",
+			"scenario_id": "60011",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "60012",
+			"sub_category_id": "601",
+			"order": "2",
+			"scenario_id": "60012",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "60013",
+			"sub_category_id": "601",
+			"order": "3",
+			"scenario_id": "60013",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "60014",
+			"sub_category_id": "601",
+			"order": "4",
+			"scenario_id": "60014",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "60015",
+			"sub_category_id": "601",
+			"order": "5",
+			"scenario_id": "60015",
+			"movie_id": "",
+			"is_battle_scenario": "0"
 		}
 	]
 }

@@ -253,6 +253,18 @@
 			"description": "現実世界から突如デジタウンに現れた道路標識。不規則に並んでいるのがどこか不気味である。(7x7)"
 		},
 		{
+			"deco_id": "40",
+			"name": "パンチマシーン",
+			"size_x": "6",
+			"size_y": "6",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco040",
+			"model_asset": "deco/deco0041",
+			"emotion_icon_asset": "",
+			"description": "パンチマシーンの説明"
+		},
+		{
 			"deco_id": "41",
 			"name": "墓石",
 			"size_x": "5",

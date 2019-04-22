@@ -13,6 +13,18 @@
 			"asset_path": "login_bonus/nomal_login_bonus"
 		},
 		{
+			"login_bonus_id": "10",
+			"name": "大型連休！GWログインボーナス",
+			"disp_priority": "2",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2019-04-26 12:00:00",
+			"end_date": "2019-05-07 11:59:59",
+			"receivable_days": "12",
+			"asset_path": "login_bonus/g3355_login_bonus"
+		},
+		{
 			"login_bonus_id": "100",
 			"name": "100万DL記念ログインボーナス",
 			"disp_priority": "2",
