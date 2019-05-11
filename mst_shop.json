@@ -78,6 +78,17 @@
 			"end_date": "2019-05-07 11:59:59"
 		},
 		{
+			"shop_id": "16",
+			"name": "ナイトメダル交換",
+			"cost_item_id": "22011",
+			"disp_order": "15",
+			"entrance_asset": "shop/entrance/shop_entrance014",
+			"tab_asset": "shop/skin/shop_skin014",
+			"start_date": "2019-05-16 12:00:00",
+			"new_end_date": "2019-05-31 11:59:59",
+			"end_date": "2019-06-07 11:59:59"
+		},
+		{
 			"shop_id": "2",
 			"name": "アイテム購入",
 			"cost_item_id": "21000",
