@@ -79,6 +79,30 @@
 			"description": "プレイヤーのパラメータを補正するようになる勝率(百分率) 40%を下回ると補正"
 		},
 		{
+			"category": "BP2",
+			"name": "LESS_THAN_RANKING",
+			"value": "5001",
+			"description": "ランキング表記を曖昧にする順位（以下なら曖昧）"
+		},
+		{
+			"category": "BP2",
+			"name": "NEW_START_DATE",
+			"value": "2019-07-01 12:00:00",
+			"description": "BP2が開始する日時\nOLD_END_DATEより未来の日時にすること"
+		},
+		{
+			"category": "BP2",
+			"name": "OLD_END_DATE",
+			"value": "2019-06-23 23:59:59",
+			"description": "バトルパークが終了する日時"
+		},
+		{
+			"category": "BP2",
+			"name": "UNLOCK_QUEST_ID",
+			"value": "1003040",
+			"description": "BP2の機能解放クエストID（3章6話）（TutorialType:309）"
+		},
+		{
 			"category": "CLAN",
 			"name": "CHANGE_TRADEMARK_PRICE",
 			"value": "1",

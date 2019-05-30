@@ -274,6 +274,76 @@
 			"text": "敵とシールドに対してダメージを与える"
 		},
 		{
+			"action_efficacy_type": "0",
+			"index_in_type": "7",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "オメガモンなどのダメージリミットを無視してダメージを与える"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "7",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "オメガモンなどのダメージリミットを無視してダメージを与える"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "7",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "オメガモンなどのダメージリミットを無視してダメージを与える"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "7",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "オメガモンなどのダメージリミットを無視してダメージを与える"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "7",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "オメガモンなどのダメージリミットを無視してダメージを与える"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "8",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "自分のHPを、与えたダメージの[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]回復"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "8",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "自分のHPを、与えたダメージの[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]回復"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "8",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "自分のHPを、与えたダメージの[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]回復"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "8",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "自分のHPを、与えたダメージの[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]回復"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "8",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "自分のHPを、与えたダメージの[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]回復"
+		},
+		{
 			"action_efficacy_type": "1",
 			"index_in_type": "0",
 			"target_type": "10",

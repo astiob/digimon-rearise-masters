@@ -1,0 +1,103 @@
+{
+	"masterRows": [
+		{
+			"rank_id": "1",
+			"disp_order": "11",
+			"rank_name": "J",
+			"icon_asset": "icon/rank/icon_bp2rank_j",
+			"min_bp_point": "0",
+			"max_bp_point": "10",
+			"scenario_id": "0"
+		},
+		{
+			"rank_id": "10",
+			"disp_order": "2",
+			"rank_name": "A",
+			"icon_asset": "icon/rank/icon_bp2rank_a",
+			"min_bp_point": "4000",
+			"max_bp_point": "5000",
+			"scenario_id": "100010"
+		},
+		{
+			"rank_id": "11",
+			"disp_order": "1",
+			"rank_name": "S",
+			"icon_asset": "icon/rank/icon_bp2rank_s",
+			"min_bp_point": "5000",
+			"max_bp_point": "999999999",
+			"scenario_id": "100011"
+		},
+		{
+			"rank_id": "2",
+			"disp_order": "10",
+			"rank_name": "I",
+			"icon_asset": "icon/rank/icon_bp2rank_i",
+			"min_bp_point": "10",
+			"max_bp_point": "100",
+			"scenario_id": "0"
+		},
+		{
+			"rank_id": "3",
+			"disp_order": "9",
+			"rank_name": "H",
+			"icon_asset": "icon/rank/icon_bp2rank_h",
+			"min_bp_point": "100",
+			"max_bp_point": "300",
+			"scenario_id": "100003"
+		},
+		{
+			"rank_id": "4",
+			"disp_order": "8",
+			"rank_name": "G",
+			"icon_asset": "icon/rank/icon_bp2rank_g",
+			"min_bp_point": "300",
+			"max_bp_point": "600",
+			"scenario_id": "100004"
+		},
+		{
+			"rank_id": "5",
+			"disp_order": "7",
+			"rank_name": "F",
+			"icon_asset": "icon/rank/icon_bp2rank_f",
+			"min_bp_point": "600",
+			"max_bp_point": "1000",
+			"scenario_id": "100005"
+		},
+		{
+			"rank_id": "6",
+			"disp_order": "6",
+			"rank_name": "E",
+			"icon_asset": "icon/rank/icon_bp2rank_e",
+			"min_bp_point": "1000",
+			"max_bp_point": "1500",
+			"scenario_id": "100006"
+		},
+		{
+			"rank_id": "7",
+			"disp_order": "5",
+			"rank_name": "D",
+			"icon_asset": "icon/rank/icon_bp2rank_d",
+			"min_bp_point": "1500",
+			"max_bp_point": "2000",
+			"scenario_id": "100007"
+		},
+		{
+			"rank_id": "8",
+			"disp_order": "4",
+			"rank_name": "C",
+			"icon_asset": "icon/rank/icon_bp2rank_c",
+			"min_bp_point": "2000",
+			"max_bp_point": "3000",
+			"scenario_id": "100008"
+		},
+		{
+			"rank_id": "9",
+			"disp_order": "3",
+			"rank_name": "B",
+			"icon_asset": "icon/rank/icon_bp2rank_b",
+			"min_bp_point": "3000",
+			"max_bp_point": "4000",
+			"scenario_id": "100009"
+		}
+	]
+}

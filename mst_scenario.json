@@ -1,10 +1,64 @@
 {
 	"masterRows": [
 		{
+			"scenario_id": "100003",
+			"scenario_asset": "scenario/scenario/s16_1_jp",
+			"title": "Hランク",
+			"description": "IランクからHランクに昇格"
+		},
+		{
+			"scenario_id": "100004",
+			"scenario_asset": "scenario/scenario/s16_2_jp",
+			"title": "Gランク",
+			"description": "HランクからGランクに昇格"
+		},
+		{
+			"scenario_id": "100005",
+			"scenario_asset": "scenario/scenario/s16_3_jp",
+			"title": "Fランク",
+			"description": "GランクからFランクに昇格"
+		},
+		{
+			"scenario_id": "100006",
+			"scenario_asset": "scenario/scenario/s16_4_jp",
+			"title": "Eランク",
+			"description": "FランクからEランクに昇格"
+		},
+		{
+			"scenario_id": "100007",
+			"scenario_asset": "scenario/scenario/s16_5_jp",
+			"title": "Dランク",
+			"description": "EランクからDランクに昇格"
+		},
+		{
+			"scenario_id": "100008",
+			"scenario_asset": "scenario/scenario/s16_6_jp",
+			"title": "Cランク",
+			"description": "DランクからCランクに昇格"
+		},
+		{
+			"scenario_id": "100009",
+			"scenario_asset": "scenario/scenario/s16_7_jp",
+			"title": "Bランク",
+			"description": "CランクからBランクに昇格"
+		},
+		{
 			"scenario_id": "10001",
 			"scenario_asset": "scenario/scenario/s1_0_jp",
 			"title": "プロローグ",
 			"description": ""
+		},
+		{
+			"scenario_id": "100010",
+			"scenario_asset": "scenario/scenario/s16_8_jp",
+			"title": "Aランク",
+			"description": "BランクからAランクに昇格"
+		},
+		{
+			"scenario_id": "100011",
+			"scenario_asset": "scenario/scenario/s11_1_jp",
+			"title": "Sランク",
+			"description": "AランクからSランクに昇格"
 		},
 		{
 			"scenario_id": "10101",
@@ -2032,6 +2086,12 @@
 			"scenario_id": "90373",
 			"scenario_asset": "scenario/scenario/r37_3_jp",
 			"title": "激突戦！デュナスモン（終了）",
+			"description": ""
+		},
+		{
+			"scenario_id": "90381",
+			"scenario_asset": "scenario/scenario/r38_1_jp",
+			"title": "激突戦！インペリアルドラモンFM",
 			"description": ""
 		}
 	]
