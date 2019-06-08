@@ -7809,6 +7809,10 @@
 			"text": "チーム編成"
 		},
 		{
+			"text_id": "2562",
+			"text": "7月前半チャレンジ"
+		},
+		{
 			"text_id": "257",
 			"text": "パートナー選択"
 		},
@@ -7827,6 +7831,14 @@
 		{
 			"text_id": "260",
 			"text": "討伐成功!!"
+		},
+		{
+			"text_id": "2601",
+			"text": "1日1回挑戦！デジタマエリア！"
+		},
+		{
+			"text_id": "2605",
+			"text": "デジタマチャレンジ"
 		},
 		{
 			"text_id": "261",
@@ -8978,15 +8990,15 @@
 		},
 		{
 			"text_id": "490011",
-			"text": "・<color=#FFE25AFF>マヒ</color><sprite=1>対策をしていこう！\n・<color=#FFE25AFF>勇敢</color>や<color=#FFE25AFF>冷静</color>のデジモンを連れていこう！\n・<color=#FFE25AFF>一撃</color>が大きいデジモンを連れていこう！"
+			"text": "・<color=#FFE25AFF>マヒ</color><sprite=1>対策をしよう！\n・個性が<color=#FFE25AFF>勇敢</color>や<color=#FFE25AFF>冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
 		},
 		{
 			"text_id": "490051",
-			"text": "・<color=#FFE25AFF>回復</color>してくれるデジモンを連れていこう！\n・<color=#FFE25AFF>毒</color><sprite=5>対策をしていこう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
+			"text": "・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
 		},
 		{
 			"text_id": "490061",
-			"text": "・<color=#FFE25AFF>冷静</color>のデジモンを連れていこう！\n・<color=#FFE25AFF>TEC</color>を上げるデジモンを連れていこう！\n・<color=#FFE25AFF>エラー</color><sprite=7>や<color=#FFE25AFF>ヤケド</color><sprite=6>が有効だぞ！"
+			"text": "・個性が<color=#FFE25AFF>冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>ヤケド</color><sprite=6>や<color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！"
 		},
 		{
 			"text_id": "490071",
@@ -9014,19 +9026,19 @@
 		},
 		{
 			"text_id": "490201",
-			"text": "・<color=#FFE25AFF>凍結</color><sprite=2>や<color=#FFE25AFF>感電</color><sprite=0>対策をしていこう！\n・<color=#FFE25AFF>暗闇</color><sprite=9>が有効だぞ！\n・<color=#FFE25AFF>一撃</color>が大きいデジモンを連れていこう！"
+			"text": "・<color=#FFE25AFF>凍結</color><sprite=2>や<color=#FFE25AFF>感電</color><sprite=0>対策をしよう！\n・<color=#FFE25AFF>暗闇</color><sprite=9>が有効だぞ！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
 		},
 		{
 			"text_id": "490202",
-			"text": "・<color=#FFE25AFF>眠り</color><sprite=4>対策をしていこう！\n・<color=#FFE25AFF>暗闇</color><sprite=9>が有効だ！\n・<color=#FFE25AFF>調子を上げて</color>挑もう！"
+			"text": "・<color=#FFE25AFF>眠り</color><sprite=4>対策をしよう！\n・<color=#FFE25AFF>暗闇</color><sprite=9>が有効だぞ！\n・<color=#FFE25AFF>ブロック率</color>を高めよう！"
 		},
 		{
 			"text_id": "490203",
-			"text": "・<color=#FFE25AFF>マヒ</color><sprite=1>対策をしていこう！\n・<color=#FFE25AFF>冷静</color>のデジモンを連れていこう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>マヒ</color><sprite=1>対策をしよう！\n・個性が<color=#FFE25AFF>冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
 		},
 		{
 			"text_id": "490204",
-			"text": "・<color=#FFE25AFF>暗闇</color><sprite=9>対策をしていこう！\n・<color=#FFE25AFF>DEF</color>や<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！"
+			"text": "・<color=#FFE25AFF>暗闇</color><sprite=9>対策をしよう！\n・<color=#FFE25AFF>DEF</color>や<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！"
 		},
 		{
 			"text_id": "490205",
@@ -9042,7 +9054,7 @@
 		},
 		{
 			"text_id": "490231",
-			"text": "・<color=#FFE25AFF>暗闇</color><sprite=9>対策をしよう！\n・<color=#FFE25AFF>毒</color><sprite=5>や<color=#FFE25AFF>ヤケド</color><sprite=6>が有効だぞ！\n・<color=#FFE25AFF>調子を上げて</color>挑もう！"
+			"text": "・<color=#FFE25AFF>暗闇</color><sprite=9>対策をしよう！\n・<color=#FFE25AFF>毒</color><sprite=5>や<color=#FFE25AFF>ヤケド</color><sprite=6>が有効だぞ！\n・<color=#FFE25AFF>DEF</color>や<color=#FFE25AFF>ブロック率</color>を高めよう！"
 		},
 		{
 			"text_id": "490241",
@@ -9070,11 +9082,11 @@
 		},
 		{
 			"text_id": "490301",
-			"text": "・<color=#FFE25AFF>毒</color><sprite=5>や<color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！\n・<color=#FFE25AFF>HP</color>を回復するデジモンと挑もう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
+			"text": "・<color=#FFE25AFF>毒</color><sprite=5>や<color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
 		},
 		{
 			"text_id": "490311",
-			"text": "・<color=#FFE25AFF>毒</color><sprite=5>や<color=#FFE25AFF>ヤケド</color><sprite=6>が有効だぞ！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
+			"text": "・<color=#FFE25AFF>毒</color><sprite=5>や<color=#FFE25AFF>ヤケド</color><sprite=6>が有効だぞ！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
 		},
 		{
 			"text_id": "490321",
@@ -9103,6 +9115,10 @@
 		{
 			"text_id": "490381",
 			"text": "・個性が<color=#FFE25AFF>冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>クリティカル率</color>を高めよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+		},
+		{
+			"text_id": "490391",
+			"text": "・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！\n・<color=#FFE25AFF>PWR</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>ヤケド</color><sprite=6>や<color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！"
 		},
 		{
 			"text_id": "491",
