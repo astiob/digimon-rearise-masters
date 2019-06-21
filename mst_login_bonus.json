@@ -49,6 +49,42 @@
 			"asset_path": "login_bonus/g3436_login_bonus"
 		},
 		{
+			"login_bonus_id": "12",
+			"name": "カムバックログインボーナス",
+			"disp_priority": "2",
+			"start_trigger_type": "2",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2019-06-25 12:00:00",
+			"end_date": "2100-05-07 11:59:59",
+			"receivable_days": "9",
+			"asset_path": "login_bonus/g3550_login_bonus"
+		},
+		{
+			"login_bonus_id": "13",
+			"name": "デジモンリアライズ リリース1周年記念！ログインボーナス(前半)",
+			"disp_priority": "2",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2019-06-25 12:00:00",
+			"end_date": "2019-07-10 11:59:59",
+			"receivable_days": "17",
+			"asset_path": "login_bonus/g3543_login_bonus_1"
+		},
+		{
+			"login_bonus_id": "14",
+			"name": "デジモンリアライズ リリース1周年記念！ログインボーナス(後半)",
+			"disp_priority": "2",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2019-07-10 12:00:00",
+			"end_date": "2019-07-25 11:59:59",
+			"receivable_days": "17",
+			"asset_path": "login_bonus/g3543_login_bonus_2"
+		},
+		{
 			"login_bonus_id": "2",
 			"name": "スタートダッシュログインボーナス",
 			"disp_priority": "1",

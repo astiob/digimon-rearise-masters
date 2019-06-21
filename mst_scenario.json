@@ -1,64 +1,10 @@
 {
 	"masterRows": [
 		{
-			"scenario_id": "100003",
-			"scenario_asset": "scenario/scenario/s16_1_jp",
-			"title": "Hランク",
-			"description": "IランクからHランクに昇格"
-		},
-		{
-			"scenario_id": "100004",
-			"scenario_asset": "scenario/scenario/s16_2_jp",
-			"title": "Gランク",
-			"description": "HランクからGランクに昇格"
-		},
-		{
-			"scenario_id": "100005",
-			"scenario_asset": "scenario/scenario/s16_3_jp",
-			"title": "Fランク",
-			"description": "GランクからFランクに昇格"
-		},
-		{
-			"scenario_id": "100006",
-			"scenario_asset": "scenario/scenario/s16_4_jp",
-			"title": "Eランク",
-			"description": "FランクからEランクに昇格"
-		},
-		{
-			"scenario_id": "100007",
-			"scenario_asset": "scenario/scenario/s16_5_jp",
-			"title": "Dランク",
-			"description": "EランクからDランクに昇格"
-		},
-		{
-			"scenario_id": "100008",
-			"scenario_asset": "scenario/scenario/s16_6_jp",
-			"title": "Cランク",
-			"description": "DランクからCランクに昇格"
-		},
-		{
-			"scenario_id": "100009",
-			"scenario_asset": "scenario/scenario/s16_7_jp",
-			"title": "Bランク",
-			"description": "CランクからBランクに昇格"
-		},
-		{
 			"scenario_id": "10001",
 			"scenario_asset": "scenario/scenario/s1_0_jp",
 			"title": "プロローグ",
 			"description": ""
-		},
-		{
-			"scenario_id": "100010",
-			"scenario_asset": "scenario/scenario/s16_8_jp",
-			"title": "Aランク",
-			"description": "BランクからAランクに昇格"
-		},
-		{
-			"scenario_id": "100011",
-			"scenario_asset": "scenario/scenario/s11_1_jp",
-			"title": "Sランク",
-			"description": "AランクからSランクに昇格"
 		},
 		{
 			"scenario_id": "10101",
@@ -1615,6 +1561,96 @@
 			"description": ""
 		},
 		{
+			"scenario_id": "12201",
+			"scenario_asset": "scenario/scenario/s22_1_jp",
+			"title": "1.22章前編　1話",
+			"description": ""
+		},
+		{
+			"scenario_id": "12202",
+			"scenario_asset": "scenario/scenario/s22_2_jp",
+			"title": "3.22章前編　3話",
+			"description": ""
+		},
+		{
+			"scenario_id": "12203",
+			"scenario_asset": "scenario/scenario/s22_3_jp",
+			"title": "4.22章前編　5話",
+			"description": ""
+		},
+		{
+			"scenario_id": "12204",
+			"scenario_asset": "scenario/scenario/s22_4_jp",
+			"title": "6.22章前編　7話",
+			"description": ""
+		},
+		{
+			"scenario_id": "12205",
+			"scenario_asset": "scenario/scenario/s22_5_jp",
+			"title": "7.22章前編　9話",
+			"description": ""
+		},
+		{
+			"scenario_id": "12221",
+			"scenario_asset": "scenario/scenario/s22_b1_jp",
+			"title": "2.22章前編　2話（バトル）",
+			"description": ""
+		},
+		{
+			"scenario_id": "12222",
+			"scenario_asset": "scenario/scenario/s22_b2_jp",
+			"title": "5.22章前編　6話（バトル）",
+			"description": ""
+		},
+		{
+			"scenario_id": "12301",
+			"scenario_asset": "scenario/scenario/s22_11_jp",
+			"title": "Episode：スパイラル(1)",
+			"description": ""
+		},
+		{
+			"scenario_id": "12302",
+			"scenario_asset": "scenario/scenario/s22_12_jp",
+			"title": "Episode：スパイラル(2)",
+			"description": ""
+		},
+		{
+			"scenario_id": "12303",
+			"scenario_asset": "scenario/scenario/s22_13_jp",
+			"title": "Episode：スパイラル(3)",
+			"description": ""
+		},
+		{
+			"scenario_id": "12401",
+			"scenario_asset": "scenario/scenario/s22_6_jp",
+			"title": "1.22章後編　1話",
+			"description": ""
+		},
+		{
+			"scenario_id": "12402",
+			"scenario_asset": "scenario/scenario/s22_7_jp",
+			"title": "2.22章後編　4話",
+			"description": ""
+		},
+		{
+			"scenario_id": "12403",
+			"scenario_asset": "scenario/scenario/s22_8_jp",
+			"title": "3.22章後編　5話",
+			"description": ""
+		},
+		{
+			"scenario_id": "12404",
+			"scenario_asset": "scenario/scenario/s22_9_jp",
+			"title": "4.22章後編　8話",
+			"description": ""
+		},
+		{
+			"scenario_id": "12405",
+			"scenario_asset": "scenario/scenario/s22_10_jp",
+			"title": "5.22章後編　9話",
+			"description": ""
+		},
+		{
 			"scenario_id": "60011",
 			"scenario_asset": "scenario/scenario/sq1_1_jp",
 			"title": "駆ける黒の流儀！(1)",
@@ -1679,6 +1715,60 @@
 			"scenario_asset": "scenario/scenario/sub1_1_jp",
 			"title": "アンダーワールド正式オープン",
 			"description": ""
+		},
+		{
+			"scenario_id": "71003",
+			"scenario_asset": "scenario/scenario/sub2_1_jp",
+			"title": "BPシナリオ Hランク(シナリオ1)",
+			"description": "IランクからHランクに昇格"
+		},
+		{
+			"scenario_id": "71004",
+			"scenario_asset": "scenario/scenario/sub2_2_jp",
+			"title": "BPシナリオ Gランク(シナリオ2)",
+			"description": "HランクからGランクに昇格"
+		},
+		{
+			"scenario_id": "71005",
+			"scenario_asset": "scenario/scenario/sub2_3_jp",
+			"title": "BPシナリオ Fランク(シナリオ3)",
+			"description": "GランクからFランクに昇格"
+		},
+		{
+			"scenario_id": "71006",
+			"scenario_asset": "scenario/scenario/sub2_4_jp",
+			"title": "BPシナリオ Eランク(シナリオ4)",
+			"description": "FランクからEランクに昇格"
+		},
+		{
+			"scenario_id": "71007",
+			"scenario_asset": "scenario/scenario/sub2_5_jp",
+			"title": "BPシナリオ Dランク(シナリオ5)",
+			"description": "EランクからDランクに昇格"
+		},
+		{
+			"scenario_id": "71008",
+			"scenario_asset": "scenario/scenario/sub2_6_jp",
+			"title": "BPシナリオ Cランク(シナリオ6)",
+			"description": "DランクからCランクに昇格"
+		},
+		{
+			"scenario_id": "71009",
+			"scenario_asset": "scenario/scenario/sub2_7_jp",
+			"title": "BPシナリオ Bランク(シナリオ7)",
+			"description": "CランクからBランクに昇格"
+		},
+		{
+			"scenario_id": "71010",
+			"scenario_asset": "scenario/scenario/sub2_8_jp",
+			"title": "BPシナリオ Aランク(シナリオ8)",
+			"description": "BランクからAランクに昇格"
+		},
+		{
+			"scenario_id": "71011",
+			"scenario_asset": "scenario/scenario/sub2_9_jp",
+			"title": "BPシナリオ Sランク(シナリオ9)",
+			"description": "AランクからSランクに昇格"
 		},
 		{
 			"scenario_id": "80011",
@@ -2098,6 +2188,18 @@
 			"scenario_id": "90391",
 			"scenario_asset": "scenario/scenario/r39_1_jp",
 			"title": "激突戦！リリスモン",
+			"description": ""
+		},
+		{
+			"scenario_id": "90401",
+			"scenario_asset": "scenario/scenario/r40_1_jp",
+			"title": "激突戦！ラセンモンGM（開始）",
+			"description": ""
+		},
+		{
+			"scenario_id": "90402",
+			"scenario_asset": "scenario/scenario/r40_2_jp",
+			"title": "激突戦！ラセンモンGM（終了）",
 			"description": ""
 		}
 	]

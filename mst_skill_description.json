@@ -33,35 +33,35 @@
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
+			"text": "[if)is_multiple_attack]敵全体を対象にランダムに[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]敵[@target_num]単体[/@target_num]に[/elif)is_multiple_attack][if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
+			"text": "[if)is_multiple_attack]使用できないですが、[/if)is_multiple_attack]敵[@target_num]2体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
+			"text": "[if)is_multiple_attack]使用できないですが、[/if)is_multiple_attack]敵[@target_num]3体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
+			"text": "[if)is_multiple_attack]使用できないですが、[/if)is_multiple_attack]敵[@target_num]4体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
+			"text": "[if)is_multiple_attack]使用できないですが、[/if)is_multiple_attack]敵[@target_num]全体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
 		},
 		{
 			"action_efficacy_type": "0",
@@ -2204,6 +2204,83 @@
 			"target_type": "2",
 			"target_num": "1",
 			"text": "自分に反撃発生時のダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "39",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "39",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "39",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "39",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "39",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "39",
+			"index_in_type": "0",
+			"target_type": "10",
+			"target_num": "5",
+			"text": "個性が「勇敢」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "39",
+			"index_in_type": "0",
+			"target_type": "11",
+			"target_num": "5",
+			"text": "個性が「冷静」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "39",
+			"index_in_type": "0",
+			"target_type": "12",
+			"target_num": "5",
+			"text": "個性が「器用」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "39",
+			"index_in_type": "0",
+			"target_type": "13",
+			"target_num": "5",
+			"text": "個性が「不屈」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "39",
+			"index_in_type": "0",
+			"target_type": "14",
+			"target_num": "5",
+			"text": "個性が「献身」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "39",
+			"index_in_type": "0",
+			"target_type": "2",
+			"target_num": "1",
+			"text": "自分に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "4",

@@ -2784,6 +2784,116 @@
 			"receive_asset": ""
 		},
 		{
+			"challenge_id": "1020010",
+			"challenge_group_id": "10200",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_10200"
+		},
+		{
+			"challenge_id": "1020011",
+			"challenge_group_id": "10200",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "2003",
+			"description": "デジモンを1回お世話しよう",
+			"challenge_condition": "16",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1020012",
+			"challenge_group_id": "10200",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1991",
+			"description": "メインストーリー2章1話をクリアしよう",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1002010}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1020013",
+			"challenge_group_id": "10200",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1992",
+			"description": "デジモンを1回強化させよう",
+			"challenge_condition": "19",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1020014",
+			"challenge_group_id": "10200",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1992",
+			"description": "デジモンを3回特訓させよう",
+			"challenge_condition": "17",
+			"json_value": "{\"count\":3}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1020015",
+			"challenge_group_id": "10200",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1986",
+			"description": "激突戦のバトルに5回参加しよう",
+			"challenge_condition": "12",
+			"json_value": "{\"count\":5}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1020016",
+			"challenge_group_id": "10200",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1986",
+			"description": "激突戦のバトルで10回勝利しよう",
+			"challenge_condition": "14",
+			"json_value": "{\"count\":10}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1020017",
+			"challenge_group_id": "10200",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1992",
+			"description": "デジモンを3回進化させよう　※幼年期の進化も含む",
+			"challenge_condition": "21",
+			"json_value": "{\"count\":3}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1020018",
+			"challenge_group_id": "10200",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1988",
+			"description": "バトルパークに10回参加しよう",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":10}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1020019",
+			"challenge_group_id": "10200",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1986",
+			"description": "激突戦のバトルを10回救援しよう",
+			"challenge_condition": "35",
+			"json_value": "{\"count\":10}",
+			"receive_asset": ""
+		},
+		{
 			"challenge_id": "1021010",
 			"challenge_group_id": "10210",
 			"rank": "1",

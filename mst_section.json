@@ -188,6 +188,24 @@
 			"panel_asset": "section/section_skin021",
 			"map_asset": "quest/map/map_section21",
 			"start_date": "2019-05-20 12:00:00"
+		},
+		{
+			"section_id": "1022",
+			"number": "22",
+			"title": "22章",
+			"description": "変えていく未来　前編",
+			"panel_asset": "section/section_skin022_01",
+			"map_asset": "quest/map/map_section22_01",
+			"start_date": "2019-06-25 12:00:00"
+		},
+		{
+			"section_id": "1023",
+			"number": "23",
+			"title": "断章",
+			"description": "Episode：スパイラル",
+			"panel_asset": "section/section_skin022_spiral",
+			"map_asset": "quest/map/map_section22_spiral",
+			"start_date": "2019-06-29 12:00:00"
 		}
 	]
 }

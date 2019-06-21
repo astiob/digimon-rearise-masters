@@ -553,6 +553,54 @@
 			"description": "現実世界では交通整理や規制などに使用されるが、デジモンたちにはあまり効果がない。ずいぶんと使い込まれているようだ。(5x5)"
 		},
 		{
+			"deco_id": "72",
+			"name": "1周年記念のデジタルサイネージ",
+			"size_x": "5",
+			"size_y": "5",
+			"is_limited": "0",
+			"selling_price": "20000",
+			"icon_asset": "deco/icon/icondeco072",
+			"model_asset": "deco/deco0072",
+			"emotion_icon_asset": "",
+			"description": "1周年を記念して作られたデジタルな看板。(5x5)"
+		},
+		{
+			"deco_id": "75",
+			"name": "1周年記念のお祝いケーキ",
+			"size_x": "6",
+			"size_y": "6",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco075",
+			"model_asset": "deco/deco0075",
+			"emotion_icon_asset": "",
+			"description": "1周年を記念した特注のケーキ。<color=#E75600>なかよく分け合ってデジモン達は大満足。</color>(6x6)"
+		},
+		{
+			"deco_id": "76",
+			"name": "1周年記念のお祝い花火",
+			"size_x": "7",
+			"size_y": "5",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco076",
+			"model_asset": "deco/deco0076",
+			"emotion_icon_asset": "",
+			"description": "1周年を記念したド派手な花火。<color=#E75600>花火の迫力にデジモンたちも大興奮。</color>(5x7)"
+		},
+		{
+			"deco_id": "77",
+			"name": "1周年記念のお祝い看板",
+			"size_x": "7",
+			"size_y": "5",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco077",
+			"model_asset": "deco/deco0077",
+			"emotion_icon_asset": "",
+			"description": "1周年を記念したスペシャルな立て看板。<color=#E75600>デジモン達も看板の前に集まって1周年をお祝い。</color>(5x7)"
+		},
+		{
 			"deco_id": "78",
 			"name": "ウンチ",
 			"size_x": "1",
