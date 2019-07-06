@@ -374,6 +374,12 @@
 		},
 		{
 			"category": "SYSTEM",
+			"name": "ASYNC_LIMIT",
+			"value": "20",
+			"description": "並列読み込み上限数"
+		},
+		{
+			"category": "SYSTEM",
 			"name": "COMBACK_DAYS",
 			"value": "30",
 			"description": "カムバック扱いになる日数"
