@@ -695,13 +695,13 @@
 		},
 		{
 			"item_id": "10118",
-			"item_name": "???の進化コード",
+			"item_name": "ラセンモンの進化コード",
 			"sort_key": "",
 			"item_type": "3",
-			"icon_asset": "icon/item/evolution/iconevolutionitem_unknown",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10030",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "???への進化へ導くアイテム",
+			"description": "最終進化形態がラセンモンの系譜の進化を導くアイテム",
 			"max_amount": "9999"
 		},
 		{
@@ -9307,6 +9307,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "175411001",
+			"item_name": "攻α(勇敢 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment175411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "175411002",
+			"item_name": "攻α(勇敢 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment175411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "175411003",
+			"item_name": "攻α(勇敢 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment175411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "175411004",
+			"item_name": "攻α(勇敢 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment175411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "175411005",
+			"item_name": "攻α(勇敢 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment175411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "175431001",
+			"item_name": "守α(勇敢 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment175431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "175431002",
+			"item_name": "守α(勇敢 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment175431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "175431003",
+			"item_name": "守α(勇敢 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment175431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "175431004",
+			"item_name": "守α(勇敢 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment175431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "175431005",
+			"item_name": "守α(勇敢 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment175431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "176413001",
 			"item_name": "攻α(器用 ラセンモンGM)",
 			"sort_key": "",
@@ -10360,6 +10470,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "冷静のスレイヤードラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "186422001",
+			"item_name": "攻α(冷静 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment186422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "186422002",
+			"item_name": "攻α(冷静 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment186422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "186422003",
+			"item_name": "攻α(冷静 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment186422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "186422004",
+			"item_name": "攻α(冷静 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment186422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "186422005",
+			"item_name": "攻α(冷静 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment186422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "186432001",
+			"item_name": "守α(冷静 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment186432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "186432002",
+			"item_name": "守α(冷静 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment186432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "186432003",
+			"item_name": "守α(冷静 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment186432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "186432004",
+			"item_name": "守α(冷静 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment186432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラセンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "186432005",
+			"item_name": "守α(冷静 ラセンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment186432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラセンモンがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
