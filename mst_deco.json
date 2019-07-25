@@ -553,6 +553,18 @@
 			"description": "現実世界では交通整理や規制などに使用されるが、デジモンたちにはあまり効果がない。ずいぶんと使い込まれているようだ。(5x5)"
 		},
 		{
+			"deco_id": "70",
+			"name": "テレビの山",
+			"size_x": "6",
+			"size_y": "5",
+			"is_limited": "0",
+			"selling_price": "20000",
+			"icon_asset": "deco/icon/icondeco070",
+			"model_asset": "deco/deco0070",
+			"emotion_icon_asset": "",
+			"description": "ひと昔前のテレビ。様々な人に情報を伝えていたが世代交代の荒波にもまれ、今はその役目を終えている……？<color=#e75600>デジモンが近くにいるとひょっこりと何か映ることがあるかもしれない。</color>(5x6)"
+		},
+		{
 			"deco_id": "72",
 			"name": "1周年記念のデジタルサイネージ",
 			"size_x": "5",
