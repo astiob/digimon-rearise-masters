@@ -1244,6 +1244,50 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1021521",
+			"item_name": "アーマゲモン(器用)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021521",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超究極体アーマゲモン（器用）の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021522",
+			"item_name": "アーマゲモン(器用)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021522",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超究極体アーマゲモン（器用）の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021523",
+			"item_name": "アーマゲモン(器用)スキルストーン",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021523",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超究極体アーマゲモン（器用）の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021583",
+			"item_name": "ディアボロモン(冷静)スキルストーン",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021583",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ディアボロモン（冷静)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "102422001",
 			"item_name": "攻α(冷静 パンダモン)",
 			"sort_key": "",
@@ -11507,6 +11551,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "194422001",
+			"item_name": "攻α(冷静 ディアボロモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment194422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のディアボロモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "194422002",
+			"item_name": "攻α(冷静 ディアボロモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment194422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のディアボロモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "194422003",
+			"item_name": "攻α(冷静 ディアボロモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment194422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のディアボロモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "194422004",
+			"item_name": "攻α(冷静 ディアボロモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment194422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のディアボロモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "194422005",
+			"item_name": "攻α(冷静 ディアボロモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment194422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のディアボロモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "194432001",
+			"item_name": "守α(冷静 ディアボロモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment194432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のディアボロモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "194432002",
+			"item_name": "守α(冷静 ディアボロモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment194432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のディアボロモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "194432003",
+			"item_name": "守α(冷静 ディアボロモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment194432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のディアボロモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "194432004",
+			"item_name": "守α(冷静 ディアボロモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment194432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のディアボロモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "194432005",
+			"item_name": "守α(冷静 ディアボロモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment194432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のディアボロモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "195",
 			"item_name": "格闘術の特訓チップⅤ",
 			"sort_key": "",
@@ -20018,6 +20172,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "究極体マリンエンジェモン系譜、究極体サクヤモン系譜、究極体ミネルヴァモン系譜、究極体スレイプモン系譜のいずれかが各25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25188",
+			"item_name": "再誕する破壊者のデジタマ",
+			"sort_key": "サイタンスルハカイシャノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama047",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "ディアボロモンに育つデジモンが産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{

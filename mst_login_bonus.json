@@ -109,6 +109,18 @@
 			"asset_path": "login_bonus/G3750_G3752_login_bonus_2"
 		},
 		{
+			"login_bonus_id": "17",
+			"name": "夏休みログインボーナス",
+			"disp_priority": "2",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2019-08-09 12:00:00",
+			"end_date": "2019-08-19 11:59:59",
+			"receivable_days": "11",
+			"asset_path": "login_bonus/G3751_login_bonus"
+		},
+		{
 			"login_bonus_id": "2",
 			"name": "スタートダッシュログインボーナス",
 			"disp_priority": "1",

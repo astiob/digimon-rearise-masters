@@ -332,6 +332,33 @@
 			"start_asset": "challenge/challenge_begin_10400",
 			"start_trigger_type": "0",
 			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10410",
+			"start_date": "2019-08-15 12:00:00",
+			"end_date": "2019-08-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10410",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10420",
+			"start_date": "2019-08-07 12:00:00",
+			"end_date": "2019-08-15 11:59:59",
+			"disp_order": "10",
+			"start_asset": "challenge/challenge_begin_10420",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10430",
+			"start_date": "2019-08-15 12:00:00",
+			"end_date": "2019-08-23 11:59:59",
+			"disp_order": "10",
+			"start_asset": "challenge/challenge_begin_10430",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
 		}
 	]
 }
