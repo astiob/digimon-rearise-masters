@@ -870,6 +870,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "10134",
+			"item_name": "オメガモンズワルトの進化コード",
+			"sort_key": "",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10034",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態オメガモンズワルトへの進化へ導くアイテム",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "101435001",
 			"item_name": "守α(献身 リリモン)",
 			"sort_key": "",
@@ -1351,6 +1362,39 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "究極体ラグエルモン（冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021601",
+			"item_name": "オメガモンズワルト(器用)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021601",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超究極体オメガモンズワルト(器用)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021602",
+			"item_name": "オメガモンズワルト(器用)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超究極体オメガモンズワルト(器用)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021603",
+			"item_name": "オメガモンズワルト(器用)スキルストーン",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021603",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超究極体オメガモンズワルト(器用)の系譜のスキルレベルを確実にアップできる貴重な石板",
 			"max_amount": "9999"
 		},
 		{
@@ -15375,7 +15419,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment20002",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンのPWRを引き出すデータが格納されたプラグイン",
+			"description": "デジモンのDEFを引き出すデータが格納されたプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -15386,7 +15430,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment20002",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンのPWRを引き出すデータが格納されたプラグイン",
+			"description": "デジモンのDEFを引き出すデータが格納されたプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -15397,7 +15441,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment20002",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンのPWRを引き出すデータが格納されたプラグイン",
+			"description": "デジモンのDEFを引き出すデータが格納されたプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -15408,7 +15452,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment20002",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンのPWRを引き出すデータが格納されたプラグイン",
+			"description": "デジモンのDEFを引き出すデータが格納されたプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -15419,7 +15463,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment20002",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンのPWRを引き出すデータが格納されたプラグイン",
+			"description": "デジモンのDEFを引き出すデータが格納されたプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -20953,6 +20997,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "究極体ロトスモン系譜、究極体ホウオウモン系譜、究極体ケルビモン(善)系譜、究極体オファニモン系譜のいずれかが各25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25192",
+			"item_name": "月間ログボのデジタマ1",
+			"sort_key": "ゲッカンログボノデジタマイチ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama003",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体に育つデジモンが産まれるかもしれないデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25193",
+			"item_name": "月間ログボのデジタマ2",
+			"sort_key": "ゲッカンログボノデジタマニ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama005",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体に育つデジモンが産まれるかもしれないデジタマ",
 			"max_amount": "9999"
 		},
 		{

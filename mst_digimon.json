@@ -14182,7 +14182,7 @@
 			"evolutionary_type": "2",
 			"default_max_level": "10",
 			"default_max_friendship_level": "10",
-			"model_asset": "digimon/model/chr317",
+			"model_asset": "digimon/model/chr387",
 			"icon_asset": "digimon/icon/digimonface1003200",
 			"emotion_icon_asset": "digimon/emotion_icon/icon_emotion_provisional",
 			"normal_attack_skill_id": "1",
@@ -14190,9 +14190,9 @@
 			"friend_skill_id": "10121024",
 			"is_limited": "0",
 			"selling_price": "0",
-			"dot_icon_asset": "digimon/doticon/doticonchr317",
+			"dot_icon_asset": "digimon/doticon/doticonchr387",
 			"whole_image_asset": "digimon/whole/digimonbody1003200",
-			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr317",
+			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr387",
 			"voice_type": "30",
 			"genealogy": "104"
 		},
@@ -14208,7 +14208,7 @@
 			"evolutionary_type": "2",
 			"default_max_level": "10",
 			"default_max_friendship_level": "15",
-			"model_asset": "digimon/model/chr322",
+			"model_asset": "digimon/model/chr510",
 			"icon_asset": "digimon/icon/digimonface1003201",
 			"emotion_icon_asset": "digimon/emotion_icon/icon_emotion_provisional",
 			"normal_attack_skill_id": "1",
@@ -14216,9 +14216,9 @@
 			"friend_skill_id": "10121024",
 			"is_limited": "0",
 			"selling_price": "0",
-			"dot_icon_asset": "digimon/doticon/doticonchr322",
+			"dot_icon_asset": "digimon/doticon/doticonchr510",
 			"whole_image_asset": "digimon/whole/digimonbody1003201",
-			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr322",
+			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr510",
 			"voice_type": "30",
 			"genealogy": "104"
 		},
@@ -22361,6 +22361,188 @@
 			"genealogy": "159"
 		},
 		{
+			"digimon_id": "1160300",
+			"code": "botamon",
+			"name": "ボタモン",
+			"attack_type": "1",
+			"personality_type": "3",
+			"growth_type": "1",
+			"generation": "0",
+			"dna": "9",
+			"evolutionary_type": "3",
+			"default_max_level": "10",
+			"default_max_friendship_level": "10",
+			"model_asset": "digimon/model/chr317",
+			"icon_asset": "digimon/icon/digimonface1010100",
+			"emotion_icon_asset": "digimon/emotion_icon/icon_emotion_provisional",
+			"normal_attack_skill_id": "1",
+			"passive_skill_id": "17",
+			"friend_skill_id": "10121024",
+			"is_limited": "0",
+			"selling_price": "0",
+			"dot_icon_asset": "digimon/doticon/doticonchr317",
+			"whole_image_asset": "digimon/whole/digimonbody1010100",
+			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr317",
+			"voice_type": "30",
+			"genealogy": "160"
+		},
+		{
+			"digimon_id": "1160301",
+			"code": "koromon",
+			"name": "コロモン",
+			"attack_type": "1",
+			"personality_type": "3",
+			"growth_type": "1",
+			"generation": "1",
+			"dna": "9",
+			"evolutionary_type": "3",
+			"default_max_level": "10",
+			"default_max_friendship_level": "15",
+			"model_asset": "digimon/model/chr322",
+			"icon_asset": "digimon/icon/digimonface1010101",
+			"emotion_icon_asset": "digimon/emotion_icon/icon_emotion_provisional",
+			"normal_attack_skill_id": "1",
+			"passive_skill_id": "17",
+			"friend_skill_id": "10121024",
+			"is_limited": "0",
+			"selling_price": "0",
+			"dot_icon_asset": "digimon/doticon/doticonchr322",
+			"whole_image_asset": "digimon/whole/digimonbody1010101",
+			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr322",
+			"voice_type": "30",
+			"genealogy": "160"
+		},
+		{
+			"digimon_id": "1160302",
+			"code": "agumonkuro",
+			"name": "アグモン(黒)",
+			"attack_type": "1",
+			"personality_type": "3",
+			"growth_type": "1160302",
+			"generation": "2",
+			"dna": "1",
+			"evolutionary_type": "3",
+			"default_max_level": "10",
+			"default_max_friendship_level": "20",
+			"model_asset": "digimon/model/chr143",
+			"icon_asset": "digimon/icon/digimonface1160302",
+			"emotion_icon_asset": "digimon/emotion_icon/icon_emotion_provisional",
+			"normal_attack_skill_id": "1",
+			"passive_skill_id": "11603023",
+			"friend_skill_id": "11603021",
+			"is_limited": "0",
+			"selling_price": "2500",
+			"dot_icon_asset": "digimon/doticon/doticonchr143",
+			"whole_image_asset": "digimon/whole/digimonbody1160302",
+			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr143",
+			"voice_type": "4",
+			"genealogy": "160"
+		},
+		{
+			"digimon_id": "1160303",
+			"code": "gureimonao",
+			"name": "グレイモン(青)",
+			"attack_type": "1",
+			"personality_type": "3",
+			"growth_type": "1160303",
+			"generation": "3",
+			"dna": "1",
+			"evolutionary_type": "3",
+			"default_max_level": "10",
+			"default_max_friendship_level": "20",
+			"model_asset": "digimon/model/chr712",
+			"icon_asset": "digimon/icon/digimonface1160303",
+			"emotion_icon_asset": "digimon/emotion_icon/icon_emotion_provisional",
+			"normal_attack_skill_id": "1",
+			"passive_skill_id": "11603033",
+			"friend_skill_id": "11603031",
+			"is_limited": "0",
+			"selling_price": "5000",
+			"dot_icon_asset": "digimon/doticon/doticonchr712",
+			"whole_image_asset": "digimon/whole/digimonbody1160303",
+			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr712",
+			"voice_type": "27",
+			"genealogy": "160"
+		},
+		{
+			"digimon_id": "1160304",
+			"code": "metarugureimonao",
+			"name": "メタルグレイモン(青)",
+			"attack_type": "1",
+			"personality_type": "3",
+			"growth_type": "1160304",
+			"generation": "4",
+			"dna": "1",
+			"evolutionary_type": "3",
+			"default_max_level": "10",
+			"default_max_friendship_level": "20",
+			"model_asset": "digimon/model/chr327",
+			"icon_asset": "digimon/icon/digimonface1160304",
+			"emotion_icon_asset": "digimon/emotion_icon/icon_emotion_provisional",
+			"normal_attack_skill_id": "1",
+			"passive_skill_id": "11603043",
+			"friend_skill_id": "11603041",
+			"is_limited": "0",
+			"selling_price": "10000",
+			"dot_icon_asset": "digimon/doticon/doticonchr327",
+			"whole_image_asset": "digimon/whole/digimonbody1160304",
+			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr327",
+			"voice_type": "27",
+			"genealogy": "160"
+		},
+		{
+			"digimon_id": "1160305",
+			"code": "burakkuwoogureimon",
+			"name": "ブラックウォーグレイモン",
+			"attack_type": "1",
+			"personality_type": "3",
+			"growth_type": "1160305",
+			"generation": "5",
+			"dna": "1",
+			"evolutionary_type": "3",
+			"default_max_level": "10",
+			"default_max_friendship_level": "20",
+			"model_asset": "digimon/model/chr175",
+			"icon_asset": "digimon/icon/digimonface1160305",
+			"emotion_icon_asset": "digimon/emotion_icon/icon_emotion_provisional",
+			"normal_attack_skill_id": "1",
+			"passive_skill_id": "11603053",
+			"friend_skill_id": "11603051",
+			"is_limited": "0",
+			"selling_price": "25000",
+			"dot_icon_asset": "digimon/doticon/doticonchr175",
+			"whole_image_asset": "digimon/whole/digimonbody1160305",
+			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr175",
+			"voice_type": "11",
+			"genealogy": "160"
+		},
+		{
+			"digimon_id": "1160306",
+			"code": "omegamonzuwaruto",
+			"name": "オメガモンズワルト",
+			"attack_type": "1",
+			"personality_type": "3",
+			"growth_type": "1160306",
+			"generation": "6",
+			"dna": "7",
+			"evolutionary_type": "3",
+			"default_max_level": "10",
+			"default_max_friendship_level": "20",
+			"model_asset": "digimon/model/chr757",
+			"icon_asset": "digimon/icon/digimonface1160306",
+			"emotion_icon_asset": "digimon/emotion_icon/icon_emotion_provisional",
+			"normal_attack_skill_id": "1",
+			"passive_skill_id": "11603063",
+			"friend_skill_id": "11603064",
+			"is_limited": "0",
+			"selling_price": "25000",
+			"dot_icon_asset": "digimon/doticon/doticonchr757",
+			"whole_image_asset": "digimon/whole/digimonbody1160306",
+			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr757",
+			"voice_type": "19",
+			"genealogy": "160"
+		},
+		{
 			"digimon_id": "1161100",
 			"code": "yukimibotamon",
 			"name": "ユキミボタモン",
@@ -23742,7 +23924,7 @@
 			"digimon_id": "2021202",
 			"code": "",
 			"name": "Spiral-2021B",
-			"attack_type": "1",
+			"attack_type": "2",
 			"personality_type": "2",
 			"growth_type": "22001",
 			"generation": "2",
@@ -25923,6 +26105,58 @@
 			"genealogy": "0"
 		},
 		{
+			"digimon_id": "3068306",
+			"code": "omegamonzwart",
+			"name": "オメガモンズワルト",
+			"attack_type": "1",
+			"personality_type": "3",
+			"growth_type": "3068306",
+			"generation": "6",
+			"dna": "6",
+			"evolutionary_type": "3",
+			"default_max_level": "10",
+			"default_max_friendship_level": "0",
+			"model_asset": "digimon/model/chr757",
+			"icon_asset": "digimon/icon/digimonface1160306",
+			"emotion_icon_asset": "digimon/emotion_icon/icon_emotion_provisional",
+			"normal_attack_skill_id": "9001",
+			"passive_skill_id": "30683063",
+			"friend_skill_id": "9000",
+			"is_limited": "0",
+			"selling_price": "25000",
+			"dot_icon_asset": "digimon/doticon/doticonchr757",
+			"whole_image_asset": "digimon/whole/digimonbody1160306",
+			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr757",
+			"voice_type": "19",
+			"genealogy": "0"
+		},
+		{
+			"digimon_id": "3069306",
+			"code": "omegamonzwart",
+			"name": "オメガモンズワルト",
+			"attack_type": "1",
+			"personality_type": "3",
+			"growth_type": "3069306",
+			"generation": "6",
+			"dna": "6",
+			"evolutionary_type": "3",
+			"default_max_level": "10",
+			"default_max_friendship_level": "0",
+			"model_asset": "digimon/model/chr757",
+			"icon_asset": "digimon/icon/digimonface1160306",
+			"emotion_icon_asset": "digimon/emotion_icon/icon_emotion_provisional",
+			"normal_attack_skill_id": "9001",
+			"passive_skill_id": "30693063",
+			"friend_skill_id": "9000",
+			"is_limited": "0",
+			"selling_price": "25000",
+			"dot_icon_asset": "digimon/doticon/doticonchr757",
+			"whole_image_asset": "digimon/whole/digimonbody1160306",
+			"pickup_plugin_asset": "digimon/pickup/pluginbg_pickup_chr757",
+			"voice_type": "19",
+			"genealogy": "0"
+		},
+		{
 			"digimon_id": "4001101",
 			"code": "",
 			"name": "Spiral-1001R",
@@ -25945,7 +26179,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr050",
 			"whole_image_asset": "digimon/icon/spiralface2001101",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -25971,7 +26205,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr050",
 			"whole_image_asset": "digimon/icon/spiralface2001101",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -25997,7 +26231,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr051",
 			"whole_image_asset": "digimon/icon/spiralface2001201",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -26023,7 +26257,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr053",
 			"whole_image_asset": "digimon/icon/spiralface2001401",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -26049,7 +26283,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr053",
 			"whole_image_asset": "digimon/icon/spiralface2001401",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -26075,7 +26309,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr057",
 			"whole_image_asset": "digimon/icon/spiralface2002301",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -26101,7 +26335,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr067",
 			"whole_image_asset": "digimon/icon/spiralface2004302",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -26127,7 +26361,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr067",
 			"whole_image_asset": "digimon/icon/spiralface2004302",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -35851,7 +36085,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr050",
 			"whole_image_asset": "digimon/icon/spiralface2001101",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -35877,7 +36111,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr051",
 			"whole_image_asset": "digimon/icon/spiralface2001201",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -35903,7 +36137,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr053",
 			"whole_image_asset": "digimon/icon/spiralface2001401",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -35929,7 +36163,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr056",
 			"whole_image_asset": "digimon/icon/spiralface2002201",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -35955,7 +36189,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr057",
 			"whole_image_asset": "digimon/icon/spiralface2002301",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -35981,7 +36215,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr058",
 			"whole_image_asset": "digimon/icon/spiralface2002401",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36007,7 +36241,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr062",
 			"whole_image_asset": "digimon/icon/spiralface2003302",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36033,7 +36267,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr063",
 			"whole_image_asset": "digimon/icon/spiralface2003402",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36059,7 +36293,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr066",
 			"whole_image_asset": "digimon/icon/spiralface2004202",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36085,7 +36319,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr067",
 			"whole_image_asset": "digimon/icon/spiralface2004302",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36111,7 +36345,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr068",
 			"whole_image_asset": "digimon/icon/spiralface2004402",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36137,7 +36371,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr065",
 			"whole_image_asset": "digimon/icon/spiralface2005102",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36163,7 +36397,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr071",
 			"whole_image_asset": "digimon/icon/spiralface2006203",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36189,7 +36423,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr073",
 			"whole_image_asset": "digimon/icon/spiralface2006403",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36215,7 +36449,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr076",
 			"whole_image_asset": "digimon/icon/spiralface2007203",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36241,7 +36475,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr081",
 			"whole_image_asset": "digimon/icon/spiralface2008203",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36267,7 +36501,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr082",
 			"whole_image_asset": "digimon/icon/spiralface2008303",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36293,7 +36527,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr083",
 			"whole_image_asset": "digimon/icon/spiralface2008403",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36319,7 +36553,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr087",
 			"whole_image_asset": "digimon/icon/spiralface2009303",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36345,7 +36579,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr092",
 			"whole_image_asset": "digimon/icon/spiralface2010103",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36371,7 +36605,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr092",
 			"whole_image_asset": "digimon/icon/spiralface2010303",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36397,7 +36631,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr096",
 			"whole_image_asset": "digimon/icon/spiralface2011203",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36423,7 +36657,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr100",
 			"whole_image_asset": "digimon/icon/spiralface2012103",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36475,7 +36709,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr103",
 			"whole_image_asset": "digimon/icon/spiralface2012403",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36501,7 +36735,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr106",
 			"whole_image_asset": "digimon/icon/spiralface2013103",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36527,7 +36761,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr106",
 			"whole_image_asset": "digimon/icon/spiralface2013203",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36553,7 +36787,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr107",
 			"whole_image_asset": "digimon/icon/spiralface2013303",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36579,7 +36813,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr108",
 			"whole_image_asset": "digimon/icon/spiralface2013403",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36605,7 +36839,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr112",
 			"whole_image_asset": "digimon/icon/spiralface2014303",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36631,7 +36865,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr116",
 			"whole_image_asset": "digimon/icon/spiralface2015203",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36657,7 +36891,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr117",
 			"whole_image_asset": "digimon/icon/spiralface2015303",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36683,7 +36917,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr121",
 			"whole_image_asset": "digimon/icon/spiralface2016203",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36709,7 +36943,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr126",
 			"whole_image_asset": "digimon/icon/spiralface2017203",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36735,7 +36969,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr127",
 			"whole_image_asset": "digimon/icon/spiralface2017303",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36761,7 +36995,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr130",
 			"whole_image_asset": "digimon/icon/spiralface2018103",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
@@ -36865,7 +37099,7 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr139",
 			"whole_image_asset": "digimon/icon/spiralface2019503",
 			"pickup_plugin_asset": "",
-			"voice_type": "5",
+			"voice_type": "31",
 			"genealogy": "0"
 		},
 		{
