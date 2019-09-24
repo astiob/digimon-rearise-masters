@@ -100,6 +100,17 @@
 			"end_date": "2019-08-07 11:59:59"
 		},
 		{
+			"shop_id": "18",
+			"name": "ハロウィンメダル交換",
+			"cost_item_id": "22013",
+			"disp_order": "15",
+			"entrance_asset": "shop/entrance/shop_entrance016",
+			"tab_asset": "shop/skin/shop_skin016",
+			"start_date": "2019-09-30 12:00:00",
+			"new_end_date": "2019-10-31 11:59:59",
+			"end_date": "2019-11-07 11:59:59"
+		},
+		{
 			"shop_id": "2",
 			"name": "アイテム購入",
 			"cost_item_id": "21000",

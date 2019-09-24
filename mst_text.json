@@ -6918,7 +6918,7 @@
 		},
 		{
 			"text_id": "2324",
-			"text": "このエリアは本日分挑戦済みです。 \n<br>挑戦回数は毎日{0}:{1:D2}にリセットされます。"
+			"text": "挑戦回数は土曜日と日曜日の\n<br>{0}:{1:D2}にリセットされます。"
 		},
 		{
 			"text_id": "2325",
@@ -8429,12 +8429,32 @@
 			"text": "未参加"
 		},
 		{
+			"text_id": "2765",
+			"text": "10月前半チャレンジ"
+		},
+		{
 			"text_id": "277",
 			"text": "発見者"
 		},
 		{
+			"text_id": "2778",
+			"text": "討伐pt"
+		},
+		{
+			"text_id": "2779",
+			"text": "ハロウィン激突戦イベント"
+		},
+		{
 			"text_id": "278",
 			"text": "残り時間"
+		},
+		{
+			"text_id": "2781",
+			"text": "ハロウィン激突戦イベント開催中！"
+		},
+		{
+			"text_id": "2784",
+			"text": "新スケジュール！"
 		},
 		{
 			"text_id": "279",
@@ -9671,6 +9691,10 @@
 		{
 			"text_id": "490461",
 			"text": "・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！"
+		},
+		{
+			"text_id": "490471",
+			"text": "・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！\n・<color=#FFE25AFF>眠り</color><sprite=4>対策をしよう！\n・<color=#FFE25AFF>ATK</color>を上げるデジモンと挑もう！"
 		},
 		{
 			"text_id": "491",
