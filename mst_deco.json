@@ -145,6 +145,18 @@
 			"description": "鉢植えの花などを飾り付けた花台。デジモンたちの間にもガーデニングブームが到来か？(5x5)"
 		},
 		{
+			"deco_id": "23",
+			"name": "巨大キノコ",
+			"size_x": "5",
+			"size_y": "5",
+			"is_limited": "0",
+			"selling_price": "20000",
+			"icon_asset": "deco/icon/icondeco023",
+			"model_asset": "deco/deco0016",
+			"emotion_icon_asset": "",
+			"description": "突然変異の巨大キノコ。食用か不明だが、<color=#e75600>食い意地の張ったデジモンが口にしてしまうことがある。(5x5)</color>"
+		},
+		{
 			"deco_id": "24",
 			"name": "歯車",
 			"size_x": "5",

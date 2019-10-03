@@ -451,6 +451,41 @@
 		{
 			"action_efficacy_type": "10",
 			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
 			"text": "敵[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
@@ -482,6 +517,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "12",
@@ -530,448 +600,483 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]単体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]2体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]3体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]4体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]全体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "個性が「勇敢」の味方の[:attack_type:]を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「勇敢」の味方の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "個性が「冷静」の味方の[:attack_type:]を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「冷静」の味方の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "個性が「器用」の味方の[:attack_type:]を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「器用」の味方の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "個性が「不屈」の味方の[:attack_type:]を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「不屈」の味方の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "個性が「献身」の味方の[:attack_type:]を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「献身」の味方の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "自分の[:attack_type:]を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "自分の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]単体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]2体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]3体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]4体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]全体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]単体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]2体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]3体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]4体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]全体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "個性が「勇敢」の味方の狙い撃ち率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「勇敢」の味方の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "個性が「冷静」の味方の狙い撃ち率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「冷静」の味方の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "個性が「器用」の味方の狙い撃ち率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「器用」の味方の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "個性が「不屈」の味方の狙い撃ち率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「不屈」の味方の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "個性が「献身」の味方の狙い撃ち率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「献身」の味方の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "自分の狙い撃ち率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "自分の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]単体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]2体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]3体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]4体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]全体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]の反撃率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]単体[/@target_num]の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]の反撃率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]2体[/@target_num]の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]の反撃率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]3体[/@target_num]の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]の反撃率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]4体[/@target_num]の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]の反撃率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]全体[/@target_num]の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "個性が「勇敢」の味方の反撃率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「勇敢」の味方の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "個性が「冷静」の味方の反撃率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「冷静」の味方の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "個性が「器用」の味方の反撃率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「器用」の味方の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "個性が「不屈」の味方の反撃率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「不屈」の味方の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "個性が「献身」の味方の反撃率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「献身」の味方の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "自分の反撃率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "自分の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]の反撃率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]単体[/@target_num]の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]の反撃率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]2体[/@target_num]の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]の反撃率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]3体[/@target_num]の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]の反撃率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]4体[/@target_num]の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]の反撃率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]全体[/@target_num]の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]のブロック率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]単体[/@target_num]のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]のブロック率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]2体[/@target_num]のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]のブロック率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]3体[/@target_num]のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]のブロック率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]4体[/@target_num]のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]のブロック率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]全体[/@target_num]のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "個性が「勇敢」の味方のブロック率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「勇敢」の味方のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "個性が「冷静」の味方のブロック率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「冷静」の味方のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "個性が「器用」の味方のブロック率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「器用」の味方のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "個性が「不屈」の味方のブロック率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「不屈」の味方のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "個性が「献身」の味方のブロック率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「献身」の味方のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "自分のブロック率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "自分のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]のブロック率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]単体[/@target_num]のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]のブロック率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]2体[/@target_num]のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]のブロック率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]3体[/@target_num]のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]のブロック率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]4体[/@target_num]のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]のブロック率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]全体[/@target_num]のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "18",
@@ -1011,6 +1116,41 @@
 		{
 			"action_efficacy_type": "19",
 			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
 			"text": "敵[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
@@ -1042,6 +1182,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "2",
@@ -1081,6 +1256,41 @@
 		{
 			"action_efficacy_type": "20",
 			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
 			"text": "敵[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
@@ -1112,6 +1322,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "21",
@@ -1151,6 +1396,41 @@
 		{
 			"action_efficacy_type": "22",
 			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
 			"text": "敵[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
@@ -1182,6 +1462,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "23",
@@ -1223,112 +1538,112 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]単体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]2体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]3体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]4体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]全体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "個性が「勇敢」の味方の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「勇敢」の味方の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "個性が「冷静」の味方の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「冷静」の味方の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "個性が「器用」の味方の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「器用」の味方の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "個性が「不屈」の味方の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「不屈」の味方の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "個性が「献身」の味方の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「献身」の味方の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "自分の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "自分の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]単体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]2体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]3体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]4体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]全体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "26",
@@ -1681,6 +1996,41 @@
 			"text": "自分に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "29",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "敵[@target_num]単体[/@target_num]に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "29",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "敵[@target_num]2体[/@target_num]に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "29",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "敵[@target_num]3体[/@target_num]に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "29",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "敵[@target_num]4体[/@target_num]に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "29",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "敵[@target_num]全体[/@target_num]に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
 			"action_efficacy_type": "30",
 			"index_in_type": "0",
 			"target_type": "2",
@@ -1763,6 +2113,41 @@
 			"target_type": "2",
 			"target_num": "1",
 			"text": "自分に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "31",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "敵[@target_num]単体[/@target_num]に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "31",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "敵[@target_num]2体[/@target_num]に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "31",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "敵[@target_num]3体[/@target_num]に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "31",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "敵[@target_num]4体[/@target_num]に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "31",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "敵[@target_num]全体[/@target_num]に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "32",
@@ -2001,6 +2386,41 @@
 			"target_type": "2",
 			"target_num": "1",
 			"text": "自分にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "35",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "敵[@target_num]単体[/@target_num]にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "35",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "敵[@target_num]2体[/@target_num]にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "35",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "敵[@target_num]3体[/@target_num]にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "35",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "敵[@target_num]4体[/@target_num]にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "35",
+			"index_in_type": "0",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "敵[@target_num]全体[/@target_num]にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "36",
@@ -2613,6 +3033,41 @@
 		},
 		{
 			"action_efficacy_type": "44",
+			"index_in_type": "",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "44",
+			"index_in_type": "",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "44",
+			"index_in_type": "",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "44",
+			"index_in_type": "",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "44",
+			"index_in_type": "",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "44",
 			"index_in_type": "0",
 			"target_type": "15",
 			"target_num": "5",
@@ -2754,6 +3209,41 @@
 		{
 			"action_efficacy_type": "5",
 			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
 			"text": "敵[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
@@ -2868,224 +3358,224 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]のDEFを[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]単体[/@target_num]のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]のDEFを[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]2体[/@target_num]のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]のDEFを[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]3体[/@target_num]のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]のDEFを[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]4体[/@target_num]のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]のDEFを[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]全体[/@target_num]のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "個性が「勇敢」の味方のDEFを[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「勇敢」の味方のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "個性が「冷静」の味方のDEFを[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「冷静」の味方のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "個性が「器用」の味方のDEFを[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「器用」の味方のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "個性が「不屈」の味方のDEFを[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「不屈」の味方のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "個性が「献身」の味方のDEFを[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「献身」の味方のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "自分のDEFを[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "自分のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]のDEFを[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]単体[/@target_num]のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]のDEFを[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]2体[/@target_num]のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]のDEFを[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]3体[/@target_num]のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]のDEFを[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]4体[/@target_num]のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]のDEFを[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]全体[/@target_num]のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]のクリティカル率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]単体[/@target_num]のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]のクリティカル率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]2体[/@target_num]のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]のクリティカル率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]3体[/@target_num]のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]のクリティカル率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]4体[/@target_num]のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]のクリティカル率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "味方[@target_num]全体[/@target_num]のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "個性が「勇敢」の味方のクリティカル率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「勇敢」の味方のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "個性が「冷静」の味方のクリティカル率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「冷静」の味方のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "個性が「器用」の味方のクリティカル率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「器用」の味方のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "個性が「不屈」の味方のクリティカル率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「不屈」の味方のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "個性が「献身」の味方のクリティカル率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "個性が「献身」の味方のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "自分のクリティカル率を[@value][:value:]%[/@value]アップ（[@duration][:duration:][/@duration]）"
+			"text": "自分のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]のクリティカル率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]単体[/@target_num]のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]のクリティカル率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]2体[/@target_num]のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]のクリティカル率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]3体[/@target_num]のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]のクリティカル率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]4体[/@target_num]のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]のクリティカル率を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "敵[@target_num]全体[/@target_num]のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		}
 	]
 }

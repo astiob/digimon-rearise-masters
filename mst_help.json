@@ -21,14 +21,14 @@
 		{
 			"help_id": "100",
 			"help_category_id": "6",
-			"title_text": "アンダーワールドの報酬",
-			"detail_text": "アンダーワールドでは、階層ごとに用意された報酬を手に入れることができます。\n他の冒険では手に入らない特別なアイテムが報酬になっている場合もあります。"
+			"title_text": "アンダーワールドアビスとは",
+			"detail_text": "階層ごとに配置された敵を倒し、報酬を入手することを目的とした場所です。\n一度クリアした階層に対して再び挑戦することはできません。\n階層が進むごとに難易度が上昇します。\n<br>＜次の階層に進むには＞\n現在の階層をクリアすると、次の階層に挑戦することができるようになります。\nクリアしていない階層を跳び越して先の階層に挑むことはできず、階層は1つずつ順番に進みます。\n<br>＜報酬について＞\n階層ごとに用意された報酬を手に入れることができます。\n他の冒険では手に入らない特別なアイテムが報酬になっている場合もあります。\n<br>＜フレンドの進行状況＞\nアンダーワールドアビスでは、フレンド達の進行状況が表示され、お互いの進行状況を確認することができます。"
 		},
 		{
 			"help_id": "1000",
 			"help_category_id": "-1",
 			"title_text": "各効果について",
-			"detail_text": "【状態異常系】<br>\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_shock[/img]\n<color=#e75600>感電</color>\n　電気によるシビレから通常攻撃やスキルが発動でき\n　なくなり、一定ターン数の間、行動不能になります。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_paralysis[/img]\n<color=#e75600>マヒ</color>\n　植物系によるシビレから通常攻撃やスキルが発動でき\n　なくなり、一定ターン数の間、行動不能になります。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_ice[/img]\n<color=#e75600>凍結</color>\n　凍り付いてしまい通常攻撃やスキルが発動できな\n　くなり、一定ターン数の間、行動不能になります。\n　また凍結状態の間は、敵味方の（凍結回復以外）の\n　行動の影響を受けなくなります。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_stun[/img]\n<color=#e75600>気絶</color>\n　意識を失い通常攻撃やスキルが発動できなくなり、\n　一定ターン数の間、行動不能になります。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_sleep[/img]\n<color=#e75600>眠り</color>\n　眠ってしまい通常攻撃やスキルが発動できなく \n　なり、一定ターン数の間、行動不能になります。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_poison[/img]\n<color=#e75600>毒</color>\n　毒を受けた状態になり、定期的に一定量のダメージを\n　受け続けます。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_burn[/img]\n<color=#e75600>ヤケド</color>\n　ヤケドした状態になり、定期的に一定量のダメージを\n　受け続けます。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_error[/img]\n<color=#e75600>エラー</color>\n　体にノイズが発生した状態になり、定期的に一定量の\n　ダメージを受け続けます。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_seal[/img]\n<color=#e75600>スキル封じ</color>\n　メインスキルとサブスキルが使用できなくなります。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_darkness[/img]\n<color=#e75600>暗闇</color>\n　目の前に黒いもやがかかったような状態となり、\n　通常攻撃や反撃ができなくなります。\n　また、スキルの命中率が著しく低下します。\n<br>\n<br>\n【無効系】<br>\n[img width=48 height=48]icon/buff/icon_buff025[/img]\n<color=#e75600>感電無効</color>\n　感電を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff029[/img]\n<color=#e75600>マヒ無効</color>\n　マヒを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff020[/img]\n<color=#e75600>凍結無効</color>\n　凍結を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff024[/img]\n<color=#e75600>気絶無効</color>\n　気絶を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff023[/img]\n<color=#e75600>眠り無効</color>\n　眠りを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff021[/img]\n<color=#e75600>毒無効</color>\n　毒を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff010[/img]\n<color=#e75600>ヤケド無効</color>\n　ヤケドを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff027[/img]\n<color=#e75600>エラー無効</color>\n　エラーを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff026[/img]\n<color=#e75600>スキル封じ無効</color>\n　スキル封じを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff022[/img]\n<color=#e75600>暗闇無効</color>\n　暗闇を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff043[/img]\n<color=#e75600>ブロック率ダウン無効</color>\n　ブロック率ダウン効果を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff044[/img]\n<color=#e75600>反撃率ダウン無効</color>\n　反撃率ダウン効果を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff045[/img]\n<color=#e75600>クリティカル率ダウン無効</color>\n　クリティカル率ダウン効果を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff046[/img]\n<color=#e75600>狙い撃ち率ダウン無効</color>\n　狙い撃ち率ダウン効果を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff047[/img]\n<color=#e75600>PWRダメージ耐性ダウン無効</color>\n　PWRダメージ耐性ダウンを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff048[/img]\n<color=#e75600>TECダメージ耐性ダウン無効</color>\n　TECダメージ耐性ダウンを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff062[/img]\n<color=#e75600>クリティカルガード</color>\n　クリティカルを受けなくなります。\n[img width=48 height=48]icon/buff/icon_buff077[/img]\n<color=#e75600>ロスト無効</color>\n　ロスト効果を100％防ぎます。\n<br>\n<br>\n【バフ系】<br>\n[img width=48 height=48]icon/buff/icon_buff013[/img]\n<color=#e75600>パワーアップ</color>\n　パワータイプの攻撃力が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff015[/img]\n<color=#e75600>テクニックアップ</color>\n　テクニックタイプの攻撃力が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff011[/img]\n<color=#e75600>ディフェンスアップ</color>\n　防御力が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff008[/img]\n<color=#e75600>クリティカル率アップ</color>\n　クリティカルの発生率が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff017[/img]\n<color=#e75600>狙い撃ち率アップ</color>\n　狙い撃ちの発生率が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff018[/img]\n<color=#e75600>反撃率アップ</color>\n　反撃の発生率が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff019[/img]\n<color=#e75600>ブロック率アップ</color>\n　ブロックの発生率が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff034[/img]\n<color=#e75600>PWRダメージ耐性アップ</color>\n　パワータイプの攻撃からの耐性が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff035[/img]\n<color=#e75600>TECダメージ耐性アップ</color>\n　テクニックタイプの攻撃からの耐性が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff039[/img]\n<color=#e75600>最大HPアップ</color>\n　デジモンの最大HPがアップします。\n[img width=48 height=48]icon/buff/icon_buff040[/img]\n<color=#e75600>累積PWRアップ</color>\n　パワータイプの攻撃力が上がった状態です。\n　この効果は重ねがけが有効で、一定値まで\n　効果が累積します。\n[img width=48 height=48]icon/buff/icon_buff063[/img]\n<color=#e75600>累積TECアップ</color>\n　テクニックタイプの攻撃力が上がった状態です。\n　この効果は重ねがけが有効で、一定値まで\n　効果が累積します。\n[img width=48 height=48]icon/buff/icon_buff064[/img]\n<color=#e75600>ブロック強化</color>\n　ブロックが発動した際の\n　ダメージ軽減量がアップします。\n[img width=48 height=48]icon/buff/icon_buff072[/img]\n<color=#e75600>反撃ダメージアップ</color>\n　反撃発生時のダメージが通常の反撃よりアップします。 \n<br>\n<color=#e75600>個性キラー</color>\n　特定の個性に対するダメージがアップします。\n　さらに、特定の個性を狙いやすくなります。\n　※友情必殺は適用対象外となります。\n[img width=48 height=48]icon/buff/icon_buff067[/img]\n・勇敢キラー\n[img width=48 height=48]icon/buff/icon_buff068[/img]\n・冷静キラー\n[img width=48 height=48]icon/buff/icon_buff069[/img]\n・器用キラー\n[img width=48 height=48]icon/buff/icon_buff070[/img]\n・不屈キラー\n[img width=48 height=48]icon/buff/icon_buff071[/img]\n・献身キラー\n<br>\n<br>\n【デバフ系】<br>\n[img width=48 height=48]icon/buff/icon_buff014[/img]\n<color=#e75600>パワーダウン</color>\n　パワータイプの攻撃力が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff016[/img]\n<color=#e75600>テクニックダウン</color>\n　テクニックタイプの攻撃力が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff007[/img]\n<color=#e75600>ディフェンスダウン</color>\n　防御力が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff009[/img]\n<color=#e75600>クリティカル率ダウン</color>\n　クリティカルの発生率が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff031[/img]\n<color=#e75600>反撃率ダウン</color>\n　反撃の発生率が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff032[/img]\n<color=#e75600>ブロック率ダウン</color>\n　ブロックの発生率が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff030[/img]\n<color=#e75600>狙い撃ち率ダウン</color>\n　狙い撃ちの発生率が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff036[/img]\n<color=#e75600>PWRダメージ耐性ダウン</color>\n　パワータイプの攻撃からの耐性が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff037[/img]\n<color=#e75600>TECダメージ耐性ダウン</color>\n　テクニックタイプの攻撃からの耐性が下がった状態です。\n<br>\n<br>\n【特殊系】<br>\n[img width=48 height=48]icon/buff/icon_buff012[/img]\n<color=#e75600>挑発</color>\n　相手の攻撃を自分に引き付けます。\n[img width=48 height=48]icon/buff/icon_buff038[/img]\n<color=#e75600>自己再生</color>\n　定期的に一定量のHPが回復します。\n[img width=48 height=48]icon/buff/icon_buff041[/img]\n<color=#e75600>攻撃回避</color>\n　敵からの攻撃を避けることができます。\n[img width=48 height=48]icon/buff/icon_buff053[/img]\n<color=#e75600>九龍の力</color>\n　攻撃する度に力を溜めて、最大まで力が溜まった状態で\n　スキルを使うとダメ－ジ量がアップします。\n[img width=48 height=48]icon/buff/icon_buff065[/img]\n<color=#e75600>ダメージリミット</color>\n　受けるダメージを一定量に抑えます。\n[img width=48 height=48]icon/buff/icon_buff042[/img]\n<color=#e75600>CTブースト（クールタイムブースト）</color>\n　スキル使用後のCTが一定量だけ短縮されます。\n[img width=48 height=48]icon/buff/icon_buff074[/img]\n<color=#e75600>オートリバイブ</color>\n　戦闘不能になったときに発動し、一定量のHPで復活します。\n[img width=48 height=48]icon/buff/icon_buff066[/img]\n<color=#e75600>シールド</color>\n　前面に盾を発生させ、相手からのダメージを一定量まで\n　肩代わりします。\n　ダメージが一定量を超えるとシールドはなくなります。\n[img width=48 height=48]icon/buff/icon_buff075[/img]\n<color=#e75600>ロスト</color>\n　相手をロスト状態にします。\n　ロスト状態になると赤いオーラが体にまとわりつき、\n　行動するたびに、ロスト状態が進行します。\n　一定回数行動すると、HPの残量にかかわらず\n　戦闘不能となります。\n　※ロスト状態が進行する行動とは、メインスキル、\n　　サブスキル、通常攻撃、反撃、追撃が該当します。\n[img width=48 height=48]icon/buff/icon_buff076[/img]\n<color=#e75600>カバー</color>\n　敵の攻撃を全て自分に集めます。\n　対象が複数のスキルも全て引き受けます。\n　さらに一定量被ダメージをカットします。\n<br>\n<br>\n<color=#c7221d>※一部激突戦では無効化される効果があります。</color>"
+			"detail_text": "【状態異常系】<br>\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_shock[/img]\n<color=#e75600>感電</color>\n　電気によるシビレから通常攻撃やスキルが発動でき\n　なくなり、一定ターン数の間、行動不能になります。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_paralysis[/img]\n<color=#e75600>マヒ</color>\n　植物系によるシビレから通常攻撃やスキルが発動でき\n　なくなり、一定ターン数の間、行動不能になります。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_ice[/img]\n<color=#e75600>凍結</color>\n　凍り付いてしまい通常攻撃やスキルが発動できな\n　くなり、一定ターン数の間、行動不能になります。\n　また凍結状態の間は、敵味方の（凍結回復以外）の\n　行動の影響を受けなくなります。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_stun[/img]\n<color=#e75600>気絶</color>\n　意識を失い通常攻撃やスキルが発動できなくなり、\n　一定ターン数の間、行動不能になります。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_sleep[/img]\n<color=#e75600>眠り</color>\n　眠ってしまい通常攻撃やスキルが発動できなく \n　なり、一定ターン数の間、行動不能になります。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_poison[/img]\n<color=#e75600>毒</color>\n　毒を受けた状態になり、定期的に一定量のダメージを\n　受け続けます。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_burn[/img]\n<color=#e75600>ヤケド</color>\n　ヤケドした状態になり、定期的に一定量のダメージを\n　受け続けます。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_error[/img]\n<color=#e75600>エラー</color>\n　体にノイズが発生した状態になり、定期的に一定量の\n　ダメージを受け続けます。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_seal[/img]\n<color=#e75600>スキル封じ</color>\n　メインスキルとサブスキルが使用できなくなります。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_darkness[/img]\n<color=#e75600>暗闇</color>\n　目の前に黒いもやがかかったような状態となり、\n　通常攻撃や反撃ができなくなります。\n　また、スキルの命中率が著しく低下します。\n<br>\n<br>\n【無効系】<br>\n[img width=48 height=48]icon/buff/icon_buff025[/img]\n<color=#e75600>感電無効</color>\n　感電を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff029[/img]\n<color=#e75600>マヒ無効</color>\n　マヒを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff020[/img]\n<color=#e75600>凍結無効</color>\n　凍結を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff024[/img]\n<color=#e75600>気絶無効</color>\n　気絶を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff023[/img]\n<color=#e75600>眠り無効</color>\n　眠りを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff021[/img]\n<color=#e75600>毒無効</color>\n　毒を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff010[/img]\n<color=#e75600>ヤケド無効</color>\n　ヤケドを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff027[/img]\n<color=#e75600>エラー無効</color>\n　エラーを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff026[/img]\n<color=#e75600>スキル封じ無効</color>\n　スキル封じを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff022[/img]\n<color=#e75600>暗闇無効</color>\n　暗闇を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff043[/img]\n<color=#e75600>ブロック率ダウン無効</color>\n　ブロック率ダウン効果を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff044[/img]\n<color=#e75600>反撃率ダウン無効</color>\n　反撃率ダウン効果を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff045[/img]\n<color=#e75600>クリティカル率ダウン無効</color>\n　クリティカル率ダウン効果を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff046[/img]\n<color=#e75600>狙い撃ち率ダウン無効</color>\n　狙い撃ち率ダウン効果を100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff047[/img]\n<color=#e75600>PWRダメージ耐性ダウン無効</color>\n　PWRダメージ耐性ダウンを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff048[/img]\n<color=#e75600>TECダメージ耐性ダウン無効</color>\n　TECダメージ耐性ダウンを100％防ぎます。\n[img width=48 height=48]icon/buff/icon_buff062[/img]\n<color=#e75600>クリティカルガード</color>\n　クリティカルを受けなくなります。\n[img width=48 height=48]icon/buff/icon_buff077[/img]\n<color=#e75600>ロスト無効</color>\n　ロスト効果を100％防ぎます。\n<br>\n<br>\n【バフ系】<br>\n[img width=48 height=48]icon/buff/icon_buff013[/img]\n<color=#e75600>パワーアップ</color>\n　パワータイプの攻撃力が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff015[/img]\n<color=#e75600>テクニックアップ</color>\n　テクニックタイプの攻撃力が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff011[/img]\n<color=#e75600>ディフェンスアップ</color>\n　防御力が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff008[/img]\n<color=#e75600>クリティカル率アップ</color>\n　クリティカルの発生率が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff017[/img]\n<color=#e75600>狙い撃ち率アップ</color>\n　狙い撃ちの発生率が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff018[/img]\n<color=#e75600>反撃率アップ</color>\n　反撃の発生率が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff019[/img]\n<color=#e75600>ブロック率アップ</color>\n　ブロックの発生率が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff034[/img]\n<color=#e75600>PWRダメージ耐性アップ</color>\n　パワータイプの攻撃からの耐性が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff035[/img]\n<color=#e75600>TECダメージ耐性アップ</color>\n　テクニックタイプの攻撃からの耐性が上がった状態です。\n[img width=48 height=48]icon/buff/icon_buff039[/img]\n<color=#e75600>最大HPアップ</color>\n　デジモンの最大HPがアップします。\n[img width=48 height=48]icon/buff/icon_buff040[/img]\n<color=#e75600>累積PWRアップ</color>\n　パワータイプの攻撃力が上がった状態です。\n　この効果は重ねがけが有効で、一定値まで\n　効果が累積します。\n[img width=48 height=48]icon/buff/icon_buff063[/img]\n<color=#e75600>累積TECアップ</color>\n　テクニックタイプの攻撃力が上がった状態です。\n　この効果は重ねがけが有効で、一定値まで\n　効果が累積します。\n[img width=48 height=48]icon/buff/icon_buff064[/img]\n<color=#e75600>ブロック強化</color>\n　ブロックが発動した際の\n　ダメージ軽減量がアップします。\n[img width=48 height=48]icon/buff/icon_buff072[/img]\n<color=#e75600>反撃ダメージアップ</color>\n　反撃発生時のダメージが通常の反撃よりアップします。 \n<br>\n<color=#e75600>個性キラー</color>\n　特定の個性に対するダメージがアップします。\n　さらに、特定の個性を狙いやすくなります。\n　※友情必殺は適用対象外となります。\n[img width=48 height=48]icon/buff/icon_buff067[/img]\n・勇敢キラー\n[img width=48 height=48]icon/buff/icon_buff068[/img]\n・冷静キラー\n[img width=48 height=48]icon/buff/icon_buff069[/img]\n・器用キラー\n[img width=48 height=48]icon/buff/icon_buff070[/img]\n・不屈キラー\n[img width=48 height=48]icon/buff/icon_buff071[/img]\n・献身キラー\n<br>\n<br>\n【デバフ系】<br>\n[img width=48 height=48]icon/buff/icon_buff014[/img]\n<color=#e75600>パワーダウン</color>\n　パワータイプの攻撃力が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff016[/img]\n<color=#e75600>テクニックダウン</color>\n　テクニックタイプの攻撃力が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff007[/img]\n<color=#e75600>ディフェンスダウン</color>\n　防御力が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff009[/img]\n<color=#e75600>クリティカル率ダウン</color>\n　クリティカルの発生率が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff031[/img]\n<color=#e75600>反撃率ダウン</color>\n　反撃の発生率が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff032[/img]\n<color=#e75600>ブロック率ダウン</color>\n　ブロックの発生率が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff030[/img]\n<color=#e75600>狙い撃ち率ダウン</color>\n　狙い撃ちの発生率が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff036[/img]\n<color=#e75600>PWRダメージ耐性ダウン</color>\n　パワータイプの攻撃からの耐性が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff037[/img]\n<color=#e75600>TECダメージ耐性ダウン</color>\n　テクニックタイプの攻撃からの耐性が下がった状態です。\n[img width=48 height=48]icon/buff/icon_buff079[/img]\n<color=#e75600>状態異常耐性ダウン</color>\n　状態異常の耐性が下がり、状態異常になる確率が上がり\n　ます。\n　※ロストは影響を受けません。\n<br>\n<br>\n【特殊系】<br>\n[img width=48 height=48]icon/buff/icon_buff012[/img]\n<color=#e75600>挑発</color>\n　相手の攻撃を自分に引き付けます。\n[img width=48 height=48]icon/buff/icon_buff038[/img]\n<color=#e75600>自己再生</color>\n　定期的に一定量のHPが回復します。\n[img width=48 height=48]icon/buff/icon_buff041[/img]\n<color=#e75600>攻撃回避</color>\n　敵からの攻撃を避けることができます。\n[img width=48 height=48]icon/buff/icon_buff053[/img]\n<color=#e75600>九龍の力</color>\n　攻撃する度に力を溜めて、最大まで力が溜まった状態で\n　スキルを使うとダメ－ジ量がアップします。\n[img width=48 height=48]icon/buff/icon_buff065[/img]\n<color=#e75600>ダメージリミット</color>\n　受けるダメージを一定量に抑えます。\n[img width=48 height=48]icon/buff/icon_buff042[/img]\n<color=#e75600>CTブースト（クールタイムブースト）</color>\n　スキル使用後のCTが一定量だけ短縮されます。\n[img width=48 height=48]icon/buff/icon_buff074[/img]\n<color=#e75600>オートリバイブ</color>\n　戦闘不能になったときに発動し、一定量のHPで復活します。\n[img width=48 height=48]icon/buff/icon_buff066[/img]\n<color=#e75600>シールド</color>\n　前面に盾を発生させ、相手からのダメージを一定量まで\n　肩代わりします。\n　ダメージが一定量を超えるとシールドはなくなります。\n[img width=48 height=48]icon/buff/icon_buff075[/img]\n<color=#e75600>ロスト</color>\n　相手をロスト状態にします。\n　ロスト状態になると赤いオーラが体にまとわりつき、\n　行動するたびに、ロスト状態が進行します。\n　一定回数行動すると、HPの残量にかかわらず\n　戦闘不能となります。\n　※ロスト状態が進行する行動とは、メインスキル、\n　　サブスキル、通常攻撃、反撃、追撃が該当します。\n[img width=48 height=48]icon/buff/icon_buff076[/img]\n<color=#e75600>カバー</color>\n　敵の攻撃を全て自分に集めます。\n　対象が複数のスキルも全て引き受けます。\n　さらに一定量被ダメージをカットします。\n<br>\n<br>\n<color=#c7221d>※一部激突戦では無効化される効果があります。</color>"
 		},
 		{
 			"help_id": "1001",
@@ -70,7 +70,7 @@
 			"help_id": "1007",
 			"help_category_id": "-1",
 			"title_text": "バトルパークのルール",
-			"detail_text": "バトルパークに参加すると、ランクが割り当てられます。\n最初は全員一番下のランク、ルーキーテイマー<sprite=5>からスタートします。\n<br>ランクは、BPポイントの値によって決まります。\nバトルパークの勝敗によってBPポイントは変動します。\n勝ち続ければBPポイントは増加し、ランクが上昇していきます。\n<br><昇格条件> \nシーズン中にバトルパークで勝利するとBPポイントが得られ、一定のポイント数に達する事で昇格します。 \n<br><降格条件> \nシーズン終了時の降格の条件は以下の2点です。\n1.<color=#e75600>バトルパークでのバトルが通算戦闘数20回を下回る場合</color>\n2.<color=#e75600>シーズン通算勝率が定めた39％以下となる場合</color>\nのどちらかを満たすと、次のシーズン開始時に１ランク下のランク・BPポイントに調整されリスタートとなります。\n<color=#c7221d>※バトルパークのバトルにシーズン中一度も参加しなかった場合、テイマーランクの降格対象にはなりません。</color> \n<br><上に行くほど高ランク><color=#005faf>\nレジェンドテイマー\nチャンピオンテイマー\nマスターテイマー <sprite=5><sprite=5><sprite=5>\nマスターテイマー <sprite=5><sprite=5>\nマスターテイマー <sprite=5>\nグランドテイマー <sprite=5><sprite=5><sprite=5>\nグランドテイマー <sprite=5><sprite=5>\nグランドテイマー <sprite=5>\nエーステイマー <sprite=5><sprite=5><sprite=5>\nエーステイマー <sprite=5><sprite=5>\nエーステイマー <sprite=5>\nベテランテイマー <sprite=5><sprite=5><sprite=5>\nベテランテイマー <sprite=5><sprite=5>\nベテランテイマー <sprite=5>\nエリートテイマー <sprite=5><sprite=5><sprite=5>\nエリートテイマー <sprite=5><sprite=5>\nエリートテイマー <sprite=5>\nカジュアルテイマー <sprite=5><sprite=5><sprite=5>\nカジュアルテイマー <sprite=5><sprite=5>\nカジュアルテイマー <sprite=5>\nアマチュアテイマー <sprite=5><sprite=5><sprite=5>\nアマチュアテイマー <sprite=5><sprite=5>\nアマチュアテイマー <sprite=5>\nルーキーテイマー <sprite=5><sprite=5><sprite=5>\nルーキーテイマー <sprite=5><sprite=5>\nルーキーテイマー <sprite=5>\n</color>\n<br>新しいシーズンが始まった時、所属ランクの<sprite=5>からのリスタートとなります。\n※例：シーズン終了時ベテランテイマー<sprite=5><sprite=5><sprite=5>だった場合、次の新しいシーズン開始時は、ベテランテイマー<sprite=5>からリスタートとなります。\nレジェンドテイマーやチャンピオンテイマーの場合は、マスターテイマー<sprite=5>からのリスタートとなります。\n<br>バトルパークでは、開催期間を<color=#e75600>シーズン</color>と呼びます。\n1シーズンは1週間です。\n<color=#e75600>毎週月曜日の6:00から開始して、日曜日の23:59で終了</color>となります。\n月曜日の0:00から次のシーズンが始まる5:59までは集計期間となります。\n<br>バトルパークのバトルに参加すると、次のシーズン以降に報酬を受け取ることができます。\nシーズン終了後バトルパークTOPを訪れると、シーズン終了時に自分が位置していたテイマーランクに応じた報酬を受け取ることができます。\n<color=#c7221d>※一度もバトルに参加しなかったシーズンの報酬を受け取ることはできません。</color>\n<br>報酬は次のシーズンが始まった後に、最初にバトルパークに入ったタイミングで付与されます。\n※報酬の内容が表示される報酬受取画面は、一度閉じると再度確認することはできません。\n<br>※2018/11/12 開始のシーズンより、バトルパーク限定で、\n　以下のスキル効果の成功確率が一律で下がります。\n　感電、マヒ、凍結、気絶、眠り\n　毒、ヤケド、エラー、スキル封じ、暗闇"
+			"detail_text": "バトルパークに参加すると、ランクが割り当てられます。\n最初は全員一番下のランク、ルーキーテイマー<sprite=4>からスタートします。\n<br>ランクは、BPポイントの値によって決まります。\nバトルパークの勝敗によってBPポイントは変動します。\n勝ち続ければBPポイントは増加し、ランクが上昇していきます。\n<br><昇格条件> \nシーズン中にバトルパークで勝利するとBPポイントが得られ、一定のポイント数に達する事で昇格します。 \n<br><降格条件> \nシーズン終了時の降格の条件は以下の2点です。\n1.<color=#e75600>バトルパークでのバトルが通算戦闘数20回を下回る場合</color>\n2.<color=#e75600>シーズン通算勝率が定めた39％以下となる場合</color>\nのどちらかを満たすと、次のシーズン開始時に１ランク下のランク・BPポイントに調整されリスタートとなります。\n<color=#c7221d>※バトルパークのバトルにシーズン中一度も参加しなかった場合、テイマーランクの降格対象にはなりません。</color> \n<br><上に行くほど高ランク><color=#005faf>\nレジェンドテイマー\nチャンピオンテイマー\nマスターテイマー <sprite=4><sprite=4><sprite=4>\nマスターテイマー <sprite=4><sprite=4>\nマスターテイマー <sprite=4>\nグランドテイマー <sprite=4><sprite=4><sprite=4>\nグランドテイマー <sprite=4><sprite=4>\nグランドテイマー <sprite=4>\nエーステイマー <sprite=4><sprite=4><sprite=4>\nエーステイマー <sprite=4><sprite=4>\nエーステイマー <sprite=4>\nベテランテイマー <sprite=4><sprite=4><sprite=4>\nベテランテイマー <sprite=4><sprite=4>\nベテランテイマー <sprite=4>\nエリートテイマー <sprite=4><sprite=4><sprite=4>\nエリートテイマー <sprite=4><sprite=4>\nエリートテイマー <sprite=4>\nカジュアルテイマー <sprite=4><sprite=4><sprite=4>\nカジュアルテイマー <sprite=4><sprite=4>\nカジュアルテイマー <sprite=4>\nアマチュアテイマー <sprite=4><sprite=4><sprite=4>\nアマチュアテイマー <sprite=4><sprite=4>\nアマチュアテイマー <sprite=4>\nルーキーテイマー <sprite=4><sprite=4><sprite=4>\nルーキーテイマー <sprite=4><sprite=4>\nルーキーテイマー <sprite=4>\n</color>\n<br>新しいシーズンが始まった時、所属ランクの<sprite=4>からのリスタートとなります。\n※例：シーズン終了時ベテランテイマー<sprite=4><sprite=4><sprite=4>だった場合、次の新しいシーズン開始時は、ベテランテイマー<sprite=4>からリスタートとなります。\nレジェンドテイマーやチャンピオンテイマーの場合は、マスターテイマー<sprite=4>からのリスタートとなります。\n<br>バトルパークでは、開催期間を<color=#e75600>シーズン</color>と呼びます。\n1シーズンは1週間です。\n<color=#e75600>毎週月曜日の6:00から開始して、日曜日の23:59で終了</color>となります。\n月曜日の0:00から次のシーズンが始まる5:59までは集計期間となります。\n<br>バトルパークのバトルに参加すると、次のシーズン以降に報酬を受け取ることができます。\nシーズン終了後バトルパークTOPを訪れると、シーズン終了時に自分が位置していたテイマーランクに応じた報酬を受け取ることができます。\n<color=#c7221d>※一度もバトルに参加しなかったシーズンの報酬を受け取ることはできません。</color>\n<br>報酬は次のシーズンが始まった後に、最初にバトルパークに入ったタイミングで付与されます。\n※報酬の内容が表示される報酬受取画面は、一度閉じると再度確認することはできません。\n<br>※2018/11/12 開始のシーズンより、バトルパーク限定で、\n　以下のスキル効果の成功確率が一律で下がります。\n　感電、マヒ、凍結、気絶、眠り\n　毒、ヤケド、エラー、スキル封じ、暗闇"
 		},
 		{
 			"help_id": "1008",
@@ -87,8 +87,8 @@
 		{
 			"help_id": "101",
 			"help_category_id": "6",
-			"title_text": "次の階層に進むには",
-			"detail_text": "1つの階層をクリアすると、次の階層に挑戦することができるようになります。\nクリアしていない階層を跳び越して先の階層に挑むことはできず、階層は1つずつ順番に進みます。"
+			"title_text": "アンダーワールドダンジョンとは",
+			"detail_text": "フロアごとに配置された敵を倒し、報酬を持ち帰ることを目的とした場所です。 \n一度アンダーワールドダンジョンに入ると、帰還または全てのフロアをクリアするまで報酬を正式に獲得することはできません。 \nフロアが進むごとにレアアイテム出現率が上昇します。 \n<br>＜チーム編成について＞ \nパートナーデジモンを含め、Lv99以上のデジモンのみ挑戦することができます。\nバトルは最大3チーム（15体）での連戦になります。\n編成にはチーム毎にコスト（100）が設定されています。\nチームコストに収まるようにチームを編成する必要があります。 \nデジモンのコストは、世代によって決められています。\n・コスト35：超究極体／究極体 \n・コスト20：アーマー体\n・コスト14：完全体\n・コスト7：成熟期\n・コスト3：成長期\n<br>＜アンダーワールドダンジョンのバトル＞\nアンダーワールドダンジョンでは複数のバトル形式が存在します。\nフロアをクリアした際、以下のデータを持ち越します。 \n・HP \n・CT（クールタイム） \n・友情必殺ゲージ  \n<br>＜フィールド効果＞ \nフロアによってバトル開始時に発生するフィールド効果は、フィールド上にいるデジモンに対し何らかの効果を発動します。\nフィールド効果の種類には状態異常効果、バフ効果、デバフ効果があります。\nフィールド効果はフロアに紐づいたものであり、対峙した相手の持つ効果ではありません。\n発動したフィールド効果に対する耐性があれば、フィールド効果を防ぐことができます。\n<br> ＜アンダーワールドダンジョンの進行＞ \n次のフロアに進む際、先に進むか、帰還するか、選択することができます。 \n先に進む場合、最初に編成したチームから任意のチームを選択してバトルを開始することができます。\nフロアの情報は、各フロアをタップすることで確認できます。\n帰還を選択した場合、挑戦は終了となり一時的に入手した報酬を正式に獲得することができますが、次回挑戦する際は最初からとなります。 \nフロアによっては、ルートが分岐する場合があります。 \n一度クリアしたフロアに戻ることはできません。 \n<br>＜報酬について＞ \nフロアをクリアするたびに、一時的に報酬を入手できます。\nこの時点では受け取っていないため、これらの報酬アイテムを使用することはできません。\n帰還または全てのフロアをクリアすることで、報酬を正式に獲得することができます。\n戦えるデジモンが全て倒れると敗北となり、一時的に入手したアイテムは全て失われます。\n<br>＜巻き戻しの時計について＞ \n戦えるデジモンが全て倒れた時に使用できる特殊なアイテムです。 \n巻き戻しの時計を使用すると、挑戦していたフロアの出発準備画面まで戻り、再戦が可能となります。\nチームと敵のデジモンは、挑戦していたフロアの出発前の状態になります。\n巻き戻しの時計を使用して再戦する場合、そのフロアをクリアすることで帰還が選べるようになります。\n<br>＜その他＞ \nアンダーワールドダンジョンは、帰還・敗北・全てのフロアをクリアすることで最初のフロアに戻り、攻略内容がリセットされます。 \nそして、挑戦するたびにフロアの構造が変化します。 \n<br>\n<br><color=#c7221d>※一度挑戦を開始すると、挑戦を終了するまで「パートナーの変更」および、アンダーワールドダンジョンへ挑戦中のデジモンに対して以下の操作ができなくなります。 \n　 ・編成入れ替え \n 　・スキルレベルアップ \n 　・強化・特訓・限界突破・進化 \n 　・お別れ \n 　・プラグインの強化・進化 \n 　・プラグインのセット ・解除 \n 　・セット中のプラグインの売却</color>"
 		},
 		{
 			"help_id": "1010",
@@ -262,7 +262,7 @@
 			"help_id": "1036",
 			"help_category_id": "-1",
 			"title_text": "冒険に関する項目",
-			"detail_text": "デジモンと一緒にバトルを行う場所であり、目的に応じて様々な場所が存在します。\n<br>･<color=#e75600>メインストーリー</color>：\n　シナリオと連動したバトルを楽しむことができます。\n･<color=#e75600>時限の渦</color>：\n　時間や曜日によって決められた期間だけ挑戦できる冒険です。\n･<color=#e75600>激突戦</color>：\n　強敵に対して、仲間と力を合わせて戦います。\n･<color=#e75600>バトルパーク</color>：\n　他のテイマーが育てたデジモンとバトルで腕試しできます。\n･<color=#e75600>アンダーワールド</color>：\n　地下に何十階層も続くバトルエリアへ挑戦します。\n<br>最初は行ける場所は限られていますが、メインストーリーを進めることで解放されていきます。"
+			"detail_text": "デジモンと一緒にバトルを行う場所であり、目的に応じて様々な場所が存在します。\n<br>･<color=#e75600>ストーリー</color>：\n　シナリオと連動したバトルを楽しむことができます。\n･<color=#e75600>時限の渦</color>：\n　時間や曜日によって決められた期間だけ挑戦できる冒険です。\n･<color=#e75600>激突戦</color>：\n　強敵に対して、仲間と力を合わせて戦います。\n･<color=#e75600>バトルパーク</color>：\n　他のテイマーが育てたデジモンとバトルで腕試しできます。\n･<color=#e75600>アンダーワールド</color>：\n　高難易度のバトルエリアに挑戦することができます。\n<br>最初は行ける場所は限られていますが、メインストーリーを進めることで解放されていきます。"
 		},
 		{
 			"help_id": "1037",
@@ -340,7 +340,7 @@
 			"help_id": "1048",
 			"help_category_id": "-1",
 			"title_text": "冒険の記録とは",
-			"detail_text": "冒険の記録とは、冒険中のメインストーリーで流れたシナリオを閲覧することができる機能です。\n他にもオープニングムービーや進化ムービーなどを見ることもできます。\n<br>1度シナリオを見ることで冒険の記録に登録されていきます。"
+			"detail_text": "冒険の記録とは、冒険中のストーリーで流れたシナリオを閲覧することができる機能です。\n他にもオープニングムービーや進化ムービーなどを見ることもできます。\n<br>1度シナリオを見ることで冒険の記録に登録されていきます。"
 		},
 		{
 			"help_id": "1049",
@@ -419,6 +419,30 @@
 			"help_category_id": "7",
 			"title_text": "フレンド検索",
 			"detail_text": "フレンド検索とは、特定のテイマーを探す機能です。\n全てのテイマーには、それぞれに固有のIDが割り振られています。\nIDを入力して検索することで、特定のテイマーに対して直接申請を行うことができます。\n<br>自分のIDは、フレンド検索画面やプロフィールにて確認することができます。\n<br>フレンド検索は、デジタウンから｢ソーシャル｣⇒｢フレンド｣と移動し、フレンド画面の｢フレンド検索｣から使用することができます。"
+		},
+		{
+			"help_id": "1060",
+			"help_category_id": "-1",
+			"title_text": "アンダーワールドダンジョンとは",
+			"detail_text": "フロアごとに配置された敵を倒し、報酬を持ち帰ることを目的とした場所です。 \n一度アンダーワールドダンジョンに入ると、帰還または全てのフロアをクリアするまで報酬を正式に獲得することはできません。 \nフロアが進むごとにレアアイテム出現率が上昇します。 \n<br>＜チーム編成について＞ \nパートナーデジモンを含め、Lv99以上のデジモンのみ挑戦することができます。\nバトルは最大3チーム（15体）での連戦になります。\n編成にはチーム毎にコスト（100）が設定されています。\nチームコストに収まるようにチームを編成する必要があります。 \nデジモンのコストは、世代によって決められています。\n・コスト35：超究極体／究極体 \n・コスト20：アーマー体\n・コスト14：完全体\n・コスト7：成熟期\n・コスト3：成長期\n<br>＜アンダーワールドダンジョンのバトル＞\nアンダーワールドダンジョンでは複数のバトル形式が存在します。\nフロアをクリアした際、以下のデータを持ち越します。 \n・HP \n・CT（クールタイム） \n・友情必殺ゲージ  \n<br>＜フィールド効果＞ \nフロアによってバトル開始時に発生するフィールド効果は、フィールド上にいるデジモンに対し何らかの効果を発動します。\nフィールド効果の種類には状態異常効果、バフ効果、デバフ効果があります。\nフィールド効果はフロアに紐づいたものであり、対峙した相手の持つ効果ではありません。\n発動したフィールド効果に対する耐性があれば、フィールド効果を防ぐことができます。\n<br> ＜アンダーワールドダンジョンの進行＞ \n次のフロアに進む際、先に進むか、帰還するか、選択することができます。 \n先に進む場合、最初に編成したチームから任意のチームを選択してバトルを開始することができます。\nフロアの情報は、各フロアをタップすることで確認できます。\n帰還を選択した場合、挑戦は終了となり一時的に入手した報酬を正式に獲得することができますが、次回挑戦する際は最初からとなります。 \nフロアによっては、ルートが分岐する場合があります。 \n一度クリアしたフロアに戻ることはできません。 \n<br>＜報酬について＞ \nフロアをクリアするたびに、一時的に報酬を入手できます。\nこの時点では受け取っていないため、これらの報酬アイテムを使用することはできません。\n帰還または全てのフロアをクリアすることで、報酬を正式に獲得することができます。\n戦えるデジモンが全て倒れると敗北となり、一時的に入手したアイテムは全て失われます。\n<br>＜巻き戻しの時計について＞ \n戦えるデジモンが全て倒れた時に使用できる特殊なアイテムです。 \n巻き戻しの時計を使用すると、挑戦していたフロアの出発準備画面まで戻り、再戦が可能となります。\nチームと敵のデジモンは、挑戦していたフロアの出発前の状態になります。\n巻き戻しの時計を使用して再戦する場合、そのフロアをクリアすることで帰還が選べるようになります。\n<br>＜その他＞ \nアンダーワールドダンジョンは、帰還・敗北・全てのフロアをクリアすることで最初のフロアに戻り、攻略内容がリセットされます。 \nそして、挑戦するたびにフロアの構造が変化します。 \n<br>\n<br><color=#c7221d>※一度挑戦を開始すると、挑戦を終了するまで「パートナーの変更」および、アンダーワールドダンジョンへ挑戦中のデジモンに対して以下の操作ができなくなります。 \n　 ・編成入れ替え \n 　・スキルレベルアップ \n 　・強化・特訓・限界突破・進化 \n 　・お別れ \n 　・プラグインの強化・進化 \n 　・プラグインのセット ・解除 \n 　・セット中のプラグインの売却</color>"
+		},
+		{
+			"help_id": "1061",
+			"help_category_id": "-1",
+			"title_text": "巻き戻しの時計とは",
+			"detail_text": "戦えるデジモンが全て倒れた時に使用できる特殊なアイテムです。 \n巻き戻しの時計を使用すると、挑戦していたフロアの出発準備画面まで戻り、再戦が可能となります。\nチームと敵のデジモンは、挑戦していたフロアの出発前の状態になります。\n巻き戻しの時計を使用して再戦する場合、そのフロアをクリアすることで帰還が選べるようになります。"
+		},
+		{
+			"help_id": "1062",
+			"help_category_id": "-1",
+			"title_text": "チーム編成について",
+			"detail_text": "パートナーデジモンを含め、Lv99以上のデジモンのみ挑戦することができます。\nバトルは最大3チーム（15体）での連戦になります。\nチーム編成にはチームコスト（100）が設定されています。 \nチームコストに収まるようにチームを編成する必要があります。 \nデジモンのコストは、世代によって決められています。\n・コスト35：超究極体／究極体 \n・コスト20：アーマー体\n・コスト14：完全体\n・コスト7：成熟期\n・コスト3：成長期"
+		},
+		{
+			"help_id": "1063",
+			"help_category_id": "-1",
+			"title_text": "出発準備について",
+			"detail_text": "バトル前の最終準備を行います。\nチーム編成、パートナー選択、プラグインセット、助っ人の選択が行えます。\n※アンダーワールドでは、助っ人を選択することができません。"
 		},
 		{
 			"help_id": "107",
@@ -688,7 +712,7 @@
 			"help_id": "147",
 			"help_category_id": "9",
 			"title_text": "冒険の記録",
-			"detail_text": "冒険の記録とは、冒険中のメインストーリーで流れたシナリオを閲覧することができる機能です。\n他にもオープニングムービーや進化ムービーなどを見ることもできます。\n<br>1度シナリオを見ることで冒険の記録に登録されていきます。\n<br>冒険の記録は、デジタウンから｢メニュー｣⇒｢冒険の記録｣にて利用することができます。"
+			"detail_text": "冒険の記録とは、冒険中のストーリーで流れたシナリオを閲覧することができる機能です。\n他にもオープニングムービーや進化ムービーなどを見ることもできます。\n<br>1度シナリオを見ることで冒険の記録に登録されていきます。\n<br>冒険の記録は、デジタウンから｢メニュー｣⇒｢冒険の記録｣にて利用することができます。"
 		},
 		{
 			"help_id": "148",
@@ -730,7 +754,7 @@
 			"help_id": "2",
 			"help_category_id": "0",
 			"title_text": "テイマーレベル",
-			"detail_text": "テイマーレベルとは、テイマーの強さを表す数値です。\nレベルが上がることで、スタミナの最大値やフレンドの最大数が上がります。\n<br>レベルは、冒険（メインストーリー、時限の渦、アンダーワールド）を進めることで上がります。"
+			"detail_text": "テイマーレベルとは、テイマーの強さを表す数値です。\nレベルが上がることで、スタミナの最大値やフレンドの最大数が上がります。\n<br>レベルは、冒険（ストーリー、時限の渦、アンダーワールド）を進めることで上がります。"
 		},
 		{
 			"help_id": "20",
@@ -760,7 +784,7 @@
 			"help_id": "24",
 			"help_category_id": "2",
 			"title_text": "強化のやり方",
-			"detail_text": "デジタウンから｢育成｣⇒｢強化｣と移動し、強化を行いたいデジモンを選択します。\n<br>「強化」ボタンを長押ししてbitを注ぎます。\nbitを注いで「強化」ボタンを放したタイミングで強化完了となります。\n<br>強化に必要なbitは、メインストーリーから入手することができます。\nまた、それ以外にも時限の渦やミッション報酬などでも入手することができます。"
+			"detail_text": "デジタウンから｢育成｣⇒｢強化｣と移動し、強化を行いたいデジモンを選択します。\n<br>「強化」ボタンを長押ししてbitを注ぎます。\nbitを注いで「強化」ボタンを放したタイミングで強化完了となります。\n<br>強化に必要なbitは、ストーリーから入手することができます。\nまた、それ以外にも時限の渦やミッション報酬などでも入手することができます。"
 		},
 		{
 			"help_id": "25",
@@ -772,13 +796,13 @@
 			"help_id": "26",
 			"help_category_id": "2",
 			"title_text": "特訓のやり方",
-			"detail_text": "デジタウンから｢育成｣⇒｢特訓/限界突破｣と移動し、特訓を行いたいデジモンを選択します。\n<br>特訓に必要な特訓チップは、メインストーリーから入手することができます。\nまた、それ以外にも時限の渦やミッション報酬などでも入手することができます。"
+			"detail_text": "デジタウンから｢育成｣⇒｢特訓/限界突破｣と移動し、特訓を行いたいデジモンを選択します。\n<br>特訓に必要な特訓チップは、ストーリーから入手することができます。\nまた、それ以外にも時限の渦やミッション報酬などでも入手することができます。"
 		},
 		{
 			"help_id": "27",
 			"help_category_id": "2",
 			"title_text": "特訓チップ",
-			"detail_text": "特訓チップは、特訓を行う際に必要なアイテムです。\n全部で3種類あります。\n<br>・特訓チップ\n・特訓データ\n・特訓フラグメント\n<br>特訓メニューで使用できるのは、特訓チップだけです。\n特訓データと特訓フラグメントは、特訓チップの部品であり、これらを合成することで特訓チップを作ることができます。\n<br>特訓チップは、メインストーリーや、特訓チップ合成から入手することができます。 \nまた、それ以外にも時限の渦などでも入手することができます。"
+			"detail_text": "特訓チップは、特訓を行う際に必要なアイテムです。\n全部で3種類あります。\n<br>・特訓チップ\n・特訓データ\n・特訓フラグメント\n<br>特訓メニューで使用できるのは、特訓チップだけです。\n特訓データと特訓フラグメントは、特訓チップの部品であり、これらを合成することで特訓チップを作ることができます。\n<br>特訓チップは、ストーリーや、特訓チップ合成から入手することができます。 \nまた、それ以外にも時限の渦などでも入手することができます。"
 		},
 		{
 			"help_id": "28",
@@ -802,7 +826,7 @@
 			"help_id": "30",
 			"help_category_id": "2",
 			"title_text": "限界突破のやり方",
-			"detail_text": "デジタウンから｢育成｣⇒｢特訓/限界突破｣と移動し、限界突破を行いたいデジモンを選択します。\n<br>下記の条件を満たすと限界突破が行えます。\n・6つの特訓メニューを全て終えている\n・レベルが必要な値（上限値）に達している\n<br>限界突破に必要なbitは、メインストーリーから入手することができます。\nまた、それ以外にも時限の渦やミッション報酬などでも入手することができます。"
+			"detail_text": "デジタウンから｢育成｣⇒｢特訓/限界突破｣と移動し、限界突破を行いたいデジモンを選択します。\n<br>下記の条件を満たすと限界突破が行えます。\n・6つの特訓メニューを全て終えている\n・レベルが必要な値（上限値）に達している\n<br>限界突破に必要なbitは、ストーリーから入手することができます。\nまた、それ以外にも時限の渦やミッション報酬などでも入手することができます。"
 		},
 		{
 			"help_id": "31",
@@ -814,7 +838,7 @@
 			"help_id": "32",
 			"help_category_id": "2",
 			"title_text": "進化のやり方",
-			"detail_text": "デジタウンから｢育成｣⇒｢進化｣と移動し、進化を行いたいデジモンを選択します。\n<br>下記の上限を満たすと進化が行えます。\n・レベルが最大である\n・友情度が最大である\n・必要な数の進化コードを所持している\n・必要な量のbitを所持している\n<br>bitは、メインストーリーなどから入手することができます。\n進化コードは激突戦の報酬やショップなどで入手することができます。\n必要な進化コードやbit量は進化先の世代や特質によって異なります。"
+			"detail_text": "デジタウンから｢育成｣⇒｢進化｣と移動し、進化を行いたいデジモンを選択します。\n<br>下記の条件を満たすと進化が行えます。\n・レベルが最大である\n・友情度が最大である\n・必要な数の進化コードを所持している\n・必要な量のbitを所持している\n<br>bitは、ストーリーなどから入手することができます。\n進化コードは激突戦の報酬やショップなどで入手することができます。\n必要な進化コードやbit量は進化先の世代や特質によって異なります。"
 		},
 		{
 			"help_id": "33",
@@ -850,7 +874,7 @@
 			"help_id": "38",
 			"help_category_id": "3",
 			"title_text": "プラグインとは",
-			"detail_text": "プラグインは、デジモンのステータスをさらに引き出すためのデータが格納されたディスク（装備品）です。\n<br>\n[img width=844 height=325]tutorial/plugin_2[/img]\n<br>装備スロットにセットすることで、ステータスを補正したり、特殊効果を得ることができます。\nデジモンの装備スロットは最大6スロットあり、攻撃･防御･特殊がそれぞれ2スロットずつあります。\n初期状態では、全てのスロットは使用できませんが、進化を行うことで段階的に解放され、最終的に友情度を最大99にすることで全て解放されます。\n<br>プラグインには、以下のステータスがあります。\n・<color=#e75600>レア度</color>：プラグインの希少度を表します。\n　　　　　レア度が高いほど、枠が豪華になります。\n・<color=#e75600>グレード</color>：プラグインの性能を表します。\n　　　　　<sprite=5>の数が多いほど性能が高くなります。\n・<color=#e75600>強化値</color>：強化した段階です。最大まで強化すると1つ上の\n　　　　　グレードに進化できます。"
+			"detail_text": "プラグインは、デジモンのステータスをさらに引き出すためのデータが格納されたディスク（装備品）です。\n<br>\n[img width=844 height=325]tutorial/plugin_2[/img]\n<br>装備スロットにセットすることで、ステータスを補正したり、特殊効果を得ることができます。\nデジモンの装備スロットは最大6スロットあり、攻撃･防御･特殊がそれぞれ2スロットずつあります。\n初期状態では、全てのスロットは使用できませんが、進化を行うことで段階的に解放され、最終的に友情度を最大99にすることで全て解放されます。\n<br>プラグインには、以下のステータスがあります。\n・<color=#e75600>レア度</color>：プラグインの希少度を表します。\n　　　　　レア度が高いほど、枠が豪華になります。\n・<color=#e75600>グレード</color>：プラグインの性能を表します。\n　　　　　<sprite=4>の数が多いほど性能が高くなります。\n・<color=#e75600>強化値</color>：強化した段階です。最大まで強化すると1つ上の\n　　　　　グレードに進化できます。"
 		},
 		{
 			"help_id": "39",
@@ -1126,7 +1150,7 @@
 			"help_id": "77",
 			"help_category_id": "5",
 			"title_text": "デバフスキルとは",
-			"detail_text": "相手に対して悪い効果を与えるスキルのことです。\n<br> ・<color=#e75600>◯◯ダウン</color>\n　特定のステータスを減少させたり、発生率を引き下げます。\n　パワー、テクニック、ディフェンス、クリティカル率、\n　などがあります。"
+			"detail_text": "相手に対して悪い効果を与えるスキルのことです。\n<br> ・<color=#e75600>◯◯ダウン</color>\n　特定のステータスを減少させたり、発生率を引き下げます。\n　パワー、テクニック、ディフェンス、クリティカル率、\n　状態異常耐性などがあります。"
 		},
 		{
 			"help_id": "78",
@@ -1162,19 +1186,19 @@
 			"help_id": "82",
 			"help_category_id": "6",
 			"title_text": "冒険とは",
-			"detail_text": "冒険とは、デジモンと一緒にバトルを行う場所であり、目的に応じて様々な場所が存在します。\n<br>･メインストーリー\n･時限の渦\n･激突戦\n･バトルパーク\n･アンダーワールド\n<br>最初は行ける場所は限られていますが、メインストーリーを進めることで解放されていきます。"
+			"detail_text": "冒険とは、デジモンと一緒にバトルを行う場所であり、目的に応じて様々な場所が存在します。\n<br>･ストーリー\n･時限の渦\n･激突戦\n･バトルパーク\n･アンダーワールド\n<br>最初は行ける場所は限られていますが、メインストーリーを進めることで解放されていきます。"
 		},
 		{
 			"help_id": "83",
 			"help_category_id": "6",
-			"title_text": "メインストーリー",
-			"detail_text": "シナリオと連動したバトルを楽しむことができます。\n進行にはスタミナを消費します。\nストーリーは<color=#e75600>章</color>単位で大きく分けられており、その中に<color=#e75600>話</color>が用意されています。\n1話ごとにバトルを楽しむことができますが、中にはシナリオだけの話や、シナリオがない話も存在します。\nメインストーリーでは、デジモンの育成に必要なbitやお世話アイテムなどが手に入ります。"
+			"title_text": "ストーリー",
+			"detail_text": "シナリオと連動したバトルを楽しむことができます。\n進行にはスタミナを消費します。\nストーリーは<color=#e75600>章</color>単位で大きく分けられており、その中に<color=#e75600>話</color>が用意されています。\n1話ごとにバトルを楽しむことができますが、中にはシナリオだけの話や、シナリオがない話も存在します。\nストーリーでは、デジモンの育成に必要なbitやお世話アイテムなどが手に入ります。"
 		},
 		{
 			"help_id": "84",
 			"help_category_id": "6",
 			"title_text": "バトルリザルトについて",
-			"detail_text": "バトルリザルト（結果画面）では、<sprite=5>によるバトルの評価と、バトル中に獲得した報酬が表示されます。\nバトルに応じたテイマー経験値を入手することができ、バトルに参加したデジモンは友情度が上昇します。"
+			"detail_text": "バトルリザルト（結果画面）では、<sprite=4>によるバトルの評価と、バトル中に獲得した報酬が表示されます。\nバトルに応じたテイマー経験値を入手することができ、バトルに参加したデジモンは友情度が上昇します。"
 		},
 		{
 			"help_id": "85",
@@ -1186,13 +1210,13 @@
 			"help_id": "86",
 			"help_category_id": "6",
 			"title_text": "星について",
-			"detail_text": "<sprite=5>（星）は、バトルに設定された条件を達成することで得ることができます。 \n1つの話に条件が3つ設定されており、条件の内容はバトルごとに異なります。"
+			"detail_text": "<sprite=4>（星）は、バトルに設定された条件を達成することで得ることができます。 \n1つの話に条件が3つ設定されており、条件の内容はバトルごとに異なります。"
 		},
 		{
 			"help_id": "87",
 			"help_category_id": "6",
 			"title_text": "コンプ報酬",
-			"detail_text": "コンプ報酬とは、各章の<sprite=5>（星）を全て集めることでもらえる特別な報酬です。\n報酬は、章ごとに用意されています。\n<br>コンプ報酬があるのは、メインストーリーだけです。"
+			"detail_text": "コンプ報酬とは、各章の<sprite=4>（星）を全て集めることでもらえる特別な報酬です。\n報酬は、章ごとに用意されています。"
 		},
 		{
 			"help_id": "88",
@@ -1240,7 +1264,7 @@
 			"help_id": "94",
 			"help_category_id": "6",
 			"title_text": "発生条件",
-			"detail_text": "激突戦は、メインストーリーや時限の渦をクリアしていくことで、バトル勝利後に発生する時があります。"
+			"detail_text": "激突戦は、ストーリーや時限の渦をクリアしていくことで、バトル勝利後に発生する時があります。"
 		},
 		{
 			"help_id": "95",
@@ -1270,7 +1294,7 @@
 			"help_id": "99",
 			"help_category_id": "6",
 			"title_text": "アンダーワールド",
-			"detail_text": "アンダーワールドとは、デジタルワールドに出現した特殊な場所で、地下に何十階層も続くバトルエリアが存在しています。\nアンダーワールドの進行にはスタミナを消費します。\n<br>階層ごとに敵が配置されており、クリアするたびに報酬を受け取ることができます。\n一度クリアした階層は再度挑戦することができません。\n<br>アンダーワールドでは、フレンド達の進行状況が表示され、お互いの進行状況を確認することができます。"
+			"detail_text": "アンダーワールドとは、デジタルワールドに出現した特殊な場所です。\nアンダーワールドには2つのエリアが存在し、進行にはスタミナを消費します。\n<br>・アンダーワールドアビス\n　地下に何十階層も続くバトルエリアが存在しています。\n<br>・アンダーワールドダンジョン\n　入る度に多様に変化するバトルエリアが存在しています。"
 		}
 	]
 }

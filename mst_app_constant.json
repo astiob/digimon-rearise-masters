@@ -205,6 +205,18 @@
 			"description": "通常アイテムでお世話したときのごきげん度の影響率(百分率) 基礎値×0.8とする"
 		},
 		{
+			"category": "EC",
+			"name": "START_DATE",
+			"value": "2019-10-03 14:00:00",
+			"description": "エンドコンテンツが有効となる日時"
+		},
+		{
+			"category": "EC",
+			"name": "TEAM_COST",
+			"value": "100",
+			"description": "1チームのコスト上限"
+		},
+		{
 			"category": "EXTENSION",
 			"name": "DECO_SLOT_ADD",
 			"value": "5",
@@ -461,6 +473,12 @@
 			"name": "UNLOCK_TRAINING_QUEST_ID",
 			"value": "1002030",
 			"description": "特訓の機能解放クエストID（2章3話）（TutorialType:307）"
+		},
+		{
+			"category": "UNLOCK",
+			"name": "UNLOCK_UNDERWORLD_2_QUEST_ID",
+			"value": "1011150",
+			"description": "アンダーワールド2の機能解放クエストID（11章最終話）"
 		},
 		{
 			"category": "UNLOCK",

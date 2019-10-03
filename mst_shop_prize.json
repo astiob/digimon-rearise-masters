@@ -5119,6 +5119,13 @@
 		},
 		{
 			"shop_id": "2",
+			"sequence": "306801",
+			"prize_type": "0",
+			"prize_id": "27001",
+			"amount": "3"
+		},
+		{
+			"shop_id": "2",
 			"sequence": "31",
 			"prize_type": "0",
 			"prize_id": "105",
@@ -10624,6 +10631,48 @@
 			"sequence": "306428",
 			"prize_type": "2",
 			"prize_id": "191432001",
+			"amount": "1"
+		},
+		{
+			"shop_id": "5",
+			"sequence": "306901",
+			"prize_type": "2",
+			"prize_id": "204411001",
+			"amount": "1"
+		},
+		{
+			"shop_id": "5",
+			"sequence": "306902",
+			"prize_type": "2",
+			"prize_id": "204431001",
+			"amount": "1"
+		},
+		{
+			"shop_id": "5",
+			"sequence": "306903",
+			"prize_type": "2",
+			"prize_id": "148414001",
+			"amount": "1"
+		},
+		{
+			"shop_id": "5",
+			"sequence": "306904",
+			"prize_type": "2",
+			"prize_id": "148434001",
+			"amount": "1"
+		},
+		{
+			"shop_id": "5",
+			"sequence": "306905",
+			"prize_type": "2",
+			"prize_id": "205411001",
+			"amount": "1"
+		},
+		{
+			"shop_id": "5",
+			"sequence": "306906",
+			"prize_type": "2",
+			"prize_id": "205431001",
 			"amount": "1"
 		},
 		{
