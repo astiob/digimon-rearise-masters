@@ -2,7 +2,7 @@
 	"masterRows": [
 		{
 			"deco_id": "10",
-			"name": "レジャーシート",
+			"name": "Picnic Blanket",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -10,11 +10,11 @@
 			"icon_asset": "deco/icon/icondeco010",
 			"model_asset": "deco/deco0004",
 			"emotion_icon_asset": "",
-			"description": "楽しいピクニック。豪華なお弁当にデジモンたちも大喜び。(5x5)"
+			"description": "A great day for a picnic! Food, drinks, and fun for all Digimon. (5x5)"
 		},
 		{
 			"deco_id": "11",
-			"name": "自販機",
+			"name": "Vending Machine",
 			"size_x": "6",
 			"size_y": "5",
 			"is_limited": "0",
@@ -22,11 +22,11 @@
 			"icon_asset": "deco/icon/icondeco011",
 			"model_asset": "deco/deco0001",
 			"emotion_icon_asset": "",
-			"description": "何らかのエラーによりお金を入れなくても飲み物が出てきてしまう自販機。<color=#e75600>デジモンが出てきた飲み物で喉を潤すことがある。</color>(6x5)"
+			"description": "An error makes this dispense drinks without inserting cash. <color=#e75600>Digimon sometimes visit this machine to quench their thirst.</color> (6x5)"
 		},
 		{
 			"deco_id": "12",
-			"name": "寂れた鉄塔",
+			"name": "Warped Tower",
 			"size_x": "7",
 			"size_y": "7",
 			"is_limited": "0",
@@ -34,11 +34,11 @@
 			"icon_asset": "deco/icon/icondeco012",
 			"model_asset": "deco/deco0008",
 			"emotion_icon_asset": "",
-			"description": "少し歪んでいるのが何かを象徴しているのか不気味であるが、この雰囲気を好むデジモンも少なくないという。(7x7)"
+			"description": "Could the eerily warped form of this metal tower be symbolic of something? Many Digimon seem to enjoy its aesthetic. (7x7)"
 		},
 		{
 			"deco_id": "13",
-			"name": "パンジー（青）",
+			"name": "Pansies (Blue)",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -46,11 +46,11 @@
 			"icon_asset": "deco/icon/icondeco013",
 			"model_asset": "deco/deco0030",
 			"emotion_icon_asset": "",
-			"description": "スミレ科スミレ属の園芸植物。花の色にはいくつか種類が存在する。(1x1)<color=#e75600>【通過可能】</color>"
+			"description": "Violaceae Viola. A flower known to come in a variety of colors. (1x1) <color=#e75600>Passable</color>"
 		},
 		{
 			"deco_id": "14",
-			"name": "パンジー（紫）",
+			"name": "Pansies (Violet)",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -58,11 +58,11 @@
 			"icon_asset": "deco/icon/icondeco014",
 			"model_asset": "deco/deco0031",
 			"emotion_icon_asset": "",
-			"description": "スミレ科スミレ属の園芸植物。花の色にはいくつか種類が存在する。(1x1)<color=#e75600>【通過可能】</color>"
+			"description": "Violaceae Viola. A flower known to come in a variety of colors. (1x1) <color=#e75600>Passable</color>"
 		},
 		{
 			"deco_id": "15",
-			"name": "パンジー（黄）",
+			"name": "Pansies (Yellow)",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -70,11 +70,11 @@
 			"icon_asset": "deco/icon/icondeco015",
 			"model_asset": "deco/deco0032",
 			"emotion_icon_asset": "",
-			"description": "スミレ科スミレ属の園芸植物。花の色にはいくつか種類が存在する。(1x1)<color=#e75600>【通過可能】</color>"
+			"description": "Violaceae Viola. A flower known to come in a variety of colors. (1x1) <color=#e75600>Passable</color>"
 		},
 		{
 			"deco_id": "17",
-			"name": "仮設トイレ",
+			"name": "Portable Potty",
 			"size_x": "7",
 			"size_y": "7",
 			"is_limited": "0",
@@ -82,11 +82,11 @@
 			"icon_asset": "deco/icon/icondeco017",
 			"model_asset": "deco/deco0011",
 			"emotion_icon_asset": "",
-			"description": "いつも清潔にご利用いただきありがとうございます。<color=#e75600>急いでトイレに駆け込むデジモンの姿を見ることができる。思わぬ先客が顔を見せることもある。</color>(7x7)"
+			"description": "When you gotta go, you gotta go. <color=#e75600>Please be sure to wash your hands after you're finished.</color> (7x7)"
 		},
 		{
 			"deco_id": "18",
-			"name": "テント",
+			"name": "Tent",
 			"size_x": "7",
 			"size_y": "7",
 			"is_limited": "0",
@@ -94,11 +94,11 @@
 			"icon_asset": "deco/icon/icondeco018",
 			"model_asset": "deco/deco0013",
 			"emotion_icon_asset": "",
-			"description": "大勢でもソロでも楽しいキャンプ。テントを見ると思わず入りたくなる。<color=#e75600>デジモンも中に入ってひと休みしてしまう。</color>(7x7)"
+			"description": "None can resist the urge to crawl into a tent. <color=#e75600>Even Digimon will slide in for a short rest.</color> (7x7)"
 		},
 		{
 			"deco_id": "19",
-			"name": "樽",
+			"name": "Barrel",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -106,11 +106,11 @@
 			"icon_asset": "deco/icon/icondeco019",
 			"model_asset": "deco/deco0015",
 			"emotion_icon_asset": "",
-			"description": "飲料などを保管する木製の容器。投げてぶつけたり、転がして上に乗ったりするのは本来の使用方法ではない。(5x5)"
+			"description": "A wooden vessel made for storage. Not intended for throwing or riding atop while it rolls. (5x5)"
 		},
 		{
 			"deco_id": "2",
-			"name": "お花",
+			"name": "Flowers",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -118,11 +118,11 @@
 			"icon_asset": "deco/icon/icondeco002",
 			"model_asset": "deco/deco0033",
 			"emotion_icon_asset": "deco/emotion_icon/icon_emotion_deco002",
-			"description": "名も無き花であるが、その生命力はたくましく硬い地面から咲く姿がよく見られる。(1x1)<color=#e75600>【通過可能】</color>"
+			"description": "These flowers have no name, but are often observed blooming in even the hardest soil. (1x1) <color=#e75600>Passable</color>"
 		},
 		{
 			"deco_id": "21",
-			"name": "冷蔵庫",
+			"name": "Refrigerator",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -130,11 +130,11 @@
 			"icon_asset": "deco/icon/icondeco021",
 			"model_asset": "deco/deco0012",
 			"emotion_icon_asset": "",
-			"description": "<color=#e75600>お腹を空かせたデジモンがつまみ食いしようとやってくる</color>が、どこから電力を得て、誰が中身を補充しているのかは謎である。(5x5)"
+			"description": "<color=#e75600>Hungry Digimon come to scavenge snacks out of this,</color> but nobody knows what powers it or who refills its contents. (5x5)"
 		},
 		{
 			"deco_id": "22",
-			"name": "プランター",
+			"name": "Planter",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -142,11 +142,11 @@
 			"icon_asset": "deco/icon/icondeco022",
 			"model_asset": "deco/deco0014",
 			"emotion_icon_asset": "",
-			"description": "鉢植えの花などを飾り付けた花台。デジモンたちの間にもガーデニングブームが到来か？(5x5)"
+			"description": "A planter for flowers and other decorative plants. Have Digimon suddenly found pleasure in gardening? (5x5)"
 		},
 		{
 			"deco_id": "24",
-			"name": "歯車",
+			"name": "Gears",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -154,11 +154,11 @@
 			"icon_asset": "deco/icon/icondeco024",
 			"model_asset": "deco/deco0018",
 			"emotion_icon_asset": "",
-			"description": "歯車の仕組みを学習するためのオブジェ。歯車が回り続けているが動力源は不明。黒い歯車が少し気になる…。(5x5)"
+			"description": "An installation designed to teach how gears work. The gears move under an unknown power source. The black gears are a little unnerving... (5x5)"
 		},
 		{
 			"deco_id": "25",
-			"name": "歌唱ステージ",
+			"name": "Performance Stage",
 			"size_x": "9",
 			"size_y": "6",
 			"is_limited": "0",
@@ -166,11 +166,11 @@
 			"icon_asset": "deco/icon/icondeco025",
 			"model_asset": "deco/deco0019",
 			"emotion_icon_asset": "",
-			"description": "フロアの視線を独占できる憧れのオンステージ。<color=#e75600>デジモンがステージに立つと他のデジモンが観客として集まってショーが開幕する。</color>(9x6)"
+			"description": "Shine on center stage. <color=#e75600>Any Digimon who stand on the stage put on a show, causing a crowd to gather.</color> (9x6)"
 		},
 		{
 			"deco_id": "29",
-			"name": "噴水",
+			"name": "Fountain",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -178,11 +178,11 @@
 			"icon_asset": "deco/icon/icondeco029",
 			"model_asset": "deco/deco0028",
 			"emotion_icon_asset": "",
-			"description": "シンプルな噴水。噴き上がる水に癒やされる。<color=#e75600>水辺にはデジモンたちも入ることができる。</color>(5x5)"
+			"description": "A simple fountain with a soothing spray. <color=#e75600>Digimon can play and refresh themselves by the waterside.</color> (5x5)"
 		},
 		{
 			"deco_id": "31",
-			"name": "ゆりかご",
+			"name": "Cradle",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -190,11 +190,11 @@
 			"icon_asset": "deco/icon/icondeco031",
 			"model_asset": "deco/deco0029",
 			"emotion_icon_asset": "",
-			"description": "<color=#e75600>幼年期デジモンが昼寝をする</color>場所。その姿にはとても癒やされる。<color=#e75600>まれに成長期のデジモンがここではしゃぐ姿が見られる。</color>(6x6)"
+			"description": "A place for <color=#e75600>Fresh Digimon to take naps.</color> The sight of them sleeping brings comfort to all. <color=#e75600>Rookie Digimon can be found playing around in it.</color> (6x6)"
 		},
 		{
 			"deco_id": "33",
-			"name": "路面電車",
+			"name": "Tram Car",
 			"size_x": "9",
 			"size_y": "6",
 			"is_limited": "0",
@@ -202,11 +202,11 @@
 			"icon_asset": "deco/icon/icondeco034",
 			"model_asset": "deco/deco0034",
 			"emotion_icon_asset": "",
-			"description": "デジタウンに突如現れた路面電車。<color=#E75600>好奇心旺盛なデジモンは近づき中に乗り込む</color>が、動力も線路も無いため走りはしない。どこかノスタルジーを感じさせる。(9x6)"
+			"description": "A tram car that suddenly appeared in DigiTown. <color=#E75600>Curious Digimon will climb on board,</color> but it lacks a power source or rails allowing it to move. Somewhat nostalgic. (9x6)"
 		},
 		{
 			"deco_id": "34",
-			"name": "焚き火",
+			"name": "Campfire",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -214,11 +214,11 @@
 			"icon_asset": "deco/icon/icondeco033",
 			"model_asset": "deco/deco0035",
 			"emotion_icon_asset": "",
-			"description": "<color=#E75600>焚き火にあたりながら、ゆっくり静かに佇んでいると、モヤモヤしていた気持ちも落ち着くかも</color>しれない。悩んでお腹が空いたら炊きたてのご飯もどうぞ。(5x5)"
+			"description": "<color=#E75600>Sitting quietly by the fire can put your mind at ease.</color> A nice, warm meal cooked over fire wouldn't hurt, either. (5x5)"
 		},
 		{
 			"deco_id": "35",
-			"name": "チョウチョ",
+			"name": "Butterfly",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -226,11 +226,11 @@
 			"icon_asset": "deco/icon/icondeco035",
 			"model_asset": "deco/deco0036",
 			"emotion_icon_asset": "",
-			"description": "デジタウンに生息するデジタルデータの蝶。その姿は見る者に様々な想いを抱かせるが、<color=#e75600>追いかけると姿を消してしまう</color>気まぐれでゴキゲンな蝶である。(5x5)"
+			"description": "A fickle and whimsical digital butterfly found in the Digital World. Alluring to those who see it, but <color=#e75600>disappears when approached</color>. (5x5)"
 		},
 		{
 			"deco_id": "37",
-			"name": "スイカ",
+			"name": "Watermelon",
 			"size_x": "6",
 			"size_y": "5",
 			"is_limited": "0",
@@ -238,11 +238,11 @@
 			"icon_asset": "deco/icon/icondeco036",
 			"model_asset": "deco/deco0037",
 			"emotion_icon_asset": "",
-			"description": "夏の風物詩。海といえばスイカ割り！しかし、そんな遊びは知らないデジモンたちは、<color=#E75600>スイカを見て嬉しくなってすぐに割ってしまう</color>のであった。(6x5)"
+			"description": "Juicy and refreshing, watermelons are perfect snacks for the summer! Still, Digimon have just as much fun <color=#E75600>smashing them to pieces as they do eating them</color>. (6x5)"
 		},
 		{
 			"deco_id": "4",
-			"name": "傾いた道路標識",
+			"name": "Tilted Traffic Signs",
 			"size_x": "7",
 			"size_y": "7",
 			"is_limited": "0",
@@ -250,11 +250,11 @@
 			"icon_asset": "deco/icon/icondeco004",
 			"model_asset": "deco/deco0007",
 			"emotion_icon_asset": "",
-			"description": "現実世界から突如デジタウンに現れた道路標識。不規則に並んでいるのがどこか不気味である。(7x7)"
+			"description": "Traffic signs from the real world that phased into DigiTown. Their chaotic arrangement will lead you nowhere. (7x7)"
 		},
 		{
 			"deco_id": "40",
-			"name": "パンチマシーン",
+			"name": "Punching Machine",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -262,11 +262,11 @@
 			"icon_asset": "deco/icon/icondeco040",
 			"model_asset": "deco/deco0041",
 			"emotion_icon_asset": "",
-			"description": "楽しげな見た目の割になかなか攻撃的な設備。<color=#E75600>デジモンたちが修行の成果を見せようと挑むが、中には修行が足りず返り討ちに遭うことも…！？</color>(6x6)"
+			"description": "It may look nice and cheerful, but it's a rather aggressive facility.<color=#E75600>The Digimon inside are doing their best, but those who lack training sometimes find it's more than they can handle...</color>(6x6)"
 		},
 		{
 			"deco_id": "41",
-			"name": "墓石",
+			"name": "Tombstone",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -274,11 +274,11 @@
 			"icon_asset": "deco/icon/icondeco041",
 			"model_asset": "deco/deco0042",
 			"emotion_icon_asset": "",
-			"description": "何者かの魂が眠る場所。実は、<color=#E75600>中にとあるデジモンが住み着いている</color>という噂もあり、実際に<color=#E75600>目撃したデジモンもいる</color>という。(5x5)"
+			"description": "A place where someone's soul is laid to rest. A <color=#E75600>certain Digimon</color> is said to live within, a rumor that <color=#E75600>several eyewitnesses</color> have attested to. (5x5)"
 		},
 		{
 			"deco_id": "42",
-			"name": "ジャック･オ･ランタン(小)",
+			"name": "Jack-o'-Lantern",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -286,11 +286,11 @@
 			"icon_asset": "deco/icon/icondeco042",
 			"model_asset": "deco/deco0043",
 			"emotion_icon_asset": "",
-			"description": "ハロウィンのカボチャの飾り物。気分が高まった<color=#E75600>デジモンたちが楽しそうに集まってくる。</color>(5x5)"
+			"description": "A pumpkin decoration for Halloween. <color=#E75600>Digimon will gather around it</color> in high spirits. (5x5)"
 		},
 		{
 			"deco_id": "43",
-			"name": "ジャック･オ･ランタン(大)",
+			"name": "Jumbo Jack-o'-Lantern",
 			"size_x": "6",
 			"size_y": "5",
 			"is_limited": "0",
@@ -298,11 +298,11 @@
 			"icon_asset": "deco/icon/icondeco043",
 			"model_asset": "deco/deco0044",
 			"emotion_icon_asset": "",
-			"description": "ハロウィンのカボチャの飾り物。お菓子もたくさんあってハロウィン気分満点。<color=#E75600>突然、カボチャの中から…！？</color>まさにトリック・オア・トリート。(6x5)"
+			"description": "A pumpkin decoration for Halloween. All the candy makes for a jovial Halloween mood. <color=#E75600>But then, from inside the lantern...!</color> Talk about \"Trick or Treat\"! (6x5)"
 		},
 		{
 			"deco_id": "44",
-			"name": "枯れ木＆燭台",
+			"name": "Withered Tree & Candlesticks",
 			"size_x": "5",
 			"size_y": "6",
 			"is_limited": "0",
@@ -310,11 +310,11 @@
 			"icon_asset": "deco/icon/icondeco044",
 			"model_asset": "deco/deco0045",
 			"emotion_icon_asset": "",
-			"description": "クモの巣が張り、コウモリが飛んでいたりと不気味な枯れ木と燭台で、デジタウンをホラーな雰囲気に。(5x6)"
+			"description": "This eerie dead tree is home to spiderwebs, soaring bats and creepy candles, adding a splash of horror to your DigiTown. (5x6)"
 		},
 		{
 			"deco_id": "46",
-			"name": "電話ボックス",
+			"name": "Phone Booth",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -322,11 +322,11 @@
 			"icon_asset": "deco/icon/icondeco046",
 			"model_asset": "deco/deco0046",
 			"emotion_icon_asset": "deco/emotion_icon/icon_emotion_deco001",
-			"description": "現実世界では見かけることが少なくなってきた電話ボックス。<color=#e75600>突然鳴り響く電話のベルに驚くデジモンの姿を見ることができる。</color>どこからかかってきたのかは謎。(5x5)"
+			"description": "This telephone is a rare sight in the real world. <color=#e75600>Digimon can get startled by the sudden ringing of a phone.</color> Who could be calling? (5x5)"
 		},
 		{
 			"deco_id": "47",
-			"name": "クリスマスツリー",
+			"name": "Christmas Tree",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -334,11 +334,11 @@
 			"icon_asset": "deco/icon/icondeco047",
 			"model_asset": "deco/deco0047",
 			"emotion_icon_asset": "",
-			"description": "オーソドックスなクリスマスツリー。<color=#E75600>クリスマスを楽しみに待っているデジモンたちが集まってくる。</color>(5x5)"
+			"description": "Your run-of-the-mill Christmas tree. <color=#E75600>Digimon gather around, waiting with glee for the festivities to begin.</color> (5x5)"
 		},
 		{
 			"deco_id": "48",
-			"name": "感謝祭のガーデンパーティ",
+			"name": "Thanksgiving Garden Party",
 			"size_x": "6",
 			"size_y": "5",
 			"is_limited": "0",
@@ -346,11 +346,11 @@
 			"icon_asset": "deco/icon/icondeco048",
 			"model_asset": "deco/deco0048",
 			"emotion_icon_asset": "",
-			"description": "感謝祭のパーティのために用意された<color=#E75600>ごちそうを囲んでデジモンたちがワイワイ</color>と楽しい時間を過ごす。(6x5)"
+			"description": "<color=#E75600>Your Digimon will have a blast, surrounded by these delicacies</color> made specially for the Thanksgiving Garden Party. (6x5)"
 		},
 		{
 			"deco_id": "49",
-			"name": "大きな栗の木",
+			"name": "Great Chestnut Tree",
 			"size_x": "5",
 			"size_y": "6",
 			"is_limited": "0",
@@ -358,11 +358,11 @@
 			"icon_asset": "deco/icon/icondeco049",
 			"model_asset": "deco/deco0049",
 			"emotion_icon_asset": "",
-			"description": "食欲の秋にふさわしい栗が取り放題の大きな栗の木。<color=#E75600>欲張りすぎると大変なことに…！？</color>(5x6)"
+			"description": "A tree filled with sizeable chestnuts, perfect to satisfy one's autumn appetite. <color=#E75600>But if you get too greedy...</color> (5x6)"
 		},
 		{
 			"deco_id": "5",
-			"name": "パンジー（赤）",
+			"name": "Pansies (Red)",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -370,11 +370,11 @@
 			"icon_asset": "deco/icon/icondeco005",
 			"model_asset": "deco/deco0009",
 			"emotion_icon_asset": "",
-			"description": "スミレ科スミレ属の園芸植物。花の色にはいくつか種類が存在する。(1x1)<color=#e75600>【通過可能】</color>"
+			"description": "Violaceae Viola. A flower known to come in a variety of colors. (1x1) <color=#e75600>Passable</color>"
 		},
 		{
 			"deco_id": "50",
-			"name": "公園の恐竜オブジェ",
+			"name": "Dinosaur Sculpture",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -382,11 +382,11 @@
 			"icon_asset": "deco/icon/icondeco050",
 			"model_asset": "deco/deco0050",
 			"emotion_icon_asset": "",
-			"description": "とある公園にある恐竜のオブジェ。<color=#E75600>中ではデジモンたちが話し合ったりゲームで遊んだりしているらしい。</color>(5x5)"
+			"description": "A dinosaur sculpture found in a certain park. <color=#E75600>Digimon can be found chatting and playing games inside.</color> (5x5)"
 		},
 		{
 			"deco_id": "51",
-			"name": "イルミネーションツリー",
+			"name": "Illuminated Tree",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -394,11 +394,11 @@
 			"icon_asset": "deco/icon/icondeco051",
 			"model_asset": "deco/deco0051",
 			"emotion_icon_asset": "",
-			"description": "光り輝くおしゃれなクリスマスツリー。<color=#E75600>美しい光に誘われたデジモンたちの癒しの場所に。</color>(6x6)"
+			"description": "A glittering and stylish Christmas Tree. <color=#E75600>A place of healing for Digimon who are drawn to the beautiful lights.</color> (6x6)"
 		},
 		{
 			"deco_id": "52",
-			"name": "サンタのソリ",
+			"name": "Santa's Sleigh",
 			"size_x": "5",
 			"size_y": "6",
 			"is_limited": "0",
@@ -406,7 +406,7 @@
 			"icon_asset": "deco/icon/icondeco052",
 			"model_asset": "deco/deco0052",
 			"emotion_icon_asset": "",
-			"description": "空高く飛べるサンタクロース専用のソリ。デジモンたちはクリスマスプレゼントをもらったかな？(5x6)"
+			"description": "A personal sleigh that Santa Claus uses to fly high in the sky. Will the Digimon get Christmas presents? (5x6)"
 		},
 		{
 			"deco_id": "53",
@@ -434,7 +434,7 @@
 		},
 		{
 			"deco_id": "55",
-			"name": "冬の水たまり",
+			"name": "Winter Puddle",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -442,11 +442,11 @@
 			"icon_asset": "deco/icon/icondeco055",
 			"model_asset": "deco/deco0055",
 			"emotion_icon_asset": "",
-			"description": "冬の寒さで凍ってしまった水たまり。<color=#E75600>ついつい上を歩きたくなるが気をつけないと…！</color>(5x5)"
+			"description": "A puddle that has frozen due to the coldness of winter. <color=#E75600>You'll probably get an urge to walk on it, but be plenty careful if you do...!</color> (5x5)"
 		},
 		{
 			"deco_id": "56",
-			"name": "雪だるま",
+			"name": "Snowman",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -454,11 +454,11 @@
 			"icon_asset": "deco/icon/icondeco056",
 			"model_asset": "deco/deco0056",
 			"emotion_icon_asset": "",
-			"description": "シンプルな雪だるま。その素朴なたたずまいは、<color=#e75600>デジモンたちの創作意欲を刺激する</color>。(6x6)"
+			"description": "A simple snowman. It's simple appearance <color=#e75600>is what sparks a Digimon's appetite for creativity</color>. (6x6)"
 		},
 		{
 			"deco_id": "57",
-			"name": "雪化粧した木",
+			"name": "Snow-covered Tree",
 			"size_x": "5",
 			"size_y": "6",
 			"is_limited": "0",
@@ -466,11 +466,11 @@
 			"icon_asset": "deco/icon/icondeco057",
 			"model_asset": "deco/deco0057",
 			"emotion_icon_asset": "",
-			"description": "どっさりと雪が積もって雪化粧した木。<color=#e75600>デジモンたちは雪にウキウキしてしまうけど落雪注意！</color>あまり近づきすぎないように…。(5x6)"
+			"description": "A tree covered in tons of snow. <color=#e75600>Digimon will get excited about this, but watch out for falling snow!</color> Best to be safe and not stand under it... (5x6)"
 		},
 		{
 			"deco_id": "58",
-			"name": "かまくら",
+			"name": "Igloo",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -478,7 +478,7 @@
 			"icon_asset": "deco/icon/icondeco058",
 			"model_asset": "deco/deco0058",
 			"emotion_icon_asset": "",
-			"description": "どんな大きさのデジモンでも入れてしまう不思議なかまくら。意外と中は暖かく、<color=#E75600>デジモンたちの憩いの場に。</color>(6x6)"
+			"description": "A mysterious igloo that fits Digimon of any size. Surprisingly, the inside is warm <color=#E75600>and is a place of relaxation for Digimon.</color>. (6x6)"
 		},
 		{
 			"deco_id": "59",
@@ -494,7 +494,7 @@
 		},
 		{
 			"deco_id": "6",
-			"name": "パンチングバルーン",
+			"name": "Punching Ball",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -502,7 +502,7 @@
 			"icon_asset": "deco/icon/icondeco006",
 			"model_asset": "deco/deco0002",
 			"emotion_icon_asset": "",
-			"description": "バルーン部分を拳などで打つことでトレーニングを行う器具。<color=#e75600>デジモンが遊び道具として楽しむこともある。</color>よく弾む。(5x5)"
+			"description": "A training installation used for practicing punches. <color=#e75600>Some Digimon just like to play with its bouncy nature.</color> (5x5)"
 		},
 		{
 			"deco_id": "60",
@@ -518,7 +518,7 @@
 		},
 		{
 			"deco_id": "65",
-			"name": "レトロなコンピュータ",
+			"name": "Retro Computer",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -526,7 +526,7 @@
 			"icon_asset": "deco/icon/icondeco065",
 			"model_asset": "deco/deco0065",
 			"emotion_icon_asset": "",
-			"description": "ひと昔前のコンピュータ。かつては小さな体育館ほどあったと言われるが、これでもまだけっこう場所を取る。 <color=#e75600>使ってみようとしてもデジモンたちにはチンプンカンプン。機械に強いデジモンがいると動かせるかもしれない。</color>(6x6)"
+			"description": "A computer from the distant past. Though this one is still pretty bulky, some were said to have filled up the entire gym.<color=#e75600> Most Digimon will give it a whirl but won't be able to make much sense of it. A tech-savvy Digimon might find a use for it however. </color>(6x6)"
 		},
 		{
 			"deco_id": "66",
@@ -542,7 +542,7 @@
 		},
 		{
 			"deco_id": "7",
-			"name": "三角コーン",
+			"name": "Traffic Cone",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -550,7 +550,7 @@
 			"icon_asset": "deco/icon/icondeco007",
 			"model_asset": "deco/deco0010",
 			"emotion_icon_asset": "",
-			"description": "現実世界では交通整理や規制などに使用されるが、デジモンたちにはあまり効果がない。ずいぶんと使い込まれているようだ。(5x5)"
+			"description": "These are used to sort and regulate traffic in the real world, but aren't very effective for corralling Digimon. Looks pretty beat up. (5x5)"
 		},
 		{
 			"deco_id": "72",
@@ -602,7 +602,7 @@
 		},
 		{
 			"deco_id": "78",
-			"name": "ウンチ",
+			"name": "Poop",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -610,11 +610,11 @@
 			"icon_asset": "deco/icon/icondeco078",
 			"model_asset": "deco/deco0078",
 			"emotion_icon_asset": "",
-			"description": "スカモンお手製ウンチ……の置物。置物なので臭くないし病気の心配もない。(1x1)<color=#e75600>【通過可能】</color>"
+			"description": "An ornament of...Sukamon's handmade poop. Fear not, this is only a replica! Comes odor-free so you won't get sick from it. (1x1) <color=#e75600>Passable</color>"
 		},
 		{
 			"deco_id": "79",
-			"name": "金のウンチ",
+			"name": "Golden Poop",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -622,11 +622,11 @@
 			"icon_asset": "deco/icon/icondeco079",
 			"model_asset": "deco/deco0079",
 			"emotion_icon_asset": "",
-			"description": "スカモンお手製金のウンチ……の置物。その輝きからスカモンの意気込みが伝わってくるようだ。(1x1)<color=#e75600>【通過可能】</color>"
+			"description": "An ornament of...Sukamon's handmade golden poop. The glossy finish really shows off the artisan's passion. (1x1) <color=#e75600>Passable</color>"
 		},
 		{
 			"deco_id": "8",
-			"name": "キャンプファイヤー",
+			"name": "Bonfire",
 			"size_x": "7",
 			"size_y": "7",
 			"is_limited": "0",
@@ -634,11 +634,11 @@
 			"icon_asset": "deco/icon/icondeco008",
 			"model_asset": "deco/deco0003",
 			"emotion_icon_asset": "",
-			"description": "デジモンたちも火を見ると気持ちが高揚するようだ。<color=#e75600>最大4体のデジモンが火を囲んで周りを楽しそうに歩く。</color>(7x7)"
+			"description": "Digimon too, enjoy a good fire. <color=#e75600>Up to four Digimon will dance cheerfully around the fire.</color> (7x7)"
 		},
 		{
 			"deco_id": "9",
-			"name": "モアイ像",
+			"name": "Moai Statue",
 			"size_x": "6",
 			"size_y": "5",
 			"is_limited": "0",
@@ -646,7 +646,7 @@
 			"icon_asset": "deco/icon/icondeco009",
 			"model_asset": "deco/deco0005",
 			"emotion_icon_asset": "",
-			"description": "現実世界では地球のとある島にある石像彫刻。何のために造られたのか、なぜデジタウンにもあるのかは謎に包まれている。(6x5)"
+			"description": "Stone statues found on a certain island in the real world. Where did they come from? And how did they end up in your DigiTown? (6x5)"
 		}
 	]
 }

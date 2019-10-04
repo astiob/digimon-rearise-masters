@@ -1,8 +1,8 @@
 {
 	"masterRows": [
 		{
-			"login_bonus_id": "1",
-			"name": "ログインボーナス",
+			"login_bonus_id": "5001",
+			"name": "Login Bonus",
 			"disp_priority": "0",
 			"start_trigger_type": "0",
 			"start_trigger": "{}",
@@ -13,104 +13,8 @@
 			"asset_path": "login_bonus/nomal_login_bonus"
 		},
 		{
-			"login_bonus_id": "10",
-			"name": "大型連休！GWログインボーナス",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2019-04-26 12:00:00",
-			"end_date": "2019-05-07 11:59:59",
-			"receivable_days": "12",
-			"asset_path": "login_bonus/g3355_login_bonus"
-		},
-		{
-			"login_bonus_id": "100",
-			"name": "100万DL記念ログインボーナス",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2018-07-04 12:00:00",
-			"end_date": "2018-07-18 11:59:59",
-			"receivable_days": "0",
-			"asset_path": "login_bonus/g2385_login_bonus"
-		},
-		{
-			"login_bonus_id": "11",
-			"name": "デジモンリアライズ リリース1周年！カウントダウンログインボーナス",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2019-06-14 12:00:00",
-			"end_date": "2019-06-25 11:59:59",
-			"receivable_days": "12",
-			"asset_path": "login_bonus/g3436_login_bonus"
-		},
-		{
-			"login_bonus_id": "12",
-			"name": "カムバックログインボーナス",
-			"disp_priority": "2",
-			"start_trigger_type": "2",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2019-06-25 12:00:00",
-			"end_date": "2100-05-07 11:59:59",
-			"receivable_days": "9",
-			"asset_path": "login_bonus/g3550_login_bonus"
-		},
-		{
-			"login_bonus_id": "13",
-			"name": "デジモンリアライズ リリース1周年記念！ログインボーナス(前半)",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2019-06-25 12:00:00",
-			"end_date": "2019-07-10 11:59:59",
-			"receivable_days": "17",
-			"asset_path": "login_bonus/g3543_login_bonus_1"
-		},
-		{
-			"login_bonus_id": "14",
-			"name": "デジモンリアライズ リリース1周年記念！ログインボーナス(後半)",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2019-07-10 12:00:00",
-			"end_date": "2019-07-25 11:59:59",
-			"receivable_days": "17",
-			"asset_path": "login_bonus/g3543_login_bonus_2"
-		},
-		{
-			"login_bonus_id": "15",
-			"name": "デジモンの日！記念ログインボーナス第1弾",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2019-07-28 12:00:00",
-			"end_date": "2019-08-31 11:59:59",
-			"receivable_days": "39",
-			"asset_path": "login_bonus/G3750_G3752_login_bonus_1"
-		},
-		{
-			"login_bonus_id": "16",
-			"name": "デジモンの日！記念ログインボーナス第2弾",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2019-08-14 12:00:00",
-			"end_date": "2019-08-31 11:59:59",
-			"receivable_days": "18",
-			"asset_path": "login_bonus/G3750_G3752_login_bonus_2"
-		},
-		{
-			"login_bonus_id": "2",
-			"name": "スタートダッシュログインボーナス",
+			"login_bonus_id": "5002",
+			"name": "Start-up Login Bonus",
 			"disp_priority": "1",
 			"start_trigger_type": "1",
 			"start_trigger": "{}",
@@ -121,88 +25,16 @@
 			"asset_path": "login_bonus/startdash_login_bonus"
 		},
 		{
-			"login_bonus_id": "3",
-			"name": "リリース記念ログインボーナス",
+			"login_bonus_id": "5003",
+			"name": "Release Celebration Login Bonus",
 			"disp_priority": "2",
 			"start_trigger_type": "0",
-			"start_trigger": "{\"startableLimitDate\":\"2099-12-25 18:00:00\"}",
+			"start_trigger": "{}",
 			"is_loop": "0",
-			"start_date": "2018-06-25 04:00:00",
-			"end_date": "2018-07-07 03:59:59",
-			"receivable_days": "12",
+			"start_date": "2019-08-01 12:00:00",
+			"end_date": "2019-11-01 11:59:59",
+			"receivable_days": "10",
 			"asset_path": "login_bonus/release_login_bonus"
-		},
-		{
-			"login_bonus_id": "4",
-			"name": "8月1日はデジモンの日！記念日ログインボーナス",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2018-07-25 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"receivable_days": "17",
-			"asset_path": "login_bonus/g2384_login_bonus"
-		},
-		{
-			"login_bonus_id": "5",
-			"name": "トリックオアトリート！ハロウィン記念ログインボーナス",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2018-10-19 12:00:00",
-			"end_date": "2018-11-01 11:59:59",
-			"receivable_days": "13",
-			"asset_path": "login_bonus/g2707_login_bonus"
-		},
-		{
-			"login_bonus_id": "6",
-			"name": "メリークリスマス！クリスマス記念ログインボーナス",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2018-12-14 12:00:00",
-			"end_date": "2018-12-27 11:59:59",
-			"receivable_days": "13",
-			"asset_path": "login_bonus/g2831_login_bonus"
-		},
-		{
-			"login_bonus_id": "7",
-			"name": "謹賀新年！お年玉ログインボーナス",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2019-01-01 00:00:00",
-			"end_date": "2019-01-14 23:59:59",
-			"receivable_days": "14",
-			"asset_path": "login_bonus/g2833_login_bonus"
-		},
-		{
-			"login_bonus_id": "8",
-			"name": "デジアド20周年スタート記念ログインボーナス",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2019-02-21 12:00:00",
-			"end_date": "2019-04-01 11:59:59",
-			"receivable_days": "40",
-			"asset_path": "login_bonus/g3149_login_bonus"
-		},
-		{
-			"login_bonus_id": "9",
-			"name": "育成応援ログインボーナス！",
-			"disp_priority": "2",
-			"start_trigger_type": "0",
-			"start_trigger": "{}",
-			"is_loop": "0",
-			"start_date": "2019-04-09 12:00:00",
-			"end_date": "2019-04-25 11:59:59",
-			"receivable_days": "17",
-			"asset_path": "login_bonus/g3354_login_bonus"
 		}
 	]
 }

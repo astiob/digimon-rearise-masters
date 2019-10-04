@@ -351,11 +351,6 @@
 			"model_asset": "digitama/egg42"
 		},
 		{
-			"item_id": "25173",
-			"difficulty": "1",
-			"model_asset": "digitama/egg02"
-		},
-		{
 			"item_id": "25174",
 			"difficulty": "2",
 			"model_asset": "digitama/egg04"
@@ -381,6 +376,11 @@
 			"model_asset": "digitama/egg08"
 		},
 		{
+			"item_id": "25183",
+			"difficulty": "2",
+			"model_asset": "digitama/egg46"
+		},
+		{
 			"item_id": "25184",
 			"difficulty": "2",
 			"model_asset": "digitama/egg45"
@@ -389,6 +389,21 @@
 			"item_id": "25185",
 			"difficulty": "2",
 			"model_asset": "digitama/egg35"
+		},
+		{
+			"item_id": "25186",
+			"difficulty": "2",
+			"model_asset": "digitama/egg04"
+		},
+		{
+			"item_id": "25187",
+			"difficulty": "2",
+			"model_asset": "digitama/egg19"
+		},
+		{
+			"item_id": "25195",
+			"difficulty": "2",
+			"model_asset": "digitama/egg12"
 		}
 	]
 }

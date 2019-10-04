@@ -87,7 +87,7 @@
 		{
 			"category": "BP2",
 			"name": "NEW_START_DATE",
-			"value": "2019-07-01 12:00:00",
+			"value": "2100-01-01 12:00:00",
 			"description": "BP2が開始する日時\nOLD_END_DATEより未来の日時にすること"
 		},
 		{
@@ -189,7 +189,7 @@
 		{
 			"category": "DIGIMON",
 			"name": "SUPER_ULTIMATE_RELEASE_DATE",
-			"value": "2019/02/28 00:00:00",
+			"value": "2100/02/28 00:00:00",
 			"description": "超究極体の表示とかを有効にする時刻"
 		},
 		{
@@ -237,8 +237,8 @@
 		{
 			"category": "EXTENSION",
 			"name": "DIGIMON_SLOT_MAX",
-			"value": "750",
-			"description": "デジモン枠の最大値\n500->750 (2018/11/27 変更)"
+			"value": "500",
+			"description": "デジモン枠の最大値\n500->750 (2018/11/27 変更)　※海外版は初期500でリリース"
 		},
 		{
 			"category": "EXTENSION",
@@ -255,8 +255,8 @@
 		{
 			"category": "EXTENSION",
 			"name": "PLUGIN_SLOT_MAX",
-			"value": "750",
-			"description": "プラグイン枠の最大値\n500->750 (2018/10/30 変更)"
+			"value": "500",
+			"description": "プラグイン枠の最大値\n500->750 (2018/10/30 変更)　※海外版は初期500でリリース"
 		},
 		{
 			"category": "FOOTPRINT",
@@ -285,13 +285,13 @@
 		{
 			"category": "MISSION",
 			"name": "DAILY_MISSION_RESET_TIME",
-			"value": "04:00:00",
+			"value": "00:00:00",
 			"description": "デイリーミッションをリセットする時間(HH:mm:ss)"
 		},
 		{
 			"category": "MISSION",
 			"name": "WEEKLY_MISSION_RESET_TIME",
-			"value": "1,04:00:00",
+			"value": "1,00:00:00",
 			"description": "ウィークリーミッションをリセットする時間(曜日(DayOfWeek,HH:mm:ss)"
 		},
 		{
@@ -357,7 +357,7 @@
 		{
 			"category": "RAID",
 			"name": "RAID_CATALOG_RELEASE_DATE",
-			"value": "2019-04-23 14:00:00",
+			"value": "2100-01-01 12:00:00",
 			"description": "過去激突戦ボタンが有効になる時刻"
 		},
 		{
