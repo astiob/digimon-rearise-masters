@@ -230,6 +230,237 @@
 			"challenge_condition": "52",
 			"json_value": "{\"count\":1,\"shopId\":2}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005010",
+			"challenge_group_id": "500050",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "Clear all challenges.",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_500050"
+		},
+		{
+			"challenge_id": "50005011",
+			"challenge_group_id": "500050",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1986",
+			"description": "Participate in a Clash Battle.",
+			"challenge_condition": "12",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005012",
+			"challenge_group_id": "500050",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1986",
+			"description": "Encounter 5 enemies in Halloween Clash Battles.",
+			"challenge_condition": "2",
+			"json_value": "{\"count\":5,\"raidGroupId\":301801}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005013",
+			"challenge_group_id": "500050",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1986",
+			"description": "Win Halloween Clash Battles 1 times.",
+			"challenge_condition": "1",
+			"json_value": "{\"count\":1,\"raidGroupId\":301801}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005014",
+			"challenge_group_id": "500050",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1986",
+			"description": "Support a Halloween Clash Battle.",
+			"challenge_condition": "3",
+			"json_value": "{\"count\":1,\"raidGroupId\":301801}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005015",
+			"challenge_group_id": "500050",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "2003",
+			"description": "Give 10 Care Items and prepare for Clash Battles.",
+			"challenge_condition": "16",
+			"json_value": "{\"count\":10}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005016",
+			"challenge_group_id": "500050",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1992",
+			"description": "Digivolve 1 Digimon (including In-Training Digimon).",
+			"challenge_condition": "21",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005020",
+			"challenge_group_id": "500050",
+			"rank": "2",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "Clear all challenges.",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_500050"
+		},
+		{
+			"challenge_id": "50005021",
+			"challenge_group_id": "500050",
+			"rank": "2",
+			"number": "1",
+			"category_text_id": "1986",
+			"description": "Encounter 10 foes in Halloween Clash Battles.",
+			"challenge_condition": "2",
+			"json_value": "{\"count\":10,\"raidGroupId\":301801}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005022",
+			"challenge_group_id": "500050",
+			"rank": "2",
+			"number": "2",
+			"category_text_id": "1986",
+			"description": "Participate in Clash Battles 20 times.",
+			"challenge_condition": "12",
+			"json_value": "{\"count\":20}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005023",
+			"challenge_group_id": "500050",
+			"rank": "2",
+			"number": "3",
+			"category_text_id": "1986",
+			"description": "Win Halloween Clash Battles 10 times.",
+			"challenge_condition": "1",
+			"json_value": "{\"count\":10,\"raidGroupId\":301801}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005024",
+			"challenge_group_id": "500050",
+			"rank": "2",
+			"number": "4",
+			"category_text_id": "1986",
+			"description": "Support Halloween Clash Battles 10 times.",
+			"challenge_condition": "3",
+			"json_value": "{\"count\":10,\"raidGroupId\":301801}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005025",
+			"challenge_group_id": "500050",
+			"rank": "2",
+			"number": "5",
+			"category_text_id": "1986",
+			"description": "Land the finishing blow in Clash Battles 3 times.",
+			"challenge_condition": "5",
+			"json_value": "{\"count\":3}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005026",
+			"challenge_group_id": "500050",
+			"rank": "2",
+			"number": "6",
+			"category_text_id": "1992",
+			"description": "Digivolve 1 Digimon (including In-Training Digimon).",
+			"challenge_condition": "21",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005030",
+			"challenge_group_id": "500050",
+			"rank": "3",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "Clear all challenges.",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_500050"
+		},
+		{
+			"challenge_id": "50005031",
+			"challenge_group_id": "500050",
+			"rank": "3",
+			"number": "1",
+			"category_text_id": "1986",
+			"description": "Participate in Clash Battles 30 times.",
+			"challenge_condition": "12",
+			"json_value": "{\"count\":30}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005032",
+			"challenge_group_id": "500050",
+			"rank": "3",
+			"number": "2",
+			"category_text_id": "1986",
+			"description": "Support Halloween Clash Battles 20 times.",
+			"challenge_condition": "3",
+			"json_value": "{\"count\":20,\"raidGroupId\":301801}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005033",
+			"challenge_group_id": "500050",
+			"rank": "3",
+			"number": "3",
+			"category_text_id": "1986",
+			"description": "Win Halloween Clash Battles 10 times.",
+			"challenge_condition": "1",
+			"json_value": "{\"count\":10,\"raidGroupId\":301801}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005034",
+			"challenge_group_id": "500050",
+			"rank": "3",
+			"number": "4",
+			"category_text_id": "1986",
+			"description": "Win Halloween Clash Battles 30 times.",
+			"challenge_condition": "1",
+			"json_value": "{\"count\":30,\"raidGroupId\":301801}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005035",
+			"challenge_group_id": "500050",
+			"rank": "3",
+			"number": "5",
+			"category_text_id": "1986",
+			"description": "Land the finishing blow in Clash Battles 5 times.",
+			"challenge_condition": "5",
+			"json_value": "{\"count\":5}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50005036",
+			"challenge_group_id": "500050",
+			"rank": "3",
+			"number": "6",
+			"category_text_id": "1992",
+			"description": "Work Out Digimon 3 times.",
+			"challenge_condition": "17",
+			"json_value": "{\"count\":3}",
+			"receive_asset": ""
 		}
 	]
 }

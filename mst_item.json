@@ -926,13 +926,13 @@
 		},
 		{
 			"item_id": "1020523",
-			"item_name": "マリンエンジェモン(献身)スキルストーン",
+			"item_name": "MarineAngemon (Devoted) Skill Stone",
 			"sort_key": "マリンエンジェモンスキルストーン",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1020523",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体マリンエンジェモン（献身）の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading a MarineAngemon (Devoted) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -19450,7 +19450,7 @@
 		},
 		{
 			"item_id": "25151",
-			"item_name": "スベスベした上質なデジタマ",
+			"item_name": "Smooth DigiEgg",
 			"sort_key": "スベスベシタジョウシツナデジタマ",
 			"item_type": "10",
 			"icon_asset": "icon/digitama/icondigitama001",
@@ -19820,6 +19820,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A Digimon that will grow into a MegaGargomon will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25209",
+			"item_name": "Goofy Halloween DigiEgg",
+			"sort_key": "ユーモラスナハロウィンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama022",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Digimon that will definitely grow into a Mega Digimon will hatch.",
 			"max_amount": "9999"
 		},
 		{

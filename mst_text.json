@@ -633,6 +633,14 @@
 			"text": "Points Owned"
 		},
 		{
+			"text_id": "10301001",
+			"text": "Digimon ReArise is currently running."
+		},
+		{
+			"text_id": "10301002",
+			"text": "Now accessing device pedometer data in order to use DigiWalk."
+		},
+		{
 			"text_id": "1031",
 			"text": "How will you recover Stamina?"
 		},
@@ -4158,7 +4166,7 @@
 		},
 		{
 			"text_id": "1804",
-			"text": "カムバックチャレンジ"
+			"text": "Welcome Back Challenge"
 		},
 		{
 			"text_id": "1805",
@@ -4586,7 +4594,7 @@
 		},
 		{
 			"text_id": "1909",
-			"text": "The Thrill of Digivolution!\nDigivolving not only changes a Digimon's appearance, but also boosts their\nstrength! Keep Digivolving to draw out their full potential!"
+			"text": "The Thrill of Digivolution!\nDigivolving not only changes a Digimon's appearance, but also boosts their strength!\nKeep Digivolving to draw out their full potential!"
 		},
 		{
 			"text_id": "191",
@@ -5034,7 +5042,7 @@
 		},
 		{
 			"text_id": "2002002",
-			"text": "Each Digimon has two <color=#ffea3c>Skills</color>. Guide Herissmon\nto use his abilities to the fullest!"
+			"text": "Each Digimon has two <color=#ffea3c>Skills</color>. Guide Herissmon\nto use its abilities to the fullest!"
 		},
 		{
 			"text_id": "2002003",
@@ -5058,7 +5066,7 @@
 		},
 		{
 			"text_id": "2003002",
-			"text": "Improve your <color=#ffea3c>Bond</color> with Digimon by\ndeepening your bond."
+			"text": "Improve your <color=#ffea3c>Bond</color> with Digimon by\ndeepening your friendship."
 		},
 		{
 			"text_id": "2003003",
@@ -5078,7 +5086,7 @@
 		},
 		{
 			"text_id": "2003007",
-			"text": "Win battles to improve <color=#e75600>Bond</color>.\nBond is closely linked to <color=#e75600>Digivolution</color>."
+			"text": "Win battles to improve Digimon's <color=#e75600>Bond</color>.\nIt is closely linked to <color=#e75600>Digivolution</color>."
 		},
 		{
 			"text_id": "2004",
@@ -5086,7 +5094,7 @@
 		},
 		{
 			"text_id": "2004000",
-			"text": "You can earn Special Pt. through combat."
+			"text": "You can earn Special Pts. through combat."
 		},
 		{
 			"text_id": "2004001",
@@ -5182,7 +5190,7 @@
 		},
 		{
 			"text_id": "2007008",
-			"text": "Aaugh!\nI got burned!"
+			"text": "Aaugh!\nThat burns!"
 		},
 		{
 			"text_id": "2007009",
@@ -5910,7 +5918,7 @@
 		},
 		{
 			"text_id": "2026009",
-			"text": "You never know what <color=#ffea3c>Fresh Digimon</color> will\nhatch and start a life in your DigiTown."
+			"text": "You never know what <color=#ffea3c>In-training Digimon</color> will\nhatch and start a life in your DigiTown."
 		},
 		{
 			"text_id": "2026010",
@@ -5926,7 +5934,7 @@
 		},
 		{
 			"text_id": "2026013",
-			"text": "Caring for Fresh Digimon"
+			"text": "Caring for In-training Digimon"
 		},
 		{
 			"text_id": "2026014",
@@ -6178,7 +6186,7 @@
 		},
 		{
 			"text_id": "2094",
-			"text": "Event Period: Until 2018/11/01 11:59"
+			"text": "Event Period: Until [datetime_week]2019/11/8 11:59:59[/datetime_week]"
 		},
 		{
 			"text_id": "2096",
@@ -6214,11 +6222,11 @@
 		},
 		{
 			"text_id": "2102",
-			"text": "Here's the theme!"
+			"text": "Here's the challenges!"
 		},
 		{
 			"text_id": "2103",
-			"text": "Here's the theme!"
+			"text": "Here's the challenges!"
 		},
 		{
 			"text_id": "2104",
@@ -8310,7 +8318,7 @@
 		},
 		{
 			"text_id": "2583",
-			"text": "{0}で獲得した報酬です。"
+			"text": "Reward for {0}."
 		},
 		{
 			"text_id": "2584",
@@ -8454,7 +8462,7 @@
 		},
 		{
 			"text_id": "2649",
-			"text": "調子ボーナス<size=20>増加中</size>"
+			"text": "<size=20>Increase</size> in Mood Bonus"
 		},
 		{
 			"text_id": "265",
@@ -9082,7 +9090,7 @@
 		},
 		{
 			"text_id": "371",
-			"text": "Please Pet the DigiEgg to help it hatch."
+			"text": "Please pet the DigiEgg to help it hatch."
 		},
 		{
 			"text_id": "372",

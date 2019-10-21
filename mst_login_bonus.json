@@ -35,6 +35,18 @@
 			"end_date": "2019-11-01 11:59:59",
 			"receivable_days": "10",
 			"asset_path": "login_bonus/release_login_bonus"
+		},
+		{
+			"login_bonus_id": "5005",
+			"name": "Trick or Treat! Halloween Celebration Login Bonus",
+			"disp_priority": "3",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2019-10-23 12:00:00",
+			"end_date": "2019-11-08 11:59:59",
+			"receivable_days": "15",
+			"asset_path": "login_bonus/g2707_login_bonus"
 		}
 	]
 }
