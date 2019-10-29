@@ -111,6 +111,17 @@
 			"end_date": "2019-11-07 11:59:59"
 		},
 		{
+			"shop_id": "19",
+			"name": "ロイヤルメダル交換",
+			"cost_item_id": "22014",
+			"disp_order": "15",
+			"entrance_asset": "shop/entrance/shop_entrance017",
+			"tab_asset": "shop/skin/shop_skin017",
+			"start_date": "2019-10-31 12:00:00",
+			"new_end_date": "2019-11-30 11:59:59",
+			"end_date": "2019-12-07 11:59:59"
+		},
+		{
 			"shop_id": "2",
 			"name": "アイテム購入",
 			"cost_item_id": "21000",

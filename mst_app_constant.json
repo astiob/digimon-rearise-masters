@@ -385,6 +385,18 @@
 			"description": "デジルビー交換所"
 		},
 		{
+			"category": "SUBJUGATION",
+			"name": "LESS_THAN_RANKING",
+			"value": "10001",
+			"description": "ランキング表記を曖昧にする順位（以下なら曖昧）"
+		},
+		{
+			"category": "SUPER_LIMITBREAK",
+			"name": "START_DATE",
+			"value": "2019/10/29 14:00:00",
+			"description": "超限界突破機能が有効となる日時\nアイテム一覧に表示されるようになる"
+		},
+		{
 			"category": "SYSTEM",
 			"name": "ASYNC_LIMIT",
 			"value": "20",

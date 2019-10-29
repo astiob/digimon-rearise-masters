@@ -1,0 +1,844 @@
+{
+	"masterRows": [
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "100",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "3"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "100",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "5"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "100",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "100",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "5"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "105",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "4"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "105",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "7"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "105",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "2"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "105",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "7"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "110",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "8"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "110",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "110",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "4"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "110",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "115",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "115",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "115",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "6"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "115",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "99",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "99",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "99",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "1166403",
+			"necessary_level": "99",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "3"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "100",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "3"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "100",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "5"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "100",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "100",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "5"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "105",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "4"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "105",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "7"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "105",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "2"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "105",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "7"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "110",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "8"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "110",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "110",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "4"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "110",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "115",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "115",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "115",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "6"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "115",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "99",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "99",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "99",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "20001",
+			"necessary_level": "99",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "3"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "100",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "3"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "100",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "5"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "100",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "100",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "5"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "105",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "4"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "105",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "7"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "105",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "2"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "105",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "7"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "110",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "8"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "110",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "110",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "4"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "110",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "115",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "115",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "115",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "6"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "115",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "99",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "99",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "99",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "30001",
+			"necessary_level": "99",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "3"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "100",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "3"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "100",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "5"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "100",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "100",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "5"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "105",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "4"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "105",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "7"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "105",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "2"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "105",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "7"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "110",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "8"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "110",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "110",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "4"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "110",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "115",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "115",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "115",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "6"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "115",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "99",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "99",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "99",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "40001",
+			"necessary_level": "99",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "3"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "100",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "5"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "100",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "100",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "2"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "100",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "105",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "105",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "105",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "4"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "105",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "110",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "110",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "20"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "110",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "6"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "110",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "20"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "115",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "20"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "115",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "30"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "115",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "115",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "30"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "99",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "99",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "99",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "50001",
+			"necessary_level": "99",
+			"disp_order": "4",
+			"item_pattern": "4",
+			"count": "5"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "100",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "5"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "100",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "100",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "2"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "100",
+			"disp_order": "4",
+			"item_pattern": "3",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "105",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "105",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "105",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "4"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "105",
+			"disp_order": "4",
+			"item_pattern": "3",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "110",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "15"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "110",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "20"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "110",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "6"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "110",
+			"disp_order": "4",
+			"item_pattern": "3",
+			"count": "20"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "115",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "20"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "115",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "30"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "115",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "10"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "115",
+			"disp_order": "4",
+			"item_pattern": "3",
+			"count": "30"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "99",
+			"disp_order": "1",
+			"item_pattern": "0",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "99",
+			"disp_order": "2",
+			"item_pattern": "1",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "99",
+			"disp_order": "3",
+			"item_pattern": "2",
+			"count": "1"
+		},
+		{
+			"cost_pattern_id": "60001",
+			"necessary_level": "99",
+			"disp_order": "4",
+			"item_pattern": "3",
+			"count": "5"
+		}
+	]
+}

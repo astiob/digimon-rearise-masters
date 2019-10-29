@@ -914,6 +914,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "10138",
+			"item_name": "ジエスモンの進化コード",
+			"sort_key": "",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10038",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がジエスモンの系譜の進化を導くアイテム",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "101435001",
 			"item_name": "守Ⅳ(献身 リリモン)",
 			"sort_key": "",
@@ -1659,6 +1670,39 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "成長期ガブモン[DFQ](冷静)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021761",
+			"item_name": "ジエスモン(冷静)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021761",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ジエスモン(冷静)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021762",
+			"item_name": "ジエスモン(冷静)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021762",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ジエスモン(冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021763",
+			"item_name": "ジエスモン(冷静)スキルストーン",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021763",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ジエスモン(冷静)の系譜のスキルレベルを確実にアップできる貴重な石板",
 			"max_amount": "9999"
 		},
 		{
@@ -7811,6 +7855,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "145414001",
+			"item_name": "攻Ⅳ(不屈 プリンスマメモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment145414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のプリンスマメモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "145414002",
+			"item_name": "攻Ⅳ(不屈 プリンスマメモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment145414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のプリンスマメモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "145414003",
+			"item_name": "攻Ⅳ(不屈 プリンスマメモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment145414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のプリンスマメモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "145414004",
+			"item_name": "攻Ⅳ(不屈 プリンスマメモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment145414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のプリンスマメモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "145414005",
+			"item_name": "攻Ⅳ(不屈 プリンスマメモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment145414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のプリンスマメモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "145434001",
+			"item_name": "守Ⅳ(不屈 プリンスマメモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment145434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のプリンスマメモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "145434002",
+			"item_name": "守Ⅳ(不屈 プリンスマメモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment145434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のプリンスマメモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "145434003",
+			"item_name": "守Ⅳ(不屈 プリンスマメモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment145434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のプリンスマメモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "145434004",
+			"item_name": "守Ⅳ(不屈 プリンスマメモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment145434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のプリンスマメモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "145434005",
+			"item_name": "守Ⅳ(不屈 プリンスマメモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment145434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のプリンスマメモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "146414001",
 			"item_name": "攻Ⅳ(不屈 メタルエテモン)",
 			"sort_key": "",
@@ -8449,6 +8603,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "152411001",
+			"item_name": "攻Ⅳ(勇敢 ヴェノムヴァンデモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment152411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のヴェノムヴァンデモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "152411002",
+			"item_name": "攻Ⅳ(勇敢 ヴェノムヴァンデモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment152411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のヴェノムヴァンデモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "152411003",
+			"item_name": "攻Ⅳ(勇敢 ヴェノムヴァンデモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment152411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のヴェノムヴァンデモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "152411004",
+			"item_name": "攻Ⅳ(勇敢 ヴェノムヴァンデモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment152411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のヴェノムヴァンデモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "152411005",
+			"item_name": "攻Ⅳ(勇敢 ヴェノムヴァンデモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment152411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のヴェノムヴァンデモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "152431001",
+			"item_name": "守Ⅳ(勇敢 ヴェノムヴァンデモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment152431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のヴェノムヴァンデモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "152431002",
+			"item_name": "守Ⅳ(勇敢 ヴェノムヴァンデモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment152431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のヴェノムヴァンデモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "152431003",
+			"item_name": "守Ⅳ(勇敢 ヴェノムヴァンデモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment152431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のヴェノムヴァンデモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "152431004",
+			"item_name": "守Ⅳ(勇敢 ヴェノムヴァンデモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment152431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のヴェノムヴァンデモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "152431005",
+			"item_name": "守Ⅳ(勇敢 ヴェノムヴァンデモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment152431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のヴェノムヴァンデモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "153",
 			"item_name": "精神の特訓チップⅢ",
 			"sort_key": "",
@@ -8457,6 +8721,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "精神の特訓を行うためのトレーニングメニューが書き込まれたチップ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153414001",
+			"item_name": "攻Ⅳ(不屈 グランクワガーモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のグランクワガーモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153414002",
+			"item_name": "攻Ⅳ(不屈 グランクワガーモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のグランクワガーモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153414003",
+			"item_name": "攻Ⅳ(不屈 グランクワガーモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のグランクワガーモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153414004",
+			"item_name": "攻Ⅳ(不屈 グランクワガーモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のグランクワガーモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153414005",
+			"item_name": "攻Ⅳ(不屈 グランクワガーモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のグランクワガーモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153434001",
+			"item_name": "守Ⅳ(不屈 グランクワガーモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のグランクワガーモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153434002",
+			"item_name": "守Ⅳ(不屈 グランクワガーモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のグランクワガーモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153434003",
+			"item_name": "守Ⅳ(不屈 グランクワガーモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のグランクワガーモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153434004",
+			"item_name": "守Ⅳ(不屈 グランクワガーモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のグランクワガーモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153434005",
+			"item_name": "守Ⅳ(不屈 グランクワガーモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のグランクワガーモンがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -15082,6 +15456,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "211411001",
+			"item_name": "攻Ⅳ(勇敢 エグザモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment211411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエグザモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "211411002",
+			"item_name": "攻Ⅳ(勇敢 エグザモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment211411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエグザモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "211411003",
+			"item_name": "攻Ⅳ(勇敢 エグザモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment211411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエグザモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "211411004",
+			"item_name": "攻Ⅳ(勇敢 エグザモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment211411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエグザモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "211411005",
+			"item_name": "攻Ⅳ(勇敢 エグザモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment211411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエグザモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "211431001",
+			"item_name": "守Ⅳ(勇敢 エグザモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment211431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエグザモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "211431002",
+			"item_name": "守Ⅳ(勇敢 エグザモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment211431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエグザモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "211431003",
+			"item_name": "守Ⅳ(勇敢 エグザモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment211431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエグザモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "211431004",
+			"item_name": "守Ⅳ(勇敢 エグザモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment211431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエグザモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "211431005",
+			"item_name": "守Ⅳ(勇敢 エグザモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment211431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエグザモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "2115",
 			"item_name": "力の特訓フラグメントⅤ",
 			"sort_key": "",
@@ -15134,6 +15618,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "いくつか集めて合成することで技の特訓データとなる",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "212422001",
+			"item_name": "攻Ⅳ(冷静 ガンクゥモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment212422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のガンクゥモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "212422002",
+			"item_name": "攻Ⅳ(冷静 ガンクゥモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment212422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のガンクゥモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "212422003",
+			"item_name": "攻Ⅳ(冷静 ガンクゥモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment212422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のガンクゥモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "212422004",
+			"item_name": "攻Ⅳ(冷静 ガンクゥモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment212422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のガンクゥモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "212422005",
+			"item_name": "攻Ⅳ(冷静 ガンクゥモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment212422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のガンクゥモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "212432001",
+			"item_name": "守Ⅳ(冷静 ガンクゥモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment212432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のガンクゥモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "212432002",
+			"item_name": "守Ⅳ(冷静 ガンクゥモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment212432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のガンクゥモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "212432003",
+			"item_name": "守Ⅳ(冷静 ガンクゥモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment212432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のガンクゥモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "212432004",
+			"item_name": "守Ⅳ(冷静 ガンクゥモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment212432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のガンクゥモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "212432005",
+			"item_name": "守Ⅳ(冷静 ガンクゥモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment212432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のガンクゥモンがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -15412,6 +16006,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "213422001",
+			"item_name": "攻Ⅳ(冷静 ジエスモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment213422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のジエスモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "213422002",
+			"item_name": "攻Ⅳ(冷静 ジエスモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment213422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のジエスモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "213422003",
+			"item_name": "攻Ⅳ(冷静 ジエスモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment213422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のジエスモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "213422004",
+			"item_name": "攻Ⅳ(冷静 ジエスモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment213422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のジエスモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "213422005",
+			"item_name": "攻Ⅳ(冷静 ジエスモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment213422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のジエスモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "213432001",
+			"item_name": "守Ⅳ(冷静 ジエスモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment213432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のジエスモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "213432002",
+			"item_name": "守Ⅳ(冷静 ジエスモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment213432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のジエスモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "213432003",
+			"item_name": "守Ⅳ(冷静 ジエスモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment213432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のジエスモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "213432004",
+			"item_name": "守Ⅳ(冷静 ジエスモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment213432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のジエスモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "213432005",
+			"item_name": "守Ⅳ(冷静 ジエスモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment213432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のジエスモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "2135",
 			"item_name": "守の特訓フラグメントⅤ",
 			"sort_key": "",
@@ -15687,6 +16391,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "214414001",
+			"item_name": "攻Ⅳ(不屈 マグナモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment214414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のマグナモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "214414002",
+			"item_name": "攻Ⅳ(不屈 マグナモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment214414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のマグナモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "214414003",
+			"item_name": "攻Ⅳ(不屈 マグナモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment214414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のマグナモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "214414004",
+			"item_name": "攻Ⅳ(不屈 マグナモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment214414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のマグナモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "214414005",
+			"item_name": "攻Ⅳ(不屈 マグナモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment214414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のマグナモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "214434001",
+			"item_name": "守Ⅳ(不屈 マグナモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment214434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のマグナモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "214434002",
+			"item_name": "守Ⅳ(不屈 マグナモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment214434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のマグナモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "214434003",
+			"item_name": "守Ⅳ(不屈 マグナモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment214434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のマグナモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "214434004",
+			"item_name": "守Ⅳ(不屈 マグナモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment214434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のマグナモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "214434005",
+			"item_name": "守Ⅳ(不屈 マグナモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment214434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のマグナモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "2145",
 			"item_name": "打撃の特訓フラグメントⅤ",
 			"sort_key": "",
@@ -15739,6 +16553,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "いくつか集めて合成することで精神の特訓データとなる",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "215422001",
+			"item_name": "攻Ⅳ(冷静 スレイプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment215422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のスレイプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "215422002",
+			"item_name": "攻Ⅳ(冷静 スレイプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment215422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のスレイプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "215422003",
+			"item_name": "攻Ⅳ(冷静 スレイプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment215422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のスレイプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "215422004",
+			"item_name": "攻Ⅳ(冷静 スレイプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment215422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のスレイプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "215422005",
+			"item_name": "攻Ⅳ(冷静 スレイプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment215422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のスレイプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "215432001",
+			"item_name": "守Ⅳ(冷静 スレイプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment215432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のスレイプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "215432002",
+			"item_name": "守Ⅳ(冷静 スレイプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment215432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のスレイプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "215432003",
+			"item_name": "守Ⅳ(冷静 スレイプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment215432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のスレイプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "215432004",
+			"item_name": "守Ⅳ(冷静 スレイプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment215432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のスレイプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "215432005",
+			"item_name": "守Ⅳ(冷静 スレイプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment215432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のスレイプモンがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -16146,6 +17070,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "2019年のハロウィン激突戦で獲得できるメダル、色々なものと交換できる",
+			"max_amount": "99999"
+		},
+		{
+			"item_id": "22014",
+			"item_name": "ロイヤルメダル",
+			"sort_key": "",
+			"item_type": "11",
+			"icon_asset": "icon/item/icon_royal_medal",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "2019年の時限の渦：ロイヤルエリアで獲得できるメダル。色々なものと交換できる。",
 			"max_amount": "99999"
 		},
 		{
@@ -16938,6 +17873,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "時限の渦:ナイトエリアを一定時間解放する。(開催期間 2019/05/23 12:00 ～ 2019/06/07 11:59)",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "23007",
+			"item_name": "ロイヤルエリア解放キー",
+			"sort_key": "ロイヤルエリアカイホウキー",
+			"item_type": "12",
+			"icon_asset": "icon/item/icon_openticket006",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "時限の渦:ロイヤルエリアを一定時間解放する。(開催期間 2019/10/31 12:00 ～ 2019/11/30 11:59)",
 			"max_amount": "9999"
 		},
 		{
@@ -17939,6 +18885,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンのDEFとHPを引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "23502",
+			"item_name": "ロイヤルガシャチケット",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_royalevent",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "ロイヤルチケットガシャを回すことができるチケット(使用期間 2019/10/31 12:00 ～ 2019/12/14 11:59)",
 			"max_amount": "9999"
 		},
 		{
@@ -23332,6 +24289,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25204",
+			"item_name": "ロイヤルなテイマーのためのデジタマ(虹)",
+			"sort_key": "ロイヤルナテイマーノタメノデジタマニジ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama054",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体スレイプモン（不屈）に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25205",
+			"item_name": "ロイヤルなテイマーのためのデジタマ(金)",
+			"sort_key": "ロイヤルナテイマーノタメノデジタマキン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama055",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体スレイプモン（不屈）に育つデジモンが50％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25206",
+			"item_name": "ロイヤルなテイマーのためのデジタマ(銀)",
+			"sort_key": "ロイヤルナテイマーノタメノデジタマギン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama056",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体スレイプモン（不屈）に育つデジモンが25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25207",
+			"item_name": "ロイヤルなテイマーのためのデジタマ(青)",
+			"sort_key": "ロイヤルナテイマーノタメノデジタマアオ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama057",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体スレイプモン（不屈）に育つデジモンが10％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25208",
+			"item_name": "ロイヤルなテイマーのためのデジタマ(白)",
+			"sort_key": "ロイヤルナテイマーノタメノデジタマシロ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama058",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体スレイプモン（不屈）に育つデジモンがごくまれに産まれるかもしれないデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "26",
 			"item_name": "みずみずしい果実",
 			"sort_key": "",
@@ -23450,6 +24462,83 @@
 			"friendship_point_rise_value": "500",
 			"mood_value_rise_value": "20",
 			"description": "暗黒のデジモンが好む食べ物。びっくりする具材が入っている。",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "28011",
+			"item_name": "勇敢の証",
+			"sort_key": "ユウカンノアカシ",
+			"item_type": "20",
+			"icon_asset": "icon/item/limitbreak/icon_limitbreak28011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンが超限界突破するために必要な個性の証",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "28021",
+			"item_name": "冷静の証",
+			"sort_key": "レイセイノアカシ",
+			"item_type": "20",
+			"icon_asset": "icon/item/limitbreak/icon_limitbreak28021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンが超限界突破するために必要な個性の証",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "28031",
+			"item_name": "器用の証",
+			"sort_key": "キヨウノアカシ",
+			"item_type": "20",
+			"icon_asset": "icon/item/limitbreak/icon_limitbreak28031",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンが超限界突破するために必要な個性の証",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "28041",
+			"item_name": "不屈の証",
+			"sort_key": "フクツノアカシ",
+			"item_type": "20",
+			"icon_asset": "icon/item/limitbreak/icon_limitbreak28041",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンが超限界突破するために必要な個性の証",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "28051",
+			"item_name": "献身の証",
+			"sort_key": "ケンシンノアカシ",
+			"item_type": "20",
+			"icon_asset": "icon/item/limitbreak/icon_limitbreak28051",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンが超限界突破するために必要な個性の証",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "28101",
+			"item_name": "ヒーローズコード",
+			"sort_key": "ヒーローズコード",
+			"item_type": "20",
+			"icon_asset": "icon/item/limitbreak/icon_limitbreak28101",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンが超限界突破するために必要なコード",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "28201",
+			"item_name": "ブレイバーズコード",
+			"sort_key": "ブレイバーズコード",
+			"item_type": "20",
+			"icon_asset": "icon/item/limitbreak/icon_limitbreak28201",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンが超限界突破するために必要なコード",
 			"max_amount": "9999"
 		},
 		{
@@ -34178,6 +35267,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "441551",
+			"item_name": "鈍重Ⅳ(勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441552",
+			"item_name": "鈍重Ⅳ(勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441553",
+			"item_name": "鈍重Ⅳ(勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441554",
+			"item_name": "鈍重Ⅳ(勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441555",
+			"item_name": "鈍重Ⅳ(勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441561",
+			"item_name": "暴速Ⅳ(勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441562",
+			"item_name": "暴速Ⅳ(勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441563",
+			"item_name": "暴速Ⅳ(勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441564",
+			"item_name": "暴速Ⅳ(勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441565",
+			"item_name": "暴速Ⅳ(勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "442001",
 			"item_name": "感電耐性Ⅳ(冷静)",
 			"sort_key": "",
@@ -35000,6 +36199,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンの追加攻撃率とTECを引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442551",
+			"item_name": "鈍重Ⅳ(冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442552",
+			"item_name": "鈍重Ⅳ(冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442553",
+			"item_name": "鈍重Ⅳ(冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442554",
+			"item_name": "鈍重Ⅳ(冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442555",
+			"item_name": "鈍重Ⅳ(冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442561",
+			"item_name": "暴速Ⅳ(冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442562",
+			"item_name": "暴速Ⅳ(冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442563",
+			"item_name": "暴速Ⅳ(冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442564",
+			"item_name": "暴速Ⅳ(冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442565",
+			"item_name": "暴速Ⅳ(冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -35828,6 +37137,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "443551",
+			"item_name": "鈍重Ⅳ(器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443552",
+			"item_name": "鈍重Ⅳ(器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443553",
+			"item_name": "鈍重Ⅳ(器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443554",
+			"item_name": "鈍重Ⅳ(器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443555",
+			"item_name": "鈍重Ⅳ(器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443561",
+			"item_name": "暴速Ⅳ(器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443562",
+			"item_name": "暴速Ⅳ(器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443563",
+			"item_name": "暴速Ⅳ(器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443564",
+			"item_name": "暴速Ⅳ(器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443565",
+			"item_name": "暴速Ⅳ(器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "444001",
 			"item_name": "感電耐性Ⅳ(不屈)",
 			"sort_key": "",
@@ -36653,6 +38072,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "444551",
+			"item_name": "鈍重Ⅳ(不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444552",
+			"item_name": "鈍重Ⅳ(不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444553",
+			"item_name": "鈍重Ⅳ(不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444554",
+			"item_name": "鈍重Ⅳ(不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444555",
+			"item_name": "鈍重Ⅳ(不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444561",
+			"item_name": "暴速Ⅳ(不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444562",
+			"item_name": "暴速Ⅳ(不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444563",
+			"item_name": "暴速Ⅳ(不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444564",
+			"item_name": "暴速Ⅳ(不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444565",
+			"item_name": "暴速Ⅳ(不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "445001",
 			"item_name": "感電耐性Ⅳ(献身)",
 			"sort_key": "",
@@ -37475,6 +39004,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンの追加攻撃率とHPを引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445551",
+			"item_name": "鈍重Ⅳ(献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445552",
+			"item_name": "鈍重Ⅳ(献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445553",
+			"item_name": "鈍重Ⅳ(献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445554",
+			"item_name": "鈍重Ⅳ(献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445555",
+			"item_name": "鈍重Ⅳ(献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35502",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのSPDの値は下がるが、よりHPの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445561",
+			"item_name": "暴速Ⅳ(献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445562",
+			"item_name": "暴速Ⅳ(献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445563",
+			"item_name": "暴速Ⅳ(献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445564",
+			"item_name": "暴速Ⅳ(献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445565",
+			"item_name": "暴速Ⅳ(献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment35602",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの狙い撃ち率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
