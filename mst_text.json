@@ -3210,7 +3210,7 @@
 		},
 		{
 			"text_id": "1589",
-			"text": "day"
+			"text": "Day(s)"
 		},
 		{
 			"text_id": "159",
@@ -4034,7 +4034,7 @@
 		},
 		{
 			"text_id": "1775",
-			"text": "Afternoon Quests are open from {0} to {1}."
+			"text": "お昼クエストは毎日{0}～{1}まで開催しているぞ！"
 		},
 		{
 			"text_id": "1776",
@@ -4415,6 +4415,14 @@
 		{
 			"text_id": "1860",
 			"text": "ドラモンキラー"
+		},
+		{
+			"text_id": "1861",
+			"text": "オートリバイブ"
+		},
+		{
+			"text_id": "1862",
+			"text": "PWR・TEC・DEFアップ、ダメージ耐性アップ効果"
 		},
 		{
 			"text_id": "1868",
@@ -7198,7 +7206,7 @@
 		},
 		{
 			"text_id": "2319",
-			"text": "Limited {0} time(s) per week! <color=#eaff00>{1}</color> more time(s) available!"
+			"text": "毎週{0}回限定! あと<color=#eaff00>{1}</color>回"
 		},
 		{
 			"text_id": "232",
@@ -7206,7 +7214,7 @@
 		},
 		{
 			"text_id": "2320",
-			"text": "Limited {0} time(s) per month! <color=#eaff00>{1}</color> more time(s) available!"
+			"text": "毎月{0}回限定! あと<color=#eaff00>{1}</color>回"
 		},
 		{
 			"text_id": "2321",
@@ -7222,15 +7230,15 @@
 		},
 		{
 			"text_id": "2324",
-			"text": "Today's maximum attempts for this Vortex has been reached.\n<br>Attempts Available resets at {0}:{1:D2}"
+			"text": "このエリアは本日分挑戦済みです。 \n<br>挑戦回数は毎日{0}:{1:D2}にリセットされます。"
 		},
 		{
 			"text_id": "2325",
-			"text": "This week's maximum attempts for this Vortex has been reached.\n<br>Attempts Available resets at\n{0}:{1:D2} every Monday."
+			"text": "このエリアは今週分挑戦済みです。\n<br>挑戦回数は\n毎週月曜日{0}:{1:D2}にリセットされます。"
 		},
 		{
 			"text_id": "2326",
-			"text": "This month's maximum attempts for this Vortex has been reached.\n<br>Attempts Available resets at\n{0}:{1:D2} on the First of each month."
+			"text": "このエリアは今月分挑戦済みです。\n<br>挑戦回数は\n毎月1日{0}:{1:D2}にリセットされます。"
 		},
 		{
 			"text_id": "2327",
@@ -7559,6 +7567,10 @@
 		{
 			"text_id": "2407",
 			"text": "ベルゼブモン"
+		},
+		{
+			"text_id": "2408",
+			"text": "*Info for Premier Pool at Max Lv."
 		},
 		{
 			"text_id": "2409",
@@ -8421,16 +8433,120 @@
 			"text": "1周年激突戦イベント開催中！"
 		},
 		{
+			"text_id": "2607",
+			"text": "Display Partner/Teams First"
+		},
+		{
+			"text_id": "2608",
+			"text": "Final Stage"
+		},
+		{
+			"text_id": "2609",
+			"text": "Level"
+		},
+		{
 			"text_id": "261",
 			"text": "The Boss retreated."
+		},
+		{
+			"text_id": "2610",
+			"text": "Available"
+		},
+		{
+			"text_id": "2611",
+			"text": "Unavailable"
+		},
+		{
+			"text_id": "2612",
+			"text": "Rarity"
+		},
+		{
+			"text_id": "2613",
+			"text": "Critical Rate"
+		},
+		{
+			"text_id": "2614",
+			"text": "Pinpoint Rate"
+		},
+		{
+			"text_id": "2615",
+			"text": "Block Rate"
+		},
+		{
+			"text_id": "2616",
+			"text": "Counter Rate"
+		},
+		{
+			"text_id": "2617",
+			"text": "Upgrade Pt."
+		},
+		{
+			"text_id": "2618",
+			"text": "Grade"
+		},
+		{
+			"text_id": "2619",
+			"text": "<sprite=4>1"
 		},
 		{
 			"text_id": "262",
 			"text": "I met a Digimon!"
 		},
 		{
+			"text_id": "2620",
+			"text": "<sprite=4>2"
+		},
+		{
+			"text_id": "2621",
+			"text": "<sprite=4>3"
+		},
+		{
+			"text_id": "2622",
+			"text": "<sprite=4>4"
+		},
+		{
+			"text_id": "2623",
+			"text": "<sprite=4>5"
+		},
+		{
+			"text_id": "2624",
+			"text": "Plugin Boosters"
+		},
+		{
+			"text_id": "2625",
+			"text": "BON Plugins"
+		},
+		{
+			"text_id": "2626",
+			"text": "Display"
+		},
+		{
+			"text_id": "2627",
+			"text": "Hide"
+		},
+		{
+			"text_id": "2628",
+			"text": "Upgrade/Evolve"
+		},
+		{
+			"text_id": "2629",
+			"text": "Bond"
+		},
+		{
 			"text_id": "263",
 			"text": "Look! I found an item!"
+		},
+		{
+			"text_id": "2630",
+			"text": "MAX"
+		},
+		{
+			"text_id": "2631",
+			"text": "Below MAX"
+		},
+		{
+			"text_id": "2632",
+			"text": "Digimon is shown in final Digivolution form. Digimon will not be summoned directly in this form."
 		},
 		{
 			"text_id": "2633",
@@ -8461,6 +8577,42 @@
 			"text": "It's sunny over here! How about there?"
 		},
 		{
+			"text_id": "2640",
+			"text": "Variety 2"
+		},
+		{
+			"text_id": "2641",
+			"text": "Other"
+		},
+		{
+			"text_id": "2642",
+			"text": "Plugin Lv."
+		},
+		{
+			"text_id": "2643",
+			"text": "＋1"
+		},
+		{
+			"text_id": "2644",
+			"text": "＋2"
+		},
+		{
+			"text_id": "2645",
+			"text": "＋3"
+		},
+		{
+			"text_id": "2646",
+			"text": "＋4"
+		},
+		{
+			"text_id": "2647",
+			"text": "＋5 (MAX)"
+		},
+		{
+			"text_id": "2648",
+			"text": "0"
+		},
+		{
 			"text_id": "2649",
 			"text": "<size=20>Increase</size> in Mood Bonus"
 		},
@@ -8473,6 +8625,10 @@
 			"text": "Early August Challenge"
 		},
 		{
+			"text_id": "2651",
+			"text": "Late August Challenge"
+		},
+		{
 			"text_id": "2652",
 			"text": "Beginning of Adventure Challenge"
 		},
@@ -8481,8 +8637,40 @@
 			"text": "開催期間 : 2019/08/31 11:59まで"
 		},
 		{
+			"text_id": "2658",
+			"text": "開催期間 : 2019/08/19 11:59まで"
+		},
+		{
+			"text_id": "2659",
+			"text": "ラジエルモン"
+		},
+		{
 			"text_id": "266",
 			"text": "I think it's about time for a break."
+		},
+		{
+			"text_id": "2660",
+			"text": "キミたちに協力を頼みたいの\n破滅の未来を回避するために……！"
+		},
+		{
+			"text_id": "2661",
+			"text": "我々で食い止めましょう"
+		},
+		{
+			"text_id": "2662",
+			"text": "まだ、ディアボロモンは力を残しているわ\n油断せずに行こう"
+		},
+		{
+			"text_id": "2663",
+			"text": "アーマゲモン……ヤツは、破滅そのもの\nけれど、諦めるわけにはいかない！"
+		},
+		{
+			"text_id": "2664",
+			"text": "奇跡を手繰り寄せる！！"
+		},
+		{
+			"text_id": "2665",
+			"text": "キミたちのおかげで世界の危機が回避された\n本当に、ありがとう"
 		},
 		{
 			"text_id": "2666",
@@ -8493,8 +8681,24 @@
 			"text": "{0} Scene {1}"
 		},
 		{
+			"text_id": "2669",
+			"text": "メイクーモン"
+		},
+		{
 			"text_id": "267",
 			"text": "I'm so tired! I'm done for the day!"
+		},
+		{
+			"text_id": "2670",
+			"text": "よーし、とにかくいってみよう！"
+		},
+		{
+			"text_id": "2671",
+			"text": "あっちもしらない、こっちもしらない\n発見がたくさん！"
+		},
+		{
+			"text_id": "2672",
+			"text": "見つけた！\nみんなの役にたつといいなぁ"
 		},
 		{
 			"text_id": "268",
@@ -9749,12 +9953,28 @@
 			"text": "・個性が<color=#FFE25AFF>冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>クリティカル率</color>を高めよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
 		},
 		{
+			"text_id": "490391",
+			"text": "・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！\n・<color=#FFE25AFF>PWR</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>ヤケド</color><sprite=6>や<color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！"
+		},
+		{
 			"text_id": "490401",
 			"text": "・<color=#FFE25AFF>エラー</color><sprite=7>対策をしよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！"
 		},
 		{
 			"text_id": "490411",
 			"text": "・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
+		},
+		{
+			"text_id": "490421",
+			"text": "・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！\n・<color=#FFE25AFF>DEFを高めるプラグイン</color>をセットしよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+		},
+		{
+			"text_id": "490431",
+			"text": "・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！\n・<color=#FFE25AFF>TEC</color>や<color=#FFE25AFF>DEF</color>を高めよう！"
+		},
+		{
+			"text_id": "490441",
+			"text": "・<color=#FFE25AFF>DEF</color>を高めよう！\n・<color=#FFE25AFF>ブロック率</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
 		},
 		{
 			"text_id": "491",

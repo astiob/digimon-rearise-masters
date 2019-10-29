@@ -1,6 +1,27 @@
 {
 	"masterRows": [
 		{
+			"challenge_group_id": "10440",
+			"rank": "1",
+			"rank_text_id": "2150",
+			"title_text_id": "2403",
+			"bg_asset": "challenge/challenge_bg_10440_1"
+		},
+		{
+			"challenge_group_id": "10440",
+			"rank": "2",
+			"rank_text_id": "2151",
+			"title_text_id": "2403",
+			"bg_asset": "challenge/challenge_bg_10440_2"
+		},
+		{
+			"challenge_group_id": "10440",
+			"rank": "3",
+			"rank_text_id": "2152",
+			"title_text_id": "2403",
+			"bg_asset": "challenge/challenge_bg_10440_3"
+		},
+		{
 			"challenge_group_id": "500010",
 			"rank": "1",
 			"rank_text_id": "2150",
@@ -41,6 +62,27 @@
 			"rank_text_id": "2152",
 			"title_text_id": "2111",
 			"bg_asset": "challenge/challenge_bg_500050_1"
+		},
+		{
+			"challenge_group_id": "500060",
+			"rank": "1",
+			"rank_text_id": "2150",
+			"title_text_id": "10801021",
+			"bg_asset": "challenge/challenge_bg_10010_1"
+		},
+		{
+			"challenge_group_id": "500060",
+			"rank": "2",
+			"rank_text_id": "2151",
+			"title_text_id": "10801021",
+			"bg_asset": "challenge/challenge_bg_10010_1"
+		},
+		{
+			"challenge_group_id": "500060",
+			"rank": "3",
+			"rank_text_id": "2152",
+			"title_text_id": "10801021",
+			"bg_asset": "challenge/challenge_bg_10010_1"
 		}
 	]
 }
