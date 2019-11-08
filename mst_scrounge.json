@@ -60163,7 +60163,7 @@
 		{
 			"scrounge_id": "11414021",
 			"digimon_id": "1141402",
-			"item_id": "1",
+			"item_id": "7",
 			"num": "1",
 			"friendship_point_rise_value": "15000",
 			"mood_value_rise_value": "100",
@@ -60173,7 +60173,7 @@
 		{
 			"scrounge_id": "11414022",
 			"digimon_id": "1141402",
-			"item_id": "11",
+			"item_id": "17",
 			"num": "1",
 			"friendship_point_rise_value": "10000",
 			"mood_value_rise_value": "100",
@@ -60183,7 +60183,7 @@
 		{
 			"scrounge_id": "11414023",
 			"digimon_id": "1141402",
-			"item_id": "21",
+			"item_id": "27",
 			"num": "1",
 			"friendship_point_rise_value": "5000",
 			"mood_value_rise_value": "75",
@@ -60193,7 +60193,7 @@
 		{
 			"scrounge_id": "11414024",
 			"digimon_id": "1141402",
-			"item_id": "31",
+			"item_id": "37",
 			"num": "1",
 			"friendship_point_rise_value": "2500",
 			"mood_value_rise_value": "50",
@@ -60203,7 +60203,7 @@
 		{
 			"scrounge_id": "11414025",
 			"digimon_id": "1141402",
-			"item_id": "1",
+			"item_id": "7",
 			"num": "1",
 			"friendship_point_rise_value": "15000",
 			"mood_value_rise_value": "100",
@@ -60213,7 +60213,7 @@
 		{
 			"scrounge_id": "11414026",
 			"digimon_id": "1141402",
-			"item_id": "11",
+			"item_id": "17",
 			"num": "1",
 			"friendship_point_rise_value": "10000",
 			"mood_value_rise_value": "100",
@@ -60223,7 +60223,7 @@
 		{
 			"scrounge_id": "11414027",
 			"digimon_id": "1141402",
-			"item_id": "21",
+			"item_id": "27",
 			"num": "1",
 			"friendship_point_rise_value": "5000",
 			"mood_value_rise_value": "75",
@@ -60233,7 +60233,7 @@
 		{
 			"scrounge_id": "11414028",
 			"digimon_id": "1141402",
-			"item_id": "31",
+			"item_id": "37",
 			"num": "1",
 			"friendship_point_rise_value": "2500",
 			"mood_value_rise_value": "50",
@@ -79114,6 +79114,1446 @@
 			"scrounge_id": "11825048",
 			"digimon_id": "1182504",
 			"item_id": "38",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "30",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835001",
+			"digimon_id": "1183500",
+			"item_id": "10",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835002",
+			"digimon_id": "1183500",
+			"item_id": "20",
+			"num": "1",
+			"friendship_point_rise_value": "1500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835003",
+			"digimon_id": "1183500",
+			"item_id": "30",
+			"num": "1",
+			"friendship_point_rise_value": "1000",
+			"mood_value_rise_value": "75",
+			"weight": "100",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835004",
+			"digimon_id": "1183500",
+			"item_id": "40",
+			"num": "1",
+			"friendship_point_rise_value": "600",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835005",
+			"digimon_id": "1183500",
+			"item_id": "10",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835006",
+			"digimon_id": "1183500",
+			"item_id": "20",
+			"num": "1",
+			"friendship_point_rise_value": "1500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835007",
+			"digimon_id": "1183500",
+			"item_id": "30",
+			"num": "1",
+			"friendship_point_rise_value": "1000",
+			"mood_value_rise_value": "75",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835008",
+			"digimon_id": "1183500",
+			"item_id": "40",
+			"num": "1",
+			"friendship_point_rise_value": "600",
+			"mood_value_rise_value": "50",
+			"weight": "100",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835011",
+			"digimon_id": "1183501",
+			"item_id": "10",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "100",
+			"weight": "5",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835012",
+			"digimon_id": "1183501",
+			"item_id": "20",
+			"num": "1",
+			"friendship_point_rise_value": "1500",
+			"mood_value_rise_value": "100",
+			"weight": "15",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835013",
+			"digimon_id": "1183501",
+			"item_id": "30",
+			"num": "1",
+			"friendship_point_rise_value": "1000",
+			"mood_value_rise_value": "75",
+			"weight": "80",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835014",
+			"digimon_id": "1183501",
+			"item_id": "40",
+			"num": "1",
+			"friendship_point_rise_value": "600",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835015",
+			"digimon_id": "1183501",
+			"item_id": "10",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835016",
+			"digimon_id": "1183501",
+			"item_id": "20",
+			"num": "1",
+			"friendship_point_rise_value": "1500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835017",
+			"digimon_id": "1183501",
+			"item_id": "30",
+			"num": "1",
+			"friendship_point_rise_value": "1000",
+			"mood_value_rise_value": "75",
+			"weight": "20",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835018",
+			"digimon_id": "1183501",
+			"item_id": "40",
+			"num": "1",
+			"friendship_point_rise_value": "600",
+			"mood_value_rise_value": "50",
+			"weight": "80",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835021",
+			"digimon_id": "1183502",
+			"item_id": "7",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835022",
+			"digimon_id": "1183502",
+			"item_id": "17",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835023",
+			"digimon_id": "1183502",
+			"item_id": "27",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "100",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835024",
+			"digimon_id": "1183502",
+			"item_id": "37",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835025",
+			"digimon_id": "1183502",
+			"item_id": "7",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835026",
+			"digimon_id": "1183502",
+			"item_id": "17",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835027",
+			"digimon_id": "1183502",
+			"item_id": "27",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835028",
+			"digimon_id": "1183502",
+			"item_id": "37",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "100",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835031",
+			"digimon_id": "1183503",
+			"item_id": "7",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835032",
+			"digimon_id": "1183503",
+			"item_id": "17",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "50",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835033",
+			"digimon_id": "1183503",
+			"item_id": "27",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "50",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835034",
+			"digimon_id": "1183503",
+			"item_id": "37",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835035",
+			"digimon_id": "1183503",
+			"item_id": "7",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835036",
+			"digimon_id": "1183503",
+			"item_id": "17",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835037",
+			"digimon_id": "1183503",
+			"item_id": "27",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "50",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835038",
+			"digimon_id": "1183503",
+			"item_id": "37",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "50",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835041",
+			"digimon_id": "1183504",
+			"item_id": "7",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835042",
+			"digimon_id": "1183504",
+			"item_id": "17",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "100",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835043",
+			"digimon_id": "1183504",
+			"item_id": "27",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835044",
+			"digimon_id": "1183504",
+			"item_id": "37",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835045",
+			"digimon_id": "1183504",
+			"item_id": "7",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835046",
+			"digimon_id": "1183504",
+			"item_id": "17",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835047",
+			"digimon_id": "1183504",
+			"item_id": "27",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "70",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835048",
+			"digimon_id": "1183504",
+			"item_id": "37",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "30",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835051",
+			"digimon_id": "1183505",
+			"item_id": "9",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835052",
+			"digimon_id": "1183505",
+			"item_id": "19",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "100",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835053",
+			"digimon_id": "1183505",
+			"item_id": "29",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835054",
+			"digimon_id": "1183505",
+			"item_id": "39",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11835055",
+			"digimon_id": "1183505",
+			"item_id": "9",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835056",
+			"digimon_id": "1183505",
+			"item_id": "19",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835057",
+			"digimon_id": "1183505",
+			"item_id": "29",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "70",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11835058",
+			"digimon_id": "1183505",
+			"item_id": "39",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "30",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842001",
+			"digimon_id": "1184200",
+			"item_id": "10",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842002",
+			"digimon_id": "1184200",
+			"item_id": "20",
+			"num": "1",
+			"friendship_point_rise_value": "1500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842003",
+			"digimon_id": "1184200",
+			"item_id": "30",
+			"num": "1",
+			"friendship_point_rise_value": "1000",
+			"mood_value_rise_value": "75",
+			"weight": "100",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842004",
+			"digimon_id": "1184200",
+			"item_id": "40",
+			"num": "1",
+			"friendship_point_rise_value": "600",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842005",
+			"digimon_id": "1184200",
+			"item_id": "10",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842006",
+			"digimon_id": "1184200",
+			"item_id": "20",
+			"num": "1",
+			"friendship_point_rise_value": "1500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842007",
+			"digimon_id": "1184200",
+			"item_id": "30",
+			"num": "1",
+			"friendship_point_rise_value": "1000",
+			"mood_value_rise_value": "75",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842008",
+			"digimon_id": "1184200",
+			"item_id": "40",
+			"num": "1",
+			"friendship_point_rise_value": "600",
+			"mood_value_rise_value": "50",
+			"weight": "100",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842011",
+			"digimon_id": "1184201",
+			"item_id": "10",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "100",
+			"weight": "5",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842012",
+			"digimon_id": "1184201",
+			"item_id": "20",
+			"num": "1",
+			"friendship_point_rise_value": "1500",
+			"mood_value_rise_value": "100",
+			"weight": "15",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842013",
+			"digimon_id": "1184201",
+			"item_id": "30",
+			"num": "1",
+			"friendship_point_rise_value": "1000",
+			"mood_value_rise_value": "75",
+			"weight": "80",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842014",
+			"digimon_id": "1184201",
+			"item_id": "40",
+			"num": "1",
+			"friendship_point_rise_value": "600",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842015",
+			"digimon_id": "1184201",
+			"item_id": "10",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842016",
+			"digimon_id": "1184201",
+			"item_id": "20",
+			"num": "1",
+			"friendship_point_rise_value": "1500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842017",
+			"digimon_id": "1184201",
+			"item_id": "30",
+			"num": "1",
+			"friendship_point_rise_value": "1000",
+			"mood_value_rise_value": "75",
+			"weight": "20",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842018",
+			"digimon_id": "1184201",
+			"item_id": "40",
+			"num": "1",
+			"friendship_point_rise_value": "600",
+			"mood_value_rise_value": "50",
+			"weight": "80",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842021",
+			"digimon_id": "1184202",
+			"item_id": "7",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842022",
+			"digimon_id": "1184202",
+			"item_id": "17",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842023",
+			"digimon_id": "1184202",
+			"item_id": "27",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "100",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842024",
+			"digimon_id": "1184202",
+			"item_id": "37",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842025",
+			"digimon_id": "1184202",
+			"item_id": "7",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842026",
+			"digimon_id": "1184202",
+			"item_id": "17",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842027",
+			"digimon_id": "1184202",
+			"item_id": "27",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842028",
+			"digimon_id": "1184202",
+			"item_id": "37",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "100",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842031",
+			"digimon_id": "1184203",
+			"item_id": "1",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842032",
+			"digimon_id": "1184203",
+			"item_id": "11",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "50",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842033",
+			"digimon_id": "1184203",
+			"item_id": "21",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "50",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842034",
+			"digimon_id": "1184203",
+			"item_id": "31",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842035",
+			"digimon_id": "1184203",
+			"item_id": "1",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842036",
+			"digimon_id": "1184203",
+			"item_id": "11",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842037",
+			"digimon_id": "1184203",
+			"item_id": "21",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "50",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842038",
+			"digimon_id": "1184203",
+			"item_id": "31",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "50",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842041",
+			"digimon_id": "1184204",
+			"item_id": "1",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842042",
+			"digimon_id": "1184204",
+			"item_id": "11",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "100",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842043",
+			"digimon_id": "1184204",
+			"item_id": "21",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842044",
+			"digimon_id": "1184204",
+			"item_id": "31",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842045",
+			"digimon_id": "1184204",
+			"item_id": "1",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842046",
+			"digimon_id": "1184204",
+			"item_id": "11",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842047",
+			"digimon_id": "1184204",
+			"item_id": "21",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "70",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842048",
+			"digimon_id": "1184204",
+			"item_id": "31",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "30",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842051",
+			"digimon_id": "1184205",
+			"item_id": "7",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842052",
+			"digimon_id": "1184205",
+			"item_id": "17",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "100",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842053",
+			"digimon_id": "1184205",
+			"item_id": "27",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842054",
+			"digimon_id": "1184205",
+			"item_id": "37",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11842055",
+			"digimon_id": "1184205",
+			"item_id": "7",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842056",
+			"digimon_id": "1184205",
+			"item_id": "17",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842057",
+			"digimon_id": "1184205",
+			"item_id": "27",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "70",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11842058",
+			"digimon_id": "1184205",
+			"item_id": "37",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "30",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853001",
+			"digimon_id": "1185300",
+			"item_id": "10",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853002",
+			"digimon_id": "1185300",
+			"item_id": "20",
+			"num": "1",
+			"friendship_point_rise_value": "1500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853003",
+			"digimon_id": "1185300",
+			"item_id": "30",
+			"num": "1",
+			"friendship_point_rise_value": "1000",
+			"mood_value_rise_value": "75",
+			"weight": "100",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853004",
+			"digimon_id": "1185300",
+			"item_id": "40",
+			"num": "1",
+			"friendship_point_rise_value": "600",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853005",
+			"digimon_id": "1185300",
+			"item_id": "10",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853006",
+			"digimon_id": "1185300",
+			"item_id": "20",
+			"num": "1",
+			"friendship_point_rise_value": "1500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853007",
+			"digimon_id": "1185300",
+			"item_id": "30",
+			"num": "1",
+			"friendship_point_rise_value": "1000",
+			"mood_value_rise_value": "75",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853008",
+			"digimon_id": "1185300",
+			"item_id": "40",
+			"num": "1",
+			"friendship_point_rise_value": "600",
+			"mood_value_rise_value": "50",
+			"weight": "100",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853011",
+			"digimon_id": "1185301",
+			"item_id": "10",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "100",
+			"weight": "5",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853012",
+			"digimon_id": "1185301",
+			"item_id": "20",
+			"num": "1",
+			"friendship_point_rise_value": "1500",
+			"mood_value_rise_value": "100",
+			"weight": "15",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853013",
+			"digimon_id": "1185301",
+			"item_id": "30",
+			"num": "1",
+			"friendship_point_rise_value": "1000",
+			"mood_value_rise_value": "75",
+			"weight": "80",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853014",
+			"digimon_id": "1185301",
+			"item_id": "40",
+			"num": "1",
+			"friendship_point_rise_value": "600",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853015",
+			"digimon_id": "1185301",
+			"item_id": "10",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853016",
+			"digimon_id": "1185301",
+			"item_id": "20",
+			"num": "1",
+			"friendship_point_rise_value": "1500",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853017",
+			"digimon_id": "1185301",
+			"item_id": "30",
+			"num": "1",
+			"friendship_point_rise_value": "1000",
+			"mood_value_rise_value": "75",
+			"weight": "20",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853018",
+			"digimon_id": "1185301",
+			"item_id": "40",
+			"num": "1",
+			"friendship_point_rise_value": "600",
+			"mood_value_rise_value": "50",
+			"weight": "80",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853021",
+			"digimon_id": "1185302",
+			"item_id": "9",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853022",
+			"digimon_id": "1185302",
+			"item_id": "19",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853023",
+			"digimon_id": "1185302",
+			"item_id": "29",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "100",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853024",
+			"digimon_id": "1185302",
+			"item_id": "39",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853025",
+			"digimon_id": "1185302",
+			"item_id": "9",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853026",
+			"digimon_id": "1185302",
+			"item_id": "19",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853027",
+			"digimon_id": "1185302",
+			"item_id": "29",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853028",
+			"digimon_id": "1185302",
+			"item_id": "39",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "100",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853031",
+			"digimon_id": "1185303",
+			"item_id": "4",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853032",
+			"digimon_id": "1185303",
+			"item_id": "14",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "50",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853033",
+			"digimon_id": "1185303",
+			"item_id": "24",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "50",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853034",
+			"digimon_id": "1185303",
+			"item_id": "34",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853035",
+			"digimon_id": "1185303",
+			"item_id": "4",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853036",
+			"digimon_id": "1185303",
+			"item_id": "14",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853037",
+			"digimon_id": "1185303",
+			"item_id": "24",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "50",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853038",
+			"digimon_id": "1185303",
+			"item_id": "34",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "50",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853041",
+			"digimon_id": "1185304",
+			"item_id": "1",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853042",
+			"digimon_id": "1185304",
+			"item_id": "11",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "100",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853043",
+			"digimon_id": "1185304",
+			"item_id": "21",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853044",
+			"digimon_id": "1185304",
+			"item_id": "31",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853045",
+			"digimon_id": "1185304",
+			"item_id": "1",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853046",
+			"digimon_id": "1185304",
+			"item_id": "11",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853047",
+			"digimon_id": "1185304",
+			"item_id": "21",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "70",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853048",
+			"digimon_id": "1185304",
+			"item_id": "31",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "30",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853051",
+			"digimon_id": "1185305",
+			"item_id": "9",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853052",
+			"digimon_id": "1185305",
+			"item_id": "19",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "100",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853053",
+			"digimon_id": "1185305",
+			"item_id": "29",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853054",
+			"digimon_id": "1185305",
+			"item_id": "39",
+			"num": "1",
+			"friendship_point_rise_value": "2500",
+			"mood_value_rise_value": "50",
+			"weight": "0",
+			"scrounge_type": "0"
+		},
+		{
+			"scrounge_id": "11853055",
+			"digimon_id": "1185305",
+			"item_id": "9",
+			"num": "1",
+			"friendship_point_rise_value": "15000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853056",
+			"digimon_id": "1185305",
+			"item_id": "19",
+			"num": "1",
+			"friendship_point_rise_value": "10000",
+			"mood_value_rise_value": "100",
+			"weight": "0",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853057",
+			"digimon_id": "1185305",
+			"item_id": "29",
+			"num": "1",
+			"friendship_point_rise_value": "5000",
+			"mood_value_rise_value": "75",
+			"weight": "70",
+			"scrounge_type": "1"
+		},
+		{
+			"scrounge_id": "11853058",
+			"digimon_id": "1185305",
+			"item_id": "39",
 			"num": "1",
 			"friendship_point_rise_value": "2500",
 			"mood_value_rise_value": "50",
