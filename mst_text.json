@@ -330,7 +330,7 @@
 		},
 		{
 			"text_id": "10101003",
-			"text": "Change language to English?"
+			"text": "Change language to English?\n*A display error may occur when changing language settings under certain circumstances."
 		},
 		{
 			"text_id": "10101004",
@@ -346,7 +346,7 @@
 		},
 		{
 			"text_id": "10101007",
-			"text": "한국어로 변경하시겠습니까?"
+			"text": "한국어로 변경하시겠습니까?\n※언어 변경 시 표시가 불안정할 수 있습니다."
 		},
 		{
 			"text_id": "10101008",
@@ -362,7 +362,7 @@
 		},
 		{
 			"text_id": "10101011",
-			"text": "要變更為中文（繁體中文）？"
+			"text": "要變更為中文（繁體中文）？\n※根據切換語言的時間點，有可能出現無法正確顯示的問題"
 		},
 		{
 			"text_id": "10101012",
@@ -410,7 +410,7 @@
 		},
 		{
 			"text_id": "10101023",
-			"text": "※一天可以進行三次語言切換。"
+			"text": "※一天可以進行三次切換語言。"
 		},
 		{
 			"text_id": "10101024",
@@ -495,6 +495,18 @@
 		{
 			"text_id": "10101044",
 			"text": "No"
+		},
+		{
+			"text_id": "10101045",
+			"text": "{0}:"
+		},
+		{
+			"text_id": "10101046",
+			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth. The total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One Golden Summon or higher is guaranteed in the 10+1 Summon. The drop rates for the items other than the guaranteed plugin are as follows:"
+		},
+		{
+			"text_id": "10101047",
+			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth. The total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon: a Champion Digimon capable of Digivolving to Ultimate; a Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega; or a Rookie Digimon capable of Digivolving to Armor.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
 		},
 		{
 			"text_id": "1011",
@@ -1850,7 +1862,7 @@
 		},
 		{
 			"text_id": "1282",
-			"text": "Your battle was interrupted.\nReturn to the battle?\nDigiRubies and Stamina consumed will not \nbe returned if you resume the battle."
+			"text": "Your battle was interrupted.\nReturn to the battle?\nDigiRubies and Stamina consumed will be\ndiscarded if the battle is not resumed."
 		},
 		{
 			"text_id": "1283",
@@ -3198,7 +3210,7 @@
 		},
 		{
 			"text_id": "1586",
-			"text": "Halfway there!"
+			"text": "Half!"
 		},
 		{
 			"text_id": "1587",
@@ -4346,7 +4358,7 @@
 		},
 		{
 			"text_id": "1845",
-			"text": "反撃ダメージ"
+			"text": "Counter Damage"
 		},
 		{
 			"text_id": "1846",
@@ -4526,7 +4538,7 @@
 		},
 		{
 			"text_id": "1892",
-			"text": "「{0}」"
+			"text": "{0}"
 		},
 		{
 			"text_id": "1893",
@@ -4602,7 +4614,7 @@
 		},
 		{
 			"text_id": "1909",
-			"text": "The Thrill of Digivolution!\nDigivolving not only changes a Digimon's appearance, but also boosts their strength!\nKeep Digivolving to draw out their full potential!"
+			"text": "The Thrill of Digivolution!\nDigivolving not only changes a Digimon's appearance, but also boosts\ntheir strength! Keep Digivolving to draw out their full potential!"
 		},
 		{
 			"text_id": "191",
@@ -6802,7 +6814,7 @@
 		},
 		{
 			"text_id": "2248",
-			"text": "Available until {0}"
+			"text": "Event Period: Until [datetime_week]2019/12/10 11:59:59[/datetime_week]"
 		},
 		{
 			"text_id": "2249",
@@ -7002,7 +7014,7 @@
 		},
 		{
 			"text_id": "2294",
-			"text": "大激突戦イベント開催中！"
+			"text": "Clash Battle Event Available!"
 		},
 		{
 			"text_id": "2295",
@@ -7446,7 +7458,7 @@
 		},
 		{
 			"text_id": "2380",
-			"text": "フィーチャーpt"
+			"text": "Feature Pts."
 		},
 		{
 			"text_id": "2381",
@@ -7462,27 +7474,27 @@
 		},
 		{
 			"text_id": "2384",
-			"text": "フィーチャーデジモンはcase1クリアまで編成されます"
+			"text": "The featured Digimon will always be put in your team until you obtain it."
 		},
 		{
 			"text_id": "2385",
-			"text": "DFQ"
+			"text": "FDQ"
 		},
 		{
 			"text_id": "2386",
-			"text": "フィーチャーチーム"
+			"text": "Featured Team"
 		},
 		{
 			"text_id": "2387",
-			"text": "フィーチャークエスト"
+			"text": "Feature Quest"
 		},
 		{
 			"text_id": "2388",
-			"text": "プラグインはセットできません"
+			"text": "Plugins cannot be equipped."
 		},
 		{
 			"text_id": "2389",
-			"text": "{0}連ガシャ"
+			"text": "{0}x Summon"
 		},
 		{
 			"text_id": "239",
@@ -7490,7 +7502,7 @@
 		},
 		{
 			"text_id": "2390",
-			"text": "フィーチャークエストへ"
+			"text": "Go to Feature Quest"
 		},
 		{
 			"text_id": "2391",
@@ -7502,23 +7514,23 @@
 		},
 		{
 			"text_id": "2393",
-			"text": "フィーチャーptが足りません。"
+			"text": "Insufficient Feature Pts."
 		},
 		{
 			"text_id": "2394",
-			"text": "が <color=#C7221DFF>{0}pt</color> 不足しています。"
+			"text": "are insufficient by <color=#C7221DFF>{0} pts.</color>."
 		},
 		{
 			"text_id": "2395",
-			"text": "フィーチャーptを使用して1回ガシャを行います。\nよろしいですか？"
+			"text": "Do you want to use Featured Pts. for a 1x Summon?"
 		},
 		{
 			"text_id": "2396",
-			"text": "フィーチャーptを使用して{0}連ガシャを行います。\nよろしいですか？"
+			"text": "Do you want to use Featured Pts. for a {0}x Summon?"
 		},
 		{
 			"text_id": "2397",
-			"text": "必要pt {0}pt"
+			"text": "{0} Pts. needed"
 		},
 		{
 			"text_id": "2398",
@@ -7526,7 +7538,7 @@
 		},
 		{
 			"text_id": "2399",
-			"text": "フィーチャークエストイベント"
+			"text": "Feature Quest Event"
 		},
 		{
 			"text_id": "24",
@@ -7542,7 +7554,7 @@
 		},
 		{
 			"text_id": "2401",
-			"text": "Clash Battle Event Available!"
+			"text": "Raid Clash Battle Event Available!"
 		},
 		{
 			"text_id": "2402",
@@ -7550,7 +7562,7 @@
 		},
 		{
 			"text_id": "2403",
-			"text": "デジモンフィーチャーチャレンジ"
+			"text": "Featured Digimon Challenge"
 		},
 		{
 			"text_id": "2404",
@@ -7586,7 +7598,7 @@
 		},
 		{
 			"text_id": "2414",
-			"text": "デジモンフィーチャークエスト限定ガシャ"
+			"text": "Featured Digimon Quest Limited Summon"
 		},
 		{
 			"text_id": "2415",
@@ -7638,19 +7650,19 @@
 		},
 		{
 			"text_id": "2426",
-			"text": "プラグイン以外のアイテムの所持数が上限を超えた場合、\nその分のアイテムは破棄されます。"
+			"text": "Other than Plugins, any items obtained beyond the maximum carry limit will be discarded."
 		},
 		{
 			"text_id": "2427",
-			"text": "プラグインは所持上限のプラス{0}枠まで\nガシャを回すことができます。"
+			"text": "You can use a Plugin Summon up to your maximum limit +{0}."
 		},
 		{
 			"text_id": "2428",
-			"text": "エリアをコンプリートしました"
+			"text": "Completed Area"
 		},
 		{
 			"text_id": "2429",
-			"text": "エリア コンプ報酬"
+			"text": "Area Completion Rewards"
 		},
 		{
 			"text_id": "243",
@@ -7658,7 +7670,7 @@
 		},
 		{
 			"text_id": "2430",
-			"text": "デジモンフィーチャークエスト本編をクリアしました。\nフィーチャーデジモンが仲間に加わりました。"
+			"text": "You have cleared the current Featured Digimon Quest. You became friends with the Featured Digimon!"
 		},
 		{
 			"text_id": "2431",
@@ -7674,15 +7686,15 @@
 		},
 		{
 			"text_id": "2434",
-			"text": "新たなエリアが解放されました。"
+			"text": "A new area has been unlocked."
 		},
 		{
 			"text_id": "2435",
-			"text": "現在公開中のデジモンフィーチャークエストをすべてクリアしました。"
+			"text": "You have cleared all Featured Digimon Quests currently available."
 		},
 		{
 			"text_id": "2436",
-			"text": "エリアクリア"
+			"text": "Area Clear"
 		},
 		{
 			"text_id": "2437",
@@ -7806,7 +7818,7 @@
 		},
 		{
 			"text_id": "2464",
-			"text": "フィーチャーpt"
+			"text": "Feature Pts."
 		},
 		{
 			"text_id": "2465",
@@ -8242,11 +8254,11 @@
 		},
 		{
 			"text_id": "2563",
-			"text": "個人{0}"
+			"text": "Personal {0}"
 		},
 		{
 			"text_id": "2564",
-			"text": "全体{0}"
+			"text": "Global {0}"
 		},
 		{
 			"text_id": "2565",
@@ -8258,11 +8270,11 @@
 		},
 		{
 			"text_id": "2567",
-			"text": "現在の個人{0} 累計 {1}pt"
+			"text": "Current Personal {0}: {1}"
 		},
 		{
 			"text_id": "2568",
-			"text": "現在の全体{0}累計 {1}pt"
+			"text": "Current Global {0}: {1}"
 		},
 		{
 			"text_id": "2569",
@@ -8274,7 +8286,7 @@
 		},
 		{
 			"text_id": "2570",
-			"text": "獲得{0}"
+			"text": "Obtainable {0}"
 		},
 		{
 			"text_id": "2571",
@@ -8286,7 +8298,7 @@
 		},
 		{
 			"text_id": "2573",
-			"text": "討伐pt"
+			"text": "Raid Pt."
 		},
 		{
 			"text_id": "2574",
@@ -8414,15 +8426,15 @@
 		},
 		{
 			"text_id": "2602",
-			"text": "[@max_multiple_count]{0}[/@max_multiple_count]回"
+			"text": "[@max_multiple_count]{0}[/@max_multiple_count] time(s)"
 		},
 		{
 			"text_id": "2603",
-			"text": "[@min_multiple_count]{0}[/@min_multiple_count]～[@max_multiple_count]{1}[/@max_multiple_count]回"
+			"text": "[@min_multiple_count]{0}[/@min_multiple_count] ~ [@max_multiple_count]{1}[/@max_multiple_count] time(s)"
 		},
 		{
 			"text_id": "2604",
-			"text": "DFQ"
+			"text": "FDQ"
 		},
 		{
 			"text_id": "2605",
@@ -9902,7 +9914,7 @@
 		},
 		{
 			"text_id": "490261",
-			"text": "- Include <color=#FFE25AFF>Calm</color> Digimon in your party!\n- Include Digimon that can enhance <color=#FFE25AFF>TEC</color> in your party!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!"
+			"text": "- Include <color=#FFE25AFF>Calm</color> Digimon in your party!\n- Include Digimon that can enhance <color=#FFE25AFF>TEC</color> in your party!\n- Enhance your <color=#FFE25AFF>DEF</color>!"
 		},
 		{
 			"text_id": "490271",

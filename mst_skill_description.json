@@ -1293,14 +1293,14 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]のHPを定期的に[@strength][:strength:][/@strength]回復する（[@duration][:duration:][/@duration]）"
+			"text": "Restores HP of [@target_num]3[/@target_num] allies periodically by [@strength][:strength:][/@strength] ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "26",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]のHPを定期的に[@strength][:strength:][/@strength]回復する（[@duration][:duration:][/@duration]）"
+			"text": "Restores HP of [@target_num]4[/@target_num] allies periodically by [@strength][:strength:][/@strength] ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "26",
@@ -1860,14 +1860,14 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]3[/@target_num] allies to reduce damage by [@value][:value:][/@value]% when blocking ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]4[/@target_num] allies to reduce damage by [@value][:value:][/@value]% when blocking ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "35",

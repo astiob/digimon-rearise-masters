@@ -47,6 +47,18 @@
 			"end_date": "2019-11-08 11:59:59",
 			"receivable_days": "15",
 			"asset_path": "login_bonus/g2707_login_bonus"
+		},
+		{
+			"login_bonus_id": "5006",
+			"name": "Black Friday Celebration Login Bonus",
+			"disp_priority": "3",
+			"start_trigger_type": "0",
+			"start_trigger": "{}",
+			"is_loop": "0",
+			"start_date": "2019-11-26 12:00:00",
+			"end_date": "2019-12-10 11:59:59",
+			"receivable_days": "15",
+			"asset_path": "login_bonus/w1072_login_bonus"
 		}
 	]
 }
