@@ -133,6 +133,17 @@
 			"end_date": ""
 		},
 		{
+			"shop_id": "20",
+			"name": "クリスマスメダル交換(2019)",
+			"cost_item_id": "22015",
+			"disp_order": "14",
+			"entrance_asset": "shop/entrance/shop_entrance018",
+			"tab_asset": "shop/skin/shop_skin018",
+			"start_date": "2019-11-30 12:00:00",
+			"new_end_date": "2019-12-31 23:59:59",
+			"end_date": "2020-01-10 11:59:59"
+		},
+		{
 			"shop_id": "4",
 			"name": "コミュpt交換",
 			"cost_item_id": "22004",

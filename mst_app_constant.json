@@ -439,6 +439,12 @@
 			"description": "ストアレビューに誘導するクエストのIDリスト(JSON)"
 		},
 		{
+			"category": "TRAINING",
+			"name": "EXCLUDE_TRAINING_ITEM_ID_LIST",
+			"value": "[105,115,125,135,145,155,165,175,185,195,205]",
+			"description": "特訓画面で時限の渦が解放しているかの判定から除外する特訓IDの配列"
+		},
+		{
 			"category": "UNLOCK",
 			"name": "UNLOCK_BATTLEPARK_QUEST_ID",
 			"value": "1003040",

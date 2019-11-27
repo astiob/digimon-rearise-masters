@@ -3277,6 +3277,90 @@
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」のどれか1つを付与する（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "47",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "1",
+			"text": "味方[@target_num]単体[/@target_num]に「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」状態の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "47",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "2",
+			"text": "味方[@target_num]2体[/@target_num]に「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」状態の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "47",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "3",
+			"text": "味方[@target_num]3体[/@target_num]に「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」状態の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "47",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "4",
+			"text": "味方[@target_num]4体[/@target_num]に「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」状態の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "47",
+			"index_in_type": "0",
+			"target_type": "1",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]に「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」状態の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "47",
+			"index_in_type": "0",
+			"target_type": "10",
+			"target_num": "5",
+			"text": "個性が「勇敢」の味方に「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」状態の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "47",
+			"index_in_type": "0",
+			"target_type": "11",
+			"target_num": "5",
+			"text": "個性が「冷静」の味方に「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」状態の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "47",
+			"index_in_type": "0",
+			"target_type": "12",
+			"target_num": "5",
+			"text": "個性が「器用」の味方に「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」状態の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "47",
+			"index_in_type": "0",
+			"target_type": "13",
+			"target_num": "5",
+			"text": "個性が「不屈」の味方に「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」状態の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "47",
+			"index_in_type": "0",
+			"target_type": "14",
+			"target_num": "5",
+			"text": "個性が「献身」の味方に「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」状態の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "47",
+			"index_in_type": "0",
+			"target_type": "2",
+			"target_num": "1",
+			"text": "自分に「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」状態の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "48",
+			"index_in_type": "0",
+			"target_type": "2",
+			"target_num": "1",
+			"text": "1回だけ自分の残りHPが[@affect_hp_rate][:affect_hp_rate:]%[/@affect_hp_rate]以下になると、[:text_id_ex:]の効果を付与"
+		},
+		{
 			"action_efficacy_type": "5",
 			"index_in_type": "0",
 			"target_type": "1",
