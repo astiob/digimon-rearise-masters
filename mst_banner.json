@@ -37,6 +37,18 @@
 			"extension_data": "{\"shopId\":2,\"information_id\":1050006}"
 		},
 		{
+			"banner_id": "50010004",
+			"banner_type": "0",
+			"disp_order": "10",
+			"start_date": "2019-11-30 12:00:00",
+			"end_date": "2019-12-15 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner253",
+			"extension_type": "1",
+			"extension_id": "31",
+			"extension_data": "{\"shopId\":2,\"information_id\":1050007}"
+		},
+		{
 			"banner_id": "50020001",
 			"banner_type": "0",
 			"disp_order": "20",
@@ -95,6 +107,18 @@
 			"extension_type": "1",
 			"extension_id": "23",
 			"extension_data": "{\"information_id\":1020007}"
+		},
+		{
+			"banner_id": "50020006",
+			"banner_type": "0",
+			"disp_order": "10",
+			"start_date": "2019-11-30 12:00:00",
+			"end_date": "2020-01-01 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner156",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":1020009}"
 		},
 		{
 			"banner_id": "50030001",
@@ -191,6 +215,18 @@
 			"extension_type": "2",
 			"extension_id": "1010016",
 			"extension_data": "{\"information_id\":1010016}"
+		},
+		{
+			"banner_id": "50030009",
+			"banner_type": "0",
+			"disp_order": "30",
+			"start_date": "2019-11-30 12:00:00",
+			"end_date": "2019-12-08 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner139",
+			"extension_type": "2",
+			"extension_id": "1010018",
+			"extension_data": "{\"information_id\":1010018}"
 		},
 		{
 			"banner_id": "50040001",
@@ -503,6 +539,18 @@
 			"extension_type": "1",
 			"extension_id": "31",
 			"extension_data": "{\"shopId\":6,\"information_id\":1050005}"
+		},
+		{
+			"banner_id": "50110004",
+			"banner_type": "2",
+			"disp_order": "100",
+			"start_date": "2019-11-30 12:00:00",
+			"end_date": "2019-12-31 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner028",
+			"extension_type": "1",
+			"extension_id": "31",
+			"extension_data": "{\"shopId\":6,\"information_id\":1050008}"
 		}
 	]
 }

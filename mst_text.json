@@ -362,7 +362,7 @@
 		},
 		{
 			"text_id": "10101011",
-			"text": "要變更為中文（繁體中文）？\n※根據切換語言的時間點，有可能出現無法正確顯示的問題"
+			"text": "要變更為中文（繁體中文）？\n※根據切換語言的時間點，有可能出現無法正確顯示的問題。"
 		},
 		{
 			"text_id": "10101012",
@@ -4437,6 +4437,26 @@
 			"text": "PWR・TEC・DEFアップ、ダメージ耐性アップ効果"
 		},
 		{
+			"text_id": "1863",
+			"text": "<size=22>(JST {0})</size>"
+		},
+		{
+			"text_id": "1864",
+			"text": "ロスト"
+		},
+		{
+			"text_id": "1865",
+			"text": "カバー"
+		},
+		{
+			"text_id": "1866",
+			"text": "HP回復量"
+		},
+		{
+			"text_id": "1867",
+			"text": "カバー"
+		},
+		{
 			"text_id": "1868",
 			"text": "First Knockdown"
 		},
@@ -4511,6 +4531,14 @@
 		{
 			"text_id": "1884",
 			"text": "Info for acquiring."
+		},
+		{
+			"text_id": "1885",
+			"text": "Your battle was interrupted.\nReturn to the battle?\nBP Stamina consumed will be\ndiscarded if the battle is not resumed."
+		},
+		{
+			"text_id": "1886",
+			"text": "Your battle was interrupted.\nReturn to the battle?\nStamina, attempts, and DigiRubies\nconsumed will be discarded if\nthe battle is not resumed."
 		},
 		{
 			"text_id": "1887",
@@ -6438,11 +6466,11 @@
 		},
 		{
 			"text_id": "2158",
-			"text": "クリスマスチャレンジ2018"
+			"text": "Christmas Challenges 2019"
 		},
 		{
 			"text_id": "2159",
-			"text": "メリークリスマス！がんばってねー"
+			"text": "Merry Christmas! Do your best!"
 		},
 		{
 			"text_id": "2160",
@@ -6498,7 +6526,7 @@
 		},
 		{
 			"text_id": "2173",
-			"text": "クリスマス"
+			"text": "Christmas"
 		},
 		{
 			"text_id": "2174",
@@ -7518,15 +7546,15 @@
 		},
 		{
 			"text_id": "2394",
-			"text": "are insufficient by <color=#C7221DFF>{0} pts.</color>."
+			"text": "are insufficient by <color=#C7221DFF>{0} pts.</color>"
 		},
 		{
 			"text_id": "2395",
-			"text": "Do you want to use Featured Pts. for a 1x Summon?"
+			"text": "Do you want to use Feature Pts. for a 1x Summon?"
 		},
 		{
 			"text_id": "2396",
-			"text": "Do you want to use Featured Pts. for a {0}x Summon?"
+			"text": "Do you want to use Feature Pts. for a {0}x Summon?"
 		},
 		{
 			"text_id": "2397",
@@ -7550,7 +7578,7 @@
 		},
 		{
 			"text_id": "2400",
-			"text": "イベントTOP"
+			"text": "Event Top"
 		},
 		{
 			"text_id": "2401",
@@ -8689,6 +8717,10 @@
 			"text": "Confirm"
 		},
 		{
+			"text_id": "2667",
+			"text": "受け取り完了"
+		},
+		{
 			"text_id": "2668",
 			"text": "{0} Scene {1}"
 		},
@@ -8713,12 +8745,40 @@
 			"text": "見つけた！\nみんなの役にたつといいなぁ"
 		},
 		{
+			"text_id": "2673",
+			"text": "Early September Challenge"
+		},
+		{
+			"text_id": "2674",
+			"text": "Late September Challenge"
+		},
+		{
+			"text_id": "2678",
+			"text": "フレイドラモン"
+		},
+		{
+			"text_id": "2679",
+			"text": "行くぜ、最高のラーメンのために\n最高の食材を見つけるんだ！"
+		},
+		{
 			"text_id": "268",
 			"text": "See you tomorrow!"
 		},
 		{
+			"text_id": "2680",
+			"text": "うーん、あれはどうかな？"
+		},
+		{
+			"text_id": "2681",
+			"text": "よっしゃぁ！　これで最高の\nラーメンが作れそうだぜ！"
+		},
+		{
 			"text_id": "269",
 			"text": "Support Request"
+		},
+		{
+			"text_id": "2697",
+			"text": "状態異常耐性"
 		},
 		{
 			"text_id": "27",
@@ -9562,7 +9622,7 @@
 		},
 		{
 			"text_id": "429",
-			"text": "{0} days until end of Season. ({1})"
+			"text": "{0} until end of Season. ({1})"
 		},
 		{
 			"text_id": "43",
@@ -9906,7 +9966,7 @@
 		},
 		{
 			"text_id": "490241",
-			"text": "- Set <color=#FFE25AFF>Plugins that enhance HP</color>!\n- <color=#FFE25AFF>Poison</color><sprite=5> and <color=#FFE25AFF>Error</color><sprite=7>are effective!\n- Include Digimon that <color=#FFE25AFF>Heal HP</color> in your party!"
+			"text": "- Set <color=#FFE25AFF>Plugins that enhance HP</color>!\n- <color=#FFE25AFF>Poison</color><sprite=5> and <color=#FFE25AFF>Error</color><sprite=7> are effective!\n- Include Digimon that <color=#FFE25AFF>Heal HP</color> in your party!"
 		},
 		{
 			"text_id": "490251",
@@ -9987,6 +10047,14 @@
 		{
 			"text_id": "490441",
 			"text": "・<color=#FFE25AFF>DEF</color>を高めよう！\n・<color=#FFE25AFF>ブロック率</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+		},
+		{
+			"text_id": "490451",
+			"text": "・個性が<color=#FFE25AFF>冷静以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を高めよう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
+		},
+		{
+			"text_id": "490461",
+			"text": "・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！"
 		},
 		{
 			"text_id": "491",
@@ -11554,15 +11622,15 @@
 		},
 		{
 			"text_id": "830004",
-			"text": "4分以内にクリアしよう"
+			"text": "Clear in 4 minutes or less."
 		},
 		{
 			"text_id": "830005",
-			"text": "5分以内にクリアしよう"
+			"text": "Clear in 5 minutes or less."
 		},
 		{
 			"text_id": "830006",
-			"text": "4分30秒以内にクリアしよう"
+			"text": "Clear in 4 minutes 30 seconds or less."
 		},
 		{
 			"text_id": "831",
