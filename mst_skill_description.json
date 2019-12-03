@@ -110,7 +110,7 @@
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "Reduce [@target_num]all[/@target_num] enemy targets' buffs by [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce] turns."
+			"text": "Reduce [@target_num]all[/@target_num] enemy target's buffs by [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce] turns."
 		},
 		{
 			"action_efficacy_type": "0",
@@ -1370,14 +1370,14 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]の最大HPを[@value][:value:]%[/@value]アップ（永続）"
+			"text": "Increases [@target_num]3[/@target_num] allies' maximum HP by [@value][:value:]%[/@value]"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]の最大HPを[@value][:value:]%[/@value]アップ（永続）"
+			"text": "Increases [@target_num]4[/@target_num] allies' maximum HP by [@value][:value:]%[/@value]"
 		},
 		{
 			"action_efficacy_type": "27",
@@ -1447,14 +1447,14 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "[:accumulate_type:]に味方[@target_num]3体[/@target_num]の[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇（永続）"
+			"text": "Increases [@target_num]3[/@target_num] allies' [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:]% [:accumulate_type:] (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "[:accumulate_type:]に味方[@target_num]4体[/@target_num]の[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇（永続）"
+			"text": "Increases [@target_num]4[/@target_num] allies' [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:]% [:accumulate_type:] (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
@@ -1489,14 +1489,14 @@
 			"index_in_type": "1",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[:accumulate_type:]に[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇する効果を付与（永続）"
+			"text": "Increases [@target_num]3[/@target_num] allies' [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:]% [:accumulate_type:] (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[:accumulate_type:]に[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇する効果を付与（永続）"
+			"text": "Increases [@target_num]4[/@target_num] allies' [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:]% [:accumulate_type:] (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
@@ -1566,14 +1566,14 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]3[/@target_num] allies to evade attacks [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]4[/@target_num] allies to evade attacks [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "29",
@@ -1650,14 +1650,14 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]3[/@target_num] allies to reduce CT after using a skill by [@value][:value:][/@value]% [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]4[/@target_num] allies to reduce CT after using a skill by [@value][:value:][/@value]% [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "31",
@@ -1734,14 +1734,14 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に敵からの攻撃によるクリティカル補正を無効化する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]3[/@target_num] allies to nullify additional Critical damage received from an enemy's attack ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "33",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に敵からの攻撃によるクリティカル補正を無効化する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]4[/@target_num] allies to nullify additional Critical damage received from an enemy's attack ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "33",
@@ -1811,14 +1811,14 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[:count_ex:]敵からのダメージを最大[@value][:value:][/@value]までに抑える効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]3[/@target_num] allies to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[:count_ex:]敵からのダメージを最大[@value][:value:][/@value]までに抑える効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]4[/@target_num] allies to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "34",
@@ -1965,14 +1965,14 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に敵からの攻撃によるダメージを[@shield_hp][:shield_hp:][/@shield_hp]まで肩代わりするシールド効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]3[/@target_num] allies to shield up to [@shield_hp][:shield_hp:][/@shield_hp] damage received from an enemy's attack ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "36",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に敵からの攻撃によるダメージを[@shield_hp][:shield_hp:][/@shield_hp]まで肩代わりするシールド効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]4[/@target_num] allies to shield up to [@shield_hp][:shield_hp:][/@shield_hp] damage received from an enemy's attack ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "36",
@@ -2042,14 +2042,14 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]3[/@target_num] allies to deal [@value][:value:][/@value] times the damage to a [:personality_killer:] enemy ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "37",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に個性が「[:personality_killer:]」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]4[/@target_num] allies to deal [@value][:value:][/@value] times the damage to a [:personality_killer:] enemy ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "37",

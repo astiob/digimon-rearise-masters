@@ -6486,7 +6486,7 @@
 		},
 		{
 			"text_id": "2163",
-			"text": "開催時期 : 2018/12/27 11:59まで"
+			"text": "Event Period: Until [datetime_week]2020/01/01 11:59:59[/datetime_week]"
 		},
 		{
 			"text_id": "2164",
@@ -7050,7 +7050,7 @@
 		},
 		{
 			"text_id": "2296",
-			"text": "Make a team with BON Bonus Digimon!"
+			"text": "Make a team with BON Digimon!"
 		},
 		{
 			"text_id": "2297",
@@ -7298,7 +7298,7 @@
 		},
 		{
 			"text_id": "2330",
-			"text": "Reward Claim Period: Until<color=#ffea3c>{0}–{1}</color>"
+			"text": "Reward Claim Period: Until <color=#ffea3c>{0}–{1}</color>"
 		},
 		{
 			"text_id": "2331",
@@ -7486,7 +7486,7 @@
 		},
 		{
 			"text_id": "2380",
-			"text": "Feature Pts."
+			"text": "Spotlight Pts."
 		},
 		{
 			"text_id": "2381",
@@ -7502,19 +7502,19 @@
 		},
 		{
 			"text_id": "2384",
-			"text": "The featured Digimon will always be put in your team until you obtain it."
+			"text": "The Spotlight Digimon will always be put in your team until you obtain it."
 		},
 		{
 			"text_id": "2385",
-			"text": "FDQ"
+			"text": "SDQ"
 		},
 		{
 			"text_id": "2386",
-			"text": "Featured Team"
+			"text": "Spotlight Team"
 		},
 		{
 			"text_id": "2387",
-			"text": "Feature Quest"
+			"text": "Spotlight Quest"
 		},
 		{
 			"text_id": "2388",
@@ -7530,7 +7530,7 @@
 		},
 		{
 			"text_id": "2390",
-			"text": "Go to Feature Quest"
+			"text": "Go to Spotlight Quest"
 		},
 		{
 			"text_id": "2391",
@@ -7542,7 +7542,7 @@
 		},
 		{
 			"text_id": "2393",
-			"text": "Insufficient Feature Pts."
+			"text": "Insufficient Spotlight Pts."
 		},
 		{
 			"text_id": "2394",
@@ -7550,11 +7550,11 @@
 		},
 		{
 			"text_id": "2395",
-			"text": "Do you want to use Feature Pts. for a 1x Summon?"
+			"text": "Do you want to use Spotlight Pts. for a 1x Summon?"
 		},
 		{
 			"text_id": "2396",
-			"text": "Do you want to use Feature Pts. for a {0}x Summon?"
+			"text": "Do you want to use Spotlight Pts. for a {0}x Summon?"
 		},
 		{
 			"text_id": "2397",
@@ -7566,7 +7566,7 @@
 		},
 		{
 			"text_id": "2399",
-			"text": "Feature Quest Event"
+			"text": "Spotlight Quest Event"
 		},
 		{
 			"text_id": "24",
@@ -7590,7 +7590,7 @@
 		},
 		{
 			"text_id": "2403",
-			"text": "Featured Digimon Challenge"
+			"text": "Spotlight Digimon Challenge"
 		},
 		{
 			"text_id": "2404",
@@ -7626,7 +7626,7 @@
 		},
 		{
 			"text_id": "2414",
-			"text": "Featured Digimon Quest Limited Summon"
+			"text": "Spotlight Digimon Quest Limited Summon"
 		},
 		{
 			"text_id": "2415",
@@ -7698,11 +7698,11 @@
 		},
 		{
 			"text_id": "2430",
-			"text": "You have cleared the current Featured Digimon Quest. You became friends with the Featured Digimon!"
+			"text": "You have cleared the current Spotlight Digimon Quest. You became friends with the Spotlight Digimon!"
 		},
 		{
 			"text_id": "2431",
-			"text": "Late May Challenge"
+			"text": "Late December Challenge"
 		},
 		{
 			"text_id": "2432",
@@ -7718,7 +7718,7 @@
 		},
 		{
 			"text_id": "2435",
-			"text": "You have cleared all Featured Digimon Quests currently available."
+			"text": "You have cleared all Spotlight Digimon Quests currently available."
 		},
 		{
 			"text_id": "2436",
@@ -8290,11 +8290,11 @@
 		},
 		{
 			"text_id": "2565",
-			"text": "全体{0}報酬"
+			"text": "Global {0} Reward(s)"
 		},
 		{
 			"text_id": "2566",
-			"text": "個人{0}報酬"
+			"text": "Personal {0} Reward(s)"
 		},
 		{
 			"text_id": "2567",
@@ -8306,7 +8306,7 @@
 		},
 		{
 			"text_id": "2569",
-			"text": "到達累計{0}"
+			"text": "Total {0} Obtained"
 		},
 		{
 			"text_id": "257",
@@ -8318,11 +8318,11 @@
 		},
 		{
 			"text_id": "2571",
-			"text": "{0}を獲得できませんでした"
+			"text": "{0} could not be obtained."
 		},
 		{
 			"text_id": "2572",
-			"text": "{0}報酬を獲得しました。「{1}画面」から報酬を受け取ることができます。"
+			"text": "{0} reward(s) claimed. Rewards can be claimed via the {1} screen."
 		},
 		{
 			"text_id": "2573",
@@ -8462,7 +8462,7 @@
 		},
 		{
 			"text_id": "2604",
-			"text": "FDQ"
+			"text": "SDQ"
 		},
 		{
 			"text_id": "2605",

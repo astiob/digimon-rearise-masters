@@ -503,7 +503,7 @@
 			"icon_asset": "icon/item/evolution/iconevolutionitem10003",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "An item that facilitates Digivolution to MetalGarurumon.",
+			"description": "An item that facilitates the Digivolution of MetalGarurumon Chain Digimon.",
 			"max_amount": "9999"
 		},
 		{
@@ -558,7 +558,7 @@
 			"icon_asset": "icon/item/evolution/iconevolutionitem10007",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "An item that facilitates Digivolution to Sakuyamon.",
+			"description": "An item that facilitates the Digivolution of Sakuyamon Chain Digimon.",
 			"max_amount": "9999"
 		},
 		{
@@ -602,7 +602,7 @@
 			"icon_asset": "icon/item/evolution/iconevolutionitem10006",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "An item that facilitates Digivolution to WarGreymon.",
+			"description": "An item that facilitates the Digivolution of WarGreymon Chain Digimon.",
 			"max_amount": "9999"
 		},
 		{
@@ -22002,13 +22002,13 @@
 		},
 		{
 			"item_id": "26002",
-			"item_name": "フィーチャーpt",
+			"item_name": "Spotlight Pts.",
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_002",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
+			"description": "Points that can be obtained through Spotlight Digimon Quests.",
 			"max_amount": "999999999"
 		},
 		{
