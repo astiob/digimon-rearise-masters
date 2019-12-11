@@ -1801,6 +1801,18 @@
 			"extension_data": "{\"information_id\":40561}"
 		},
 		{
+			"banner_id": "20054",
+			"banner_type": "0",
+			"disp_order": "21",
+			"start_date": "2019-12-16 12:00:00",
+			"end_date": "2019-12-31 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner422",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":40581}"
+		},
+		{
 			"banner_id": "30000",
 			"banner_type": "0",
 			"disp_order": "31",
@@ -2437,6 +2449,18 @@
 			"extension_data": "{\"information_id\":40610}"
 		},
 		{
+			"banner_id": "30055",
+			"banner_type": "0",
+			"disp_order": "31",
+			"start_date": "2019-12-16 12:00:00",
+			"end_date": "2019-12-24 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner410",
+			"extension_type": "2",
+			"extension_id": "40620",
+			"extension_data": "{\"information_id\":40620}"
+		},
+		{
 			"banner_id": "30056",
 			"banner_type": "0",
 			"disp_order": "30",
@@ -2453,12 +2477,24 @@
 			"banner_type": "0",
 			"disp_order": "30",
 			"start_date": "2019-11-30 12:00:00",
-			"end_date": "2020/01/10 11:59:59",
+			"end_date": "2020-01-10  11:59:59",
 			"event_id": "0",
 			"banner_asset": "banner/banner408",
 			"extension_type": "2",
 			"extension_id": "40601",
 			"extension_data": "{\"information_id\":40601}"
+		},
+		{
+			"banner_id": "30058",
+			"banner_type": "0",
+			"disp_order": "31",
+			"start_date": "2019-12-24 12:00:00",
+			"end_date": "2019-12-31 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner420",
+			"extension_type": "2",
+			"extension_id": "40621",
+			"extension_data": "{\"information_id\":40621}"
 		},
 		{
 			"banner_id": "30100",
@@ -5567,6 +5603,18 @@
 			"extension_type": "1",
 			"extension_id": "23",
 			"extension_data": "{\"information_id\":40631}"
+		},
+		{
+			"banner_id": "70041",
+			"banner_type": "0",
+			"disp_order": "71",
+			"start_date": "2019-12-16 12:00:00",
+			"end_date": "2020-01-02 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner424",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":40641}"
 		},
 		{
 			"banner_id": "80000",
