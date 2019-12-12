@@ -310,7 +310,7 @@
 			"help_id": "1043",
 			"help_category_id": "-1",
 			"title_text": "Item Lists",
-			"detail_text": "The Item List is used to check items you have possession of outside of Digimon, Plugins, Decorations and DigiEggs, such as:\n<br>- Care Items\n- Workout Items\n- DGV-Codes\n- Other (Stamina Recovery drinks, Vortex Keys, etc.)"
+			"detail_text": "The Item List is used to check items you have possession of outside of Digimon, Plugins, Decorations and DigiEggs, such as:\n<br>- Care Items\n- Workout Items\n- DGV-Codes\n- Skill Stones\n- Other (Stamina Recovery drinks, Vortex Keys, etc.)"
 		},
 		{
 			"help_id": "1044",
@@ -358,13 +358,13 @@
 			"help_id": "1050",
 			"help_category_id": "-1",
 			"title_text": "Raid Clash Battle",
-			"detail_text": "Raid Clash Battles are battles available for a limited period of time where you team up with other Tamers to take on a powerful foe.\n<br>You will gain Raid Points (Pt.) if you join a Raid Clash Battle and successfully defeat the foe.\nYou can also gain Personal Raid Pt. depending on how many Raid Pt. you have earned.\n<br>Moreover, having a BON Bonus Digimon in your team when you defeat the foe will earn you extra Raid Pt.\n<br>Generally, BON Bonus Digimon will have higher stats than usual during a Raid Clash Battle.\nYou can find out which Digimon will have a BON bonus by checking the Notices for the event."
+			"detail_text": "Raid Clash Battles are battles available for a limited period of time where you team up with other Tamers to take on a powerful foe.\n<br>You will gain Raid Points (Pt.) if you join a Raid Clash Battle and successfully defeat the foe.\nYou can also gain Personal Raid Pt. depending on how many Raid Pt. you have earned.\n<br>Moreover, having a BON Digimon in your team when you defeat the foe will earn you extra Raid Pt.\n<br>Generally, BON Digimon will have higher stats than usual during a Raid Clash Battle.\nYou can find out which Digimon will have a BON effect by checking the Notices for the event."
 		},
 		{
 			"help_id": "1051",
 			"help_category_id": "-1",
 			"title_text": "Raid Clash Battle Rules",
-			"detail_text": "Defeating a foe during a Raid Clash Battle will earn you Raid Pt.\nYou can claim an exclusive reward based on the amount of Raid Pt acquired.\n<br>- <color=#e75600>Global Raid Pt. Reward</color>\nA reward based on the total Raid Points collected by all users.\n<br>・<color=#e75600>Personal Raid Pt. Reward</color>\nA reward based on your individual Raid Points earned.\n<br>Note: You cannot receive rewards for the following:\n<color=#c7221d>-Discovering the foe without joining the Raid Clash Battle</color>\n<color=#c7221d>-Dealing no damage to the foe</color>\n<color=#c7221d>-Withdrawing mid-battle</color>\n<color=#c7221d>-Failing a raid</color>\n<br><color=#c7221d>*Info on Total Raid Points can be found by going to the main screen.</color>\n<color=#c7221d>*Get the latest info by refreshing the Raid Clash Battle main screen.</color>"
+			"detail_text": "Defeating a foe during a Raid Clash Battle will earn you Raid Pt.\nYou can claim an exclusive reward based on the amount of Raid Pt acquired.\n<br>・<color=#e75600>Global Raid Pt. Reward</color>\nA reward based on the total Raid Points collected by all users.\n<br>・<color=#e75600>Personal Raid Pt. Reward</color>\nA reward based on your individual Raid Points earned.\n<br>Note: You cannot receive rewards for the following:\n<color=#c7221d>-Discovering the foe without joining the Raid Clash Battle</color>\n<color=#c7221d>-Dealing no damage to the foe</color>\n<color=#c7221d>-Withdrawing mid-battle</color>\n<color=#c7221d>-Failing a raid</color>\n<br><color=#c7221d>*Info on Total Raid Points can be found by going to the main screen.</color>\n<color=#c7221d>*Get the latest info by refreshing the Raid Clash Battle main screen.</color>"
 		},
 		{
 			"help_id": "1052",
@@ -1174,7 +1174,7 @@
 			"help_id": "87",
 			"help_category_id": "6",
 			"title_text": "Completion Rewards",
-			"detail_text": "Collecting all the <sprite=5> (stars) in an Act earns you a Completion Reward.\nEach Act has its own rewards.<br>You can only earn Completion Rewards in the Main Story."
+			"detail_text": "Collecting all the <sprite=5> (stars) in an Act earns you a Completion Reward.\nEach Act has its own rewards."
 		},
 		{
 			"help_id": "88",

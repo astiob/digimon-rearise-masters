@@ -126,7 +126,7 @@
 		},
 		{
 			"text_id": "1000027",
-			"text": "Confirmed violation of Terms of Service.\nAccount will be temporarily suspended."
+			"text": "This account has been suspended \nbecause we have confirmed a violation \nagainst the Terms of Service."
 		},
 		{
 			"text_id": "1000028",
@@ -274,7 +274,7 @@
 		},
 		{
 			"text_id": "1001001",
-			"text": "This account has been temporarily suspended because we have confirmed a violation against the Terms of Service.\nFor details, please see Menu > Other > Terms of Service.\nPlease send us an inquiry within 1 month if you wish to reactivate your account."
+			"text": "This account has been suspended because we have confirmed a violation against the Terms of Service.\nFor details, please see Menu > Other > Terms of Service.\nPlease send us an inquiry within 1 month if you wish to reactivate your account."
 		},
 		{
 			"text_id": "1002",
@@ -3914,7 +3914,7 @@
 		},
 		{
 			"text_id": "1745",
-			"text": "<size=16>S-Lv.</size>{0}"
+			"text": "<size=16>SLv.</size>{0}"
 		},
 		{
 			"text_id": "1746",
@@ -5606,7 +5606,7 @@
 		},
 		{
 			"text_id": "2017010",
-			"text": "You can challenge <color=#e75600>enemies you've fought before</color>!\nSearch for enemies using your <color=#e75600>CB Stamina</color>!"
+			"text": "You can challenge <color=#e75600>enemies you've fought before</color>!\nSearch for enemies using your <color=#e75600>Stamina</color>!"
 		},
 		{
 			"text_id": "2018",
@@ -5878,7 +5878,7 @@
 		},
 		{
 			"text_id": "2024008",
-			"text": "Power up your Digimon through <color=#ffea3c>Skill Upgrades</color>\nand <color=#ffea3c>Digivolutions</color>!"
+			"text": "Power up your Digimon through  <color=#ffea3c>Digivolutions</color>!"
 		},
 		{
 			"text_id": "2024009",
@@ -6150,7 +6150,7 @@
 		},
 		{
 			"text_id": "2035004",
-			"text": "Competing in Battle Park three times in a day\nearns you BP medals."
+			"text": "You can earn BP Medals \njust by taking part in Battle Park."
 		},
 		{
 			"text_id": "2035005",
@@ -6158,7 +6158,7 @@
 		},
 		{
 			"text_id": "2035006",
-			"text": "DigiRubies and BP medals are rewarded\nbased on your ranking every week."
+			"text": "Also, get DigiRubies & BP Medals depending on\nyour Weekly Season Results. Don't miss out!"
 		},
 		{
 			"text_id": "2036001",
@@ -6466,7 +6466,7 @@
 		},
 		{
 			"text_id": "2158",
-			"text": "Christmas Challenges 2019"
+			"text": "Christmas Challenge 2019"
 		},
 		{
 			"text_id": "2159",
@@ -6474,11 +6474,11 @@
 		},
 		{
 			"text_id": "2160",
-			"text": "Do your best!"
+			"text": "You've got this!"
 		},
 		{
 			"text_id": "2161",
-			"text": "Congrats! You really pulled out all the stops!"
+			"text": "You did great! Congratulations!"
 		},
 		{
 			"text_id": "2162",
@@ -6902,11 +6902,11 @@
 		},
 		{
 			"text_id": "2261",
-			"text": "Occurs in <color=#ffea3c>{0}–{1}</color>"
+			"text": "Occurs in <color=#ffea3c>{0} – {1}</color>"
 		},
 		{
 			"text_id": "2262",
-			"text": "Tallied in <color=#ffea3c>{0}–{1}</color>"
+			"text": "Tallied in <color=#ffea3c>{0} – {1}</color>"
 		},
 		{
 			"text_id": "2263",
@@ -7046,7 +7046,7 @@
 		},
 		{
 			"text_id": "2295",
-			"text": "BON bonus in session!"
+			"text": "BON effect in session!"
 		},
 		{
 			"text_id": "2296",
@@ -7298,7 +7298,7 @@
 		},
 		{
 			"text_id": "2330",
-			"text": "Reward Claim Period: Until <color=#ffea3c>{0}–{1}</color>"
+			"text": "Reward Claim Period: Until <color=#ffea3c>{0} – {1}</color>"
 		},
 		{
 			"text_id": "2331",
@@ -7454,11 +7454,11 @@
 		},
 		{
 			"text_id": "2373",
-			"text": "Event Period: <color=#ffea3c>{0}-{1}</color>"
+			"text": "Event Period: <color=#ffea3c>{0} - {1}</color>"
 		},
 		{
 			"text_id": "2374",
-			"text": "Reward Claim Period: <color=#ffea3c>{0}–{1}</color>"
+			"text": "Reward Claim Period: <color=#ffea3c>{0} – {1}</color>"
 		},
 		{
 			"text_id": "2375",
@@ -7502,7 +7502,7 @@
 		},
 		{
 			"text_id": "2384",
-			"text": "The Spotlight Digimon will always be put in your team until you obtain it."
+			"text": "The Spotlight Digimon is formed until case1 is cleared."
 		},
 		{
 			"text_id": "2385",
@@ -8074,7 +8074,7 @@
 		},
 		{
 			"text_id": "2515",
-			"text": "Tallied in <color=#ffea3c>{0}–{1}</color>"
+			"text": "Tallied in <color=#ffea3c>{0} – {1}</color>"
 		},
 		{
 			"text_id": "2516",
@@ -10002,7 +10002,7 @@
 		},
 		{
 			"text_id": "490331",
-			"text": "- Make a team with <color=#FFE25AFF>BON Bonus Digimon</color>!\n- Take measures against <color=#FFE25AFF>Error</color><sprite=7>!\n- Improve your Digimon's <color=#FFE25AFF>Mood</color>!"
+			"text": "- Make a team with <color=#FFE25AFF>BON Digimon</color>!\n- Take measures against <color=#FFE25AFF>Error</color><sprite=7>!\n- Improve your Digimon's <color=#FFE25AFF>Mood</color>!"
 		},
 		{
 			"text_id": "490341",

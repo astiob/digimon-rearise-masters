@@ -684,13 +684,13 @@
 		},
 		{
 			"item_id": "10117",
-			"item_name": "アルファモンの進化コード",
+			"item_name": "Alphamon DGV-Code",
 			"sort_key": "",
 			"item_type": "3",
 			"icon_asset": "icon/item/evolution/iconevolutionitem10016",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態がアルファモンの系譜の進化を導くアイテム",
+			"description": "An item that facilitates the Digivolution of Alphamon Chain Digimon.",
 			"max_amount": "9999"
 		},
 		{
@@ -706,13 +706,13 @@
 		},
 		{
 			"item_id": "10119",
-			"item_name": "アルフォースブイドラモンの進化コード",
+			"item_name": "UlforceVeedramon DGV-Code",
 			"sort_key": "",
 			"item_type": "3",
 			"icon_asset": "icon/item/evolution/iconevolutionitem10017",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態がアルフォースブイドラモンの系譜の進化を導くアイテム",
+			"description": "An item that facilitates the Digivolution of UlforceVeedramon Chain Digimon.",
 			"max_amount": "9999"
 		},
 		{
@@ -16794,7 +16794,7 @@
 			"icon_asset": "icon/digiconne/digiconne_icon007",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "A favorite Christmas snack among young Digimon. Its unique texture and chewiness can be very addicting and fun.",
+			"description": "A Christmas-themed DigiWalk background.",
 			"max_amount": "1"
 		},
 		{
@@ -21557,7 +21557,7 @@
 			"icon_asset": "icon/digitama/icondigitama025",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "A Christmas-themed DigiWalk background.",
+			"description": "究極体ウォーグレイモン系譜、究極体メタルガルルモン系譜、究極体シャイングレイモン系譜、究極体ミラージュガオガモン系譜のいずれかが各25％の確率で産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -21979,6 +21979,28 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25225",
+			"item_name": "Sparkling Indigo-Striped DigiEgg",
+			"sort_key": "キラキラシタセイランジマノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama002",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Digimon that will definitely grow into a Mega Digimon will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25226",
+			"item_name": "Christmas DigiEgg",
+			"sort_key": "セイナルクリスマスノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama024",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Digimon that will definitely grow into a Mega Digimon will hatch.",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "26",
 			"item_name": "Juicy Lemon",
 			"sort_key": "",
@@ -21991,13 +22013,13 @@
 		},
 		{
 			"item_id": "26001",
-			"item_name": "フィーチャーpt",
+			"item_name": "Spotlight Pts.",
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
+			"description": "Points that can be obtained through Spotlight Digimon Quests.",
 			"max_amount": "999999999"
 		},
 		{
@@ -22013,46 +22035,46 @@
 		},
 		{
 			"item_id": "26003",
-			"item_name": "フィーチャーpt",
+			"item_name": "Spotlight Pts.",
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_003",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
+			"description": "Points that can be obtained through Spotlight Digimon Quests.",
 			"max_amount": "999999999"
 		},
 		{
 			"item_id": "26004",
-			"item_name": "フィーチャーpt",
+			"item_name": "Spotlight Pts.",
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_004",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
+			"description": "Points that can be obtained through Spotlight Digimon Quests.",
 			"max_amount": "999999999"
 		},
 		{
 			"item_id": "26005",
-			"item_name": "フィーチャーpt",
+			"item_name": "Spotlight Pts.",
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_005",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
+			"description": "Points that can be obtained through Spotlight Digimon Quests.",
 			"max_amount": "999999999"
 		},
 		{
 			"item_id": "26006",
-			"item_name": "フィーチャーpt",
+			"item_name": "Spotlight Pts.",
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_006",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
+			"description": "Points that can be obtained through Spotlight Digimon Quests.",
 			"max_amount": "999999999"
 		},
 		{
