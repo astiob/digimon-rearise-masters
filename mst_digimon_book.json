@@ -57,7 +57,7 @@
 		{
 			"code": "andiramon",
 			"sort_key": "アンティラモン",
-			"profile": "One of the twelve Deva Digimon, this Ultimate Digimon’s appearance resembles a rabbit. It has a gentle spirit and serves Azulongmon, one of the Four Holy Beasts. It likes small things and tends to them in a profoundly caring manner. Anything that attempts to trample those things will witness a complete change in its personality as it attacks with both hands by transforming them into Bao Fu, razor-sharp axes. Once it loses its temper, it cannot be contained until the enemy is no more. Its special move is Bunny Blades, in which it spins around like a tornado by using its body as an axis and cuts down surrounding enemies with its Bao Fu.",
+			"profile": "One of the twelve Deva Digimon, this Ultimate Digimon's appearance resembles a rabbit. It has a gentle spirit and serves Azulongmon, one of the Four Holy Beasts. It likes small things and tends to them in a profoundly caring manner. Anything that attempts to trample those things will witness a complete change in its personality as it attacks with both hands by transforming them into Bao Fu, razor-sharp axes. Once it loses its temper, it cannot be contained until the enemy is no more. Its special move is Bunny Blades, in which it spins around like a tornado by using its body as an axis and cuts down surrounding enemies with its Bao Fu.",
 			"icon_asset": "digimon/icon/digimonface1094504",
 			"attribute": "2",
 			"type": "26",
@@ -345,7 +345,7 @@
 		{
 			"code": "cherubimon",
 			"sort_key": "ケルビモン(善)",
-			"profile": "An Angel Digimon with the appearance of a beast. Like the Seraph Digimon, Seraphimon, it is one of the three high-ranking Archangel Digimon. Its true role is to protect the Kernel, the core of the Digital World. Angel Digimon ruling over an ultimate virtue are easily tainted by the opposing vice. This Digimon uses lightning-type moves, which evoke the image of divine punishment in a single blow. Its special moves are Lightning Spear, in which it fires a spear of lightning at its opponents, and Heaven’s Judgment, which summons gigantic thunderclouds that unleash innumerable thunderbolts on the opponent.",
+			"profile": "An Angel Digimon with the appearance of a beast. Like the Seraph Digimon, Seraphimon, it is one of the three high-ranking Archangel Digimon. Its true role is to protect the Kernel, the core of the Digital World. Angel Digimon ruling over an ultimate virtue are easily tainted by the opposing vice. This Digimon uses lightning-type moves, which evoke the image of divine punishment in a single blow. Its special moves are Lightning Spear, in which it fires a spear of lightning at its opponents, and Heaven's Judgment, which summons gigantic thunderclouds that unleash innumerable thunderbolts on the opponent.",
 			"icon_asset": "digimon/icon/digimonface1094505",
 			"attribute": "0",
 			"type": "104",
@@ -687,7 +687,7 @@
 		{
 			"code": "gigimon",
 			"sort_key": "ギギモン",
-			"profile": "ジャリモンが成長した四足型の幼年期デジモン。身体的特徴はトコモンに酷似しており、口の中にも強力な牙が生え揃っている。しかし、哺乳類系に進化するトコモンとは違い、竜系に進化するギギモンは性格も荒く、小型ながら獰猛である。見た目に騙されて反撃を受ける大型のデジモンも少なくない。必殺技は相手に噛み付く『ホットバイト』。ジャリモンと同じく体温が熱く、噛まれたところが火傷すると言われている。",
+			"profile": "A four-legged In-Training Digimon that Digivolved from Jyarimon. With physical features resembling Tokomon, it also has powerful fangs which line the inside of its mouth. However, unlike Tokomon which Digivolves into a mammal type Digimon, Gigimon Digivolves into a dragon type Digimon. Despite its small size, it possesses a wild and ferocious demeanor. Many large Digimon have been deceived by its appearance and suffered because of it. It uses its special move Hot Bite, to chomp down on its opponents. Like Jyarimon, its bites cause burns due to its high body temperature.",
 			"icon_asset": "digimon/icon/digimonface1102101",
 			"attribute": "6",
 			"type": "8",
@@ -768,7 +768,7 @@
 		{
 			"code": "guraumon",
 			"sort_key": "グラウモン",
-			"profile": "「深紅の魔竜」と呼ばれている魔竜型デジモン。ギルモンの頃にあった幼さは消え、より野性的で凶暴なデジモンへと進化をしている。また、ウィルス種のデジモンではあるが、テイマーの育て方次第では忠実に従うので、正義のためにも戦うこともある。グラウモンの咆哮は大地を揺るがすほどの威力を持っており、戦いの前には攻撃的な唸り声をあげ敵を威嚇する。得意技は両肘のブレイドにプラズマを発生させ敵を攻撃する『プラズマブレイド』。必殺技は爆音と共に強力な火炎を吐き出す『エキゾーストフレイム』。",
+			"profile": "A Demon Dragon Digimon known as the Crimson Demon Dragon. As its childish manner from its time as Guilmon is long gone, it has Digivolved into a feral and brutal Digimon. While it is a Virus-type Digimon, it will faithfully obey its Tamer and fight for justice if raised to do so. Before a battle, Growlmon lets out a roar powerful enough to shake the earth to intimidate its enemies. Its special moves are Plasma Blade, where it generates plasma on each blade on its elbows, and Exhaust Flame, where it unleashes an explosion of sound and fire at its enemies.",
 			"icon_asset": "digimon/icon/digimonface1102103",
 			"attribute": "1",
 			"type": "25",
@@ -1164,7 +1164,7 @@
 		{
 			"code": "megaroguraumon",
 			"sort_key": "メガログラウモン",
-			"profile": "「巨大なグラウモン」の名前を持つ、サイボーグ型の完全体デジモン。その名の通り体は大きく巨大化しており、上半身は最強金属“クロンデジゾイド”でメタル化されている。両肩に付いている２基のバーニアで飛行することもでき、対空・対地攻撃の両方が可能である。有り余るパワーで暴走するのを抑えるために、顎の部分にクツワのような拘束具を付けている。また背部の部分から帯のように伸びる「アサルトバランサー」は伸縮自在で、敵を貫き刺すこともできる。得意技は両腕の「ペンデュラムブレイド」で敵を切り裂く『ダブルエッジ』。必殺技は両胸の砲門から原子レベルで敵を破壊する『アトミックブラスター』。",
+			"profile": "A Cyborg Ultimate Digimon dubbed Gigantic Growlmon. True to its name, it possesses an incredibly large body, with the upper half having been metallized with the strongest alloy in existence, Chrome Digizoid. The two vernier thrusters attached to its shoulders allow it to fly and attack from land and air. It also has a bit-like tool attached to its chin which is used to restrain itself from running rampant with its immense power. The Assault Balancer, an elastic-band-like structure stretching from its back, can be used to impale opponents. Its special moves are Double Blade, where it utilizes the Pendulum Blades on each of its arms to slice its opponents, and Atomic Blaster, where it uses the cannons on its chest to destroy enemies on an atomic level.",
 			"icon_asset": "digimon/icon/digimonface1102104",
 			"attribute": "1",
 			"type": "23",
@@ -1308,7 +1308,7 @@
 		{
 			"code": "monodoramon",
 			"sort_key": "モノドラモン",
-			"profile": "両手にはこうもりのような翼がついているが、飛べることができない小竜型のデジモン。ワクチン種でありながら、性格はかなり乱暴というよりも凶暴に近く、ケンカ好きなデジモンといった感じだ。デジタルワールドでも、たいがいのケンカの中心にはこのモノドラモンがいるくらいで、あのオーガモンですら、モノドラモンのしつこさには辟易しているそうだ。また、後ろに伸びたツノは弱点と言われているが真相のほどは確かではない。得意技はかんだ部分のデータを断片化させ、敵は噛まれた場所によっては機能不全に陥ってしまう『クラックバイト』。必殺技の『ビートナックル』は、ものすごい勢いで突撃し、強力なツメでぶんなぐるという単純明快な大技。",
+			"profile": "A Small Dragon Digimon with bat-like wings attached to both of its arms, but it cannot fly. Due to it being a Vaccine-type Digimon, it loves to fight and has a personality bordering on the savage side. Even in the Digital World, Monodramon can be found in the center of most brawls. Even Ogremon is fed up with its obstinate attitude. It's rumored that the horn protruding from its back is its weak point, but the truth of the matter still remains uncertain. Its special moves are Cracking Bite, which fragments the data of a bite wound; causing its victim to collapse and be rendered useless, and Crush Knuckle, a bold and simple move that sees it charge with tremendous force and strike the enemy with its powerful claws.",
 			"icon_asset": "digimon/icon/digimonface1138302",
 			"attribute": "0",
 			"type": "36",
@@ -1866,7 +1866,7 @@
 		{
 			"code": "saibaadoramon",
 			"sort_key": "サイバードラモン",
-			"profile": "どんな攻撃にも耐えられる、特殊ラバー装甲に身を包んだ竜人系のサイボーグ型デジモン。コンピュータネットワークにウィルス種のデジモンが発生すると、どこからともなく現れて全て消滅させてしまう。しかし、正義の集団「ウィルスバスターズ」には属していない孤高の戦士であり、その正体は謎に包まれている。特殊ラバー装甲は、優れた防御能力だけでなく、攻撃力をも増幅させて繰り出せる機能も持っている。必殺技は、両腕から構成データを破壊する超振動波を出して、敵の周囲の空間ごと消し去ってしまう「イレイズクロー」。この攻撃を受けると、データの一片も残せず消滅してしまう。",
+			"profile": "A defensively oriented Cyborg type, this Dragon Man Digimon dons a unique rubber armoring that can withstand any kind of attack. When Virus-type Digimon appear on the Computer Network, it will appear out of thin air and annihilate them. However, it is not associated with the virtuous group known as the Virus Busters; it is a lone warrior with its true motives shrouded in mystery. Its unique rubber armoring not only has superb defensive abilities but also enhances its offensive capabilities with different functions. Its special move, Desolation Claw, releases a destructive, super-oscillating wave from both of its arms which deletes not only the enemy's data, but the data in the surrounding space as well. Nothing remains of those who are hit by this attack.",
 			"icon_asset": "digimon/icon/digimonface1138304",
 			"attribute": "0",
 			"type": "23",
@@ -2010,7 +2010,7 @@
 		{
 			"code": "sutoraikudoramon",
 			"sort_key": "ストライクドラモン",
-			"profile": "ウイルスバスターを目指す“コマンドドラゴン”それがストライクドラモンだ。後ろに伸びたツノなど、モノドラモンの面影を残す部分も多いが、メタルプレートに包まれたコマンダーモードに変貌しているため、全く別な種にすら見える。本来はエンジェモンと同じワクチン種なので心優しいデジモンなのだが、ひとたびウイルス種を見つけるとその駆除本能（破壊本能？）に取り付かれてしまい、相手がデータの塵と化すまで戦うことを止めようとしない。またその時、赤い後ろ髪は灼熱に燃え上がり、青白い炎の髪になると言われている。必殺技『ストライクファング』は、各部のメタルプレートを灼熱に燃やし、全身炎の塊となって相手に体当たりするという、恐ろしい技だ。",
+			"profile": "Strikedramon, a Commander Dragon that is aiming to become a Virus Buster. Many features remain from its time as Monodramon, such as the horns protruding from its back, but since its transformation into Commander Mode, the metal plates which cover its body make it look like an entirely different species. Due to it being a Vaccine-type Digimon, it is inherently kind and compassionate. However, the instant it spots a Virus-type Digimon, its extermination instincts (destructive instincts?) take over and will not stop until the enemy's data is reduced to nothing but a pile of garbage. At that time, it is said that its crimson mane erupts into a blue flame. Its special move, Strike Fang, is a fearsome technique that ignites each metal plate on its body, surrounding it entirely in flames before it rams its enemies.",
 			"icon_asset": "digimon/icon/digimonface1138303",
 			"attribute": "0",
 			"type": "55",
@@ -2424,7 +2424,7 @@
 		{
 			"code": "zyarimon",
 			"sort_key": "ジャリモン",
-			"profile": "個体数が少なく、非常に希少なデジモン。竜系のデジモンの幼年期は絶対的に数が少なく、そのほとんどが成長する前に捕獲や死滅してしまうと言われている。見た目では分からないが、口の中にはびっしりと細かい牙が生えており、力強い竜系のデジモンに成長することを予見させる。非力ではあるが、自分より体の大きなものに向かっていく性質をもっており、そのことが生存率の低さの理由にもなっている。体内が常に高温で熱気を帯びた泡で攻撃する。",
+			"profile": "An incredibly rare Digimon whose population is quite small. With the draconic In-Training Digimon being already far and few between, it is said that most of them are either captured or culled before they are fully grown. Although difficult to tell from its appearance alone, the inside of its mouth is full of closely-packed fangs, evidence that it will mature into a powerful Digimon of dragonkind. Though lacking in power, it has a tendency to confront bigger opponents, another contributing factor for its low survival rate. It attacks enemies with bubbles heated by its high body temperature.",
 			"icon_asset": "digimon/icon/digimonface1102100",
 			"attribute": "6",
 			"type": "0",
@@ -2433,7 +2433,7 @@
 		{
 			"code": "zyasutjimon",
 			"sort_key": "ジャスティモン",
-			"profile": "長くたなびく赤いマフラーをした正義のヒーロータイプのデジモン。正義感に熱く、不正な行為や悪行は絶対に見逃さないデジモンで、幼年期デジモン達の憧れの存在である。風の様にやって来て、正義の鉄槌を振り下ろし、風の様に去っていく。また、崖の上で夕日に向かって決めポーズを取るのが好きらしい。背中に装備した「エクステンドトランスミッター」にある３本のプラグを右肩に差し替えることで、パワータイプの「アクセルアーム」、電撃タイプの「ブリッツアーム」、カッタータイプの「クリティカルアーム」に変化させることができる。得意技は３種類の腕を変化させる『トリニティーアーム』、必殺技の『ジャスティスキック』の破壊力は４５ｔにも達すると言う。",
+			"profile": "A hero of justice Digimon that dons a long, fluttering red scarf. It is passionate in its sense of justice and refuses to overlook any injustice; a role model that all In-Training Digimon aspire to become. It appears like the wind, swings its hammer of justice, then vanishes like a whisper on the wind. It seems that it enjoys standing on cliffs, and striking a victory pose facing the sunset. By switching the three plugs located on the Extend Transmitter equipped to its back on the right shoulder, it can change between Accel Arm, a power-type attack; Blitz Arm, an electric-type attack; or Critical Arm, a cutter-type attack. Its special moves are Trinity Arm, where it changes its arms to all three types simultaneously, and Justice Kick, which attacks with a force of up to 45 tons.",
 			"icon_asset": "digimon/icon/digimonface1138305",
 			"attribute": "0",
 			"type": "23",
