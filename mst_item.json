@@ -211,57 +211,57 @@
 		},
 		{
 			"item_id": "100411001",
-			"item_name": "攻Ⅳ(エリスモン)",
+			"item_name": "攻Ⅳ(勇敢 エリスモン)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10010104",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンのPWRを引き出すデータが格納されたプラグイン",
+			"description": "勇敢のエリスモンにセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "100411002",
-			"item_name": "攻Ⅳ(エリスモン)",
+			"item_name": "攻Ⅳ(勇敢 エリスモン)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10010104",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンのPWRを引き出すデータが格納されたプラグイン",
+			"description": "勇敢のエリスモンにセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "100411003",
-			"item_name": "攻Ⅳ(エリスモン)",
+			"item_name": "攻Ⅳ(勇敢 エリスモン)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10010104",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンのPWRを引き出すデータが格納されたプラグイン",
+			"description": "勇敢のエリスモンにセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "100411004",
-			"item_name": "攻Ⅳ(エリスモン)",
+			"item_name": "攻Ⅳ(勇敢 エリスモン)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10010104",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンのPWRを引き出すデータが格納されたプラグイン",
+			"description": "勇敢のエリスモンにセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "100411005",
-			"item_name": "攻Ⅳ(エリスモン)",
+			"item_name": "攻Ⅳ(勇敢 エリスモン)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10010104",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "デジモンのPWRを引き出すデータが格納されたプラグイン",
+			"description": "勇敢のエリスモンにセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -955,6 +955,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "最終進化形態がルーチェモンSMの系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
+			"item_id": "10142",
+			"item_name": "アルファモン王竜剣の進化コード",
+			"sort_key": "",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10042",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がアルファモン王竜剣の系譜の進化を導くアイテム",
 			"max_amount": "99999"
 		},
 		{
@@ -1945,6 +1956,39 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "成長期ルーチェモン[DFQ](勇敢)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021951",
+			"item_name": "アルファモン王竜剣(冷静)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021951",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超究極体アルファモン王竜剣(冷静)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021952",
+			"item_name": "アルファモン王竜剣(冷静)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021952",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超究極体アルファモン王竜剣(冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1021953",
+			"item_name": "アルファモン王竜剣(冷静)スキルストーン",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1021953",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超究極体アルファモン王竜剣(冷静)の系譜のスキルレベルを確実にアップできる貴重な石板",
 			"max_amount": "9999"
 		},
 		{
@@ -5270,6 +5314,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "129422011",
+			"item_name": "諸刃Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129422012",
+			"item_name": "諸刃Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129422013",
+			"item_name": "諸刃Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129422014",
+			"item_name": "諸刃Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129422015",
+			"item_name": "諸刃Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "129432001",
 			"item_name": "守Ⅳ(冷静 メタルガルルモン)",
 			"sort_key": "",
@@ -5322,6 +5421,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "冷静のメタルガルルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129432011",
+			"item_name": "頑強Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129432012",
+			"item_name": "頑強Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129432013",
+			"item_name": "頑強Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129432014",
+			"item_name": "頑強Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129432015",
+			"item_name": "頑強Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129442011",
+			"item_name": "鈍重Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129442012",
+			"item_name": "鈍重Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129442013",
+			"item_name": "鈍重Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129442014",
+			"item_name": "鈍重Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "129442015",
+			"item_name": "鈍重Ⅳ(冷静 メタルガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment129442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -6018,6 +6227,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "132411011",
+			"item_name": "捨身Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132411011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132411012",
+			"item_name": "捨身Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132411011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132411013",
+			"item_name": "捨身Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132411011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132411014",
+			"item_name": "捨身Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132411011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132411015",
+			"item_name": "捨身Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132411011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "132431001",
 			"item_name": "守Ⅳ(勇敢 シャイングレイモン)",
 			"sort_key": "",
@@ -6070,6 +6334,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "勇敢のシャイングレイモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132431011",
+			"item_name": "頑強Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132431011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132431012",
+			"item_name": "頑強Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132431011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132431013",
+			"item_name": "頑強Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132431011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132431014",
+			"item_name": "頑強Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132431011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132431015",
+			"item_name": "頑強Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132431011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132441011",
+			"item_name": "鈍重Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132441012",
+			"item_name": "鈍重Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132441013",
+			"item_name": "鈍重Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132441014",
+			"item_name": "鈍重Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "132441015",
+			"item_name": "鈍重Ⅳ(勇敢 シャイングレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment132441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢シャイングレイモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -9461,6 +9835,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "153414011",
+			"item_name": "捨身Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153414012",
+			"item_name": "捨身Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153414013",
+			"item_name": "捨身Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153414014",
+			"item_name": "捨身Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153414015",
+			"item_name": "捨身Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "153434001",
 			"item_name": "守Ⅳ(不屈 グランクワガーモン)",
 			"sort_key": "",
@@ -9513,6 +9942,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "不屈のグランクワガーモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153434011",
+			"item_name": "頑強Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153434012",
+			"item_name": "頑強Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153434013",
+			"item_name": "頑強Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153434014",
+			"item_name": "頑強Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153434015",
+			"item_name": "頑強Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153444011",
+			"item_name": "鈍重Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153444012",
+			"item_name": "鈍重Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153444013",
+			"item_name": "鈍重Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153444014",
+			"item_name": "鈍重Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "153444015",
+			"item_name": "鈍重Ⅳ(不屈 グランクワガーモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment153444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈グランクワガーモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -19977,6 +20516,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "225422001",
+			"item_name": "攻Ⅳ(冷静 アルファモン王竜剣)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment225422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のアルファモン王竜剣がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "225422002",
+			"item_name": "攻Ⅳ(冷静 アルファモン王竜剣)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment225422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のアルファモン王竜剣がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "225422003",
+			"item_name": "攻Ⅳ(冷静 アルファモン王竜剣)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment225422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のアルファモン王竜剣がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "225422004",
+			"item_name": "攻Ⅳ(冷静 アルファモン王竜剣)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment225422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のアルファモン王竜剣がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "225422005",
+			"item_name": "攻Ⅳ(冷静 アルファモン王竜剣)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment225422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のアルファモン王竜剣がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "225432001",
+			"item_name": "守Ⅳ(冷静 アルファモン王竜剣)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment225432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のアルファモン王竜剣がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "225432002",
+			"item_name": "守Ⅳ(冷静 アルファモン王竜剣)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment225432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のアルファモン王竜剣がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "225432003",
+			"item_name": "守Ⅳ(冷静 アルファモン王竜剣)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment225432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のアルファモン王竜剣がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "225432004",
+			"item_name": "守Ⅳ(冷静 アルファモン王竜剣)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment225432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のアルファモン王竜剣がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "225432005",
+			"item_name": "守Ⅳ(冷静 アルファモン王竜剣)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment225432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のアルファモン王竜剣がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "23",
 			"item_name": "十分なキノコ",
 			"sort_key": "",
@@ -21184,6 +21833,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンのDEFと反撃率を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "23521",
+			"item_name": "デジモンガシャチケット vol.1",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンチケットガシャ vol.1を回すことができるチケット(使用期間 2020/01/01 12:00 ～ 2020/03/07 11:59)",
 			"max_amount": "9999"
 		},
 		{
@@ -26607,6 +27267,72 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "究極体のインペリアルドラモンDM(勇敢)系譜、マリンエンジェモン(冷静)系譜、プレシオモン(器用)系譜、ラストティラノモン(不屈)系譜、プリンスマメモン(献身)系譜のいずれかが各20％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25219",
+			"item_name": "新春のテイマーのためのデジタマ(虹)",
+			"sort_key": "シンシュンノテイマーノタメノデジタマニジ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama054",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ロトスモン（勇敢）に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25220",
+			"item_name": "新春のテイマーのためのデジタマ(金)",
+			"sort_key": "シンシュンノテイマーノタメノデジタマキン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama055",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ロトスモン（勇敢）に育つデジモンが50％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25221",
+			"item_name": "新春のテイマーのためのデジタマ(銀)",
+			"sort_key": "シンシュンノテイマーノタメノデジタマギン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama056",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ロトスモン（勇敢）に育つデジモンが25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25222",
+			"item_name": "新春のテイマーのためのデジタマ(青)",
+			"sort_key": "シンシュンノテイマーノタメノデジタマアオ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama057",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ロトスモン（勇敢）に育つデジモンが10％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25223",
+			"item_name": "新春のテイマーのためのデジタマ(白)",
+			"sort_key": "シンシュンノテイマーノタメノデジタマシロ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama058",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ロトスモン（勇敢）に育つデジモンがごくまれに産まれるかもしれないデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25224",
+			"item_name": "2020超おめでたデジタマ",
+			"sort_key": "ニセンニジュウチョウオメデタデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama060",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体のデュークモン(勇敢)系譜、カオスデュークモン(勇敢)系譜、アルフォースブイドラモン(冷静)系譜、ラセンモンGM(器用)系譜、超究極体オメガモンズワルト(器用)系譜のいずれかが各20％の確率で産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{

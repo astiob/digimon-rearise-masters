@@ -919,6 +919,24 @@
 			"position_detail": "3"
 		},
 		{
+			"sequence": "3128011",
+			"disp_order": "1",
+			"start_date": "2019-12-31 12:00:00",
+			"end_date": "2020-01-15 11:59:59",
+			"message_text_id": "2977",
+			"display_position": "2",
+			"position_detail": "3"
+		},
+		{
+			"sequence": "3128012",
+			"disp_order": "1",
+			"start_date": "2019-12-31 12:00:00",
+			"end_date": "2020-01-15 11:59:59",
+			"message_text_id": "2296",
+			"display_position": "2",
+			"position_detail": "3"
+		},
+		{
 			"sequence": "385701",
 			"disp_order": "1",
 			"start_date": "2019/10/01 12:00:00",
@@ -926,6 +944,51 @@
 			"message_text_id": "2784",
 			"display_position": "2",
 			"position_detail": "2"
+		},
+		{
+			"sequence": "500001",
+			"disp_order": "20",
+			"start_date": "2019-12-30 06:00:00",
+			"end_date": "2020-01-05 23:59:59",
+			"message_text_id": "2957",
+			"display_position": "2",
+			"position_detail": "4"
+		},
+		{
+			"sequence": "500002",
+			"disp_order": "20",
+			"start_date": "2020-01-06 06:00:00",
+			"end_date": "2020-01-12 23:59:59",
+			"message_text_id": "2959",
+			"display_position": "2",
+			"position_detail": "4"
+		},
+		{
+			"sequence": "500003",
+			"disp_order": "20",
+			"start_date": "2020-01-13 06:00:00",
+			"end_date": "2020-01-19 23:59:59",
+			"message_text_id": "2961",
+			"display_position": "2",
+			"position_detail": "4"
+		},
+		{
+			"sequence": "500004",
+			"disp_order": "20",
+			"start_date": "2020-01-20 06:00:00",
+			"end_date": "2020-01-26 23:59:59",
+			"message_text_id": "2963",
+			"display_position": "2",
+			"position_detail": "4"
+		},
+		{
+			"sequence": "500005",
+			"disp_order": "20",
+			"start_date": "2020-01-27 06:00:00",
+			"end_date": "2020-02-02 23:59:59",
+			"message_text_id": "2965",
+			"display_position": "2",
+			"position_detail": "4"
 		}
 	]
 }
