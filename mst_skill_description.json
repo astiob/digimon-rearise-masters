@@ -1510,7 +1510,7 @@
 			"index_in_type": "1",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "個性が「勇敢」の味方に[:accumulate_type:]に[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇する効果を付与（永続）"
+			"text": "Increases a Brave ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:] (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
@@ -1524,21 +1524,21 @@
 			"index_in_type": "1",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "個性が「器用」の味方に[:accumulate_type:]に[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇する効果を付与（永続）"
+			"text": "Increases a Deft ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:] (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "個性が「不屈」の味方に[:accumulate_type:]に[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇する効果を付与（永続）"
+			"text": "Increases a Tenacious ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:] (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "個性が「献身」の味方に[:accumulate_type:]に[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇する効果を付与（永続）"
+			"text": "Increases a Devoted ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:] (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",

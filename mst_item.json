@@ -651,13 +651,13 @@
 		},
 		{
 			"item_id": "10114",
-			"item_name": "ガイオウモンの進化コード",
+			"item_name": "Gaiomon DGV-Code",
 			"sort_key": "",
 			"item_type": "3",
 			"icon_asset": "icon/item/evolution/iconevolutionitem10013",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態がガイオウモンの系譜の進化を導くアイテム",
+			"description": "An item that facilitates the Digivolution of Gaiomon Chain Digimon.",
 			"max_amount": "9999"
 		},
 		{
@@ -717,13 +717,13 @@
 		},
 		{
 			"item_id": "10120",
-			"item_name": "カイゼルグレイモンの進化コード",
+			"item_name": "KaiserGreymon DGV-Code",
 			"sort_key": "",
 			"item_type": "3",
 			"icon_asset": "icon/item/evolution/iconevolutionitem10018",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態がカイゼルグレイモンの系譜の進化を導くアイテム",
+			"description": "An item that facilitates the Digivolution of KaiserGreymon Chain Digimon.",
 			"max_amount": "9999"
 		},
 		{
@@ -9968,13 +9968,13 @@
 		},
 		{
 			"item_id": "172411001",
-			"item_name": "攻α(勇敢 アルファモン)",
+			"item_name": "Attack-α (Brave Alphamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment172411001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "勇敢のアルファモンがセットすることで真価を発揮するプラグイン",
+			"description": "A Plugin that exhibits its true value when set to a Brave Alphamon.",
 			"max_amount": "9999"
 		},
 		{
@@ -10023,13 +10023,13 @@
 		},
 		{
 			"item_id": "172431001",
-			"item_name": "守α(勇敢 アルファモン)",
+			"item_name": "Protection-α (Brave Alphamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment172431001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "勇敢のアルファモンがセットすることで真価を発揮するプラグイン",
+			"description": "A Plugin that exhibits its true value when set to a Brave Alphamon.",
 			"max_amount": "9999"
 		},
 		{
@@ -21903,7 +21903,7 @@
 		},
 		{
 			"item_id": "25192",
-			"item_name": "Monthly Login Bonus DigiEgg 1",
+			"item_name": "Monthly LoginBonus DigiEgg1",
 			"sort_key": "ゲッカンログボノデジタマイチ",
 			"item_type": "10",
 			"icon_asset": "icon/digitama/icondigitama003",
@@ -21914,7 +21914,7 @@
 		},
 		{
 			"item_id": "25193",
-			"item_name": "Monthly Login Bonus DigiEgg 2",
+			"item_name": "Monthly LoginBonus DigiEgg2",
 			"sort_key": "ゲッカンログボノデジタマニ",
 			"item_type": "10",
 			"icon_asset": "icon/digitama/icondigitama005",
@@ -21995,6 +21995,17 @@
 			"sort_key": "セイナルクリスマスノデジタマ",
 			"item_type": "10",
 			"icon_asset": "icon/digitama/icondigitama024",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Digimon that will definitely grow into a Mega Digimon will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25227",
+			"item_name": "New Year's DigiEgg",
+			"sort_key": "ハレヤカナオショウガツノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama027",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A Digimon that will definitely grow into a Mega Digimon will hatch.",

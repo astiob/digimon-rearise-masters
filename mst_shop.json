@@ -45,6 +45,17 @@
 			"end_date": ""
 		},
 		{
+			"shop_id": "13",
+			"name": "New Year's Medal Exchange",
+			"cost_item_id": "22008",
+			"disp_order": "13",
+			"entrance_asset": "shop/entrance/shop_entrance010",
+			"tab_asset": "shop/skin/shop_skin010",
+			"start_date": "2020-01-01 12:00:00",
+			"new_end_date": "2020-01-23 11:59:59",
+			"end_date": "2020-01-23 11:59:59"
+		},
+		{
 			"shop_id": "2",
 			"name": "Item Shop",
 			"cost_item_id": "21000",
