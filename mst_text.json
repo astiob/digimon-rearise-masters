@@ -6670,7 +6670,7 @@
 		},
 		{
 			"text_id": "2209",
-			"text": "Bonus"
+			"text": "Item"
 		},
 		{
 			"text_id": "221",
@@ -6682,11 +6682,11 @@
 		},
 		{
 			"text_id": "2211",
-			"text": "Claim Step {0} Bonus"
+			"text": "Claim Step {0} Item"
 		},
 		{
 			"text_id": "2212",
-			"text": "Step {0} Freebie Claimed"
+			"text": "Step {0} Item Claimed"
 		},
 		{
 			"text_id": "2213",
@@ -6746,7 +6746,7 @@
 		},
 		{
 			"text_id": "2226",
-			"text": "Freebie sent to Present Box\nbecause you have exceeded capacity."
+			"text": "Item sent to Present Box\nbecause you have exceeded capacity."
 		},
 		{
 			"text_id": "2227",
@@ -6758,7 +6758,7 @@
 		},
 		{
 			"text_id": "2229",
-			"text": "A freebie obtained using {0}."
+			"text": "Item obtained using {0}."
 		},
 		{
 			"text_id": "223",
@@ -7298,7 +7298,7 @@
 		},
 		{
 			"text_id": "2330",
-			"text": "Reward Claim Period: Until <color=#ffea3c>{0} – {1}</color>"
+			"text": "Reward Claim Period: Until <color=#ffea3c>{0} - {1}</color>"
 		},
 		{
 			"text_id": "2331",
@@ -7458,7 +7458,7 @@
 		},
 		{
 			"text_id": "2374",
-			"text": "Reward Claim Period: <color=#ffea3c>{0} – {1}</color>"
+			"text": "Reward Claim Period: <color=#ffea3c>{0} - {1}</color>"
 		},
 		{
 			"text_id": "2375",

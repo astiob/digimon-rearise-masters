@@ -75,7 +75,7 @@
 		{
 			"challenge_group_id": "500110",
 			"start_date": "2019-12-31 12:00:00",
-			"end_date": "2020-01-16 11:59:59",
+			"end_date": "2020-01-17 11:59:59",
 			"disp_order": "15",
 			"start_asset": "challenge/challenge_begin_500110",
 			"start_trigger_type": "0",
@@ -87,6 +87,15 @@
 			"end_date": "2020-01-01 11:59:59",
 			"disp_order": "15",
 			"start_asset": "challenge/challenge_begin_10080",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "500140",
+			"start_date": "2020-01-10 12:00:00",
+			"end_date": "2020-01-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10310",
 			"start_trigger_type": "0",
 			"receivable_days": "0"
 		}
