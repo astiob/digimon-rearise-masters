@@ -969,6 +969,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "10143",
+			"item_name": "オファニモンFMの進化コード",
+			"sort_key": "",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10043",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がオファニモンFMの系譜の進化を導くアイテム",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "101435001",
 			"item_name": "守Ⅳ(献身 リリモン)",
 			"sort_key": "",
@@ -1989,6 +2000,39 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "超究極体アルファモン王竜剣(冷静)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1022001",
+			"item_name": "オファニモンFM(勇敢)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体オファニモンFM(勇敢)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1022002",
+			"item_name": "オファニモンFM(勇敢)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022002",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体オファニモンFM(勇敢)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1022003",
+			"item_name": "オファニモンFM(勇敢)スキルストーン",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022003",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体オファニモンFM(勇敢)の系譜のスキルレベルを確実にアップできる貴重な石板",
 			"max_amount": "9999"
 		},
 		{
@@ -20623,6 +20667,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "冷静のアルファモン王竜剣がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "229411001",
+			"item_name": "攻Ⅳ(勇敢 オファニモンFM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment229411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のオファニモンFMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "229411002",
+			"item_name": "攻Ⅳ(勇敢 オファニモンFM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment229411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のオファニモンFMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "229411003",
+			"item_name": "攻Ⅳ(勇敢 オファニモンFM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment229411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のオファニモンFMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "229411004",
+			"item_name": "攻Ⅳ(勇敢 オファニモンFM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment229411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のオファニモンFMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "229411005",
+			"item_name": "攻Ⅳ(勇敢 オファニモンFM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment229411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のオファニモンFMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "229431001",
+			"item_name": "守Ⅳ(勇敢 オファニモンFM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment229431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のオファニモンFMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "229431002",
+			"item_name": "守Ⅳ(勇敢 オファニモンFM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment229431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のオファニモンFMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "229431003",
+			"item_name": "守Ⅳ(勇敢 オファニモンFM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment229431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のオファニモンFMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "229431004",
+			"item_name": "守Ⅳ(勇敢 オファニモンFM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment229431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のオファニモンFMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "229431005",
+			"item_name": "守Ⅳ(勇敢 オファニモンFM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment229431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のオファニモンFMがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
