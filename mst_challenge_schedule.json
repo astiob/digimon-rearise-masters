@@ -494,6 +494,24 @@
 			"start_asset": "challenge/challenge_begin_10580",
 			"start_trigger_type": "0",
 			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10590",
+			"start_date": "2020-01-21 12:00:00",
+			"end_date": "2020-02-08 11:59:59",
+			"disp_order": "5",
+			"start_asset": "challenge/challenge_begin_10590",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10600",
+			"start_date": "2020-01-21 12:00:00",
+			"end_date": "2020-02-21 11:59:59",
+			"disp_order": "10",
+			"start_asset": "challenge/challenge_begin_10600",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
 		}
 	]
 }
