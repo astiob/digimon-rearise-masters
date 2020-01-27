@@ -1,15 +1,6 @@
 {
 	"masterRows": [
 		{
-			"challenge_group_id": "10440",
-			"start_date": "2019/08/23 12:00:00",
-			"end_date": "2019-09-10 11:59:59",
-			"disp_order": "6",
-			"start_asset": "challenge/challenge_begin_10440",
-			"start_trigger_type": "0",
-			"receivable_days": "0"
-		},
-		{
 			"challenge_group_id": "500010",
 			"start_date": "2019-06-29 12:00:00",
 			"end_date": "2019-11-01 11:59:59",
@@ -114,6 +105,33 @@
 			"end_date": "2020-02-02 11:59:59",
 			"disp_order": "10",
 			"start_asset": "challenge/challenge_begin_500150",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "500160",
+			"start_date": "2020-01-31 12:00:00",
+			"end_date": "2020-02-14 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_500160",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "500180",
+			"start_date": "2020-01-31 12:00:00",
+			"end_date": "2020-02-07 11:59:59",
+			"disp_order": "10",
+			"start_asset": "challenge/challenge_begin_500180",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "500190",
+			"start_date": "2020-02-07 12:00:00",
+			"end_date": "2020-02-14 11:59:59",
+			"disp_order": "10",
+			"start_asset": "challenge/challenge_begin_500190",
 			"start_trigger_type": "0",
 			"receivable_days": "0"
 		}

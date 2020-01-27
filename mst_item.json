@@ -1509,7 +1509,7 @@
 		},
 		{
 			"item_id": "102422001",
-			"item_name": "Swift-α (Calm - Pandamon)",
+			"item_name": "Attack-α (Calm - Pandamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10210204",
@@ -1520,7 +1520,7 @@
 		},
 		{
 			"item_id": "102422002",
-			"item_name": "Swift-α (Calm - Pandamon)",
+			"item_name": "Attack-α (Calm - Pandamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10210204",
@@ -1531,7 +1531,7 @@
 		},
 		{
 			"item_id": "102422003",
-			"item_name": "Swift-α (Calm - Pandamon)",
+			"item_name": "Attack-α (Calm - Pandamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10210204",
@@ -1542,7 +1542,7 @@
 		},
 		{
 			"item_id": "102422004",
-			"item_name": "Swift-α (Calm - Pandamon)",
+			"item_name": "Attack-α (Calm - Pandamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10210204",
@@ -1553,7 +1553,7 @@
 		},
 		{
 			"item_id": "102422005",
-			"item_name": "Swift-α (Calm - Pandamon)",
+			"item_name": "Attack-α (Calm - Pandamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10210204",
@@ -14775,13 +14775,13 @@
 		},
 		{
 			"item_id": "22009",
-			"item_name": "バレンタインメダル2019",
+			"item_name": "Valentine's Day Medal 2020",
 			"sort_key": "",
 			"item_type": "11",
 			"icon_asset": "icon/item/icon_valentine_medal",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "激突戦！灼熱のバレンタインで獲得できるメダル、色々なものと交換できる",
+			"description": "Medals that are obtained during the Valentine's Day Event can be exchanged for various items.",
 			"max_amount": "99999"
 		},
 		{
@@ -15589,13 +15589,13 @@
 		},
 		{
 			"item_id": "23004",
-			"item_name": "バレンタインエリア解放キー",
+			"item_name": "Valentine's Day Vortex Key",
 			"sort_key": "バレンタインエリアカイホウキー",
 			"item_type": "12",
 			"icon_asset": "icon/item/icon_openticket003",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "時限の渦:バレンタインエリアを一定時間解放する。(使用期限：2019/02/15 11:59)",
+			"description": "Dimensional Vortex: Temporarily opens Valentine's Day Vortexes.\nExpires: 2019/02/15 11:59(JST)",
 			"max_amount": "9999"
 		},
 		{
@@ -16810,13 +16810,13 @@
 		},
 		{
 			"item_id": "24007",
-			"item_name": "2019バレンタインver",
+			"item_name": "Valentine's Day Ver. 2020",
 			"sort_key": "",
 			"item_type": "8",
 			"icon_asset": "icon/digiconne/digiconne_icon009",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "2019バレンタインをモチーフにしたデジコネ背景",
+			"description": "A DigiWalk background with a Valentine's Day 2020 motif.",
 			"max_amount": "1"
 		},
 		{
@@ -21557,23 +21557,23 @@
 			"icon_asset": "icon/digitama/icondigitama025",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "A Christmas-themed DigiWalk background.",
+			"description": "究極体ウォーグレイモン系譜、究極体メタルガルルモン系譜、究極体シャイングレイモン系譜、究極体ミラージュガオガモン系譜のいずれかが各25％の確率で産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "25157",
-			"item_name": "伝説の闘火龍のデジタマ",
+			"item_name": "Legendary Dragon DigiEgg",
 			"sort_key": "デンセツノトウカリュウノデジタマ",
 			"item_type": "10",
 			"icon_asset": "icon/digitama/icondigitama028",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "ヴリトラモンに育つデジモンが産まれるデジタマ",
+			"description": "A Digimon that will grow into Vritramon will hatch.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "25158",
-			"item_name": "ロマンティックなバレンタインのデジタマ",
+			"item_name": "Romantic Valentine's Day DigiEgg",
 			"sort_key": "ロマンティックナバレンタインノデジタマ",
 			"item_type": "10",
 			"icon_asset": "icon/digitama/icondigitama029",
@@ -21749,7 +21749,7 @@
 		},
 		{
 			"item_id": "25174",
-			"item_name": "じんわりするDFQのデジタマ",
+			"item_name": "Heartwarming SDQ DigiEgg",
 			"sort_key": "ジンワリスルディーエフキューノデジタマ",
 			"item_type": "10",
 			"icon_asset": "icon/digitama/icondigitama004",
@@ -22006,6 +22006,17 @@
 			"sort_key": "ハレヤカナオショウガツノデジタマ",
 			"item_type": "10",
 			"icon_asset": "icon/digitama/icondigitama027",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Digimon that will definitely grow into a Mega Digimon will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25234",
+			"item_name": "Romantic Valentine's Day DigiEgg",
+			"sort_key": "ロマンティックナバレンタインノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama029",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A Digimon that will definitely grow into a Mega Digimon will hatch.",
@@ -22937,7 +22948,7 @@
 		},
 		{
 			"item_id": "322001",
-			"item_name": "Skill-β (Calm)",
+			"item_name": "Technique-β (Calm)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -22948,7 +22959,7 @@
 		},
 		{
 			"item_id": "322002",
-			"item_name": "Skill-β (Calm)",
+			"item_name": "Technique-β (Calm)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -22959,7 +22970,7 @@
 		},
 		{
 			"item_id": "322003",
-			"item_name": "Skill-β (Calm)",
+			"item_name": "Technique-β (Calm)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -22970,7 +22981,7 @@
 		},
 		{
 			"item_id": "322004",
-			"item_name": "Skill-β (Calm)",
+			"item_name": "Technique-β (Calm)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -22981,7 +22992,7 @@
 		},
 		{
 			"item_id": "322005",
-			"item_name": "Skill-β (Calm)",
+			"item_name": "Technique-β (Calm)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -23157,7 +23168,7 @@
 		},
 		{
 			"item_id": "323001",
-			"item_name": "Skill-β (Deft)",
+			"item_name": "Technique-β (Deft)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -23168,7 +23179,7 @@
 		},
 		{
 			"item_id": "323002",
-			"item_name": "Skill-β (Deft)",
+			"item_name": "Technique-β (Deft)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -23179,7 +23190,7 @@
 		},
 		{
 			"item_id": "323003",
-			"item_name": "Skill-β (Deft)",
+			"item_name": "Technique-β (Deft)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -23190,7 +23201,7 @@
 		},
 		{
 			"item_id": "323004",
-			"item_name": "Skill-β (Deft)",
+			"item_name": "Technique-β (Deft)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -23201,7 +23212,7 @@
 		},
 		{
 			"item_id": "323005",
-			"item_name": "Skill-β (Deft)",
+			"item_name": "Technique-β (Deft)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -23377,7 +23388,7 @@
 		},
 		{
 			"item_id": "325001",
-			"item_name": "Skill-β (Devoted)",
+			"item_name": "Technique-β (Devoted)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -23388,7 +23399,7 @@
 		},
 		{
 			"item_id": "325002",
-			"item_name": "Skill-β (Devoted)",
+			"item_name": "Technique-β (Devoted)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -23399,7 +23410,7 @@
 		},
 		{
 			"item_id": "325003",
-			"item_name": "Skill-β (Devoted)",
+			"item_name": "Technique-β (Devoted)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -23410,7 +23421,7 @@
 		},
 		{
 			"item_id": "325004",
-			"item_name": "Skill-β (Devoted)",
+			"item_name": "Technique-β (Devoted)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -23421,7 +23432,7 @@
 		},
 		{
 			"item_id": "325005",
-			"item_name": "Skill-β (Devoted)",
+			"item_name": "Technique-β (Devoted)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment10203",
@@ -35653,13 +35664,13 @@
 		},
 		{
 			"item_id": "55",
-			"item_name": "告白の洋菓子",
+			"item_name": "Valentine's Day Cookie",
 			"sort_key": "",
 			"item_type": "1",
 			"icon_asset": "icon/item/iconrequestitem046",
 			"friendship_point_rise_value": "1000",
 			"mood_value_rise_value": "75",
-			"description": "少しおませさんな幼いデジモンが好む食べ物。気持ちがこもっているせいか見た目の割に食べごたえがある。",
+			"description": "A snack beloved by young Digimon. The secret ingredient is love. (In-Training Only)",
 			"max_amount": "9999"
 		},
 		{

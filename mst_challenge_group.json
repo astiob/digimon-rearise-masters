@@ -1,27 +1,6 @@
 {
 	"masterRows": [
 		{
-			"challenge_group_id": "10440",
-			"rank": "1",
-			"rank_text_id": "2150",
-			"title_text_id": "2403",
-			"bg_asset": "challenge/challenge_bg_10440_1"
-		},
-		{
-			"challenge_group_id": "10440",
-			"rank": "2",
-			"rank_text_id": "2151",
-			"title_text_id": "2403",
-			"bg_asset": "challenge/challenge_bg_10440_2"
-		},
-		{
-			"challenge_group_id": "10440",
-			"rank": "3",
-			"rank_text_id": "2152",
-			"title_text_id": "2403",
-			"bg_asset": "challenge/challenge_bg_10440_3"
-		},
-		{
 			"challenge_group_id": "500010",
 			"rank": "1",
 			"rank_text_id": "2150",
@@ -272,6 +251,55 @@
 			"rank_text_id": "2152",
 			"title_text_id": "2997",
 			"bg_asset": "challenge/challenge_bg_teijou_3"
+		},
+		{
+			"challenge_group_id": "500160",
+			"rank": "1",
+			"rank_text_id": "2150",
+			"title_text_id": "10801003",
+			"bg_asset": "challenge/challenge_bg_teijou_1"
+		},
+		{
+			"challenge_group_id": "500160",
+			"rank": "2",
+			"rank_text_id": "2151",
+			"title_text_id": "10801003",
+			"bg_asset": "challenge/challenge_bg_teijou_2"
+		},
+		{
+			"challenge_group_id": "500160",
+			"rank": "3",
+			"rank_text_id": "2152",
+			"title_text_id": "10801003",
+			"bg_asset": "challenge/challenge_bg_teijou_3"
+		},
+		{
+			"challenge_group_id": "500180",
+			"rank": "1",
+			"rank_text_id": "2148",
+			"title_text_id": "3021",
+			"bg_asset": "challenge/challenge_bg_valentine_1"
+		},
+		{
+			"challenge_group_id": "500180",
+			"rank": "2",
+			"rank_text_id": "2149",
+			"title_text_id": "3021",
+			"bg_asset": "challenge/challenge_bg_valentine_2"
+		},
+		{
+			"challenge_group_id": "500190",
+			"rank": "1",
+			"rank_text_id": "2148",
+			"title_text_id": "3022",
+			"bg_asset": "challenge/challenge_bg_valentine_2"
+		},
+		{
+			"challenge_group_id": "500190",
+			"rank": "2",
+			"rank_text_id": "2149",
+			"title_text_id": "3022",
+			"bg_asset": "challenge/challenge_bg_valentine_3"
 		}
 	]
 }
