@@ -301,6 +301,12 @@
 			"description": "プラグインガシャの上限＋Ｎ枠"
 		},
 		{
+			"category": "HELPER",
+			"name": "MIN_TAMER_LEVEL",
+			"value": "3",
+			"description": "テイマーレベルX以上で抽出"
+		},
+		{
 			"category": "MISSION",
 			"name": "DAILY_MISSION_RESET_TIME",
 			"value": "04:00:00",
