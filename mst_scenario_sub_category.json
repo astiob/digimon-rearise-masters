@@ -109,14 +109,14 @@
 			"sub_category_id": "115",
 			"main_category_id": "1",
 			"order": "15",
-			"title": "Act 15 \nGrapLeomon's Will to Protect!",
+			"title": "Act 15\nGrapLeomon's Will to Protect!",
 			"resource": "quest/panel/panel_section15"
 		},
 		{
 			"sub_category_id": "116",
 			"main_category_id": "1",
 			"order": "16",
-			"title": "16章\n超進化！　スティフィルモン！",
+			"title": "Act 16\nSuper Digivolve to...! Stefilmon!",
 			"resource": "quest/panel/panel_section16"
 		},
 		{
@@ -223,6 +223,27 @@
 			"order": "1",
 			"title": "燃えろ！炎の食材探し",
 			"resource": "quest/panel/dfq_panel_section6"
+		},
+		{
+			"sub_category_id": "607",
+			"main_category_id": "3",
+			"order": "1",
+			"title": "友情探し×大冒険",
+			"resource": "quest/panel/dfq_panel_section7"
+		},
+		{
+			"sub_category_id": "608",
+			"main_category_id": "3",
+			"order": "8",
+			"title": "黒と白の二重奏",
+			"resource": "quest/panel/dfq_panel_section8"
+		},
+		{
+			"sub_category_id": "701",
+			"main_category_id": "4",
+			"order": "100",
+			"title": "サイドストーリー\n対決！ノーブル系？デジモン",
+			"resource": "quest/panel/ss_panel_section1_g3858"
 		}
 	]
 }

@@ -1,0 +1,4708 @@
+{
+	"masterRows": [
+		{
+			"parameter_pattern_id": "2001",
+			"level": "100",
+			"add_hp": "139",
+			"add_attack": "176",
+			"add_defense": "56",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "101",
+			"add_hp": "250",
+			"add_attack": "247",
+			"add_defense": "100",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "102",
+			"add_hp": "361",
+			"add_attack": "318",
+			"add_defense": "144",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "103",
+			"add_hp": "472",
+			"add_attack": "388",
+			"add_defense": "189",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "104",
+			"add_hp": "583",
+			"add_attack": "459",
+			"add_defense": "233",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "105",
+			"add_hp": "667",
+			"add_attack": "529",
+			"add_defense": "267",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "106",
+			"add_hp": "750",
+			"add_attack": "582",
+			"add_defense": "300",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "107",
+			"add_hp": "833",
+			"add_attack": "635",
+			"add_defense": "333",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "108",
+			"add_hp": "917",
+			"add_attack": "688",
+			"add_defense": "367",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "109",
+			"add_hp": "1000",
+			"add_attack": "741",
+			"add_defense": "400",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "110",
+			"add_hp": "1083",
+			"add_attack": "794",
+			"add_defense": "433",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "111",
+			"add_hp": "1139",
+			"add_attack": "812",
+			"add_defense": "456",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "112",
+			"add_hp": "1194",
+			"add_attack": "829",
+			"add_defense": "478",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "113",
+			"add_hp": "1250",
+			"add_attack": "847",
+			"add_defense": "500",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "114",
+			"add_hp": "1306",
+			"add_attack": "865",
+			"add_defense": "522",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "115",
+			"add_hp": "1361",
+			"add_attack": "882",
+			"add_defense": "544",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "116",
+			"add_hp": "1389",
+			"add_attack": "886",
+			"add_defense": "556",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "117",
+			"add_hp": "1417",
+			"add_attack": "889",
+			"add_defense": "567",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "118",
+			"add_hp": "1444",
+			"add_attack": "893",
+			"add_defense": "578",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "119",
+			"add_hp": "1472",
+			"add_attack": "896",
+			"add_defense": "589",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2001",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "100",
+			"add_hp": "120",
+			"add_attack": "124",
+			"add_defense": "120",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "101",
+			"add_hp": "220",
+			"add_attack": "186",
+			"add_defense": "152",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "102",
+			"add_hp": "320",
+			"add_attack": "248",
+			"add_defense": "184",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "103",
+			"add_hp": "420",
+			"add_attack": "310",
+			"add_defense": "216",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "104",
+			"add_hp": "520",
+			"add_attack": "372",
+			"add_defense": "248",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "105",
+			"add_hp": "600",
+			"add_attack": "434",
+			"add_defense": "280",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "106",
+			"add_hp": "680",
+			"add_attack": "481",
+			"add_defense": "305",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "107",
+			"add_hp": "760",
+			"add_attack": "528",
+			"add_defense": "331",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "108",
+			"add_hp": "840",
+			"add_attack": "574",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "109",
+			"add_hp": "920",
+			"add_attack": "621",
+			"add_defense": "382",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "110",
+			"add_hp": "1000",
+			"add_attack": "667",
+			"add_defense": "408",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "111",
+			"add_hp": "1060",
+			"add_attack": "698",
+			"add_defense": "429",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "112",
+			"add_hp": "1120",
+			"add_attack": "729",
+			"add_defense": "451",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "113",
+			"add_hp": "1180",
+			"add_attack": "760",
+			"add_defense": "472",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "114",
+			"add_hp": "1240",
+			"add_attack": "791",
+			"add_defense": "493",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "115",
+			"add_hp": "1300",
+			"add_attack": "822",
+			"add_defense": "515",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "116",
+			"add_hp": "1340",
+			"add_attack": "838",
+			"add_defense": "532",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "117",
+			"add_hp": "1380",
+			"add_attack": "853",
+			"add_defense": "549",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "118",
+			"add_hp": "1420",
+			"add_attack": "869",
+			"add_defense": "566",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "119",
+			"add_hp": "1460",
+			"add_attack": "884",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2003",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "100",
+			"add_hp": "94",
+			"add_attack": "61",
+			"add_defense": "97",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "101",
+			"add_hp": "178",
+			"add_attack": "114",
+			"add_defense": "149",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "102",
+			"add_hp": "263",
+			"add_attack": "168",
+			"add_defense": "201",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "103",
+			"add_hp": "347",
+			"add_attack": "221",
+			"add_defense": "253",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "104",
+			"add_hp": "431",
+			"add_attack": "275",
+			"add_defense": "305",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "105",
+			"add_hp": "516",
+			"add_attack": "328",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "106",
+			"add_hp": "591",
+			"add_attack": "374",
+			"add_defense": "383",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "107",
+			"add_hp": "666",
+			"add_attack": "419",
+			"add_defense": "409",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "108",
+			"add_hp": "741",
+			"add_attack": "465",
+			"add_defense": "435",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "109",
+			"add_hp": "816",
+			"add_attack": "511",
+			"add_defense": "461",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "110",
+			"add_hp": "891",
+			"add_attack": "557",
+			"add_defense": "486",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "111",
+			"add_hp": "956",
+			"add_attack": "595",
+			"add_defense": "499",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "112",
+			"add_hp": "1022",
+			"add_attack": "633",
+			"add_defense": "512",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "113",
+			"add_hp": "1088",
+			"add_attack": "671",
+			"add_defense": "525",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "114",
+			"add_hp": "1153",
+			"add_attack": "709",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "115",
+			"add_hp": "1219",
+			"add_attack": "747",
+			"add_defense": "551",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "116",
+			"add_hp": "1275",
+			"add_attack": "778",
+			"add_defense": "561",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "117",
+			"add_hp": "1331",
+			"add_attack": "808",
+			"add_defense": "571",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "118",
+			"add_hp": "1388",
+			"add_attack": "839",
+			"add_defense": "581",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "119",
+			"add_hp": "1444",
+			"add_attack": "869",
+			"add_defense": "590",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2004",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "100",
+			"add_hp": "205",
+			"add_attack": "61",
+			"add_defense": "83",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "101",
+			"add_hp": "341",
+			"add_attack": "114",
+			"add_defense": "141",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "102",
+			"add_hp": "477",
+			"add_attack": "168",
+			"add_defense": "199",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "103",
+			"add_hp": "614",
+			"add_attack": "221",
+			"add_defense": "257",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "104",
+			"add_hp": "750",
+			"add_attack": "275",
+			"add_defense": "314",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "105",
+			"add_hp": "886",
+			"add_attack": "328",
+			"add_defense": "372",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "106",
+			"add_hp": "955",
+			"add_attack": "374",
+			"add_defense": "406",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "107",
+			"add_hp": "1023",
+			"add_attack": "419",
+			"add_defense": "439",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "108",
+			"add_hp": "1091",
+			"add_attack": "465",
+			"add_defense": "472",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "109",
+			"add_hp": "1159",
+			"add_attack": "511",
+			"add_defense": "505",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "110",
+			"add_hp": "1227",
+			"add_attack": "557",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "111",
+			"add_hp": "1261",
+			"add_attack": "595",
+			"add_defense": "546",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "112",
+			"add_hp": "1295",
+			"add_attack": "633",
+			"add_defense": "554",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "113",
+			"add_hp": "1330",
+			"add_attack": "671",
+			"add_defense": "563",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "114",
+			"add_hp": "1364",
+			"add_attack": "709",
+			"add_defense": "571",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "115",
+			"add_hp": "1398",
+			"add_attack": "747",
+			"add_defense": "579",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "116",
+			"add_hp": "1418",
+			"add_attack": "778",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "117",
+			"add_hp": "1439",
+			"add_attack": "808",
+			"add_defense": "588",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "118",
+			"add_hp": "1459",
+			"add_attack": "839",
+			"add_defense": "592",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "119",
+			"add_hp": "1480",
+			"add_attack": "869",
+			"add_defense": "596",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "2005",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "100",
+			"add_hp": "139",
+			"add_attack": "176",
+			"add_defense": "56",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "101",
+			"add_hp": "250",
+			"add_attack": "247",
+			"add_defense": "100",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "102",
+			"add_hp": "361",
+			"add_attack": "318",
+			"add_defense": "144",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "103",
+			"add_hp": "472",
+			"add_attack": "388",
+			"add_defense": "189",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "104",
+			"add_hp": "583",
+			"add_attack": "459",
+			"add_defense": "233",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "105",
+			"add_hp": "667",
+			"add_attack": "529",
+			"add_defense": "267",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "106",
+			"add_hp": "750",
+			"add_attack": "582",
+			"add_defense": "300",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "107",
+			"add_hp": "833",
+			"add_attack": "635",
+			"add_defense": "333",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "108",
+			"add_hp": "917",
+			"add_attack": "688",
+			"add_defense": "367",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "109",
+			"add_hp": "1000",
+			"add_attack": "741",
+			"add_defense": "400",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "110",
+			"add_hp": "1083",
+			"add_attack": "794",
+			"add_defense": "433",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "111",
+			"add_hp": "1139",
+			"add_attack": "812",
+			"add_defense": "456",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "112",
+			"add_hp": "1194",
+			"add_attack": "829",
+			"add_defense": "478",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "113",
+			"add_hp": "1250",
+			"add_attack": "847",
+			"add_defense": "500",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "114",
+			"add_hp": "1306",
+			"add_attack": "865",
+			"add_defense": "522",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "115",
+			"add_hp": "1361",
+			"add_attack": "882",
+			"add_defense": "544",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "116",
+			"add_hp": "1389",
+			"add_attack": "886",
+			"add_defense": "556",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "117",
+			"add_hp": "1417",
+			"add_attack": "889",
+			"add_defense": "567",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "118",
+			"add_hp": "1444",
+			"add_attack": "893",
+			"add_defense": "578",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "119",
+			"add_hp": "1472",
+			"add_attack": "896",
+			"add_defense": "589",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3001",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "100",
+			"add_hp": "120",
+			"add_attack": "124",
+			"add_defense": "120",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "101",
+			"add_hp": "220",
+			"add_attack": "186",
+			"add_defense": "152",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "102",
+			"add_hp": "320",
+			"add_attack": "248",
+			"add_defense": "184",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "103",
+			"add_hp": "420",
+			"add_attack": "310",
+			"add_defense": "216",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "104",
+			"add_hp": "520",
+			"add_attack": "372",
+			"add_defense": "248",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "105",
+			"add_hp": "600",
+			"add_attack": "434",
+			"add_defense": "280",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "106",
+			"add_hp": "680",
+			"add_attack": "481",
+			"add_defense": "305",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "107",
+			"add_hp": "760",
+			"add_attack": "528",
+			"add_defense": "331",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "108",
+			"add_hp": "840",
+			"add_attack": "574",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "109",
+			"add_hp": "920",
+			"add_attack": "621",
+			"add_defense": "382",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "110",
+			"add_hp": "1000",
+			"add_attack": "667",
+			"add_defense": "408",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "111",
+			"add_hp": "1060",
+			"add_attack": "698",
+			"add_defense": "429",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "112",
+			"add_hp": "1120",
+			"add_attack": "729",
+			"add_defense": "451",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "113",
+			"add_hp": "1180",
+			"add_attack": "760",
+			"add_defense": "472",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "114",
+			"add_hp": "1240",
+			"add_attack": "791",
+			"add_defense": "493",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "115",
+			"add_hp": "1300",
+			"add_attack": "822",
+			"add_defense": "515",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "116",
+			"add_hp": "1340",
+			"add_attack": "838",
+			"add_defense": "532",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "117",
+			"add_hp": "1380",
+			"add_attack": "853",
+			"add_defense": "549",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "118",
+			"add_hp": "1420",
+			"add_attack": "869",
+			"add_defense": "566",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "119",
+			"add_hp": "1460",
+			"add_attack": "884",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3003",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "100",
+			"add_hp": "94",
+			"add_attack": "61",
+			"add_defense": "97",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "101",
+			"add_hp": "178",
+			"add_attack": "114",
+			"add_defense": "149",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "102",
+			"add_hp": "263",
+			"add_attack": "168",
+			"add_defense": "201",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "103",
+			"add_hp": "347",
+			"add_attack": "221",
+			"add_defense": "253",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "104",
+			"add_hp": "431",
+			"add_attack": "275",
+			"add_defense": "305",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "105",
+			"add_hp": "516",
+			"add_attack": "328",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "106",
+			"add_hp": "591",
+			"add_attack": "374",
+			"add_defense": "383",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "107",
+			"add_hp": "666",
+			"add_attack": "419",
+			"add_defense": "409",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "108",
+			"add_hp": "741",
+			"add_attack": "465",
+			"add_defense": "435",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "109",
+			"add_hp": "816",
+			"add_attack": "511",
+			"add_defense": "461",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "110",
+			"add_hp": "891",
+			"add_attack": "557",
+			"add_defense": "486",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "111",
+			"add_hp": "956",
+			"add_attack": "595",
+			"add_defense": "499",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "112",
+			"add_hp": "1022",
+			"add_attack": "633",
+			"add_defense": "512",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "113",
+			"add_hp": "1088",
+			"add_attack": "671",
+			"add_defense": "525",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "114",
+			"add_hp": "1153",
+			"add_attack": "709",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "115",
+			"add_hp": "1219",
+			"add_attack": "747",
+			"add_defense": "551",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "116",
+			"add_hp": "1275",
+			"add_attack": "778",
+			"add_defense": "561",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "117",
+			"add_hp": "1331",
+			"add_attack": "808",
+			"add_defense": "571",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "118",
+			"add_hp": "1388",
+			"add_attack": "839",
+			"add_defense": "581",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "119",
+			"add_hp": "1444",
+			"add_attack": "869",
+			"add_defense": "590",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3004",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "100",
+			"add_hp": "205",
+			"add_attack": "61",
+			"add_defense": "83",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "101",
+			"add_hp": "341",
+			"add_attack": "114",
+			"add_defense": "141",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "102",
+			"add_hp": "477",
+			"add_attack": "168",
+			"add_defense": "199",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "103",
+			"add_hp": "614",
+			"add_attack": "221",
+			"add_defense": "257",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "104",
+			"add_hp": "750",
+			"add_attack": "275",
+			"add_defense": "314",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "105",
+			"add_hp": "886",
+			"add_attack": "328",
+			"add_defense": "372",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "106",
+			"add_hp": "955",
+			"add_attack": "374",
+			"add_defense": "406",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "107",
+			"add_hp": "1023",
+			"add_attack": "419",
+			"add_defense": "439",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "108",
+			"add_hp": "1091",
+			"add_attack": "465",
+			"add_defense": "472",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "109",
+			"add_hp": "1159",
+			"add_attack": "511",
+			"add_defense": "505",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "110",
+			"add_hp": "1227",
+			"add_attack": "557",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "111",
+			"add_hp": "1261",
+			"add_attack": "595",
+			"add_defense": "546",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "112",
+			"add_hp": "1295",
+			"add_attack": "633",
+			"add_defense": "554",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "113",
+			"add_hp": "1330",
+			"add_attack": "671",
+			"add_defense": "563",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "114",
+			"add_hp": "1364",
+			"add_attack": "709",
+			"add_defense": "571",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "115",
+			"add_hp": "1398",
+			"add_attack": "747",
+			"add_defense": "579",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "116",
+			"add_hp": "1418",
+			"add_attack": "778",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "117",
+			"add_hp": "1439",
+			"add_attack": "808",
+			"add_defense": "588",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "118",
+			"add_hp": "1459",
+			"add_attack": "839",
+			"add_defense": "592",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "119",
+			"add_hp": "1480",
+			"add_attack": "869",
+			"add_defense": "596",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "3005",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "100",
+			"add_hp": "139",
+			"add_attack": "176",
+			"add_defense": "56",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "101",
+			"add_hp": "250",
+			"add_attack": "247",
+			"add_defense": "100",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "102",
+			"add_hp": "361",
+			"add_attack": "318",
+			"add_defense": "144",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "103",
+			"add_hp": "472",
+			"add_attack": "388",
+			"add_defense": "189",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "104",
+			"add_hp": "583",
+			"add_attack": "459",
+			"add_defense": "233",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "105",
+			"add_hp": "667",
+			"add_attack": "529",
+			"add_defense": "267",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "106",
+			"add_hp": "750",
+			"add_attack": "582",
+			"add_defense": "300",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "107",
+			"add_hp": "833",
+			"add_attack": "635",
+			"add_defense": "333",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "108",
+			"add_hp": "917",
+			"add_attack": "688",
+			"add_defense": "367",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "109",
+			"add_hp": "1000",
+			"add_attack": "741",
+			"add_defense": "400",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "110",
+			"add_hp": "1083",
+			"add_attack": "794",
+			"add_defense": "433",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "111",
+			"add_hp": "1139",
+			"add_attack": "812",
+			"add_defense": "456",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "112",
+			"add_hp": "1194",
+			"add_attack": "829",
+			"add_defense": "478",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "113",
+			"add_hp": "1250",
+			"add_attack": "847",
+			"add_defense": "500",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "114",
+			"add_hp": "1306",
+			"add_attack": "865",
+			"add_defense": "522",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "115",
+			"add_hp": "1361",
+			"add_attack": "882",
+			"add_defense": "544",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "116",
+			"add_hp": "1389",
+			"add_attack": "886",
+			"add_defense": "556",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "117",
+			"add_hp": "1417",
+			"add_attack": "889",
+			"add_defense": "567",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "118",
+			"add_hp": "1444",
+			"add_attack": "893",
+			"add_defense": "578",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "119",
+			"add_hp": "1472",
+			"add_attack": "896",
+			"add_defense": "589",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4001",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "100",
+			"add_hp": "120",
+			"add_attack": "124",
+			"add_defense": "120",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "101",
+			"add_hp": "220",
+			"add_attack": "186",
+			"add_defense": "152",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "102",
+			"add_hp": "320",
+			"add_attack": "248",
+			"add_defense": "184",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "103",
+			"add_hp": "420",
+			"add_attack": "310",
+			"add_defense": "216",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "104",
+			"add_hp": "520",
+			"add_attack": "372",
+			"add_defense": "248",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "105",
+			"add_hp": "600",
+			"add_attack": "434",
+			"add_defense": "280",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "106",
+			"add_hp": "680",
+			"add_attack": "481",
+			"add_defense": "305",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "107",
+			"add_hp": "760",
+			"add_attack": "528",
+			"add_defense": "331",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "108",
+			"add_hp": "840",
+			"add_attack": "574",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "109",
+			"add_hp": "920",
+			"add_attack": "621",
+			"add_defense": "382",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "110",
+			"add_hp": "1000",
+			"add_attack": "667",
+			"add_defense": "408",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "111",
+			"add_hp": "1060",
+			"add_attack": "698",
+			"add_defense": "429",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "112",
+			"add_hp": "1120",
+			"add_attack": "729",
+			"add_defense": "451",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "113",
+			"add_hp": "1180",
+			"add_attack": "760",
+			"add_defense": "472",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "114",
+			"add_hp": "1240",
+			"add_attack": "791",
+			"add_defense": "493",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "115",
+			"add_hp": "1300",
+			"add_attack": "822",
+			"add_defense": "515",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "116",
+			"add_hp": "1340",
+			"add_attack": "838",
+			"add_defense": "532",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "117",
+			"add_hp": "1380",
+			"add_attack": "853",
+			"add_defense": "549",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "118",
+			"add_hp": "1420",
+			"add_attack": "869",
+			"add_defense": "566",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "119",
+			"add_hp": "1460",
+			"add_attack": "884",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4003",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "100",
+			"add_hp": "94",
+			"add_attack": "61",
+			"add_defense": "97",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "101",
+			"add_hp": "178",
+			"add_attack": "114",
+			"add_defense": "149",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "102",
+			"add_hp": "263",
+			"add_attack": "168",
+			"add_defense": "201",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "103",
+			"add_hp": "347",
+			"add_attack": "221",
+			"add_defense": "253",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "104",
+			"add_hp": "431",
+			"add_attack": "275",
+			"add_defense": "305",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "105",
+			"add_hp": "516",
+			"add_attack": "328",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "106",
+			"add_hp": "591",
+			"add_attack": "374",
+			"add_defense": "383",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "107",
+			"add_hp": "666",
+			"add_attack": "419",
+			"add_defense": "409",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "108",
+			"add_hp": "741",
+			"add_attack": "465",
+			"add_defense": "435",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "109",
+			"add_hp": "816",
+			"add_attack": "511",
+			"add_defense": "461",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "110",
+			"add_hp": "891",
+			"add_attack": "557",
+			"add_defense": "486",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "111",
+			"add_hp": "956",
+			"add_attack": "595",
+			"add_defense": "499",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "112",
+			"add_hp": "1022",
+			"add_attack": "633",
+			"add_defense": "512",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "113",
+			"add_hp": "1088",
+			"add_attack": "671",
+			"add_defense": "525",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "114",
+			"add_hp": "1153",
+			"add_attack": "709",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "115",
+			"add_hp": "1219",
+			"add_attack": "747",
+			"add_defense": "551",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "116",
+			"add_hp": "1275",
+			"add_attack": "778",
+			"add_defense": "561",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "117",
+			"add_hp": "1331",
+			"add_attack": "808",
+			"add_defense": "571",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "118",
+			"add_hp": "1388",
+			"add_attack": "839",
+			"add_defense": "581",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "119",
+			"add_hp": "1444",
+			"add_attack": "869",
+			"add_defense": "590",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4004",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "100",
+			"add_hp": "205",
+			"add_attack": "61",
+			"add_defense": "83",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "101",
+			"add_hp": "341",
+			"add_attack": "114",
+			"add_defense": "141",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "102",
+			"add_hp": "477",
+			"add_attack": "168",
+			"add_defense": "199",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "103",
+			"add_hp": "614",
+			"add_attack": "221",
+			"add_defense": "257",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "104",
+			"add_hp": "750",
+			"add_attack": "275",
+			"add_defense": "314",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "105",
+			"add_hp": "886",
+			"add_attack": "328",
+			"add_defense": "372",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "106",
+			"add_hp": "955",
+			"add_attack": "374",
+			"add_defense": "406",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "107",
+			"add_hp": "1023",
+			"add_attack": "419",
+			"add_defense": "439",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "108",
+			"add_hp": "1091",
+			"add_attack": "465",
+			"add_defense": "472",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "109",
+			"add_hp": "1159",
+			"add_attack": "511",
+			"add_defense": "505",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "110",
+			"add_hp": "1227",
+			"add_attack": "557",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "111",
+			"add_hp": "1261",
+			"add_attack": "595",
+			"add_defense": "546",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "112",
+			"add_hp": "1295",
+			"add_attack": "633",
+			"add_defense": "554",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "113",
+			"add_hp": "1330",
+			"add_attack": "671",
+			"add_defense": "563",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "114",
+			"add_hp": "1364",
+			"add_attack": "709",
+			"add_defense": "571",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "115",
+			"add_hp": "1398",
+			"add_attack": "747",
+			"add_defense": "579",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "116",
+			"add_hp": "1418",
+			"add_attack": "778",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "117",
+			"add_hp": "1439",
+			"add_attack": "808",
+			"add_defense": "588",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "118",
+			"add_hp": "1459",
+			"add_attack": "839",
+			"add_defense": "592",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "119",
+			"add_hp": "1480",
+			"add_attack": "869",
+			"add_defense": "596",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "4005",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "100",
+			"add_hp": "139",
+			"add_attack": "176",
+			"add_defense": "56",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "101",
+			"add_hp": "250",
+			"add_attack": "247",
+			"add_defense": "100",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "102",
+			"add_hp": "361",
+			"add_attack": "318",
+			"add_defense": "144",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "103",
+			"add_hp": "472",
+			"add_attack": "388",
+			"add_defense": "189",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "104",
+			"add_hp": "583",
+			"add_attack": "459",
+			"add_defense": "233",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "105",
+			"add_hp": "667",
+			"add_attack": "529",
+			"add_defense": "267",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "106",
+			"add_hp": "750",
+			"add_attack": "582",
+			"add_defense": "300",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "107",
+			"add_hp": "833",
+			"add_attack": "635",
+			"add_defense": "333",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "108",
+			"add_hp": "917",
+			"add_attack": "688",
+			"add_defense": "367",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "109",
+			"add_hp": "1000",
+			"add_attack": "741",
+			"add_defense": "400",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "110",
+			"add_hp": "1083",
+			"add_attack": "794",
+			"add_defense": "433",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "111",
+			"add_hp": "1139",
+			"add_attack": "812",
+			"add_defense": "456",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "112",
+			"add_hp": "1194",
+			"add_attack": "829",
+			"add_defense": "478",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "113",
+			"add_hp": "1250",
+			"add_attack": "847",
+			"add_defense": "500",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "114",
+			"add_hp": "1306",
+			"add_attack": "865",
+			"add_defense": "522",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "115",
+			"add_hp": "1361",
+			"add_attack": "882",
+			"add_defense": "544",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "116",
+			"add_hp": "1389",
+			"add_attack": "886",
+			"add_defense": "556",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "117",
+			"add_hp": "1417",
+			"add_attack": "889",
+			"add_defense": "567",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "118",
+			"add_hp": "1444",
+			"add_attack": "893",
+			"add_defense": "578",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "119",
+			"add_hp": "1472",
+			"add_attack": "896",
+			"add_defense": "589",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5001",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "100",
+			"add_hp": "120",
+			"add_attack": "124",
+			"add_defense": "120",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "101",
+			"add_hp": "220",
+			"add_attack": "186",
+			"add_defense": "152",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "102",
+			"add_hp": "320",
+			"add_attack": "248",
+			"add_defense": "184",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "103",
+			"add_hp": "420",
+			"add_attack": "310",
+			"add_defense": "216",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "104",
+			"add_hp": "520",
+			"add_attack": "372",
+			"add_defense": "248",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "105",
+			"add_hp": "600",
+			"add_attack": "434",
+			"add_defense": "280",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "106",
+			"add_hp": "680",
+			"add_attack": "481",
+			"add_defense": "305",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "107",
+			"add_hp": "760",
+			"add_attack": "528",
+			"add_defense": "331",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "108",
+			"add_hp": "840",
+			"add_attack": "574",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "109",
+			"add_hp": "920",
+			"add_attack": "621",
+			"add_defense": "382",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "110",
+			"add_hp": "1000",
+			"add_attack": "667",
+			"add_defense": "408",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "111",
+			"add_hp": "1060",
+			"add_attack": "698",
+			"add_defense": "429",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "112",
+			"add_hp": "1120",
+			"add_attack": "729",
+			"add_defense": "451",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "113",
+			"add_hp": "1180",
+			"add_attack": "760",
+			"add_defense": "472",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "114",
+			"add_hp": "1240",
+			"add_attack": "791",
+			"add_defense": "493",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "115",
+			"add_hp": "1300",
+			"add_attack": "822",
+			"add_defense": "515",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "116",
+			"add_hp": "1340",
+			"add_attack": "838",
+			"add_defense": "532",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "117",
+			"add_hp": "1380",
+			"add_attack": "853",
+			"add_defense": "549",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "118",
+			"add_hp": "1420",
+			"add_attack": "869",
+			"add_defense": "566",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "119",
+			"add_hp": "1460",
+			"add_attack": "884",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5003",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "100",
+			"add_hp": "94",
+			"add_attack": "61",
+			"add_defense": "97",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "101",
+			"add_hp": "178",
+			"add_attack": "114",
+			"add_defense": "149",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "102",
+			"add_hp": "263",
+			"add_attack": "168",
+			"add_defense": "201",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "103",
+			"add_hp": "347",
+			"add_attack": "221",
+			"add_defense": "253",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "104",
+			"add_hp": "431",
+			"add_attack": "275",
+			"add_defense": "305",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "105",
+			"add_hp": "516",
+			"add_attack": "328",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "106",
+			"add_hp": "591",
+			"add_attack": "374",
+			"add_defense": "383",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "107",
+			"add_hp": "666",
+			"add_attack": "419",
+			"add_defense": "409",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "108",
+			"add_hp": "741",
+			"add_attack": "465",
+			"add_defense": "435",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "109",
+			"add_hp": "816",
+			"add_attack": "511",
+			"add_defense": "461",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "110",
+			"add_hp": "891",
+			"add_attack": "557",
+			"add_defense": "486",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "111",
+			"add_hp": "956",
+			"add_attack": "595",
+			"add_defense": "499",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "112",
+			"add_hp": "1022",
+			"add_attack": "633",
+			"add_defense": "512",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "113",
+			"add_hp": "1088",
+			"add_attack": "671",
+			"add_defense": "525",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "114",
+			"add_hp": "1153",
+			"add_attack": "709",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "115",
+			"add_hp": "1219",
+			"add_attack": "747",
+			"add_defense": "551",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "116",
+			"add_hp": "1275",
+			"add_attack": "778",
+			"add_defense": "561",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "117",
+			"add_hp": "1331",
+			"add_attack": "808",
+			"add_defense": "571",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "118",
+			"add_hp": "1388",
+			"add_attack": "839",
+			"add_defense": "581",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "119",
+			"add_hp": "1444",
+			"add_attack": "869",
+			"add_defense": "590",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5004",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "100",
+			"add_hp": "205",
+			"add_attack": "61",
+			"add_defense": "83",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "101",
+			"add_hp": "341",
+			"add_attack": "114",
+			"add_defense": "141",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "102",
+			"add_hp": "477",
+			"add_attack": "168",
+			"add_defense": "199",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "103",
+			"add_hp": "614",
+			"add_attack": "221",
+			"add_defense": "257",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "104",
+			"add_hp": "750",
+			"add_attack": "275",
+			"add_defense": "314",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "105",
+			"add_hp": "886",
+			"add_attack": "328",
+			"add_defense": "372",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "106",
+			"add_hp": "955",
+			"add_attack": "374",
+			"add_defense": "406",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "107",
+			"add_hp": "1023",
+			"add_attack": "419",
+			"add_defense": "439",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "108",
+			"add_hp": "1091",
+			"add_attack": "465",
+			"add_defense": "472",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "109",
+			"add_hp": "1159",
+			"add_attack": "511",
+			"add_defense": "505",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "110",
+			"add_hp": "1227",
+			"add_attack": "557",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "111",
+			"add_hp": "1261",
+			"add_attack": "595",
+			"add_defense": "546",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "112",
+			"add_hp": "1295",
+			"add_attack": "633",
+			"add_defense": "554",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "113",
+			"add_hp": "1330",
+			"add_attack": "671",
+			"add_defense": "563",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "114",
+			"add_hp": "1364",
+			"add_attack": "709",
+			"add_defense": "571",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "115",
+			"add_hp": "1398",
+			"add_attack": "747",
+			"add_defense": "579",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "116",
+			"add_hp": "1418",
+			"add_attack": "778",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "117",
+			"add_hp": "1439",
+			"add_attack": "808",
+			"add_defense": "588",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "118",
+			"add_hp": "1459",
+			"add_attack": "839",
+			"add_defense": "592",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "119",
+			"add_hp": "1480",
+			"add_attack": "869",
+			"add_defense": "596",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "5005",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "100",
+			"add_hp": "139",
+			"add_attack": "176",
+			"add_defense": "56",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "101",
+			"add_hp": "250",
+			"add_attack": "247",
+			"add_defense": "100",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "102",
+			"add_hp": "361",
+			"add_attack": "318",
+			"add_defense": "144",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "103",
+			"add_hp": "472",
+			"add_attack": "388",
+			"add_defense": "189",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "104",
+			"add_hp": "583",
+			"add_attack": "459",
+			"add_defense": "233",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "105",
+			"add_hp": "667",
+			"add_attack": "529",
+			"add_defense": "267",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "106",
+			"add_hp": "750",
+			"add_attack": "582",
+			"add_defense": "300",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "107",
+			"add_hp": "833",
+			"add_attack": "635",
+			"add_defense": "333",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "108",
+			"add_hp": "917",
+			"add_attack": "688",
+			"add_defense": "367",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "109",
+			"add_hp": "1000",
+			"add_attack": "741",
+			"add_defense": "400",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "110",
+			"add_hp": "1083",
+			"add_attack": "794",
+			"add_defense": "433",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "111",
+			"add_hp": "1139",
+			"add_attack": "812",
+			"add_defense": "456",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "112",
+			"add_hp": "1194",
+			"add_attack": "829",
+			"add_defense": "478",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "113",
+			"add_hp": "1250",
+			"add_attack": "847",
+			"add_defense": "500",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "114",
+			"add_hp": "1306",
+			"add_attack": "865",
+			"add_defense": "522",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "115",
+			"add_hp": "1361",
+			"add_attack": "882",
+			"add_defense": "544",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "116",
+			"add_hp": "1389",
+			"add_attack": "886",
+			"add_defense": "556",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "117",
+			"add_hp": "1417",
+			"add_attack": "889",
+			"add_defense": "567",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "118",
+			"add_hp": "1444",
+			"add_attack": "893",
+			"add_defense": "578",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "119",
+			"add_hp": "1472",
+			"add_attack": "896",
+			"add_defense": "589",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6001",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "100",
+			"add_hp": "120",
+			"add_attack": "124",
+			"add_defense": "120",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "101",
+			"add_hp": "220",
+			"add_attack": "186",
+			"add_defense": "152",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "102",
+			"add_hp": "320",
+			"add_attack": "248",
+			"add_defense": "184",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "103",
+			"add_hp": "420",
+			"add_attack": "310",
+			"add_defense": "216",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "104",
+			"add_hp": "520",
+			"add_attack": "372",
+			"add_defense": "248",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "105",
+			"add_hp": "600",
+			"add_attack": "434",
+			"add_defense": "280",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "106",
+			"add_hp": "680",
+			"add_attack": "481",
+			"add_defense": "305",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "107",
+			"add_hp": "760",
+			"add_attack": "528",
+			"add_defense": "331",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "108",
+			"add_hp": "840",
+			"add_attack": "574",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "109",
+			"add_hp": "920",
+			"add_attack": "621",
+			"add_defense": "382",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "110",
+			"add_hp": "1000",
+			"add_attack": "667",
+			"add_defense": "408",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "111",
+			"add_hp": "1060",
+			"add_attack": "698",
+			"add_defense": "429",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "112",
+			"add_hp": "1120",
+			"add_attack": "729",
+			"add_defense": "451",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "113",
+			"add_hp": "1180",
+			"add_attack": "760",
+			"add_defense": "472",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "114",
+			"add_hp": "1240",
+			"add_attack": "791",
+			"add_defense": "493",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "115",
+			"add_hp": "1300",
+			"add_attack": "822",
+			"add_defense": "515",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "116",
+			"add_hp": "1340",
+			"add_attack": "838",
+			"add_defense": "532",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "117",
+			"add_hp": "1380",
+			"add_attack": "853",
+			"add_defense": "549",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "118",
+			"add_hp": "1420",
+			"add_attack": "869",
+			"add_defense": "566",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "119",
+			"add_hp": "1460",
+			"add_attack": "884",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6003",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "100",
+			"add_hp": "94",
+			"add_attack": "61",
+			"add_defense": "97",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "101",
+			"add_hp": "178",
+			"add_attack": "114",
+			"add_defense": "149",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "102",
+			"add_hp": "263",
+			"add_attack": "168",
+			"add_defense": "201",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "103",
+			"add_hp": "347",
+			"add_attack": "221",
+			"add_defense": "253",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "104",
+			"add_hp": "431",
+			"add_attack": "275",
+			"add_defense": "305",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "105",
+			"add_hp": "516",
+			"add_attack": "328",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "106",
+			"add_hp": "591",
+			"add_attack": "374",
+			"add_defense": "383",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "107",
+			"add_hp": "666",
+			"add_attack": "419",
+			"add_defense": "409",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "108",
+			"add_hp": "741",
+			"add_attack": "465",
+			"add_defense": "435",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "109",
+			"add_hp": "816",
+			"add_attack": "511",
+			"add_defense": "461",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "110",
+			"add_hp": "891",
+			"add_attack": "557",
+			"add_defense": "486",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "111",
+			"add_hp": "956",
+			"add_attack": "595",
+			"add_defense": "499",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "112",
+			"add_hp": "1022",
+			"add_attack": "633",
+			"add_defense": "512",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "113",
+			"add_hp": "1088",
+			"add_attack": "671",
+			"add_defense": "525",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "114",
+			"add_hp": "1153",
+			"add_attack": "709",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "115",
+			"add_hp": "1219",
+			"add_attack": "747",
+			"add_defense": "551",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "116",
+			"add_hp": "1275",
+			"add_attack": "778",
+			"add_defense": "561",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "117",
+			"add_hp": "1331",
+			"add_attack": "808",
+			"add_defense": "571",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "118",
+			"add_hp": "1388",
+			"add_attack": "839",
+			"add_defense": "581",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "119",
+			"add_hp": "1444",
+			"add_attack": "869",
+			"add_defense": "590",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6004",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "100",
+			"add_hp": "205",
+			"add_attack": "61",
+			"add_defense": "83",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "101",
+			"add_hp": "341",
+			"add_attack": "114",
+			"add_defense": "141",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "102",
+			"add_hp": "477",
+			"add_attack": "168",
+			"add_defense": "199",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "103",
+			"add_hp": "614",
+			"add_attack": "221",
+			"add_defense": "257",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "104",
+			"add_hp": "750",
+			"add_attack": "275",
+			"add_defense": "314",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "105",
+			"add_hp": "886",
+			"add_attack": "328",
+			"add_defense": "372",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "106",
+			"add_hp": "955",
+			"add_attack": "374",
+			"add_defense": "406",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "107",
+			"add_hp": "1023",
+			"add_attack": "419",
+			"add_defense": "439",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "108",
+			"add_hp": "1091",
+			"add_attack": "465",
+			"add_defense": "472",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "109",
+			"add_hp": "1159",
+			"add_attack": "511",
+			"add_defense": "505",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "110",
+			"add_hp": "1227",
+			"add_attack": "557",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "111",
+			"add_hp": "1261",
+			"add_attack": "595",
+			"add_defense": "546",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "112",
+			"add_hp": "1295",
+			"add_attack": "633",
+			"add_defense": "554",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "113",
+			"add_hp": "1330",
+			"add_attack": "671",
+			"add_defense": "563",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "114",
+			"add_hp": "1364",
+			"add_attack": "709",
+			"add_defense": "571",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "115",
+			"add_hp": "1398",
+			"add_attack": "747",
+			"add_defense": "579",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "116",
+			"add_hp": "1418",
+			"add_attack": "778",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "117",
+			"add_hp": "1439",
+			"add_attack": "808",
+			"add_defense": "588",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "118",
+			"add_hp": "1459",
+			"add_attack": "839",
+			"add_defense": "592",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "119",
+			"add_hp": "1480",
+			"add_attack": "869",
+			"add_defense": "596",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "6005",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "100",
+			"add_hp": "139",
+			"add_attack": "176",
+			"add_defense": "56",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "101",
+			"add_hp": "250",
+			"add_attack": "247",
+			"add_defense": "100",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "102",
+			"add_hp": "361",
+			"add_attack": "318",
+			"add_defense": "144",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "103",
+			"add_hp": "472",
+			"add_attack": "388",
+			"add_defense": "189",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "104",
+			"add_hp": "583",
+			"add_attack": "459",
+			"add_defense": "233",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "105",
+			"add_hp": "667",
+			"add_attack": "529",
+			"add_defense": "267",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "106",
+			"add_hp": "750",
+			"add_attack": "582",
+			"add_defense": "300",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "107",
+			"add_hp": "833",
+			"add_attack": "635",
+			"add_defense": "333",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "108",
+			"add_hp": "917",
+			"add_attack": "688",
+			"add_defense": "367",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "109",
+			"add_hp": "1000",
+			"add_attack": "741",
+			"add_defense": "400",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "110",
+			"add_hp": "1083",
+			"add_attack": "794",
+			"add_defense": "433",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "111",
+			"add_hp": "1139",
+			"add_attack": "812",
+			"add_defense": "456",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "112",
+			"add_hp": "1194",
+			"add_attack": "829",
+			"add_defense": "478",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "113",
+			"add_hp": "1250",
+			"add_attack": "847",
+			"add_defense": "500",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "114",
+			"add_hp": "1306",
+			"add_attack": "865",
+			"add_defense": "522",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "115",
+			"add_hp": "1361",
+			"add_attack": "882",
+			"add_defense": "544",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "116",
+			"add_hp": "1389",
+			"add_attack": "886",
+			"add_defense": "556",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "117",
+			"add_hp": "1417",
+			"add_attack": "889",
+			"add_defense": "567",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "118",
+			"add_hp": "1444",
+			"add_attack": "893",
+			"add_defense": "578",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "119",
+			"add_hp": "1472",
+			"add_attack": "896",
+			"add_defense": "589",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7001",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "100",
+			"add_hp": "120",
+			"add_attack": "124",
+			"add_defense": "120",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "101",
+			"add_hp": "220",
+			"add_attack": "186",
+			"add_defense": "152",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "102",
+			"add_hp": "320",
+			"add_attack": "248",
+			"add_defense": "184",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "103",
+			"add_hp": "420",
+			"add_attack": "310",
+			"add_defense": "216",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "104",
+			"add_hp": "520",
+			"add_attack": "372",
+			"add_defense": "248",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "105",
+			"add_hp": "600",
+			"add_attack": "434",
+			"add_defense": "280",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "106",
+			"add_hp": "680",
+			"add_attack": "481",
+			"add_defense": "305",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "107",
+			"add_hp": "760",
+			"add_attack": "528",
+			"add_defense": "331",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "108",
+			"add_hp": "840",
+			"add_attack": "574",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "109",
+			"add_hp": "920",
+			"add_attack": "621",
+			"add_defense": "382",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "110",
+			"add_hp": "1000",
+			"add_attack": "667",
+			"add_defense": "408",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "111",
+			"add_hp": "1060",
+			"add_attack": "698",
+			"add_defense": "429",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "112",
+			"add_hp": "1120",
+			"add_attack": "729",
+			"add_defense": "451",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "113",
+			"add_hp": "1180",
+			"add_attack": "760",
+			"add_defense": "472",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "114",
+			"add_hp": "1240",
+			"add_attack": "791",
+			"add_defense": "493",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "115",
+			"add_hp": "1300",
+			"add_attack": "822",
+			"add_defense": "515",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "116",
+			"add_hp": "1340",
+			"add_attack": "838",
+			"add_defense": "532",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "117",
+			"add_hp": "1380",
+			"add_attack": "853",
+			"add_defense": "549",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "118",
+			"add_hp": "1420",
+			"add_attack": "869",
+			"add_defense": "566",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "119",
+			"add_hp": "1460",
+			"add_attack": "884",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7003",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "100",
+			"add_hp": "94",
+			"add_attack": "61",
+			"add_defense": "97",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "101",
+			"add_hp": "178",
+			"add_attack": "114",
+			"add_defense": "149",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "102",
+			"add_hp": "263",
+			"add_attack": "168",
+			"add_defense": "201",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "103",
+			"add_hp": "347",
+			"add_attack": "221",
+			"add_defense": "253",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "104",
+			"add_hp": "431",
+			"add_attack": "275",
+			"add_defense": "305",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "105",
+			"add_hp": "516",
+			"add_attack": "328",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "106",
+			"add_hp": "591",
+			"add_attack": "374",
+			"add_defense": "383",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "107",
+			"add_hp": "666",
+			"add_attack": "419",
+			"add_defense": "409",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "108",
+			"add_hp": "741",
+			"add_attack": "465",
+			"add_defense": "435",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "109",
+			"add_hp": "816",
+			"add_attack": "511",
+			"add_defense": "461",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "110",
+			"add_hp": "891",
+			"add_attack": "557",
+			"add_defense": "486",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "111",
+			"add_hp": "956",
+			"add_attack": "595",
+			"add_defense": "499",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "112",
+			"add_hp": "1022",
+			"add_attack": "633",
+			"add_defense": "512",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "113",
+			"add_hp": "1088",
+			"add_attack": "671",
+			"add_defense": "525",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "114",
+			"add_hp": "1153",
+			"add_attack": "709",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "115",
+			"add_hp": "1219",
+			"add_attack": "747",
+			"add_defense": "551",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "116",
+			"add_hp": "1275",
+			"add_attack": "778",
+			"add_defense": "561",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "117",
+			"add_hp": "1331",
+			"add_attack": "808",
+			"add_defense": "571",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "118",
+			"add_hp": "1388",
+			"add_attack": "839",
+			"add_defense": "581",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "119",
+			"add_hp": "1444",
+			"add_attack": "869",
+			"add_defense": "590",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7004",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "100",
+			"add_hp": "205",
+			"add_attack": "61",
+			"add_defense": "83",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "101",
+			"add_hp": "341",
+			"add_attack": "114",
+			"add_defense": "141",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "102",
+			"add_hp": "477",
+			"add_attack": "168",
+			"add_defense": "199",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "103",
+			"add_hp": "614",
+			"add_attack": "221",
+			"add_defense": "257",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "104",
+			"add_hp": "750",
+			"add_attack": "275",
+			"add_defense": "314",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "105",
+			"add_hp": "886",
+			"add_attack": "328",
+			"add_defense": "372",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "106",
+			"add_hp": "955",
+			"add_attack": "374",
+			"add_defense": "406",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "107",
+			"add_hp": "1023",
+			"add_attack": "419",
+			"add_defense": "439",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "108",
+			"add_hp": "1091",
+			"add_attack": "465",
+			"add_defense": "472",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "109",
+			"add_hp": "1159",
+			"add_attack": "511",
+			"add_defense": "505",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "110",
+			"add_hp": "1227",
+			"add_attack": "557",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "111",
+			"add_hp": "1261",
+			"add_attack": "595",
+			"add_defense": "546",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "112",
+			"add_hp": "1295",
+			"add_attack": "633",
+			"add_defense": "554",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "113",
+			"add_hp": "1330",
+			"add_attack": "671",
+			"add_defense": "563",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "114",
+			"add_hp": "1364",
+			"add_attack": "709",
+			"add_defense": "571",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "115",
+			"add_hp": "1398",
+			"add_attack": "747",
+			"add_defense": "579",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "116",
+			"add_hp": "1418",
+			"add_attack": "778",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "117",
+			"add_hp": "1439",
+			"add_attack": "808",
+			"add_defense": "588",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "118",
+			"add_hp": "1459",
+			"add_attack": "839",
+			"add_defense": "592",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "119",
+			"add_hp": "1480",
+			"add_attack": "869",
+			"add_defense": "596",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7005",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "100",
+			"add_hp": "139",
+			"add_attack": "176",
+			"add_defense": "56",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "101",
+			"add_hp": "250",
+			"add_attack": "247",
+			"add_defense": "100",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "102",
+			"add_hp": "361",
+			"add_attack": "318",
+			"add_defense": "144",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "103",
+			"add_hp": "472",
+			"add_attack": "388",
+			"add_defense": "189",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "104",
+			"add_hp": "583",
+			"add_attack": "459",
+			"add_defense": "233",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "105",
+			"add_hp": "667",
+			"add_attack": "529",
+			"add_defense": "267",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "106",
+			"add_hp": "750",
+			"add_attack": "582",
+			"add_defense": "300",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "107",
+			"add_hp": "833",
+			"add_attack": "635",
+			"add_defense": "333",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "108",
+			"add_hp": "917",
+			"add_attack": "688",
+			"add_defense": "367",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "109",
+			"add_hp": "1000",
+			"add_attack": "741",
+			"add_defense": "400",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "110",
+			"add_hp": "1083",
+			"add_attack": "794",
+			"add_defense": "433",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "111",
+			"add_hp": "1139",
+			"add_attack": "812",
+			"add_defense": "456",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "112",
+			"add_hp": "1194",
+			"add_attack": "829",
+			"add_defense": "478",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "113",
+			"add_hp": "1250",
+			"add_attack": "847",
+			"add_defense": "500",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "114",
+			"add_hp": "1306",
+			"add_attack": "865",
+			"add_defense": "522",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "115",
+			"add_hp": "1361",
+			"add_attack": "882",
+			"add_defense": "544",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "116",
+			"add_hp": "1389",
+			"add_attack": "886",
+			"add_defense": "556",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "117",
+			"add_hp": "1417",
+			"add_attack": "889",
+			"add_defense": "567",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "118",
+			"add_hp": "1444",
+			"add_attack": "893",
+			"add_defense": "578",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "119",
+			"add_hp": "1472",
+			"add_attack": "896",
+			"add_defense": "589",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7101",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "100",
+			"add_hp": "120",
+			"add_attack": "124",
+			"add_defense": "120",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "101",
+			"add_hp": "220",
+			"add_attack": "186",
+			"add_defense": "152",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "102",
+			"add_hp": "320",
+			"add_attack": "248",
+			"add_defense": "184",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "103",
+			"add_hp": "420",
+			"add_attack": "310",
+			"add_defense": "216",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "104",
+			"add_hp": "520",
+			"add_attack": "372",
+			"add_defense": "248",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "105",
+			"add_hp": "600",
+			"add_attack": "434",
+			"add_defense": "280",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "106",
+			"add_hp": "680",
+			"add_attack": "481",
+			"add_defense": "305",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "107",
+			"add_hp": "760",
+			"add_attack": "528",
+			"add_defense": "331",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "108",
+			"add_hp": "840",
+			"add_attack": "574",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "109",
+			"add_hp": "920",
+			"add_attack": "621",
+			"add_defense": "382",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "110",
+			"add_hp": "1000",
+			"add_attack": "667",
+			"add_defense": "408",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "111",
+			"add_hp": "1060",
+			"add_attack": "698",
+			"add_defense": "429",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "112",
+			"add_hp": "1120",
+			"add_attack": "729",
+			"add_defense": "451",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "113",
+			"add_hp": "1180",
+			"add_attack": "760",
+			"add_defense": "472",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "114",
+			"add_hp": "1240",
+			"add_attack": "791",
+			"add_defense": "493",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "115",
+			"add_hp": "1300",
+			"add_attack": "822",
+			"add_defense": "515",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "116",
+			"add_hp": "1340",
+			"add_attack": "838",
+			"add_defense": "532",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "117",
+			"add_hp": "1380",
+			"add_attack": "853",
+			"add_defense": "549",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "118",
+			"add_hp": "1420",
+			"add_attack": "869",
+			"add_defense": "566",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "119",
+			"add_hp": "1460",
+			"add_attack": "884",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7103",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "100",
+			"add_hp": "94",
+			"add_attack": "61",
+			"add_defense": "97",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "101",
+			"add_hp": "178",
+			"add_attack": "114",
+			"add_defense": "149",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "102",
+			"add_hp": "263",
+			"add_attack": "168",
+			"add_defense": "201",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "103",
+			"add_hp": "347",
+			"add_attack": "221",
+			"add_defense": "253",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "104",
+			"add_hp": "431",
+			"add_attack": "275",
+			"add_defense": "305",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "105",
+			"add_hp": "516",
+			"add_attack": "328",
+			"add_defense": "357",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "106",
+			"add_hp": "591",
+			"add_attack": "374",
+			"add_defense": "383",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "107",
+			"add_hp": "666",
+			"add_attack": "419",
+			"add_defense": "409",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "108",
+			"add_hp": "741",
+			"add_attack": "465",
+			"add_defense": "435",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "109",
+			"add_hp": "816",
+			"add_attack": "511",
+			"add_defense": "461",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "110",
+			"add_hp": "891",
+			"add_attack": "557",
+			"add_defense": "486",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "111",
+			"add_hp": "956",
+			"add_attack": "595",
+			"add_defense": "499",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "112",
+			"add_hp": "1022",
+			"add_attack": "633",
+			"add_defense": "512",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "113",
+			"add_hp": "1088",
+			"add_attack": "671",
+			"add_defense": "525",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "114",
+			"add_hp": "1153",
+			"add_attack": "709",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "115",
+			"add_hp": "1219",
+			"add_attack": "747",
+			"add_defense": "551",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "116",
+			"add_hp": "1275",
+			"add_attack": "778",
+			"add_defense": "561",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "117",
+			"add_hp": "1331",
+			"add_attack": "808",
+			"add_defense": "571",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "118",
+			"add_hp": "1388",
+			"add_attack": "839",
+			"add_defense": "581",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "119",
+			"add_hp": "1444",
+			"add_attack": "869",
+			"add_defense": "590",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7104",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "100",
+			"add_hp": "205",
+			"add_attack": "61",
+			"add_defense": "83",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "101",
+			"add_hp": "341",
+			"add_attack": "114",
+			"add_defense": "141",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "102",
+			"add_hp": "477",
+			"add_attack": "168",
+			"add_defense": "199",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "103",
+			"add_hp": "614",
+			"add_attack": "221",
+			"add_defense": "257",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "104",
+			"add_hp": "750",
+			"add_attack": "275",
+			"add_defense": "314",
+			"add_speed": "2"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "105",
+			"add_hp": "886",
+			"add_attack": "328",
+			"add_defense": "372",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "106",
+			"add_hp": "955",
+			"add_attack": "374",
+			"add_defense": "406",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "107",
+			"add_hp": "1023",
+			"add_attack": "419",
+			"add_defense": "439",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "108",
+			"add_hp": "1091",
+			"add_attack": "465",
+			"add_defense": "472",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "109",
+			"add_hp": "1159",
+			"add_attack": "511",
+			"add_defense": "505",
+			"add_speed": "4"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "110",
+			"add_hp": "1227",
+			"add_attack": "557",
+			"add_defense": "538",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "111",
+			"add_hp": "1261",
+			"add_attack": "595",
+			"add_defense": "546",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "112",
+			"add_hp": "1295",
+			"add_attack": "633",
+			"add_defense": "554",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "113",
+			"add_hp": "1330",
+			"add_attack": "671",
+			"add_defense": "563",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "114",
+			"add_hp": "1364",
+			"add_attack": "709",
+			"add_defense": "571",
+			"add_speed": "6"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "115",
+			"add_hp": "1398",
+			"add_attack": "747",
+			"add_defense": "579",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "116",
+			"add_hp": "1418",
+			"add_attack": "778",
+			"add_defense": "583",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "117",
+			"add_hp": "1439",
+			"add_attack": "808",
+			"add_defense": "588",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "118",
+			"add_hp": "1459",
+			"add_attack": "839",
+			"add_defense": "592",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "119",
+			"add_hp": "1480",
+			"add_attack": "869",
+			"add_defense": "596",
+			"add_speed": "8"
+		},
+		{
+			"parameter_pattern_id": "7105",
+			"level": "120",
+			"add_hp": "1500",
+			"add_attack": "900",
+			"add_defense": "600",
+			"add_speed": "10"
+		}
+	]
+}

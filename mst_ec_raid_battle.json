@@ -1,0 +1,24 @@
+{
+	"masterRows": [
+		{
+			"ec_battle_id": "2001",
+			"filter_value": "{\"level_min\":3,\"level_max\":3}"
+		},
+		{
+			"ec_battle_id": "2002",
+			"filter_value": "{\"level_min\":4,\"level_max\":4}"
+		},
+		{
+			"ec_battle_id": "2003",
+			"filter_value": "{\"level_min\":5,\"level_max\":5}"
+		},
+		{
+			"ec_battle_id": "2004",
+			"filter_value": "{\"level_min\":6,\"level_max\":7}"
+		},
+		{
+			"ec_battle_id": "2005",
+			"filter_value": "{\"level_min\":8,\"level_max\":8}"
+		}
+	]
+}

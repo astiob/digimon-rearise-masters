@@ -274,7 +274,7 @@
 		},
 		{
 			"text_id": "1001001",
-			"text": "This account has been suspended because we have confirmed a violation against the Terms of Service.\nFor details, please see Menu > Other > Terms of Service.\nPlease send us an inquiry within 1 month if you wish to reactivate your account."
+			"text": "This account has been suspended because we have confirmed a violation against the Terms of Service.\n For details, please see Menu > Other > Terms of Service.\n Please send us an inquiry within 1 month if you wish to reactivate your account."
 		},
 		{
 			"text_id": "1002",
@@ -810,11 +810,11 @@
 		},
 		{
 			"text_id": "1067",
-			"text": "Lv.<size=\"28\">{0}</size>"
+			"text": "Lv.<size=\"28\"> {0}</size>"
 		},
 		{
 			"text_id": "1068",
-			"text": "Lv.<size=\"20\">{0}</size>"
+			"text": "Lv.<size=\"20\"> {0}</size>"
 		},
 		{
 			"text_id": "1069",
@@ -970,7 +970,7 @@
 		},
 		{
 			"text_id": "1081",
-			"text": "Main Story"
+			"text": "Story"
 		},
 		{
 			"text_id": "1082",
@@ -2190,7 +2190,7 @@
 		},
 		{
 			"text_id": "1356",
-			"text": "Not enough bit to Upgrade.\n<br>Earn bit in the Main Story Quests\nand Dimensional Vortexes."
+			"text": "Not enough bit to Upgrade.\n<br>Earn bit in the Story Quests\nand Dimensional Vortexes."
 		},
 		{
 			"text_id": "1357",
@@ -2422,7 +2422,7 @@
 		},
 		{
 			"text_id": "1408",
-			"text": "Not enough bit to Awaken.\nEarn bit in the Main Story Quests\nand Dimensional Vortexes."
+			"text": "Not enough bit to Awaken.\nEarn bit in the Story Quests\nand Dimensional Vortexes."
 		},
 		{
 			"text_id": "1409",
@@ -2890,7 +2890,7 @@
 		},
 		{
 			"text_id": "1513",
-			"text": "Clash Battles can be triggered by\nclearing quests in the Main Story or in the Dimensional Vortexes.\nDefeat powerful enemies and win DGV-Codes!"
+			"text": "Clash Battles can be triggered by\nclearing quests in the Story or in the Dimensional Vortexes.\nDefeat powerful enemies and win DGV-Codes!"
 		},
 		{
 			"text_id": "1514",
@@ -3078,7 +3078,7 @@
 		},
 		{
 			"text_id": "1556",
-			"text": "Not enough bit to Digivolve.\n<br>Earn bit in the Main Story Quests\nand Dimensional Vortexes."
+			"text": "Not enough bit to Digivolve.\n<br>Earn bit in the Story Quests\nand Dimensional Vortexes."
 		},
 		{
 			"text_id": "1557",
@@ -3722,11 +3722,11 @@
 		},
 		{
 			"text_id": "1701",
-			"text": "訳が無い"
+			"text": "表記する必要なし"
 		},
 		{
 			"text_id": "1702",
-			"text": "訳が無い"
+			"text": "表記する必要なし"
 		},
 		{
 			"text_id": "1703",
@@ -4046,7 +4046,7 @@
 		},
 		{
 			"text_id": "1775",
-			"text": "お昼クエストは毎日{0}～{1}まで開催しているぞ！"
+			"text": "Lunchtime Quests are available every day from {0}–{1}!"
 		},
 		{
 			"text_id": "1776",
@@ -4370,7 +4370,7 @@
 		},
 		{
 			"text_id": "1848",
-			"text": "ガシャが終了次第チケットは使用できなくなります"
+			"text": "*Once the Summon is over, you can no longer use your tickets."
 		},
 		{
 			"text_id": "1849",
@@ -4382,7 +4382,7 @@
 		},
 		{
 			"text_id": "1850",
-			"text": "<color=#C7221DFF>{0}</color>を\n<color=#C7221DFF>{1}</color>枚使用します。\nよろしいですか？"
+			"text": "Do you want to use<color=#C7221DFF>{1}</color>\n<color=#C7221DFF>{0}</color>tickets?"
 		},
 		{
 			"text_id": "1851",
@@ -4402,7 +4402,7 @@
 		},
 		{
 			"text_id": "1855",
-			"text": "タイムゾーン（時間帯）が日本以外に設定されているため、正常に動作しない場合があります。\n一度アプリを終了し、端末設定からタイムゾーンを日本に設定のうえ、ゲーム開始をお願いいたします。"
+			"text": "This function may not run normally if your time zone is set outside of Japan.\nIf a problem occurs, please close the application, set your time zone to Japan Standard Time (JST), and restart the game."
 		},
 		{
 			"text_id": "1856",
@@ -4410,11 +4410,11 @@
 		},
 		{
 			"text_id": "1857",
-			"text": "<color=#C7221DFF>{0}</color>が\n足りません。"
+			"text": "Not enough\n<color=#C7221DFF>{0}</color>."
 		},
 		{
 			"text_id": "1858",
-			"text": "<color=#C7221DFF>{0}</color>枚不足しています"
+			"text": "You need <color=#C7221DFF>{0}</color> more tickets."
 		},
 		{
 			"text_id": "1859",
@@ -4426,15 +4426,15 @@
 		},
 		{
 			"text_id": "1860",
-			"text": "ドラモンキラー"
+			"text": "Dramon Killer"
 		},
 		{
 			"text_id": "1861",
-			"text": "オートリバイブ"
+			"text": "Auto Revive"
 		},
 		{
 			"text_id": "1862",
-			"text": "PWR・TEC・DEFアップ、ダメージ耐性アップ効果"
+			"text": "PWR, TEC, DEF, and Damage Resist Up"
 		},
 		{
 			"text_id": "1863",
@@ -4442,19 +4442,19 @@
 		},
 		{
 			"text_id": "1864",
-			"text": "ロスト"
+			"text": "Fade"
 		},
 		{
 			"text_id": "1865",
-			"text": "カバー"
+			"text": "Cover"
 		},
 		{
 			"text_id": "1866",
-			"text": "HP回復量"
+			"text": "Amount of HP Recovered"
 		},
 		{
 			"text_id": "1867",
-			"text": "カバー"
+			"text": "Cover"
 		},
 		{
 			"text_id": "1868",
@@ -4506,7 +4506,7 @@
 		},
 		{
 			"text_id": "1879",
-			"text": "Ally Digimon Fallen"
+			"text": "Crushing Victory Bonus"
 		},
 		{
 			"text_id": "188",
@@ -4514,7 +4514,7 @@
 		},
 		{
 			"text_id": "1880",
-			"text": "Enemy Digimon Defeated"
+			"text": "Close Match Bonus"
 		},
 		{
 			"text_id": "1881",
@@ -4570,7 +4570,7 @@
 		},
 		{
 			"text_id": "1893",
-			"text": "\n"
+			"text": "\\n"
 		},
 		{
 			"text_id": "1894",
@@ -4766,7 +4766,7 @@
 		},
 		{
 			"text_id": "1937",
-			"text": "Main Story"
+			"text": "Story"
 		},
 		{
 			"text_id": "1938",
@@ -4838,7 +4838,7 @@
 		},
 		{
 			"text_id": "1953",
-			"text": "Displays trending Digimon from the previous Season (updated at the start of each Season)."
+			"text": "Displays the top 100 trending Digimon from the previous Season (updated at the start of each Season)."
 		},
 		{
 			"text_id": "1954",
@@ -4962,7 +4962,7 @@
 		},
 		{
 			"text_id": "1989",
-			"text": "Main Story"
+			"text": "Story"
 		},
 		{
 			"text_id": "199",
@@ -5186,7 +5186,7 @@
 		},
 		{
 			"text_id": "2006001",
-			"text": "Special attacks won't trigger during Auto play,\nand must be activated manually."
+			"text": "Specials won't be used during Auto play\nand must be activated manually. (Can be changed via Settings in the pause button menu.)"
 		},
 		{
 			"text_id": "2006002",
@@ -5618,7 +5618,7 @@
 		},
 		{
 			"text_id": "2018001",
-			"text": "Just gotta access the Battle Park, and..."
+			"text": "First, we have to access it... There!"
 		},
 		{
 			"text_id": "2018002",
@@ -5626,7 +5626,7 @@
 		},
 		{
 			"text_id": "2018003",
-			"text": "This is so exciting!"
+			"text": "I'm kinda getting fired up...!"
 		},
 		{
 			"text_id": "2018004",
@@ -5854,7 +5854,7 @@
 		},
 		{
 			"text_id": "2024000",
-			"text": "Combine Digimon with the same\n<color=#ffea3c>Digivolution chain</color> to upgrade their <color=#ffea3c>Skills</color>."
+			"text": "Combine Digimon with the same <color=#ffea3c>Digivolution Chain</color> \nand use <color=#ffea3c>Skill Stones</color> to upgrade their <color=#ffea3c>Skills</color>."
 		},
 		{
 			"text_id": "2024001",
@@ -5862,7 +5862,7 @@
 		},
 		{
 			"text_id": "2024002",
-			"text": "Digimon used for combining will be lost, but the\nbase Digimon's <color=#ffea3c>Skill Level</color> increases by one."
+			"text": "When used for combining, Digimon and Skill Stones will be \nlost, and the base Digimon's <color=#ffea3c>Skill Level</color> will increase."
 		},
 		{
 			"text_id": "2024004",
@@ -5878,7 +5878,7 @@
 		},
 		{
 			"text_id": "2024008",
-			"text": "Power up your Digimon through  <color=#ffea3c>Digivolutions</color>!"
+			"text": "Power up your Digimon through <color=#ffea3c>Digivolutions</color> and\n<color=#ffea3c>upgrading their Skill Level</color>!"
 		},
 		{
 			"text_id": "2024009",
@@ -6094,7 +6094,7 @@
 		},
 		{
 			"text_id": "2031001",
-			"text": "Decorations"
+			"text": "Deco"
 		},
 		{
 			"text_id": "2032",
@@ -6150,15 +6150,15 @@
 		},
 		{
 			"text_id": "2035004",
-			"text": "You can earn BP Medals \njust by taking part in Battle Park."
+			"text": "You can obtain BP Medals just by\nparticipating in the Battle Park."
 		},
 		{
 			"text_id": "2035005",
-			"text": "You can exchange BP medals for\ndecorations and DigiEggs."
+			"text": "You can exchange BP Medals at the Shop for items like DigiEggs and Plugins\nwhich are useful for training and upgrading your Digimon."
 		},
 		{
 			"text_id": "2035006",
-			"text": "Also, get DigiRubies & BP Medals depending on\nyour Weekly Season Results. Don't miss out!"
+			"text": "Every week, DigiRubies and BP Medals can be obtained depending\non your results at the end of every season, so try it out!"
 		},
 		{
 			"text_id": "2036001",
@@ -6458,11 +6458,11 @@
 		},
 		{
 			"text_id": "2154",
-			"text": "<size=20>献身ブースト</size>キャンペーン！"
+			"text": "<size=20>Devoted Boost</size> Campaign!"
 		},
 		{
 			"text_id": "2155",
-			"text": "<size=20>献身</size>のステータス<size=20>30%</size>UP！"
+			"text": "<size=20>Devoted</size> Stats <size=20>30%</size> up!"
 		},
 		{
 			"text_id": "2158",
@@ -6506,15 +6506,15 @@
 		},
 		{
 			"text_id": "2168",
-			"text": "獲得BPポイント<size=20>特大</size>UP！"
+			"text": "Even <size=20>More</size> BP Points!"
 		},
 		{
 			"text_id": "2169",
-			"text": "<size=20>天使系ブースト</size>キャンペーン！"
+			"text": "<size=20>Angelic Boost</size> Campaign!"
 		},
 		{
 			"text_id": "2170",
-			"text": "<size=20>天使系</size>のステータス<size=20>30%</size>UP！"
+			"text": "<size=20>Angelic</size> Stats <size=20>30%</size> up!"
 		},
 		{
 			"text_id": "2171",
@@ -6530,7 +6530,7 @@
 		},
 		{
 			"text_id": "2174",
-			"text": "開催時期 : 2019/01/14 23:59まで"
+			"text": "Event Period: Until 01/14/2020 11:59 PM"
 		},
 		{
 			"text_id": "2175",
@@ -6642,11 +6642,11 @@
 		},
 		{
 			"text_id": "2202",
-			"text": "<size=20>完全体ブースト</size>キャンペーン！"
+			"text": "<size=20>Ultimate Boost</size> Campaign!"
 		},
 		{
 			"text_id": "2203",
-			"text": "<size=20>完全体ブースト</size>開催中！"
+			"text": "<size=20>Ultimate Boost</size> Available!"
 		},
 		{
 			"text_id": "2204",
@@ -6666,7 +6666,7 @@
 		},
 		{
 			"text_id": "2208",
-			"text": "<sprite=1>×{0}"
+			"text": "<sprite=1>x{0}"
 		},
 		{
 			"text_id": "2209",
@@ -6842,7 +6842,7 @@
 		},
 		{
 			"text_id": "2248",
-			"text": "Event Period: Until [datetime_week]2019/12/10 11:59:59[/datetime_week]"
+			"text": "Event Period: Until {0}"
 		},
 		{
 			"text_id": "2249",
@@ -6990,7 +6990,7 @@
 		},
 		{
 			"text_id": "2281",
-			"text": "開催時期 : 2019/04/01 11:59まで"
+			"text": "Event Period: Until 04/01/2020 11:59 AM"
 		},
 		{
 			"text_id": "2282",
@@ -7034,11 +7034,11 @@
 		},
 		{
 			"text_id": "2291",
-			"text": "バトルパーク2"
+			"text": "Battle Park 2"
 		},
 		{
 			"text_id": "2292",
-			"text": "バトルパーク3"
+			"text": "Battle Park 3"
 		},
 		{
 			"text_id": "2294",
@@ -7242,11 +7242,11 @@
 		},
 		{
 			"text_id": "2318",
-			"text": "Limited {0} time(s) per day! <color=#eaff00>{1}</color> more time(s) available!"
+			"text": "Limited {0} time(s) s day! <color=#eaff00>{1}</color> more"
 		},
 		{
 			"text_id": "2319",
-			"text": "毎週{0}回限定! あと<color=#eaff00>{1}</color>回"
+			"text": "Limited {0} time(s) per week! <color=#eaff00>{1}</color> more times(s) available!"
 		},
 		{
 			"text_id": "232",
@@ -7254,11 +7254,11 @@
 		},
 		{
 			"text_id": "2320",
-			"text": "毎月{0}回限定! あと<color=#eaff00>{1}</color>回"
+			"text": "Limited {0} time(s) per month! <color=#eaff00>{1}</color> more time(s) available!"
 		},
 		{
 			"text_id": "2321",
-			"text": "Today's Max Attempts reached."
+			"text": "Today's max attempts reached"
 		},
 		{
 			"text_id": "2322",
@@ -7270,15 +7270,15 @@
 		},
 		{
 			"text_id": "2324",
-			"text": "このエリアは本日分挑戦済みです。 \n<br>挑戦回数は毎日{0}:{1:D2}にリセットされます。"
+			"text": "Attempts will reset every Saturday and Sunday at\n<br>{0}:{1:D2}(JST)."
 		},
 		{
 			"text_id": "2325",
-			"text": "このエリアは今週分挑戦済みです。\n<br>挑戦回数は\n毎週月曜日{0}:{1:D2}にリセットされます。"
+			"text": "This week's Max Attempts has been reached for this area.\n<br>Attempts\nwill reset every Monday at {0}:{1:D2} (JST)."
 		},
 		{
 			"text_id": "2326",
-			"text": "このエリアは今月分挑戦済みです。\n<br>挑戦回数は\n毎月1日{0}:{1:D2}にリセットされます。"
+			"text": "This month's Max Attempts has been reached for this area.\n<br>Attempts\nwill reset on the 1st of the month {0}:{1:D2}JST."
 		},
 		{
 			"text_id": "2327",
@@ -7354,11 +7354,11 @@
 		},
 		{
 			"text_id": "2346",
-			"text": "デジアド20thスタート記念ブーストキャンペーン！"
+			"text": "20th Digi-Adv. Anniversary Boost Campaign!"
 		},
 		{
 			"text_id": "2347",
-			"text": "デジアド20thスタート記念ブースト開催中！"
+			"text": "20th Digi-Adv. Anniversary Boost Campaign Now Available!"
 		},
 		{
 			"text_id": "2348",
@@ -7386,11 +7386,11 @@
 		},
 		{
 			"text_id": "2358",
-			"text": "開催時期 : 2019/04/25 11:59まで"
+			"text": "Event Period: Until 04/25/2020 11:59 AM"
 		},
 		{
 			"text_id": "2359",
-			"text": "When going on a Quest in Main Story or Dimensional Vortex, Clash Battles can occur.\n<br>You can also use Clash Battle Search to generate a past Clash Battle.\n<br>Win them to obtain DGV-Code!"
+			"text": "When going on a Quest in Story or Dimensional Vortex, Clash Battles can occur.\n<br>You can also use Clash Battle Search to generate a past Clash Battle.\n<br>Win them to obtain DGV-Code!"
 		},
 		{
 			"text_id": "236",
@@ -7594,19 +7594,19 @@
 		},
 		{
 			"text_id": "2404",
-			"text": "さぁ、どこまでできる？ \n俺を楽しませてみせろ！"
+			"text": "Let's see how far you can go.\nKeep me entertained!"
 		},
 		{
 			"text_id": "2405",
-			"text": "てめぇの実力を見せてみろ"
+			"text": "Show me your true power!"
 		},
 		{
 			"text_id": "2406",
-			"text": "やるじゃねぇか \n少しは認めてやる"
+			"text": "Not bad.\nI guess you're not completely worthless."
 		},
 		{
 			"text_id": "2407",
-			"text": "ベルゼブモン"
+			"text": "Beelzemon"
 		},
 		{
 			"text_id": "2408",
@@ -7625,6 +7625,18 @@
 			"text": "Upgrade\nEvolve"
 		},
 		{
+			"text_id": "2411",
+			"text": "BON/Unique Plugins"
+		},
+		{
+			"text_id": "2412",
+			"text": "Rank S Special"
+		},
+		{
+			"text_id": "2413",
+			"text": "*Rank S Special can be obtained upon reaching Rank S."
+		},
+		{
 			"text_id": "2414",
 			"text": "Spotlight Digimon Quest Limited Summon"
 		},
@@ -7634,15 +7646,15 @@
 		},
 		{
 			"text_id": "2416",
-			"text": "コネクトチャレンジ 前半"
+			"text": "Connect Challenge - Part One"
 		},
 		{
 			"text_id": "2417",
-			"text": "パイルドラモン"
+			"text": "Paildramon"
 		},
 		{
 			"text_id": "2418",
-			"text": "これがジョグレス進化の力だ！"
+			"text": "This is the power of DNA Digivolve!"
 		},
 		{
 			"text_id": "2419",
@@ -7658,19 +7670,19 @@
 		},
 		{
 			"text_id": "2421",
-			"text": "コネクトチャレンジ 後半"
+			"text": "Connect Challenge - Part Two"
 		},
 		{
 			"text_id": "2422",
-			"text": "インペリアルドラモンDM"
+			"text": "Imperialdramon DM"
 		},
 		{
 			"text_id": "2423",
-			"text": "究極進化！\n本当の力を見せてやるよ！"
+			"text": "Digivolve to Mega!\nI'll show you my true power!"
 		},
 		{
 			"text_id": "2424",
-			"text": "最高の一発で決着をつけよう！"
+			"text": "I'll settle this with one shot!"
 		},
 		{
 			"text_id": "2425",
@@ -7706,11 +7718,11 @@
 		},
 		{
 			"text_id": "2432",
-			"text": "ベルゼブモン"
+			"text": "Beelzemon"
 		},
 		{
 			"text_id": "2433",
-			"text": "ここまでついてくるとはな\nいいぜ、これからもお前と戦ってやる"
+			"text": "To think you got this far...\nFine. I'll be your opponent."
 		},
 		{
 			"text_id": "2434",
@@ -7726,15 +7738,15 @@
 		},
 		{
 			"text_id": "2437",
-			"text": "ナイトチャレンジ 前半"
+			"text": "Knight Challenge - Part One"
 		},
 		{
 			"text_id": "2438",
-			"text": "ナイトモン"
+			"text": "Knightmon"
 		},
 		{
 			"text_id": "2439",
-			"text": "正々堂々、騎士道に従い戦おうぞ！"
+			"text": "Fight fair and square, and walk the path of chivalry!"
 		},
 		{
 			"text_id": "244",
@@ -7742,39 +7754,39 @@
 		},
 		{
 			"text_id": "2440",
-			"text": "いざ、尋常に勝負！\n我が忠義の剣を見よ！"
+			"text": "Begin!\nBehold, my blade of devotion!"
 		},
 		{
 			"text_id": "2441",
-			"text": "むむ……見事な腕前だ"
+			"text": "Hm... What splendid skills you have."
 		},
 		{
 			"text_id": "2442",
-			"text": "ナイトチャレンジ 後半"
+			"text": "Knight Challenge - Part Two"
 		},
 		{
 			"text_id": "2443",
-			"text": "デュナスモン"
+			"text": "Dynasmon"
 		},
 		{
 			"text_id": "2444",
-			"text": "我が名はデュナスモン！\n盟友の配下に代わり私が相手になろう"
+			"text": "I am Dynasmon!\nI shall be your opponent in place of my comrade."
 		},
 		{
 			"text_id": "2445",
-			"text": "己の道理を通したくば\nその力で証明してみよ！"
+			"text": "If you accept my challenge,\nshow me what you are made of!"
 		},
 		{
 			"text_id": "2446",
-			"text": "良い戦いだった\nいずれ再び手合わせ願おう"
+			"text": "Well fought.\nI look forward to our next meeting."
 		},
 		{
 			"text_id": "2447",
-			"text": "ナイトメダル"
+			"text": "Knight Medal"
 		},
 		{
 			"text_id": "2448",
-			"text": "開催時期 : 2019/05/07 11:59まで"
+			"text": "Event Period: Until 05/07/2020 11:59 AM"
 		},
 		{
 			"text_id": "2449",
@@ -7782,7 +7794,7 @@
 		},
 		{
 			"text_id": "245",
-			"text": "No Care Items. Earn them in the\nMain Story or Dimensional Vortexes!"
+			"text": "No Care Items. Earn them in the\nStory or Dimensional Vortexes!"
 		},
 		{
 			"text_id": "2450",
@@ -7810,19 +7822,19 @@
 		},
 		{
 			"text_id": "2456",
-			"text": "We had a bit of a run-in, but it was a fun day overall.\nI would like to go on a walk again!"
+			"text": "大変ではあったが楽しい1日であった\nまた散歩に出かけたいものだ！　ロップモンもいれとこか"
 		},
 		{
 			"text_id": "2457",
-			"text": "コネクトエリア登場"
+			"text": "Connect Vortex Now Available"
 		},
 		{
 			"text_id": "2458",
-			"text": "コネクトエリア登場"
+			"text": "Connect Vortex Now Available"
 		},
 		{
 			"text_id": "2459",
-			"text": "コネクトエリア登場"
+			"text": "Connect Vortex Now Available"
 		},
 		{
 			"text_id": "246",
@@ -7830,15 +7842,15 @@
 		},
 		{
 			"text_id": "2460",
-			"text": "ナイトエリア登場"
+			"text": "Knight Vortex Now Available"
 		},
 		{
 			"text_id": "2461",
-			"text": "ナイトエリア登場"
+			"text": "Knight Vortex Now Available"
 		},
 		{
 			"text_id": "2462",
-			"text": "ナイトエリア登場"
+			"text": "Knight Vortex Now Available"
 		},
 		{
 			"text_id": "2463",
@@ -8330,7 +8342,7 @@
 		},
 		{
 			"text_id": "2574",
-			"text": "アンケート"
+			"text": "Survey"
 		},
 		{
 			"text_id": "2575",
@@ -8342,11 +8354,11 @@
 		},
 		{
 			"text_id": "2577",
-			"text": "全ての回答が完了しました"
+			"text": "All answers have been completed."
 		},
 		{
 			"text_id": "2578",
-			"text": "ご回答ありがとうございました！\n報酬がプレゼントボックスに送られました。"
+			"text": "Thank you for participating!\nRewards have been sent to Present Box."
 		},
 		{
 			"text_id": "2579",
@@ -8358,15 +8370,15 @@
 		},
 		{
 			"text_id": "2580",
-			"text": "アンケート期間は終了しました。\nご協力ありがとうございました。"
+			"text": "The survey period has ended.\nThank you for your cooperation."
 		},
 		{
 			"text_id": "2581",
-			"text": "このアンケートは回答済みです。\nご協力ありがとうございました。"
+			"text": "All questions on this survey have been answered.\nThank you for your cooperation."
 		},
 		{
 			"text_id": "2582",
-			"text": "回答中のアンケートがあります。\n続きから再開します。"
+			"text": "A survey still has unanswered questions remaining.\nOpening from where you left off."
 		},
 		{
 			"text_id": "2583",
@@ -8390,7 +8402,7 @@
 		},
 		{
 			"text_id": "2589",
-			"text": "1周年pt"
+			"text": "1st Anniversary Pts."
 		},
 		{
 			"text_id": "259",
@@ -8398,15 +8410,15 @@
 		},
 		{
 			"text_id": "2590",
-			"text": "1周年激突戦イベント"
+			"text": "1st Anniversary Clash Battle Event"
 		},
 		{
 			"text_id": "2591",
-			"text": "1日3回挑戦！1周年記念エリア！"
+			"text": "1st Anniv. Vortrx! Challenge 3 times a day!"
 		},
 		{
 			"text_id": "2592",
-			"text": "1日3回！\n挑戦可能！"
+			"text": "Try up to 3 \ntimes a day!"
 		},
 		{
 			"text_id": "2593",
@@ -8446,11 +8458,11 @@
 		},
 		{
 			"text_id": "2600",
-			"text": "1周年記念"
+			"text": "1st Anniversary"
 		},
 		{
 			"text_id": "2601",
-			"text": "1日1回挑戦！デジタマエリア！"
+			"text": "One-Year DigiEgg Vortex! Challenge once per day!"
 		},
 		{
 			"text_id": "2602",
@@ -8466,11 +8478,11 @@
 		},
 		{
 			"text_id": "2605",
-			"text": "デジタマチャレンジ"
+			"text": "DigiEgg Challenge"
 		},
 		{
 			"text_id": "2606",
-			"text": "1周年激突戦イベント開催中！"
+			"text": "1st Anniversary Clash Battle Event Available!"
 		},
 		{
 			"text_id": "2607",
@@ -8674,15 +8686,15 @@
 		},
 		{
 			"text_id": "2657",
-			"text": "開催期間 : 2019/08/31 11:59まで"
+			"text": "Event Period: Until 08/31/2020 11:59 AM"
 		},
 		{
 			"text_id": "2658",
-			"text": "開催期間 : 2019/08/19 11:59まで"
+			"text": "Event Period: 08/19/2020 11:59 AM"
 		},
 		{
 			"text_id": "2659",
-			"text": "ラジエルモン"
+			"text": "Rasielmon"
 		},
 		{
 			"text_id": "266",
@@ -8690,27 +8702,27 @@
 		},
 		{
 			"text_id": "2660",
-			"text": "キミたちに協力を頼みたいの\n破滅の未来を回避するために……！"
+			"text": "I want to ask all of you for your help...\nSo that we can avoid a future of ruin...!"
 		},
 		{
 			"text_id": "2661",
-			"text": "我々で食い止めましょう"
+			"text": "We will stop this together."
 		},
 		{
 			"text_id": "2662",
-			"text": "まだ、ディアボロモンは力を残しているわ\n油断せずに行こう"
+			"text": "Diaboromon still has some power left.\nProceed, but don't let your guard down."
 		},
 		{
 			"text_id": "2663",
-			"text": "アーマゲモン……ヤツは、破滅そのもの\nけれど、諦めるわけにはいかない！"
+			"text": "Armageddemon... It is ruin itself.\nBut we cannot give up!"
 		},
 		{
 			"text_id": "2664",
-			"text": "奇跡を手繰り寄せる！！"
+			"text": "Let's make a miracle happen!"
 		},
 		{
 			"text_id": "2665",
-			"text": "キミたちのおかげで世界の危機が回避された\n本当に、ありがとう"
+			"text": "A crisis has been avoided thanks to you all.\nYou have my gratitude."
 		},
 		{
 			"text_id": "2666",
@@ -8726,7 +8738,7 @@
 		},
 		{
 			"text_id": "2669",
-			"text": "メイクーモン"
+			"text": "Meicoomon"
 		},
 		{
 			"text_id": "267",
@@ -8734,15 +8746,15 @@
 		},
 		{
 			"text_id": "2670",
-			"text": "よーし、とにかくいってみよう！"
+			"text": "Alright! First off, let's go check it out!"
 		},
 		{
 			"text_id": "2671",
-			"text": "あっちもしらない、こっちもしらない\n発見がたくさん！"
+			"text": "What's this? What's that?\nThere's so many things to discover!"
 		},
 		{
 			"text_id": "2672",
-			"text": "見つけた！\nみんなの役にたつといいなぁ"
+			"text": "Found it!\nHopefully, this can be useful to everyone."
 		},
 		{
 			"text_id": "2673",
@@ -8753,12 +8765,24 @@
 			"text": "Late September Challenge"
 		},
 		{
+			"text_id": "2675",
+			"text": "Main Story"
+		},
+		{
+			"text_id": "2676",
+			"text": "Side Story"
+		},
+		{
+			"text_id": "2677",
+			"text": "Scenario"
+		},
+		{
 			"text_id": "2678",
-			"text": "フレイドラモン"
+			"text": "Flamedramon"
 		},
 		{
 			"text_id": "2679",
-			"text": "行くぜ、最高のラーメンのために\n最高の食材を見つけるんだ！"
+			"text": "Do it for the ramen!\nFind the best ingredients!"
 		},
 		{
 			"text_id": "268",
@@ -8766,19 +8790,87 @@
 		},
 		{
 			"text_id": "2680",
-			"text": "うーん、あれはどうかな？"
+			"text": "Hm... How about that?"
 		},
 		{
 			"text_id": "2681",
-			"text": "よっしゃぁ！　これで最高の\nラーメンが作れそうだぜ！"
+			"text": "Woo! Now we can\nmake the best ramen ever!"
+		},
+		{
+			"text_id": "2682",
+			"text": "Side Story has been unlocked."
+		},
+		{
+			"text_id": "2683",
+			"text": "Unlock Side Story"
+		},
+		{
+			"text_id": "2684",
+			"text": "[{0}–{1}]"
+		},
+		{
+			"text_id": "2685",
+			"text": "Clear to unlock."
+		},
+		{
+			"text_id": "2686",
+			"text": "Team Cost"
+		},
+		{
+			"text_id": "2687",
+			"text": "Only Digimon that are Lv. 99 or above can be selected."
+		},
+		{
+			"text_id": "2688",
+			"text": "Underworld Abyss"
+		},
+		{
+			"text_id": "2689",
+			"text": "Underworld Dungeon"
 		},
 		{
 			"text_id": "269",
 			"text": "Support Request"
 		},
 		{
+			"text_id": "2690",
+			"text": "Clear Main Story Act 11 to unlock."
+		},
+		{
+			"text_id": "2691",
+			"text": "Skills cannot be upgraded\nwhile in the Underworld Dungeon."
+		},
+		{
+			"text_id": "2692",
+			"text": "No changes can be made while in the Underworld Dungeon."
+		},
+		{
+			"text_id": "2693",
+			"text": "Plugins cannot be equipped\nor removed while in the Underworld Dungeon."
+		},
+		{
+			"text_id": "2694",
+			"text": "No evolutions or upgrades can be made while in the Underworld Dungeon."
+		},
+		{
+			"text_id": "2695",
+			"text": "Team Selection"
+		},
+		{
+			"text_id": "2696",
+			"text": "Underworld Dungeon {0}"
+		},
+		{
 			"text_id": "2697",
-			"text": "状態異常耐性"
+			"text": "Status Abnormality Resistance"
+		},
+		{
+			"text_id": "2698",
+			"text": "Unlock Side Story"
+		},
+		{
+			"text_id": "2699",
+			"text": "Info"
 		},
 		{
 			"text_id": "27",
@@ -8789,40 +8881,436 @@
 			"text": "Support Request"
 		},
 		{
+			"text_id": "2700",
+			"text": "Difficulty"
+		},
+		{
+			"text_id": "2701",
+			"text": "Wave"
+		},
+		{
+			"text_id": "2702",
+			"text": "Field Results"
+		},
+		{
+			"text_id": "2703",
+			"text": "None"
+		},
+		{
+			"text_id": "2704",
+			"text": "Enemy"
+		},
+		{
+			"text_id": "2705",
+			"text": "Illusion of the Strong"
+		},
+		{
+			"text_id": "2706",
+			"text": "Items"
+		},
+		{
+			"text_id": "2707",
+			"text": "Owned"
+		},
+		{
+			"text_id": "2708",
+			"text": "*Teams and Partner Digimon can be changed only before leaving 1F."
+		},
+		{
+			"text_id": "2709",
+			"text": "Choose a Team to battle with."
+		},
+		{
 			"text_id": "271",
 			"text": "Send Support Requests to Friends to beat\npowerful enemies within the time limit!\nClash Battles you join will be displayed\nto Friends you send a Support Request!\nSupport Requests can be sent\nfrom Event Details as well."
+		},
+		{
+			"text_id": "2710",
+			"text": "Underworld Abyss reached."
+		},
+		{
+			"text_id": "2711",
+			"text": "The map has been reset."
+		},
+		{
+			"text_id": "2712",
+			"text": "Confirm"
+		},
+		{
+			"text_id": "2713",
+			"text": "Temporary Items"
+		},
+		{
+			"text_id": "2714",
+			"text": "*Items that are obtained once you return or clear all floors. All items will be lost if you quit or are defeated."
+		},
+		{
+			"text_id": "2715",
+			"text": "There are no temporary items."
+		},
+		{
+			"text_id": "2716",
+			"text": "Team Details"
+		},
+		{
+			"text_id": "2717",
+			"text": "Cost"
+		},
+		{
+			"text_id": "2718",
+			"text": "There is a team still being organized.\nOnce you depart, you will not be able to modify your team\nuntil you return to the first floor.\nDo you still want to depart?"
+		},
+		{
+			"text_id": "2719",
+			"text": "Once you begin, you will not be able to do the following actions\nuntil you return to the first floor."
 		},
 		{
 			"text_id": "272",
 			"text": "Sent Support Request to\nFriends and DigiGuild members!"
 		},
 		{
+			"text_id": "2720",
+			"text": "[Partner]\n- Change\n[Digimon Roster]\n- Replace/Train\n- Upgrade Skill- Release\n- Upgrade/Evolve/Set/Sell Plugins"
+		},
+		{
+			"text_id": "2721",
+			"text": "Begin?"
+		},
+		{
+			"text_id": "2722",
+			"text": ""
+		},
+		{
+			"text_id": "2723",
+			"text": "Use 1 Rewinding Clock to restart the match?"
+		},
+		{
+			"text_id": "2724",
+			"text": "Stats After Use"
+		},
+		{
+			"text_id": "2725",
+			"text": "You have returned to the beginning of the battle\nusing a Rewinding Clock."
+		},
+		{
+			"text_id": "2726",
+			"text": "There are no Digimon left that can fight.\nAll temporary items have been lost.\nYou will be returned to the first floor."
+		},
+		{
+			"text_id": "2727",
+			"text": "Return?"
+		},
+		{
+			"text_id": "2728",
+			"text": "Acquire temporary items and\nreturn to the first floor?\nAre you sure?"
+		},
+		{
+			"text_id": "2729",
+			"text": "Return"
+		},
+		{
 			"text_id": "273",
 			"text": "Confirm"
+		},
+		{
+			"text_id": "2730",
+			"text": "Floor Info."
+		},
+		{
+			"text_id": "2731",
+			"text": "Acquired Items List"
+		},
+		{
+			"text_id": "2732",
+			"text": "You have permanently acquired temporary items."
+		},
+		{
+			"text_id": "2733",
+			"text": "Obtained Items"
+		},
+		{
+			"text_id": "2734",
+			"text": "Items will be sent to Present Box if the maximum limit is exceeded."
+		},
+		{
+			"text_id": "2735",
+			"text": "Do you want to quit?"
+		},
+		{
+			"text_id": "2736",
+			"text": "All temporary items and Stamina used have been lost.\nYou will be returned to the first floor."
+		},
+		{
+			"text_id": "2737",
+			"text": "Your battle in the Underworld Dungeon was interrupted.\nReturn to the battle?\n<br>*All temporary items and Stamina used will be lost if the battle is not resumed."
+		},
+		{
+			"text_id": "2738",
+			"text": "Clear Reward Temporarily Claim"
+		},
+		{
+			"text_id": "2739",
+			"text": "Clear Reward has been temporarily claimed."
 		},
 		{
 			"text_id": "274",
 			"text": "Cannot include Digimon of the same Digivolution chain.\nPlease assemble a new team."
 		},
 		{
+			"text_id": "2740",
+			"text": "*Items that are obtained once you return or clear all floors.\nAll items will be lost if you quit or are defeated."
+		},
+		{
+			"text_id": "2741",
+			"text": "Partner"
+		},
+		{
+			"text_id": "2742",
+			"text": "Quit"
+		},
+		{
+			"text_id": "2743",
+			"text": "There are no Digimon left that are able to fight.\nPlease select another team."
+		},
+		{
+			"text_id": "2744",
+			"text": "Please choose a Digimon Lv. 99 or above."
+		},
+		{
+			"text_id": "2745",
+			"text": "Current Partner <color=#C7221DFF>Lv. {0}</color>"
+		},
+		{
+			"text_id": "2746",
+			"text": "The cost has been exceeded.\nThis Digimon cannot be included."
+		},
+		{
+			"text_id": "2747",
+			"text": "Underworld Dungeon {0}F"
+		},
+		{
+			"text_id": "2748",
+			"text": "Rare Item Drop Rate"
+		},
+		{
+			"text_id": "2749",
+			"text": "Beware of strong enemies!"
+		},
+		{
 			"text_id": "275",
 			"text": "No Digimon have been added to this team.\nPlease assemble a new team."
+		},
+		{
+			"text_id": "2750",
+			"text": "Underworld Dungeon"
+		},
+		{
+			"text_id": "2751",
+			"text": "Underworld Abyss"
+		},
+		{
+			"text_id": "2752",
+			"text": "Act List"
+		},
+		{
+			"text_id": "2753",
+			"text": "No"
+		},
+		{
+			"text_id": "2754",
+			"text": "Side"
+		},
+		{
+			"text_id": "2755",
+			"text": "You have cleared all floors!"
+		},
+		{
+			"text_id": "2756",
+			"text": "Top"
+		},
+		{
+			"text_id": "2757",
+			"text": "UW Dungeon 1"
+		},
+		{
+			"text_id": "2758",
+			"text": "UW Dungeon 2"
+		},
+		{
+			"text_id": "2759",
+			"text": "UW Dungeon 3"
 		},
 		{
 			"text_id": "276",
 			"text": "Not Joined"
 		},
 		{
+			"text_id": "2760",
+			"text": "Unique"
+		},
+		{
+			"text_id": "2761",
+			"text": "Gabumon"
+		},
+		{
+			"text_id": "2762",
+			"text": "Let's go see Agumon!"
+		},
+		{
+			"text_id": "2763",
+			"text": "I've got to go to Agumon....\nHmm, I guess I'll start off here first."
+		},
+		{
+			"text_id": "2764",
+			"text": "Well, that's settled!"
+		},
+		{
+			"text_id": "2765",
+			"text": "Early October Challenge"
+		},
+		{
+			"text_id": "2766",
+			"text": "Late October Challenge"
+		},
+		{
+			"text_id": "2767",
+			"text": "Your battle in the Underworld Dungeon was interrupted.\nReturn to the battle?\n<br>*All temporary items and Stamina used\nwill be lost if the battle is not resumed."
+		},
+		{
+			"text_id": "2768",
+			"text": "Digimon below Lv. 99\ncannot battle in the Underworld Dungeon."
+		},
+		{
+			"text_id": "2769",
+			"text": "Clear Main Story Act 11 to unlock."
+		},
+		{
 			"text_id": "277",
 			"text": "Spotter"
+		},
+		{
+			"text_id": "2770",
+			"text": "Underworld Dungeon"
+		},
+		{
+			"text_id": "2771",
+			"text": "<color=#e75600>Underworld Dungeon (UW Dungeon)</color>is\na <color=#e75600>high-difficulty dungeon</color> which can be challenged with\na team of 3 Digimon that are Lv. 99 or above!"
+		},
+		{
+			"text_id": "2772",
+			"text": "You can obtain <color=#e75600>temporary items</color> if you win a battle.\nIf you participate in the next battle, then\n<color=#e75600>your team's HP, CT, and Special Gauge status</color> will continue from where it was as the end of the previous battle."
+		},
+		{
+			"text_id": "2773",
+			"text": "You will be <color=#e75600>defeated</color> when all your Digimon have fallen.\n<color=#e75600>All temporary items will be lost!</color>\n<color=#e75600>Either return and collect your items</color> or use a <color=#e75600>Rewinding Clock</color> to restart the battle!"
+		},
+		{
+			"text_id": "2774",
+			"text": "The Underworld Dungeon will change its appearance and be ready for you again after you have finished challenging it.\n<color=#e75600>*For more details on the Underworld Dungeon, please refer to Help."
+		},
+		{
+			"text_id": "2775",
+			"text": "Up"
+		},
+		{
+			"text_id": "2776",
+			"text": "Down"
+		},
+		{
+			"text_id": "2777",
+			"text": "No Digimon to organize."
+		},
+		{
+			"text_id": "2778",
+			"text": "Raid Pt."
+		},
+		{
+			"text_id": "2779",
+			"text": "Halloween Clash Battle"
 		},
 		{
 			"text_id": "278",
 			"text": "Time remaining"
 		},
 		{
+			"text_id": "2780",
+			"text": "UWD"
+		},
+		{
+			"text_id": "2781",
+			"text": "Halloween Clash Battle Event Available!"
+		},
+		{
+			"text_id": "2782",
+			"text": "Cancel"
+		},
+		{
+			"text_id": "2783",
+			"text": "Underworld Abyss B{0}"
+		},
+		{
+			"text_id": "2784",
+			"text": "New Schedule!"
+		},
+		{
+			"text_id": "2786",
+			"text": "Retry"
+		},
+		{
+			"text_id": "2787",
+			"text": "This Digimon is already in another team."
+		},
+		{
+			"text_id": "2788",
+			"text": "Each Digimon has a <color=#e75600>cost</color> that\nvaries depending on its stage."
+		},
+		{
+			"text_id": "2789",
+			"text": "No Plugins are equipped."
+		},
+		{
 			"text_id": "279",
 			"text": "No Tamers have joined."
+		},
+		{
+			"text_id": "2790",
+			"text": "Shock Bane"
+		},
+		{
+			"text_id": "2791",
+			"text": "Paralysis Bane"
+		},
+		{
+			"text_id": "2792",
+			"text": "Stun Bane"
+		},
+		{
+			"text_id": "2793",
+			"text": "Sleep Bane"
+		},
+		{
+			"text_id": "2794",
+			"text": "Poison Bane"
+		},
+		{
+			"text_id": "2795",
+			"text": "Burn Bane"
+		},
+		{
+			"text_id": "2796",
+			"text": "Error Bane"
+		},
+		{
+			"text_id": "2797",
+			"text": "Skill Lock Bane"
+		},
+		{
+			"text_id": "2798",
+			"text": "Blind Bane"
+		},
+		{
+			"text_id": "2799",
+			"text": "You cannot continue in Underworld Abyss."
 		},
 		{
 			"text_id": "28",
@@ -8833,36 +9321,416 @@
 			"text": "Total Damage Dealt"
 		},
 		{
+			"text_id": "2800",
+			"text": "Super Awakening Level"
+		},
+		{
+			"text_id": "2801",
+			"text": "Insufficient <color=#FF2C3AFF>Super Awakening Materials</color>."
+		},
+		{
+			"text_id": "2802",
+			"text": "Super Awakening"
+		},
+		{
+			"text_id": "2803",
+			"text": "Insufficient items\nfor Super Awakening."
+		},
+		{
+			"text_id": "2804",
+			"text": "Close"
+		},
+		{
+			"text_id": "2805",
+			"text": "Super Awakening available!"
+		},
+		{
+			"text_id": "2806",
+			"text": "Super Awakening"
+		},
+		{
+			"text_id": "2807",
+			"text": "Super Awaken this Digimon?"
+		},
+		{
+			"text_id": "2808",
+			"text": "Usable Items"
+		},
+		{
+			"text_id": "2809",
+			"text": "Super Awakening"
+		},
+		{
 			"text_id": "281",
 			"text": "Participation Reward"
+		},
+		{
+			"text_id": "2810",
+			"text": "This Digimon cannot Super Awaken any further."
+		},
+		{
+			"text_id": "2811",
+			"text": "Super Awakening\nItem"
+		},
+		{
+			"text_id": "2812",
+			"text": "Super Awakening Item"
+		},
+		{
+			"text_id": "2813",
+			"text": "Lv. 99 or Above"
+		},
+		{
+			"text_id": "2814",
+			"text": "Under Lv. 99"
+		},
+		{
+			"text_id": "2815",
+			"text": "No upgrades can be made while in the Underworld Dungeon."
+		},
+		{
+			"text_id": "2816",
+			"text": "No Super Awakenings can be done in the Underworld Dungeon."
+		},
+		{
+			"text_id": "2817",
+			"text": "LadyDevimon"
+		},
+		{
+			"text_id": "2818",
+			"text": "There's no way we're leaving now!\nWe definitely have to get our hands on that special cake!"
+		},
+		{
+			"text_id": "2819",
+			"text": "Well, you know what they say.\nThe harder you work for it, the better it tastes!"
 		},
 		{
 			"text_id": "282",
 			"text": "*No Digimon are selected for Clash Battles."
 		},
 		{
+			"text_id": "2820",
+			"text": "But it's not special cake...\nEh, well this probably won't be too bad."
+		},
+		{
+			"text_id": "2821",
+			"text": "The following Plugins you have set\nwill be removed if you Digivolve.\nWould you still like to Digivolve?\n<br>{0}"
+		},
+		{
+			"text_id": "2822",
+			"text": "Royal Clash Battle Event Available!"
+		},
+		{
+			"text_id": "2823",
+			"text": "Royal Medal"
+		},
+		{
+			"text_id": "2824",
+			"text": "Occurs in <color=#ffea3c>{0} - {1}</color> (Part One)"
+		},
+		{
+			"text_id": "2825",
+			"text": "Tallied in <color=#ffea3c>{0} - {1}</color> (Part One)"
+		},
+		{
+			"text_id": "2826",
+			"text": "Occurs in <color=#ffea3c>{0} - {1}</color> (Part Two)"
+		},
+		{
+			"text_id": "2827",
+			"text": "Tallied in <color=#ffea3c>{0} - {1}</color> (Part Two)"
+		},
+		{
+			"text_id": "2828",
+			"text": "Reward Claim Period: Until <color=#ffea3c>{0}</color>"
+		},
+		{
+			"text_id": "2829",
+			"text": "Completion Reward"
+		},
+		{
 			"text_id": "283",
 			"text": "Clash Battle"
+		},
+		{
+			"text_id": "2830",
+			"text": "Place"
+		},
+		{
+			"text_id": "2831",
+			"text": "Ranking"
+		},
+		{
+			"text_id": "2832",
+			"text": "Personal Place"
+		},
+		{
+			"text_id": "2833",
+			"text": "DigiGuild Place"
+		},
+		{
+			"text_id": "2834",
+			"text": "Raid Pt. (Part One)"
+		},
+		{
+			"text_id": "2835",
+			"text": "Raid Pt. (Part Two)"
+		},
+		{
+			"text_id": "2836",
+			"text": "Raid Pt. (Total)"
+		},
+		{
+			"text_id": "2837",
+			"text": "Giant Spirals\nDefeated (Part One)"
+		},
+		{
+			"text_id": "2838",
+			"text": "Giant Spirals\nDefeated (Part Two)"
+		},
+		{
+			"text_id": "2839",
+			"text": "Giant Spirals\nDefeated (Total)"
 		},
 		{
 			"text_id": "284",
 			"text": "Reached attempt limit.\nYou can try again by\nspending {0} <sprite=1>DigiRubies.\nSpend DigiRubies?"
 		},
 		{
+			"text_id": "2840",
+			"text": "Giant Spiral\nDamage (Total)"
+		},
+		{
+			"text_id": "2841",
+			"text": "{0} Place"
+		},
+		{
+			"text_id": "2842",
+			"text": "Below {0}Place"
+		},
+		{
+			"text_id": "2843",
+			"text": "Unranked"
+		},
+		{
+			"text_id": "2844",
+			"text": "Calculating..."
+		},
+		{
+			"text_id": "2845",
+			"text": "*Global Raid Pt. and Rankings will update at fixed intervals."
+		},
+		{
+			"text_id": "2846",
+			"text": "Royal Clash Battle Event"
+		},
+		{
+			"text_id": "2847",
+			"text": "{0}pt"
+		},
+		{
+			"text_id": "2848",
+			"text": "{0} enemies"
+		},
+		{
+			"text_id": "2849",
+			"text": "{0}"
+		},
+		{
 			"text_id": "285",
 			"text": "Go in <sprite=1>{0}!"
+		},
+		{
+			"text_id": "2850",
+			"text": "Event Ranking"
+		},
+		{
+			"text_id": "2851",
+			"text": "Part One"
+		},
+		{
+			"text_id": "2852",
+			"text": "Part Two"
+		},
+		{
+			"text_id": "2853",
+			"text": "Total"
+		},
+		{
+			"text_id": "2854",
+			"text": "Personal"
+		},
+		{
+			"text_id": "2855",
+			"text": "DigiGuild"
+		},
+		{
+			"text_id": "2856",
+			"text": "Raid Pt."
+		},
+		{
+			"text_id": "2857",
+			"text": "Giant Spirals\nDefeated"
+		},
+		{
+			"text_id": "2858",
+			"text": "Giant Spiral\nDamage"
+		},
+		{
+			"text_id": "2859",
+			"text": "Giant Spirals\nDefeated"
 		},
 		{
 			"text_id": "286",
 			"text": "Reward claimed."
 		},
 		{
+			"text_id": "2860",
+			"text": "Damage to Giant Spirals"
+		},
+		{
+			"text_id": "2861",
+			"text": "Overall Ranking"
+		},
+		{
+			"text_id": "2862",
+			"text": "Ranking"
+		},
+		{
+			"text_id": "2863",
+			"text": "Ranking Rewards"
+		},
+		{
+			"text_id": "2864",
+			"text": "Place"
+		},
+		{
+			"text_id": "2865",
+			"text": "Obtainable Raid Pt."
+		},
+		{
+			"text_id": "2866",
+			"text": "Number Defeated"
+		},
+		{
+			"text_id": "2867",
+			"text": "Highest Damage"
+		},
+		{
+			"text_id": "2868",
+			"text": "{0} Place to {1} Place"
+		},
+		{
+			"text_id": "2869",
+			"text": "Below {0}Place"
+		},
+		{
 			"text_id": "287",
 			"text": "Claim Reward"
 		},
 		{
+			"text_id": "2870",
+			"text": "Unranked"
+		},
+		{
+			"text_id": "2871",
+			"text": "Calculating..."
+		},
+		{
+			"text_id": "2872",
+			"text": "{0}pt"
+		},
+		{
+			"text_id": "2873",
+			"text": "{0} enemies"
+		},
+		{
+			"text_id": "2874",
+			"text": "{0}"
+		},
+		{
+			"text_id": "2875",
+			"text": "There are no rewards."
+		},
+		{
+			"text_id": "2876",
+			"text": "*Rankings are updated once every 30 minutes."
+		},
+		{
+			"text_id": "2877",
+			"text": "Reward List"
+		},
+		{
+			"text_id": "2878",
+			"text": "Ranking"
+		},
+		{
+			"text_id": "2879",
+			"text": "The Event Period has ended.\nRanking results are currently being calculated."
+		},
+		{
+			"text_id": "2881",
+			"text": "Event Period: {0}-{1}"
+		},
+		{
+			"text_id": "2882",
+			"text": "Tallied in <color=#ffea3c>{0} - {1}</color>"
+		},
+		{
+			"text_id": "2883",
+			"text": "Raid Pt. Ranking (Top)"
+		},
+		{
+			"text_id": "2884",
+			"text": "Giant Spiral - Number Defeated Ranking (Top)"
+		},
+		{
+			"text_id": "2885",
+			"text": "Giant Spiral - Damage Ranking (Top)"
+		},
+		{
+			"text_id": "2886",
+			"text": "Raid Pt. - Ranking Reward"
+		},
+		{
+			"text_id": "2887",
+			"text": "Giant Spiral - Number Defeated Ranking Reward"
+		},
+		{
+			"text_id": "2888",
+			"text": "Giant Spiral - Damage Ranking Reward"
+		},
+		{
+			"text_id": "2889",
+			"text": "*Info for Lv. 99"
+		},
+		{
 			"text_id": "289",
 			"text": "DigiWalk"
+		},
+		{
+			"text_id": "2890",
+			"text": ""
+		},
+		{
+			"text_id": "2891",
+			"text": "Digimon is at Max Level and\ncannot be upgraded further."
+		},
+		{
+			"text_id": "2892",
+			"text": "*Info for Premier Pool at Max Lv."
+		},
+		{
+			"text_id": "2893",
+			"text": "Royal Vortex Now Available"
+		},
+		{
+			"text_id": "2894",
+			"text": "Unlock the Royal Vortex with a key!"
+		},
+		{
+			"text_id": "2896",
+			"text": "Royal Clash Battle!"
 		},
 		{
 			"text_id": "29",
@@ -8877,12 +9745,24 @@
 			"text": "Encounter\nReward"
 		},
 		{
+			"text_id": "2916",
+			"text": "is insufficient by <color=#FF2C3AFF>{0}</color>."
+		},
+		{
 			"text_id": "292",
 			"text": "Customize"
 		},
 		{
 			"text_id": "293",
 			"text": "NEW"
+		},
+		{
+			"text_id": "2930",
+			"text": "There is a chance of\nobtaining a Royal Vortex Key\nfrom Giant Spirals (Lv. 10 and Lv. 20)\nthat appear in Royal Clash Battle."
+		},
+		{
+			"text_id": "2931",
+			"text": "Confirm"
 		},
 		{
 			"text_id": "294",
@@ -8958,11 +9838,23 @@
 		},
 		{
 			"text_id": "3000004",
-			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth. The total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon: a Champion Digimon capable of Digivolving to Ultimate; a Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Ultra; or a Mega Digimon capable of Digivolving to Ultra.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
+			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth. The total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon: A Champion Digimon capable of Digivolving to Ultimate; a Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Ultra; or a Mega Digimon capable of Digivolving to Ultra.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
 		},
 		{
 			"text_id": "3000005",
-			"text": "■ご注意\n※それぞれの提供割合は、小数第4位を四捨五入して表示しているため、\n合計値が100%にならない場合があります。\n※本ガシャからは重複するアイテムが出現する可能性があります。\n※10連+1ガシャのうち、1回は「成長期(完全体まで進化可能)」 \n「成熟期(究極体まで進化可能)」「完全体(超究極体まで進化可能)」\nのいずれか1体が確定で出現します。\n 詳細はタブの「+1枠」よりご確認ください。\n※「+1枠」以外（10回分）の提供割合は「通常枠」の一覧に準じます。"
+			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth.\nThe total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon:\na Rookie Digimon capable of Digivolving to Ultimate;\na Champion Digimon capable of Digivolving to Mega; or an Ultimate Digimon capable of Digivolving to Ultra.\nPlease refer to the +1 Rates tab for more details.\nThe drop rates for the items other than the guaranteed Digimon are as follows."
+		},
+		{
+			"text_id": "3000006",
+			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth.\nThe total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon:\na Rookie Digimon capable of Digivolving to Ultimate;\na Champion Digimon capable of Digivolving to Mega; or a Rookie Digimon capable of Digivolving to a Champion.\nPlease refer to the +1 Rates tab for more details.\nThe drop rates for the items other than the guaranteed Digimon are as follows."
+		},
+		{
+			"text_id": "3000007",
+			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth.\nThe total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon: a Champion Digimon capable of Digivolving to Ultimate;\na Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega;\nor a Rookie Digimon capable of Digivolving to Armor.\nPlease refer to the +1 Rates tab for more details.\nThe drop rates for the items other than the guaranteed Digimon are as follows."
+		},
+		{
+			"text_id": "3000008",
+			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth.\nThe total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon: a Rookie Digimon capable of Digivolving to Ultimate;\na Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Ultra;\nor a Rookie Digimon capable of Digivolving to Champion.\nPlease refer to the +1 Rates tab for more details.\nThe drop rates for the items other than the guaranteed Digimon are as follows."
 		},
 		{
 			"text_id": "300001",
@@ -9105,6 +9997,14 @@
 			"text": "Valentine's Day Challenge 2020 (2)"
 		},
 		{
+			"text_id": "3023",
+			"text": "Valentine's Day Challenge 2020 (3)"
+		},
+		{
+			"text_id": "3024",
+			"text": "Valentine's Day Challenge 2020 (4)"
+		},
+		{
 			"text_id": "303",
 			"text": "No new items found."
 		},
@@ -9125,8 +10025,20 @@
 			"text": "Visit"
 		},
 		{
+			"text_id": "3072",
+			"text": "CB"
+		},
+		{
 			"text_id": "308",
 			"text": "Send"
+		},
+		{
+			"text_id": "3081",
+			"text": "Valentine's Day Vortex Keys will be \nobtainable at a fixed rate from the Valentine's Day Challenge \nand the following enemies on\n[Clash Battle! A Red-Hot Valentine's!]:\n・Vritramon (Lv9 - 10)\n・KaiserGreymon (Lv7 - 10)"
+		},
+		{
+			"text_id": "3082",
+			"text": "They will be obtainable at a fixed rate\nfrom the Valentine's Day Challenge and\nby defeating strong high-level enemies on\n[Clash Battle! A Red-Hot Valentine's!]."
 		},
 		{
 			"text_id": "309",
@@ -9938,7 +10850,7 @@
 		},
 		{
 			"text_id": "490061",
-			"text": "- Include <color=#FFE25AFF>Calm</color> Digimon in your party!\n- Include Digimon that can enhance <color=#FFE25AFF>TEC</color> in your party!\n- <color=#FFE25AFF>Error</color><sprite=7> and <color=#FFE25AFF>Burn</color><sprite=6> are effective!"
+			"text": "- Include <color=#FFE25AFF>Calm</color> Digimon in your party!\n- Include Digimon that can enhance <color=#FFE25AFF>TEC</color> in your party!\n- <color=#FFE25AFF>Burn</color><sprite=6> and <color=#FFE25AFF>Error</color><sprite=7> are effective!"
 		},
 		{
 			"text_id": "490071",
@@ -9954,7 +10866,7 @@
 		},
 		{
 			"text_id": "490131",
-			"text": "- Improve your Digimon's <color=#FFE25AFF>Mood</color>!\n- <color=#FFE25AFF>Poison</color><sprite=5> and <color=#FFE25AFF>Burn</color><sprite=6> are effective!\n- Set <color=#FFE25AFF>Plugins that enhance DEF</color>!"
+			"text": "- Include <color=#FFE25AFF>Deft</color> Digimon in your party!\n- <color=#FFE25AFF>Poison</color><sprite=5> and <color=#FFE25AFF>Burn</color><sprite=6> are effective!\n- Set Plugins that enhance <color=#FFE25AFF>DEF</color>!"
 		},
 		{
 			"text_id": "490141",
@@ -9970,7 +10882,7 @@
 		},
 		{
 			"text_id": "490202",
-			"text": "- Take measures against <color=#FFE25AFF>Sleep</color><sprite=4>!\n- <color=#FFE25AFF>Blind</color><sprite=9> is effective!\n- Improve your Digimon's <color=#FFE25AFF>Mood</color>!"
+			"text": "- Take measures against <color=#FFE25AFF>Sleep</color><sprite=4>!\n- <color=#FFE25AFF>Blind</color><sprite=9> is effective!\n- Enhance your <color=#FFE25AFF>Block Rate</color>!"
 		},
 		{
 			"text_id": "490203",
@@ -9994,7 +10906,7 @@
 		},
 		{
 			"text_id": "490231",
-			"text": "- Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!\n- <color=#FFE25AFF>Poison</color><sprite=5> and <color=#FFE25AFF>Burn</color><sprite=6> are effective!\n- Improve your Digimon's <color=#FFE25AFF>Mood</color>!"
+			"text": "- Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!\n- <color=#FFE25AFF>Poison</color><sprite=5> and <color=#FFE25AFF>Burn</color><sprite=6> are effective!\n- Enhance your <color=#FFE25AFF>DEF</color> and <color=#FFE25AFF>Block Rate</color>!"
 		},
 		{
 			"text_id": "490241",
@@ -10018,19 +10930,19 @@
 		},
 		{
 			"text_id": "490291",
-			"text": "- Include <color=#FFE25AFF>Tenacious</color> Digimon in your party!\n- Enhance your <color=#FFE25AFF>HP</color>!\n- Enhance your <color=#FFE25AFF>DEF</color>!"
+			"text": "- Include <color=#FFE25AFF>Tenacious</color> Digimon in your party!\n- Set Plugins that can enhance <color=#FFE25AFF>HP</color>!\n- Enhance your <color=#FFE25AFF>DEF</color>!"
 		},
 		{
 			"text_id": "490301",
-			"text": "- <color=#FFE25AFF>Poison</color><sprite=5> and <color=#FFE25AFF>Error</color><sprite=7> are effective!\n- Include Digimon that can heal <color=#FFE25AFF>HP</color> in your party!\n- Include Digimon that <color=#FFE25AFF>Hit hard</color> in your party!"
+			"text": "- <color=#FFE25AFF>Poison</color><sprite=5> and <color=#FFE25AFF>Error</color><sprite=7> are effective!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!\n- Include Digimon that <color=#FFE25AFF>Hit hard</color> in your party!"
 		},
 		{
 			"text_id": "490311",
-			"text": "- <color=#FFE25AFF>Poison</color><sprite=5> and <color=#FFE25AFF>Burn</color><sprite=6> are effective!\n- Include Digimon that <color=#FFE25AFF>Hit hard</color> in your party!\n- Enhance your <color=#FFE25AFF>DEF</color>!"
+			"text": "- <color=#FFE25AFF>Poison</color><sprite=5> and <color=#FFE25AFF>Burn</color><sprite=6> are effective!\n- Include Digimon that <color=#FFE25AFF>Heal HP</color> in your party!\n- Enhance your <color=#FFE25AFF>DEF</color>!"
 		},
 		{
 			"text_id": "490321",
-			"text": "- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and <color=#FFE25AFF>Error</color><sprite=7> are effective!\n- Improve your Digimon's <color=#FFE25AFF>Mood</color>!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!"
+			"text": "- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and<color=#FFE25AFF>Error</color><sprite=7> are effective!\n- Include Digimon that <color=#FFE25AFF>Hit hard</color> in your party!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!"
 		},
 		{
 			"text_id": "490331",
@@ -10046,47 +10958,67 @@
 		},
 		{
 			"text_id": "490361",
-			"text": "・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+			"text": "- Include Digimon with Personalities <color=#FFE25AFF>other than Brave</color> in your party!\n- Enhance your <color=#FFE25AFF>Block Rate</color>!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!"
 		},
 		{
 			"text_id": "490371",
-			"text": "・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！\n・<color=#FFE25AFF>DEF</color>を高めよう！\n・<color=#FFE25AFF>ブロック率</color>を高めよう！"
+			"text": "- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and<color=#FFE25AFF>Error</color><sprite=7> are effective!\n- Enhance your <color=#FFE25AFF>DEF</color>!\n- Enhance your <color=#FFE25AFF>Block Rate</color>!"
 		},
 		{
 			"text_id": "490381",
-			"text": "・個性が<color=#FFE25AFF>冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>クリティカル率</color>を高めよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+			"text": "- Include <color=#FFE25AFF>Calm</color> Digimon in your party!\n- Enhance your <color=#FFE25AFF>Critical Rate</color>!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!"
 		},
 		{
 			"text_id": "490391",
-			"text": "・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！\n・<color=#FFE25AFF>PWR</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>ヤケド</color><sprite=6>や<color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！"
+			"text": "- Take measures against <color=#FFE25AFF>Skill Lock</color><sprite=8>!\n- Include Digimon that can enhance <color=#FFE25AFF>PWR</color> in your party!\n- <color=#FFE25AFF>Burn</color><sprite=6> and <color=#FFE25AFF>Error</color><sprite=7> are effective!"
 		},
 		{
 			"text_id": "490401",
-			"text": "・<color=#FFE25AFF>エラー</color><sprite=7>対策をしよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！"
+			"text": "- Take measures against <color=#FFE25AFF>Error</color><sprite=7>!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!\n- Include Digimon that can enhance <color=#FFE25AFF>DEF</color> in your party!"
 		},
 		{
 			"text_id": "490411",
-			"text": "・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
+			"text": "- Include Digimon with Personalities <color=#FFE25AFF>other than Brave</color> in your party!\n- Include Digimon that can enhance <color=#FFE25AFF>TEC</color> in your party!\n- Enhance your <color=#FFE25AFF>DEF</color>!"
 		},
 		{
 			"text_id": "490421",
-			"text": "・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！\n・<color=#FFE25AFF>DEFを高めるプラグイン</color>をセットしよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+			"text": "- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and<color=#FFE25AFF>Error</color><sprite=7> are effective!\n- Set Plugins that enhance <color=#FFE25AFF>DEF</color>!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!"
 		},
 		{
 			"text_id": "490431",
-			"text": "・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！\n・<color=#FFE25AFF>TEC</color>や<color=#FFE25AFF>DEF</color>を高めよう！"
+			"text": "- Include Digimon with Personalities <color=#FFE25AFF>other than Brave</color> in your party!\n- Include Digimon that<color=#FFE25AFF>Hit hard</color> in your party!\n- Enhance your <color=#FFE25AFF>TEC</color> and <color=#FFE25AFF>DEF</color>!"
 		},
 		{
 			"text_id": "490441",
-			"text": "・<color=#FFE25AFF>DEF</color>を高めよう！\n・<color=#FFE25AFF>ブロック率</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+			"text": "- Enhance your <color=#FFE25AFF>DEF</color>!\n- Include Digimon that can enhance <color=#FFE25AFF>Block Rate</color> in your party!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!"
 		},
 		{
 			"text_id": "490451",
-			"text": "・個性が<color=#FFE25AFF>冷静以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を高めよう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
+			"text": "- Include Digimon with Personalities <color=#FFE25AFF>other than Calm</color> in your party!\n- Enhance your <color=#FFE25AFF>TEC</color>!\n- Include Digimon that<color=#FFE25AFF>Hit hard</color> in your party!"
 		},
 		{
 			"text_id": "490461",
-			"text": "・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！"
+			"text": "- Include Digimon that can enhance <color=#FFE25AFF>DEF</color> in your party!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!\n- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and<color=#FFE25AFF>Error</color><sprite=7> are effective!"
+		},
+		{
+			"text_id": "490471",
+			"text": "- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and <color=#FFE25AFF>Error</color><sprite=7> are effective!\n- Take measures against <color=#FFE25AFF>Sleep</color><sprite=4>!\n- Include Digimon that can enhance <color=#FFE25AFF>ATK</color>in your party!"
+		},
+		{
+			"text_id": "490481",
+			"text": "- Take measures against <color=#FFE25AFF>Stun</color><sprite=3>!\n- Enhance your <color=#FFE25AFF>Block Rate</color>!\n- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and<color=#FFE25AFF>Error</color><sprite=7> are effective!"
+		},
+		{
+			"text_id": "490491",
+			"text": "- Include Digimon that can enhance <color=#FFE25AFF>DEF</color> in your party!\n- Enhance your <color=#FFE25AFF>Block Rate</color>!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!"
+		},
+		{
+			"text_id": "490492",
+			"text": "- Take measures against <color=#FFE25AFF>Sleep</color><sprite=4> and <color=#FFE25AFF>Burn</color><sprite=6>!\n- Include Digimon that can enhance <color=#FFE25AFF>ATK</color> in your party!\n- Include Digimon that can <color=#FFE25AFF>Hit hard</color> in your party!"
+		},
+		{
+			"text_id": "490501",
+			"text": "- Include Digimon that can enhance <color=#FFE25AFF>DEF</color> in your party!\n- Enhance your <color=#FFE25AFF>Block Rate</color>!\n- Take measures against <color=#FFE25AFF>Status Abnormalities</color>!"
 		},
 		{
 			"text_id": "491",
@@ -10430,7 +11362,7 @@
 		},
 		{
 			"text_id": "568",
-			"text": "<size=\"16\">Lv.</size><size=\"20\"><color=#fff11f>{0}</color></size>"
+			"text": "<size=\"16\">Lv.</size><size=\"20\"><color=#fff11f> {0}</color></size>"
 		},
 		{
 			"text_id": "569",
@@ -10598,7 +11530,7 @@
 		},
 		{
 			"text_id": "605",
-			"text": "<size=\"16\">SLv.</size><size=\"20\">{0}</size>"
+			"text": "<size=\"16\">S-Lv.</size><size=\"20\"> {0}</size>"
 		},
 		{
 			"text_id": "606",
@@ -11590,7 +12522,7 @@
 		},
 		{
 			"text_id": "820003",
-			"text": "Clear without any Digimon getting KO'd."
+			"text": "Clear without having a Digimon K.O'd."
 		},
 		{
 			"text_id": "820004",
@@ -11642,7 +12574,7 @@
 		},
 		{
 			"text_id": "830001",
-			"text": "Clear in under 3 minutes."
+			"text": "Clear in 3 minutes or less."
 		},
 		{
 			"text_id": "830002",
@@ -11810,7 +12742,7 @@
 		},
 		{
 			"text_id": "852",
-			"text": "Form a team to test your mettle\nin the Underworld."
+			"text": "Form a team to test your mettle\nin the Underworld Abyss."
 		},
 		{
 			"text_id": "853",
@@ -12082,7 +13014,7 @@
 		},
 		{
 			"text_id": "908",
-			"text": "<size=\"14\">Lv.</size><size=\"16\">{0}</size>"
+			"text": "<size=\"14\">Lv.</size><size=\"16\"> {0}</size>"
 		},
 		{
 			"text_id": "909",

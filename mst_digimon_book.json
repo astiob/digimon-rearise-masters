@@ -124,7 +124,7 @@
 			"icon_asset": "digimon/icon/digimonface1110304",
 			"attribute": "0",
 			"type": "28",
-			"start_date": "2019/02/21 12:00:00"
+			"start_date": "2119/02/21 12:00:00"
 		},
 		{
 			"code": "baadoramon",
@@ -170,6 +170,15 @@
 			"attribute": "0",
 			"type": "42",
 			"start_date": "2019-02-08 12:00:00"
+		},
+		{
+			"code": "baohakkumon",
+			"sort_key": "バオハックモン",
+			"profile": "ハックモンが厳しい鍛錬を重ね、類いまれなる戦闘センスに磨きがかかり心技体ともに成長を遂げた姿。高みを目指して鍛錬を続け、強敵とのバトルを通じて培った戦闘経験も蓄積し、戦うほどに進化する戦闘巧者である。成長とともにロイヤルナイツへの志も高まり、自分が成すべき事は誰に言われて決めるのではなく、自分で見て考え決意することを信条としている。必殺技は全てが強化され、爪で切り裂く『フィフクロス』、尻尾の刃を軸に回転させ突貫する『ティーンブレイド』、迎撃にも使用できる『バーンフレイム』と威力は格段に増した。さらに両足の斬れ味鋭い刃を生かした『ドラグレスパイカー』で敵を両断する。",
+			"icon_asset": "digimon/icon/digimonface1176203",
+			"attribute": "2",
+			"type": "16",
+			"start_date": "2019-10-31 12:00:00"
 		},
 		{
 			"code": "barubamon",
@@ -289,6 +298,15 @@
 			"start_date": "2017/01/01 00:00:00"
 		},
 		{
+			"code": "burakkumegaroguraumon",
+			"sort_key": "ブラックメガログラウモン",
+			"profile": "ブラックグラウモンが進化した完全体のサイボーグ型デジモン。ブラックグラウモン同様、ウィルス種の性質をより濃く表しており、「黒い破壊竜」と呼ばれている。上半身は最強金属“クロンデジゾイド”でメタル化されていて、両肩に付いている２基のバーニアで飛行することもできる。また背部の部分から伸びる帯のようなものは伸縮自在で、敵を貫き刺すこともできる。得意技は両腕のペンデュラムブレイドで敵を切り裂く『ダブルエッジ』。必殺技は両胸の砲門から原子レベルで敵を破壊する『アトミックブラスター』。",
+			"icon_asset": "digimon/icon/digimonface1169104",
+			"attribute": "1",
+			"type": "23",
+			"start_date": "2019/09/30 12:00:00"
+		},
+		{
 			"code": "burakkuteirumon",
 			"sort_key": "ブラックテイルモン",
 			"profile": "An impressive virus type Gatomon with a pitch black fur coat, this pure evil child wanders the eerie darkness. Due to being a rare mutation of Gatomon, there are not many around. Both malicious and prideful, this warped Digimon loves bullying the weak. In essence, it is a dark type Digimon that Digivolves into a Fallen Angel Digimon. It shares the same special move as Gatomon, Lightning Paw.",
@@ -309,7 +327,7 @@
 		{
 			"code": "bureikudoramon",
 			"sort_key": "ブレイクドラモン",
-			"profile": "地上のすべてを破壊するために存在するといわれている巨大な機竜型デジモン。さまざまな建設重機の設計データを進化する際にハッキングで取り込むことに成功しており、他のマシン型デジモンを凌駕する性能・パワーを有している。しかし、優れた機械性能と引き換えに生体パーツがゼロに近いほど減少し意思や感情は失われている。そのため自身の体にダメージを負うことも恐れず、朽ち果てるまで破壊を繰り返す究極の破壊竜として恐れられている。左右のショベルアームを超高速で繰り返し叩きつける『デストロイドラッシュ』は大地を裂き、体中のドリルを全稼動させて放つ『インフィニティーボーリング』は山をも砕き、全体重を掛けて目標を押しつぶす『グラビティプレス』はあらゆるものを圧壊する。ブレイクドラモンの通った後には「何も」残らない。",
+			"profile": "A massive Machine Dragon Digimon said to exist for the purpose of destroying everything above ground. It possesses power and abilities that surpass those of other Machine-type Digimon due to its success in hacking the design data of various heavy-duty construction equipment as it Digivolved. Unfortunately, in exchange for the power inherent in its machine parts, very little of its original flesh remains. As a result, it has lost its will and emotions. Thus, it is feared as the ultimate dragon of destruction, continuing to destroy all in its path even as its body falls apart. Its Destructive Rush cleaves the earth with rapidly strikes using its shovel arms, while Infinity Boring cuts through mountains using all the drills it has at its disposal. Gravity Press crushes any target with the weight of its whole being. With such power at its disposal, Breakdramon never leaves a trace of those in its path behind.",
 			"icon_asset": "digimon/icon/digimonface1125405",
 			"attribute": "1",
 			"type": "113",
@@ -370,6 +388,15 @@
 			"start_date": "2018/12/07 12:00:00"
 		},
 		{
+			"code": "dakudoramon",
+			"sort_key": "ダークドラモン",
+			"profile": "機械化旅団「D－ブリガード」の最終決戦兵器であると推測されるサイボーグ型デジモン。あくまで噂の域を出ない情報だが、コードネーム「BAN-TYO」と呼ばれる「目標」を排除する作戦で撃墜されたタンクドラモンが回収され、「D－ブリガード」の研究機関においてダークドラモンへと進化したと言われている。進化の際に大量の「ダークマター」が使用されたらしく、進化後に暴走・逃亡し、現在は「D-ブリガード」もダークドラモンの消息をつかめていないらしい。今でもコードネーム「BAN-TYO」を探し彷徨っているというが・・・。必殺技『ダークロアー』は「ダークマター」をエネルギー弾として打ち放つ禁断の大技で、これを受けて生き延びるものはこの世界に皆無と言われている。また右手にはデュークモンが持つ聖槍グラムに匹敵する『ギガスティックランス』が仕込まれている。",
+			"icon_asset": "digimon/icon/digimonface1179305",
+			"attribute": "1",
+			"type": "23",
+			"start_date": "2019-11-07 12:00:00"
+		},
+		{
 			"code": "debimon",
 			"sort_key": "デビモン",
 			"profile": "A Fallen Angel Digimon clad in jet-black cloth. It was once a shining Angemon-type Digimon before it fell to the Dark Area of the Digital World. The mark of evil has been adorned upon its chest. Devimon has a fiendishly crafty temperament and an incredible intellect. It is said that those caught within the gaze of its deep crimson eyes are brainwashed and fall under Devimon's dominion. It stretches its arms to pierce foes with its special move, Death Claw.",
@@ -408,7 +435,7 @@
 		{
 			"code": "djiaboromon",
 			"sort_key": "ディアボロモン",
-			"profile": "ネットワーク上のあらゆるデータを吸収して進化と巨大化を繰り返し、電脳世界（デジタルワールド）で破壊の限りを尽くしている。多くのデータと知識を吸収したディアボロモンは自らを全知全能の存在と思い込み、破壊と殺戮を楽しんでいる。しかし、数多く居るデジモンの中でも、その存在目的がはっきりしており、その最終目的は、軍事用コンピュータを乗っ取り、核攻撃によって現実世界（リアルワールド）をも破壊しようとしている、恐ろしいデジモンである。必殺技は胸部の発射口から強力な破壊エネルギー弾を発射する『カタストロフィーカノン』。",
+			"profile": "It absorbs data from the Network again and again to feed its growth to trigger its own Digivolution, unwilling to stop even as the Digital World is brought to the brink of destruction. Convinced of its own omnipotence after absorbing so much data and knowledge, Diaboromon revels in causing destruction and death. This alarmingly destructive Digimon's true purpose is but one: to hijack a military computer and bring about the end of the Real World with a nuclear attack. Its special move is Catastrophe Cannon, in which it fires a powerful shot of destructive energy from its chest.",
 			"icon_asset": "digimon/icon/digimonface1113405",
 			"attribute": "5",
 			"type": "127",
@@ -469,6 +496,15 @@
 			"start_date": "2019-01-01 00:00:00"
 		},
 		{
+			"code": "dvuhutomon",
+			"sort_key": "ドゥフトモン",
+			"profile": "他のロイヤルナイツでさえ一目置く屈指の戦略家である聖騎士型デジモン。各々信じる道を持つロイヤルナイツを統率する類まれなる能力を持っている。自ら戦闘にも赴き“レオパルドモード”となり戦場を駆ける。必殺技は、頭上で弧を描き振り下ろすビームの刃、消滅の剣『アウススターベン』と、爆発的なエネルギーを放つ破壊の剣『エルンストウェル』。",
+			"icon_asset": "digimon/icon/digimonface1173205",
+			"attribute": "2",
+			"type": "88",
+			"start_date": "2019/10/15 12:00:00"
+		},
+		{
 			"code": "earobuidoramon",
 			"sort_key": "エアロブイドラモン",
 			"profile": "AeroVeedramon is a Veedramon that Digivolved to a form that soars through the sky. Veedramon are already a rare species, and only the strongest can survive enough battles to Digivolve, so its existence is already a living legend. Along with developing wings, various parts of its body have become more combat effective, bolstering its strength and defense. Together with its aerial capabilities, AeroVeedramon is a nigh-invincible Digimon. Its special move, V-Wing Blade, charges through the skies towards its enemy, forming a V-shaped energy blade from the tip of its horn to the edges of its wings. AeroVeedramon can also fire Dragon Impulse, a shockwave in the form of a dragon. The only downside to V-Wing Blade is that it can only be unleashed in mid-air.",
@@ -480,7 +516,7 @@
 		{
 			"code": "eguzamon",
 			"sort_key": "エグザモン",
-			"profile": "デジタルワールドの聖なる守護者「ロイヤルナイツ」の1体である聖騎士型デジモン。途方もないデータ質量をもったデジモンであり、旧来のデジタル機器ではまったく描画することが出来ず、最新鋭のデジタル機器の性能をもってしてようやく描画可能となったため発見できた存在である。ロイヤルナイツに属しているが、同時にすべての竜型デジモンの頂点に立つ存在であり、「竜帝（りゅうてい）」の異名を持つ。意思を持った巨大な翼「カレドヴールフ」と巨大なランス「アンブロジウス」を持っている。「カレドヴールフ」はすべてクロンデジゾイドで構成された特殊な翼であり、「カレドヴールフ」自身の判断により、時には飛翔するための翼になり、また時にはエグザモンを守る盾ともなる。ランス「アンブロジウス」にはさまざまな効果を持つウィルスの仕込まれた特殊弾が装填されており、エグザモンの攻撃を多彩なものにしている。必殺技は、「アンブロジウス」を敵に突き刺し、すべての特殊弾を炸裂させ内部から敵を破壊・消滅させる『アヴァロンズゲート』と、大気圏外まで急上昇し、「アンブロジウス」から高出力のレーザー射撃を行う『ペンドラゴンズグローリー』。また、大気圏外から急降下し、大気との摩擦熱を帯びた状態で体当たりする『ドラゴニックインパクト』は衝撃波を伴うため広範囲の敵を掃討することも可能である。",
+			"profile": "A Holy Knight Digimon and one of the Royal Knights, the sacred guardians of the Digital World. Its existence was only discovered after the recent developments in digital technology because its sheer data mass could not be detected by earlier models. In addition to being one of the Royal Knights, it is also known as the Dragon Emperor due to its supremacy over all Dragon Digimon. It possesses enormous sentient wings, Caledfwlch, and the great lance, Ambrosius. Caledfwlch is made entirely of Chrome Digizoid transforms into wings to fly or a shield to protect Examon of its own will. Ambrosius provides Examon an assortment of attack options with its stockpile of special shells loaded with viruses that inflict various effects on opponents. Its special moves are Avalon's Gate, in which its opponents are stabbed with Ambrosius and Ambrosius's special shells are detonated, destroying enemies from within, and Pendragon's Glory, where Examon jumps into the exosphere and uses Ambrosius to fire a high-powered laser at its opponent. It also has Dragonic Impact, in which Examon rockets down from the exosphere and, burning from the friction of its rapid journey through the atmosphere, rams into its enemies, annihilating a wide area.",
 			"icon_asset": "digimon/icon/digimonface1135306",
 			"attribute": "2",
 			"type": "88",
@@ -820,6 +856,15 @@
 			"start_date": "2017/01/01 00:00:00"
 		},
 		{
+			"code": "hakkumon",
+			"sort_key": "ハックモン",
+			"profile": "クールホワイトに輝く小竜型デジモン。自由気ままで束縛を厭い、冒険を好む生き方はガンクゥモンのDNAによるものであろう。ガンクゥモンの課す過酷な試練にも悠然と立ち向かっていく。血筋からの戦闘センスのよさと、お目付け役のシスタモン姉妹の鍛錬により、敵が完全体であろうとも互角以上の戦いをする。俊敏さを活かした接近戦を得意とし、強靭の爪で相手を切り裂く『フィフスラッシュ』、尻尾をドリルのように回転し突っ込む『ティーンラム』、また牽制にも使える『ベビーフレイム』を口から吐く。歴戦を潜りつつガンクゥモンのようなロイヤルナイツになる夢を目指す。",
+			"icon_asset": "digimon/icon/digimonface1176202",
+			"attribute": "2",
+			"type": "36",
+			"start_date": "2019-10-31 12:00:00"
+		},
+		{
 			"code": "herakurukabuterimon",
 			"sort_key": "ヘラクルカブテリモン",
 			"profile": "カブテリモン種とクワガーモン種のデータを併せ持って進化した究極の昆虫型デジモン。巨大な角と鋏を持ち、正反対の性質だった２種のデジモンの欠点を完全に補った形態といえる。体は黄金色に輝き、アトラーカブテリモンが失った飛行能力も復活強化し、超音速でデジタルワールドを駆け巡る。もはやこの究極の進化を果たしたヘラクルカブテリモンにかなう存在は少ないだろう。必殺技は「メガブラスター」の強化版『ギガブラスター』。この技を受け消滅しない者は存在しない。",
@@ -835,7 +880,7 @@
 			"icon_asset": "digimon/icon/digimonface1110305",
 			"attribute": "0",
 			"type": "28",
-			"start_date": "2019/02/21 12:00:00"
+			"start_date": "2119/02/21 12:00:00"
 		},
 		{
 			"code": "hookumon",
@@ -988,7 +1033,7 @@
 			"icon_asset": "digimon/icon/digimonface1110303",
 			"attribute": "0",
 			"type": "28",
-			"start_date": "2019/02/21 12:00:00"
+			"start_date": "2119/02/21 12:00:00"
 		},
 		{
 			"code": "kaizerugureimon",
@@ -1000,6 +1045,15 @@
 			"start_date": "2019-01-31 12:00:00"
 		},
 		{
+			"code": "kaosudjuukumon",
+			"sort_key": "カオスデュークモン",
+			"profile": "ウィルス種としての本能に目覚めた、デュークモンのもう一つの姿。その精神・思考は完全にダークサイドであり、デジタルワールドに災いをもたらす“デジタルハザード”以外の何者でもない。デュークモン同様に高純度の“クロンデジゾイド”を精製した黒い魔鎧を纏い、右手は魔槍「バルムンク」に、左手は魔盾「ゴーゴン」になっている。まさに、デュークモンとは対極をなす存在である。必殺技は魔槍の強力な連打攻撃『デモンズディザスター』と、左腕の魔盾から全てを腐食させる暗黒波動を放つ『ジュデッカプリズン』。",
+			"icon_asset": "digimon/icon/digimonface1169105",
+			"attribute": "1",
+			"type": "102",
+			"start_date": "2019/09/30 12:00:00"
+		},
+		{
 			"code": "keramon",
 			"sort_key": "ケラモン",
 			"profile": "A Rookie Digimon that Digivolved from Tsumemon. Its body has grown, and its huge mouth can eat away at far more data than Tsumemon ever could. It eats more than 100MB of data per second, so the moment Keramon invades a system it's safe to assume some data has been destroyed. Keramon has an extremely jovial attitude, and considers its destructive behavior as nothing more than play. Its special move, Crazy Giggle, fires an exceptionally destructive bolt of light from its cackling maw.",
@@ -1007,6 +1061,15 @@
 			"attribute": "5",
 			"type": "127",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "kinguetemon",
+			"sort_key": "キングエテモン",
+			"profile": "自称、「キング・オブ・デジモン」のエテモンの中でも、更に頂点に位置する存在といわれている究極の形態。更に調子にのって「キング・オブ・キングス」を名乗っている。胸に\"大王\"の文字が入ったサルスーツを颯爽と着こなし、スターきどりで闊歩しているが、他のデジモン達の冷笑を買っている。必殺技は、芝居をうって相手の戦闘意欲をそいでしまう「サルしばい」。",
+			"icon_asset": "digimon/icon/digimonface1170305",
+			"attribute": "1",
+			"type": "27",
+			"start_date": "2019/10/10 12:00:00"
 		},
 		{
 			"code": "koadoramonao",
@@ -1153,6 +1216,15 @@
 			"start_date": "2018/09/03 12:00:00"
 		},
 		{
+			"code": "masuteimon",
+			"sort_key": "マスティモン",
+			"profile": "デジタルワールドに未曾有の危機が訪れたとき、相容れない天使型デジモンと堕天使型デジモンが手を取り合い、ジョグレス進化を果たした姿で現れるという天使型デジモン。ゲートを繋ぎ別のデジタルワールドから呼び寄せた天使族・堕天使族の勢力を統制し窮地に立ち向かう。普段は敵対する両種族をまとめ上げられるのも、『異世界の軍師』と呼ばれるマスティモンの持つ資質ゆえである。自身も相反する2体のジョグレス進化でありながら一本気な心の持ち主で、光と闇のエネルギーを自在に操って様々な状況でデジモン達に力を貸し、また自らも強敵を討つ。\n必殺技は右腕から放つ光の矢で邪悪なる者を討ち滅ぼす「ホーリーディザイア」と、左手で掴んだ相手をデジコアごと握り潰しデリートする「ダークディスパイア」、そして両腕の光と闇のエネルギーを融合させてゲートを作り出し、敵を異次元の彼方へと葬り去る「カオスディグレイド」。",
+			"icon_asset": "digimon/icon/digimonface1183505",
+			"attribute": "0",
+			"type": "41",
+			"start_date": "2019-11-14 12:00:00"
+		},
+		{
 			"code": "megadoramon",
 			"sort_key": "メガドラモン",
 			"profile": "A Dark Dragon Digimon said to be the most powerful of all the Ultimate Dragon-type Cyborg Digimon. It was artificially remodeled by someone and programmed to destroy everything. Megadramon is the epitome of a computer virus, easily forcing its way into secured computer networks to destroy or reshape its host computer. Its special move, Genocide Attack, fires innumerable organic missiles from both of its arms. Megadramon can also slice through any material with its other special move, Ultimate Slicer.",
@@ -1200,7 +1272,7 @@
 		{
 			"code": "meikurakkumonbuiemu",
 			"sort_key": "メイクラックモンVM",
-			"profile": "穏やかなメイクラックモンの心が悪に染まると、全身にヒビが入ったような姿になる。世界のすべては自分に仇なす敵として、世界の破壊を望む。優れた脚力と感知能力、また超常的な獣の勘を活かし、相手が絶命するまで執拗に追い詰める。手足の鎧から伸びる爪「カースドクロー」はレッドデジゾイド製で、強靭な肉体から繰り出され切れ味は格段に増し、分厚い金属も紙きれのごとく切り裂く。必殺技は、自らの体から毛針を飛ばして分身を生み出す「フェルトメイド」",
+			"profile": "Should the gentle Meicrackmon's heart be corrupted, its body will split with cracks and fissures. It views the world as its enemy, desiring its total destruction. With its powerful legs, sharp senses, and cold animal instincts, it will pursue the annihilation of its enemies with a terrifying singlemindedness. The Cursed Claws that extend from its armored paws are made from Red Digizoid, sharp enough to cut through even the thickest of metal like it was paper. Its special move, Felt Clone, creates clones of itself using lures expelled from its body.",
 			"icon_asset": "digimon/icon/digimonface1112504",
 			"attribute": "5",
 			"type": "127",
@@ -1209,7 +1281,7 @@
 		{
 			"code": "meikuumon",
 			"sort_key": "メイクーモン",
-			"profile": "大きな耳と尻尾が特徴的な成熟期デジモン。ふわふわの毛並みと愛らしい姿からは想像ができないが、実は手の中に非常に鋭い爪を隠し持っている。首から伸びる2本の触手は、恥ずかしがり屋のメイクーモンの顔を隠す以外にも、寒いときにはマフラーとして使える優れものだ。必殺技は、鋭い爪で相手をひっかく「シャットクロー」と、口からデータを破壊する毛玉を吐き出す「トリコベゾアール」。",
+			"profile": "A Champion Digimon characterized by its large ears and tail. Though hard to imagine from its adorable and fluffy appearance, it possesses extremely sharp claws hidden in its paws. The two tendrils attached to its neck are often used to hide the ever shy Digimon's face, but they also come in handy as a scarf when it's cold. Its special moves are Cat Claw, which allows it to use its sharp claws to scratch at its opponent, and Trichobezoar, a data-destroying hairball that Meicoomon can cough up.",
 			"icon_asset": "digimon/icon/digimonface1112503",
 			"attribute": "5",
 			"type": "127",
@@ -1236,7 +1308,7 @@
 		{
 			"code": "metarugarurumon",
 			"sort_key": "メタルガルルモン",
-			"profile": "The fully metallic final form of the Garurumon species of Digimon. Not only has it kept its agility after metallization, but it can pulverize its enemies with the countless weapons concealed within its body. Invisible lasers are projected from the 4 laser sights on its snout, allowing x-ray, infrared, and other sensors to detect and analyze objects before it, making it impossible to escape MetalGarurumon even in absolute darkness. It can also release beam-like wings from the arms on its back, allowing high-speed flight through the net space. Its special move is a blast of absolute zero breath, Metal Wolf Claw, that brings its victim's vital functions to a halt.",
+			"profile": "The fully metallic final form of the Garurumon species of Digimon. Not only has it kept its agility after metallization, but it can pulverize its enemies with the countless weapons concealed within its body. Invisible lasers are projected from the 4 laser sights on its snout, allowing x-ray, infrared, and other sensors to detect and analyze objects before it, making it impossible to escape MetalGarurumon even in absolute darkness. It can also release beam-like wings from the arms on its back, allowing high-speed flight through the net space. Its special move is a blast of absolute zero breath, Freezing Breath, that brings its victim's vital functions to a halt.",
 			"icon_asset": "digimon/icon/digimonface1009205",
 			"attribute": "2",
 			"type": "23",
@@ -1245,7 +1317,7 @@
 		{
 			"code": "metarugarurumonkuro",
 			"sort_key": "メタルガルルモン(黒)",
-			"profile": "A Virus-type MetalGarurumon with a frozen ordnance inside of it. It has a fearsome personality. When it catches prey with the laser sights in its snout, it will persistently chase it no matter if it is friend or foe and launch missiles at it. Its special move is Metal Wolf Claw, where it instantly freezes everything with cold air.",
+			"profile": "A Virus-type MetalGarurumon with a frozen ordnance inside of it. It has a fearsome personality. When it catches prey with the laser sights in its snout, it will persistently chase it no matter if it is friend or foe and launch missiles at it. Its special move is Freezing Breath, where it instantly freezes everything with cold air.",
 			"icon_asset": "digimon/icon/digimonface1115305",
 			"attribute": "1",
 			"type": "23",
@@ -1407,7 +1479,7 @@
 		{
 			"code": "omegamon",
 			"sort_key": "オメガモン",
-			"profile": "ウイルスバスターであるウォーグレイモン・メタルガルルモンが、善を望む人々の強い意志によって融合し誕生した“ロイヤルナイツ”の一員である聖騎士型デジモン。２体の特性を併せもつデジモンで、どんな状況下でも、その能力をいかんなく発揮することのできるマルチタイプの戦士である。ウォーグレイモンの形をした左腕には盾と剣が、そしてメタルガルルモンの形をした右腕には大砲やミサイルが装備されている。背中のマントは、敵の攻撃を避ける時や、飛行するときに背中から自動的に装着される。必殺技は、メタルガルルモンの形をした大砲から打ち出される絶対零度の冷気弾で敵を凍結させる『ガルルキャノン』。また、左腕には無敵の剣『グレイソード』が装備されている。",
+			"profile": "One of the Holy Knight Digimon, created as a result of the strong will of those who wish for justice. A fusion of the Virus Busters WarGreymon and MetalGarurumon. With the combined characteristics of both Digimon, it is perfectly suited to fighting under any circumstance. Its left arm has acquired the look of WarGreymon—armed with a sword and shield—and its right, MetalGarurumon—equipped with a cannon and missile. The cape on its back appears automatically during flight or while it is avoiding attacks from its enemies. Its special move, Supreme Cannon, uses its MetalGarurumon-shaped cannon to freeze opponents with blasts so cold, they approach absolute zero temperatures. It also has access to its unrivaled blade, the Transcendent Sword.",
 			"icon_asset": "digimon/icon/digimonface1108106",
 			"attribute": "0",
 			"type": "88",
@@ -1421,6 +1493,15 @@
 			"attribute": "0",
 			"type": "88",
 			"start_date": "2019/08/31 12:00:00"
+		},
+		{
+			"code": "omekamon",
+			"sort_key": "オメカモン",
+			"profile": "とあるコンピュータの設計図面のデータから誕生したパペット型デジモン。自分が何者かを知らず、とりあえずデジモンの中でも有名な聖騎士“ロイヤルナイツ”の格好をしてみている。背負っているペンをロケット弾にして放つ『ラクガキロケット』は、体に色が付いてしまうので他のデジモンからヒンシュクをかっている。そのペンは、とあるコンピュータのお絵描きソフトの中で拾ってきたらしい。必殺技は意外と威力のある『オメカキック』。",
+			"icon_asset": "digimon/icon/digimonface1178303",
+			"attribute": "2",
+			"type": "27",
+			"start_date": "2019/10/31 12:00:00"
 		},
 		{
 			"code": "oogamon",
@@ -1475,6 +1556,15 @@
 			"attribute": "2",
 			"type": "27",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "panzyamon",
+			"sort_key": "パンジャモン",
+			"profile": "誇り高き正義の獣人型デジモン。正義を守るために日々トレーニングを重ねる一部のレオモンが、デジタルワールドの氷雪エリアの極寒の地において、冷気の力を身に付けて進化した姿である。寒さの中で鍛えられた強い意志と体は、どんな攻撃にも挫けることはない。必殺技は冷気を込めた拳で放つ『氷獣拳』。“冷徹なる白獅子”と呼ばれ、正義の為に悪を徹して退治し、その戦い様は冷酷無比とまで言われるようになっている。伝説のレアメタル“ミスリル”の原石から削り出されたという斧『雪花火（ゆきはなび）』は、高層ビルのように連なり行く手を阻む永久凍土の氷山を軽く粉砕する威力を持っている。",
+			"icon_asset": "digimon/icon/digimonface1173204",
+			"attribute": "0",
+			"type": "42",
+			"start_date": "2019/10/15 12:00:00"
 		},
 		{
 			"code": "parumon",
@@ -1668,7 +1758,7 @@
 		{
 			"code": "raguerumon",
 			"sort_key": "ラグエルモン",
-			"profile": "他の天使型デジモンが堕落しないよう、全ての天使型デジモンを疑いの目で監視する究極体デジモン。堕落が始まった天使型デジモンを見つければ堕落しきる前に撃ち滅ぼす。しかし監視という疎まれる役目であるが故、虚無感に満たされてしまうと全てを拒絶する思考に陥ってしまうという。そうなれば敵味方の区別を持たず破壊行動を始める恐怖のデジモンとなる。必殺技は、両爪と尻尾の先で敵を斬り刻む“フォルムタラニス”。串刺しにすれば破壊のデータを流し込み、敵は内部から蝕まれ朽ちていく。また両腕と腹部の宝玉からレーザー弾“パーホルス”を放つ。",
+			"profile": "A Mega Angel Digimon that spends its time carefully observing other Angel Digimon, always watching for signs that they may fall to corruption. It swiftly and decisively destroys any Angel Digimon that are swayed by temptation, before they can fall completely to corruption. Unfortunately, its role as judge, jury, and executioner leads to its ostracization. Sinking it deep into loneliness where it rejects all. Eventually, it becomes unable to distinguish friend from foe, turning its fearsome powers on all indiscriminately. Its special move is Form Taranis, where it tears into its opponents with its claws and the tip of its tail. Any enemy that becomes victim to this is injected with data that will destroy them from inside out. It also has Pahorus, a barrage of laser bullets that fire from the jewels on its arms and abdomen.",
 			"icon_asset": "digimon/icon/digimonface1112505",
 			"attribute": "5",
 			"type": "127",
@@ -1900,6 +1990,15 @@
 			"start_date": "2017/01/01 00:00:00"
 		},
 		{
+			"code": "seibaahakkumon",
+			"sort_key": "セイバーハックモン",
+			"profile": "長きに渡る旅路からデジモンとの出会いや別れを繰り返し、いくつもの修羅場を潜り抜けて進化した姿。絶え間なく起こるデジタルワールド内の紛争に武力介入し戦闘停止を求めつつ、被害にあった現地デジモンの救済にあたってきた。その結果は全て成功とはならず、悲惨な光景を前に流した涙はセイバーハックモンを強くし、次に助けを求むデジモンへ懸命に手を伸ばす。両足が刃ながらに2足歩行を可能とし、両腕と尻尾に紅の刃が生まれ、全身刃の攻撃的なスタイルとなった。胸のクリスタルは努力を欠かさず力を磨き上げた証の結晶である。必殺技は跳び蹴りの姿勢から足の刃で敵を突き刺し貫く『レッジストレイド』、マシンガンのように口から炎弾を連射し敵を焼き尽くす『メテオフレイム』。尻尾と両腕に装備された三つの赤い刃で斬りかかる『トライデントセイバー』は、クロンデジゾイドを纏った敵であろうと容赦なく割断する。",
+			"icon_asset": "digimon/icon/digimonface1176204",
+			"attribute": "2",
+			"type": "55",
+			"start_date": "2019-10-31 12:00:00"
+		},
+		{
 			"code": "sentogarugomon",
 			"sort_key": "セントガルゴモン",
 			"profile": "This humongous Machine Digimon is essentially a mass of weapons. Its arsenal rivals that of MetalGarurumon (wielding thermal weaponry in contrast to MetalGarurumon's frozen ordnance). All of MegaGargomon's lasers, missiles, bazookas, Vulcan cannons, and flamethrowers stay hidden. It puts all of its energy into power, sacrificing speed for the sake of unbelievable destructive power. It can handle several enemies from any direction without taking a step. Its special move Burst Shot fires a salvo of weaponry, and Giant Missile launches massive megaton-class missiles from its shoulders.",
@@ -1992,7 +2091,7 @@
 		{
 			"code": "sureiyaadoramon",
 			"sort_key": "スレイヤードラモン",
-			"profile": "クロンデジゾイドの鎧鱗（がいりん）で身を包んだ竜人型デジモン。竜型デジモンだけが挑戦できる「四大竜の試練」と呼ばれる修行を修了した者だけがたどり着ける姿だといわれている。伸縮自在の大剣「フラガラッハ」を帯びており、スレイヤードラモン独自の究極剣法「竜斬剣」を極めている。「竜斬剣」には壱から参までの３種類の型があり、壱の型『天竜斬破』は回転体術によって加速された剣を脳天から垂直に打ち込み相手を両断する。弐の型『昇竜斬波』は剣で練った竜波動を下方から上方に向けて解き放ち、剣圧だけで相手を切り捨てる。参の型『咬竜斬刃』は、至近の間合いまで踏み込み「フラガラッハ」を相手に巻きつけ、巻きつけた刀身で相手の全身を削り取る。",
+			"profile": "A Dragon Man Digimon that is encased in Chrome Digizoid scale armor. It is said that only Dragon Digimon that have passed the Trial of the Four Great Dragons can take this form. With Fragarach, its extensible greatsword, Slayerdramon has developed and mastered its own original ultimate sword technique, the Dragonnaire Blade. There are three forms of the Dragonnaire Blade: The first is Celestial Guillotine. Fragarach is spun to accelerate its vertical trajectory as it cuts through Slayerdramon's opponents, splitting them in two. The second form, Dragon Slash Wave, cuts through enemies from below with a surging dragon wave created from just the swing of Fragarach. 　The third and final form, Gnashing Blades, is used after pushing past an opponent's guard. Fragarach is wrapped around the enemy, tearing into them, from head to toe.",
 			"icon_asset": "digimon/icon/digimonface1134205",
 			"attribute": "0",
 			"type": "55",
@@ -2122,7 +2221,7 @@
 			"icon_asset": "digimon/icon/digimonface1110302",
 			"attribute": "0",
 			"type": "28",
-			"start_date": "2019/02/21 12:00:00"
+			"start_date": "2119/02/21 12:00:00"
 		},
 		{
 			"code": "teriamon",
@@ -2402,6 +2501,15 @@
 			"attribute": "6",
 			"type": "0",
 			"start_date": "2019-01-01 00:00:00"
+		},
+		{
+			"code": "ziesumon",
+			"sort_key": "ジエスモン",
+			"profile": "セイバーハックモンの胸のクリスタルが輝き完全を超えた究極の姿となり、ネットワークセキュリティの最高位とされる「ロイヤルナイツ」の称号を得た聖騎士型デジモン。デジタルワールド各地に起こる異変や混沌の兆しを感知する能力を備え、どのロイヤルナイツよりもイチ早く駆けつける。単独で行動するよりも近くのデジモンやシスタモン達と連携し対応にあたるという、ロイヤルナイツでも稀なチームでの活動を行うのは他者を信頼し、自分への過信を行わないためである。師であるガンクゥモンのヒヌカムイを見て習い、ジエスモンも修行の中で「アト」「ルネ」「ポル」の3体を習得している。ジエスモンの指示で動くが自立行動もでき、敵への直接攻撃、ジエスモンの援護、他デジモンの救済など侮れない行動能力を誇る。必殺技は高速移動しながら腕の刃で敵を瞬時に斬り裂く『轍剣成敗』、敵からのあらゆる攻撃を「アト」「ルネ」「ポル」と共に九つの刃で迎え撃つ全方位カウンター技『シュベルトガイスト』。自分のデータを一時的に書き換え、物理限界を超えた活動を可能にする『アウスジェネリクス』は身体能力がデジタルワールドの法則に縛られないため、いかなる敵であろうとジエスモンに傷ひとつ付けられずに屈する。",
+			"icon_asset": "digimon/icon/digimonface1176205",
+			"attribute": "2",
+			"type": "88",
+			"start_date": "2019-10-31 12:00:00"
 		},
 		{
 			"code": "ziogureimon",

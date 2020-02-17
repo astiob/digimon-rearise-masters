@@ -205,6 +205,18 @@
 			"description": "通常アイテムでお世話したときのごきげん度の影響率(百分率) 基礎値×0.8とする"
 		},
 		{
+			"category": "EC",
+			"name": "START_DATE",
+			"value": "2100-10-03 14:00:00",
+			"description": "エンドコンテンツが有効となる日時"
+		},
+		{
+			"category": "EC",
+			"name": "TEAM_COST",
+			"value": "100",
+			"description": "1チームのコスト上限"
+		},
+		{
 			"category": "EXTENSION",
 			"name": "DECO_SLOT_ADD",
 			"value": "5",
@@ -219,8 +231,8 @@
 		{
 			"category": "EXTENSION",
 			"name": "DECO_SLOT_MAX",
-			"value": "150",
-			"description": "デコ枠の最大値"
+			"value": "300",
+			"description": "デコ枠の最大値\n150⇒300  (2020/02/06 ver1.3.0にて変更)　※海外版は初期150でリリース"
 		},
 		{
 			"category": "EXTENSION",
@@ -237,8 +249,8 @@
 		{
 			"category": "EXTENSION",
 			"name": "DIGIMON_SLOT_MAX",
-			"value": "500",
-			"description": "デジモン枠の最大値\n500->750 (2018/11/27 変更)　※海外版は初期500でリリース"
+			"value": "750",
+			"description": "デジモン枠の最大値\n500⇒750 (2020/02/06 ver1.3.0にて変更)　※海外版は初期500でリリース"
 		},
 		{
 			"category": "EXTENSION",
@@ -255,8 +267,8 @@
 		{
 			"category": "EXTENSION",
 			"name": "PLUGIN_SLOT_MAX",
-			"value": "500",
-			"description": "プラグイン枠の最大値\n500->750 (2018/10/30 変更)　※海外版は初期500でリリース"
+			"value": "750",
+			"description": "プラグイン枠の最大値\n500⇒750  (2020/02/06 ver1.3.0にて変更)　※海外版は初期500でリリース"
 		},
 		{
 			"category": "FOOTPRINT",
@@ -281,6 +293,12 @@
 			"name": "PLUGIN_GASHA_SLOT_OFFSET",
 			"value": "100",
 			"description": "プラグインガシャの上限＋Ｎ枠"
+		},
+		{
+			"category": "HELPER",
+			"name": "MIN_TAMER_LEVEL",
+			"value": "3",
+			"description": "テイマーレベルX以上で抽出"
 		},
 		{
 			"category": "MISSION",
@@ -373,6 +391,18 @@
 			"description": "デジルビー交換所"
 		},
 		{
+			"category": "SUBJUGATION",
+			"name": "LESS_THAN_RANKING",
+			"value": "10001",
+			"description": "ランキング表記を曖昧にする順位（以下なら曖昧）"
+		},
+		{
+			"category": "SUPER_LIMITBREAK",
+			"name": "START_DATE",
+			"value": "2100/10/29 14:00:00",
+			"description": "超限界突破機能が有効となる日時\nアイテム一覧に表示されるようになる"
+		},
+		{
 			"category": "SYSTEM",
 			"name": "ASYNC_LIMIT",
 			"value": "20",
@@ -461,6 +491,12 @@
 			"name": "UNLOCK_TRAINING_QUEST_ID",
 			"value": "1002030",
 			"description": "特訓の機能解放クエストID（2章3話）（TutorialType:307）"
+		},
+		{
+			"category": "UNLOCK",
+			"name": "UNLOCK_UNDERWORLD_2_QUEST_ID",
+			"value": "1011150",
+			"description": "アンダーワールド2の機能解放クエストID（11章最終話）"
 		},
 		{
 			"category": "UNLOCK",

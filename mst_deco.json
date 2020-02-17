@@ -145,6 +145,18 @@
 			"description": "A planter for flowers and other decorative plants. Have Digimon suddenly found pleasure in gardening? (5x5)"
 		},
 		{
+			"deco_id": "23",
+			"name": "Giant Mushroom",
+			"size_x": "5",
+			"size_y": "5",
+			"is_limited": "0",
+			"selling_price": "20000",
+			"icon_asset": "deco/icon/icondeco023",
+			"model_asset": "deco/deco0016",
+			"emotion_icon_asset": "",
+			"description": "A giant, mutated mushroom. Whether it's edible or not is unknown, but <color=#e75600>hungry Digimon have been seen taking bites out of it.</color> (5x5)"
+		},
+		{
 			"deco_id": "24",
 			"name": "Gears",
 			"size_x": "5",

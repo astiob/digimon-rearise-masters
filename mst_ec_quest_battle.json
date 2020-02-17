@@ -1,0 +1,914 @@
+{
+	"masterRows": [
+		{
+			"ec_battle_id": "1001",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3,2],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1001",
+			"wave": "1",
+			"sequence": "2",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1001",
+			"wave": "2",
+			"sequence": "3",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3,2],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1001",
+			"wave": "2",
+			"sequence": "4",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1001",
+			"wave": "3",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1001",
+			"wave": "3",
+			"sequence": "6",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1002",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[2],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1002",
+			"wave": "1",
+			"sequence": "2",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3,2],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1002",
+			"wave": "2",
+			"sequence": "3",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[2],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1002",
+			"wave": "2",
+			"sequence": "4",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3,2],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1002",
+			"wave": "3",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1002",
+			"wave": "3",
+			"sequence": "6",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1003",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[3,2],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1003",
+			"wave": "1",
+			"sequence": "2",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1003",
+			"wave": "2",
+			"sequence": "3",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[3,2],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1003",
+			"wave": "2",
+			"sequence": "4",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1003",
+			"wave": "3",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[3,2],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1003",
+			"wave": "3",
+			"sequence": "6",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1003",
+			"wave": "4",
+			"sequence": "7",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1003",
+			"wave": "4",
+			"sequence": "8",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1004",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[2],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1004",
+			"wave": "1",
+			"sequence": "2",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1004",
+			"wave": "2",
+			"sequence": "3",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1004",
+			"wave": "2",
+			"sequence": "4",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1004",
+			"wave": "3",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1004",
+			"wave": "3",
+			"sequence": "6",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1004",
+			"wave": "4",
+			"sequence": "7",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1004",
+			"wave": "4",
+			"sequence": "8",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":2,\"generation\":[3],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1004",
+			"wave": "4",
+			"sequence": "9",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":99}"
+		},
+		{
+			"ec_battle_id": "1101",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1101",
+			"wave": "2",
+			"sequence": "2",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1101",
+			"wave": "3",
+			"sequence": "3",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1101",
+			"wave": "3",
+			"sequence": "4",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1101",
+			"wave": "4",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1101",
+			"wave": "4",
+			"sequence": "6",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1102",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "4",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1102",
+			"wave": "2",
+			"sequence": "2",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1102",
+			"wave": "3",
+			"sequence": "3",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1102",
+			"wave": "3",
+			"sequence": "4",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1102",
+			"wave": "4",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1102",
+			"wave": "4",
+			"sequence": "6",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1103",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1103",
+			"wave": "2",
+			"sequence": "2",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1103",
+			"wave": "2",
+			"sequence": "3",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":2,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1103",
+			"wave": "3",
+			"sequence": "4",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1103",
+			"wave": "3",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1103",
+			"wave": "4",
+			"sequence": "6",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1103",
+			"wave": "4",
+			"sequence": "7",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1104",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1104",
+			"wave": "2",
+			"sequence": "2",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":2,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1104",
+			"wave": "3",
+			"sequence": "3",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1104",
+			"wave": "3",
+			"sequence": "4",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":2,\"generation\":[4],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1104",
+			"wave": "4",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[3],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1104",
+			"wave": "4",
+			"sequence": "6",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":99,\"level_max\":120}"
+		},
+		{
+			"ec_battle_id": "1201",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "4",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1201",
+			"wave": "2",
+			"sequence": "2",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1201",
+			"wave": "3",
+			"sequence": "3",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[3],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1201",
+			"wave": "3",
+			"sequence": "4",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1201",
+			"wave": "4",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[4],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1201",
+			"wave": "4",
+			"sequence": "6",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1202",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1202",
+			"wave": "2",
+			"sequence": "2",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[3],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1202",
+			"wave": "2",
+			"sequence": "3",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[3],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1202",
+			"wave": "3",
+			"sequence": "4",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[3],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1202",
+			"wave": "3",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1202",
+			"wave": "4",
+			"sequence": "6",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":2,\"generation\":[4],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1202",
+			"wave": "4",
+			"sequence": "7",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1203",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125,\"personality_type\":[1,2]}"
+		},
+		{
+			"ec_battle_id": "1203",
+			"wave": "1",
+			"sequence": "2",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125,\"personality_type\":[3,4]}"
+		},
+		{
+			"ec_battle_id": "1203",
+			"wave": "1",
+			"sequence": "3",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1203",
+			"wave": "2",
+			"sequence": "4",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125,\"personality_type\":[1,2]}"
+		},
+		{
+			"ec_battle_id": "1203",
+			"wave": "2",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125,\"personality_type\":[3,4]}"
+		},
+		{
+			"ec_battle_id": "1203",
+			"wave": "2",
+			"sequence": "6",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1204",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1204",
+			"wave": "2",
+			"sequence": "2",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1204",
+			"wave": "3",
+			"sequence": "3",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125,\"personality_type\":[1,2]}"
+		},
+		{
+			"ec_battle_id": "1204",
+			"wave": "3",
+			"sequence": "4",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125,\"personality_type\":[3,4]}"
+		},
+		{
+			"ec_battle_id": "1204",
+			"wave": "3",
+			"sequence": "5",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1205",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1205",
+			"wave": "2",
+			"sequence": "2",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1205",
+			"wave": "3",
+			"sequence": "3",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125,\"personality_type\":[1,2]}"
+		},
+		{
+			"ec_battle_id": "1205",
+			"wave": "3",
+			"sequence": "4",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":121,\"level_max\":125,\"personality_type\":[3,4]}"
+		},
+		{
+			"ec_battle_id": "1205",
+			"wave": "3",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":121,\"level_max\":125}"
+		},
+		{
+			"ec_battle_id": "1301",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":130,\"level_max\":135}"
+		},
+		{
+			"ec_battle_id": "1301",
+			"wave": "2",
+			"sequence": "2",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":130,\"level_max\":135}"
+		},
+		{
+			"ec_battle_id": "1301",
+			"wave": "3",
+			"sequence": "3",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":130,\"level_max\":135}"
+		},
+		{
+			"ec_battle_id": "1301",
+			"wave": "4",
+			"sequence": "4",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":130,\"level_max\":135}"
+		},
+		{
+			"ec_battle_id": "1301",
+			"wave": "4",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":130,\"level_max\":135,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1302",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":130,\"level_max\":135}"
+		},
+		{
+			"ec_battle_id": "1302",
+			"wave": "1",
+			"sequence": "2",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":130,\"level_max\":135,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1302",
+			"wave": "2",
+			"sequence": "3",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":130,\"level_max\":135}"
+		},
+		{
+			"ec_battle_id": "1302",
+			"wave": "3",
+			"sequence": "4",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":130,\"level_max\":135}"
+		},
+		{
+			"ec_battle_id": "1302",
+			"wave": "4",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[4],\"level_min\":130,\"level_max\":135}"
+		},
+		{
+			"ec_battle_id": "1302",
+			"wave": "4",
+			"sequence": "6",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":130,\"level_max\":135,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1303",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":130,\"level_max\":135,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1303",
+			"wave": "2",
+			"sequence": "2",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":130,\"level_max\":135,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1303",
+			"wave": "3",
+			"sequence": "3",
+			"enemy_count": "4",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":130,\"level_max\":135,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1304",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":130,\"level_max\":135,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1304",
+			"wave": "2",
+			"sequence": "2",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":130,\"level_max\":135,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1304",
+			"wave": "3",
+			"sequence": "3",
+			"enemy_count": "5",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":130,\"level_max\":135,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1401",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1401",
+			"wave": "1",
+			"sequence": "2",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[5]}"
+		},
+		{
+			"ec_battle_id": "1401",
+			"wave": "2",
+			"sequence": "3",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1,2,3]}"
+		},
+		{
+			"ec_battle_id": "1401",
+			"wave": "2",
+			"sequence": "4",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[4]}"
+		},
+		{
+			"ec_battle_id": "1401",
+			"wave": "3",
+			"sequence": "5",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1,2,4]}"
+		},
+		{
+			"ec_battle_id": "1401",
+			"wave": "3",
+			"sequence": "6",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[3]}"
+		},
+		{
+			"ec_battle_id": "1401",
+			"wave": "4",
+			"sequence": "7",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1401",
+			"wave": "4",
+			"sequence": "8",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[5]}"
+		},
+		{
+			"ec_battle_id": "1402",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1,2,3]}"
+		},
+		{
+			"ec_battle_id": "1402",
+			"wave": "1",
+			"sequence": "2",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[4]}"
+		},
+		{
+			"ec_battle_id": "1402",
+			"wave": "2",
+			"sequence": "3",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1402",
+			"wave": "2",
+			"sequence": "4",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[5]}"
+		},
+		{
+			"ec_battle_id": "1402",
+			"wave": "3",
+			"sequence": "5",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1,2,4]}"
+		},
+		{
+			"ec_battle_id": "1402",
+			"wave": "4",
+			"sequence": "6",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1,2,3,4,5]}"
+		},
+		{
+			"ec_battle_id": "1402",
+			"wave": "5",
+			"sequence": "10",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[4]}"
+		},
+		{
+			"ec_battle_id": "1402",
+			"wave": "5",
+			"sequence": "11",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[5]}"
+		},
+		{
+			"ec_battle_id": "1402",
+			"wave": "5",
+			"sequence": "7",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1]}"
+		},
+		{
+			"ec_battle_id": "1402",
+			"wave": "5",
+			"sequence": "8",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[2]}"
+		},
+		{
+			"ec_battle_id": "1402",
+			"wave": "5",
+			"sequence": "9",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[3]}"
+		},
+		{
+			"ec_battle_id": "1403",
+			"wave": "1",
+			"sequence": "1",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1,2,3]}"
+		},
+		{
+			"ec_battle_id": "1403",
+			"wave": "1",
+			"sequence": "2",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[4]}"
+		},
+		{
+			"ec_battle_id": "1403",
+			"wave": "2",
+			"sequence": "3",
+			"enemy_count": "2",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1,2,3,4]}"
+		},
+		{
+			"ec_battle_id": "1403",
+			"wave": "2",
+			"sequence": "4",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[5]}"
+		},
+		{
+			"ec_battle_id": "1403",
+			"wave": "3",
+			"sequence": "5",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1,2,4]}"
+		},
+		{
+			"ec_battle_id": "1403",
+			"wave": "4",
+			"sequence": "6",
+			"enemy_count": "3",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1,2,3,4,5]}"
+		},
+		{
+			"ec_battle_id": "1403",
+			"wave": "5",
+			"sequence": "10",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[4]}"
+		},
+		{
+			"ec_battle_id": "1403",
+			"wave": "5",
+			"sequence": "11",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[5]}"
+		},
+		{
+			"ec_battle_id": "1403",
+			"wave": "5",
+			"sequence": "7",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[1]}"
+		},
+		{
+			"ec_battle_id": "1403",
+			"wave": "5",
+			"sequence": "8",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[2]}"
+		},
+		{
+			"ec_battle_id": "1403",
+			"wave": "5",
+			"sequence": "9",
+			"enemy_count": "1",
+			"filter_value": "{\"category\":1,\"generation\":[5],\"level_min\":135,\"level_max\":140,\"personality_type\":[3]}"
+		}
+	]
+}
