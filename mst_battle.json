@@ -931,6 +931,12 @@
 			"placement_asset": "battle_placement/quest_battle_placement"
 		},
 		{
+			"battle_id": "1011001",
+			"bg_assets": "battle_bg/bm_xlb001",
+			"skybox_asset": "skybox/sunny1",
+			"placement_asset": "battle_placement/xlb_battle_placement_chr093"
+		},
+		{
 			"battle_id": "101101",
 			"bg_assets": "battle_bg/bm_qs002",
 			"skybox_asset": "skybox/sunny1",
@@ -1019,6 +1025,12 @@
 			"bg_assets": "battle_bg/bm_qs004_e",
 			"skybox_asset": "skybox/sunny10",
 			"placement_asset": "battle_placement/quest_battle_placement"
+		},
+		{
+			"battle_id": "1012002",
+			"bg_assets": "battle_bg/bm_xlb001",
+			"skybox_asset": "skybox/sunny1",
+			"placement_asset": "battle_placement/xlb_battle_placement_chr085"
 		},
 		{
 			"battle_id": "101201",
@@ -1111,6 +1123,12 @@
 			"placement_asset": "battle_placement/quest_battle_placement"
 		},
 		{
+			"battle_id": "1013003",
+			"bg_assets": "battle_bg/bm_xlb001",
+			"skybox_asset": "skybox/sunny1",
+			"placement_asset": "battle_placement/xlb_battle_placement_chr427"
+		},
+		{
 			"battle_id": "101301",
 			"bg_assets": "battle_bg/bm_qs009_n",
 			"skybox_asset": "skybox/sunny1",
@@ -1199,6 +1217,12 @@
 			"bg_assets": "battle_bg/bm_qs009_n",
 			"skybox_asset": "skybox/sunny1",
 			"placement_asset": "battle_placement/quest_battle_placement"
+		},
+		{
+			"battle_id": "1014004",
+			"bg_assets": "battle_bg/bm_xlb001",
+			"skybox_asset": "skybox/sunny1",
+			"placement_asset": "battle_placement/xlb_battle_placement_chr328"
 		},
 		{
 			"battle_id": "101401",

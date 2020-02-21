@@ -580,7 +580,7 @@
 			"icon_asset": "icon/item/evolution/iconevolutionitem10001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態がフィルモンの系譜の進化を導くアイテム",
+			"description": "フィルモンの系譜の進化を導くアイテム",
 			"max_amount": "99999"
 		},
 		{
@@ -591,7 +591,7 @@
 			"icon_asset": "icon/item/evolution/iconevolutionitem10005",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態がスティフィルモンの系譜の進化を導くアイテム",
+			"description": "スティフィルモンの系譜の進化を導くアイテム",
 			"max_amount": "99999"
 		},
 		{
@@ -977,7 +977,7 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "最終進化形態がオファニモンFMの系譜の進化を導くアイテム",
-			"max_amount": "9999"
+			"max_amount": "99999"
 		},
 		{
 			"item_id": "101435001",
@@ -21711,7 +21711,7 @@
 			"icon_asset": "icon/item/icon_openticket007",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "時限の渦:映画記念エリアを一定時間解放する。",
+			"description": "時限の渦:映画記念エリアを一定時間解放する。(開催期間 2020/01/31 12:00 ～ 2020/02/29 11:59)",
 			"max_amount": "9999"
 		},
 		{
@@ -29115,6 +29115,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "究極体に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25241",
+			"item_name": "ワクワクする橙の映画記念デジタマ",
+			"sort_key": "ワクワクスルダイダイノエイガキネンデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama017",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体のインペリアルドラモンDM(勇敢)系譜、マリンエンジェモン(冷静)系譜、プレシオモン(器用)系譜、ボルトモン(不屈)系譜、プリンスマメモン(献身)系譜のいずれかが各20％の確率で産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -45483,6 +45494,17 @@
 			"friendship_point_rise_value": "5000",
 			"mood_value_rise_value": "50",
 			"description": "無のデジモンが好む食べ物。ひとくちでやみつきになるジューシーさ。",
+			"max_amount": "99999"
+		},
+		{
+			"item_id": "98",
+			"item_name": "プロテインミニ",
+			"sort_key": "",
+			"item_type": "1",
+			"icon_asset": "icon/item/iconrequestitem048",
+			"friendship_point_rise_value": "700",
+			"mood_value_rise_value": "25",
+			"description": "どの特質のデジモンにも効果をもたらすサプリメント。（副作用はございません）",
 			"max_amount": "99999"
 		},
 		{

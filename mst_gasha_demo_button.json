@@ -1,0 +1,186 @@
+{
+	"masterRows": [
+		{
+			"prev_color_type": "0",
+			"next_color_type": "1",
+			"sequence": "1",
+			"parts_id": "100100",
+			"weight": "70"
+		},
+		{
+			"prev_color_type": "0",
+			"next_color_type": "1",
+			"sequence": "2",
+			"parts_id": "200100",
+			"weight": "30"
+		},
+		{
+			"prev_color_type": "0",
+			"next_color_type": "2",
+			"sequence": "1",
+			"parts_id": "100100",
+			"weight": "60"
+		},
+		{
+			"prev_color_type": "0",
+			"next_color_type": "2",
+			"sequence": "2",
+			"parts_id": "200100",
+			"weight": "35"
+		},
+		{
+			"prev_color_type": "0",
+			"next_color_type": "2",
+			"sequence": "3",
+			"parts_id": "300100",
+			"weight": "5"
+		},
+		{
+			"prev_color_type": "0",
+			"next_color_type": "3",
+			"sequence": "1",
+			"parts_id": "100100",
+			"weight": "85"
+		},
+		{
+			"prev_color_type": "0",
+			"next_color_type": "3",
+			"sequence": "2",
+			"parts_id": "100200",
+			"weight": "5"
+		},
+		{
+			"prev_color_type": "0",
+			"next_color_type": "3",
+			"sequence": "3",
+			"parts_id": "200100",
+			"weight": "50"
+		},
+		{
+			"prev_color_type": "0",
+			"next_color_type": "3",
+			"sequence": "4",
+			"parts_id": "200200",
+			"weight": "10"
+		},
+		{
+			"prev_color_type": "0",
+			"next_color_type": "3",
+			"sequence": "5",
+			"parts_id": "300100",
+			"weight": "35"
+		},
+		{
+			"prev_color_type": "0",
+			"next_color_type": "3",
+			"sequence": "6",
+			"parts_id": "300200",
+			"weight": "15"
+		},
+		{
+			"prev_color_type": "1",
+			"next_color_type": "2",
+			"sequence": "1",
+			"parts_id": "100100",
+			"weight": "60"
+		},
+		{
+			"prev_color_type": "1",
+			"next_color_type": "2",
+			"sequence": "2",
+			"parts_id": "200100",
+			"weight": "35"
+		},
+		{
+			"prev_color_type": "1",
+			"next_color_type": "2",
+			"sequence": "3",
+			"parts_id": "300100",
+			"weight": "5"
+		},
+		{
+			"prev_color_type": "1",
+			"next_color_type": "3",
+			"sequence": "1",
+			"parts_id": "100100",
+			"weight": "85"
+		},
+		{
+			"prev_color_type": "1",
+			"next_color_type": "3",
+			"sequence": "2",
+			"parts_id": "100200",
+			"weight": "5"
+		},
+		{
+			"prev_color_type": "1",
+			"next_color_type": "3",
+			"sequence": "3",
+			"parts_id": "200100",
+			"weight": "50"
+		},
+		{
+			"prev_color_type": "1",
+			"next_color_type": "3",
+			"sequence": "4",
+			"parts_id": "200200",
+			"weight": "10"
+		},
+		{
+			"prev_color_type": "1",
+			"next_color_type": "3",
+			"sequence": "5",
+			"parts_id": "300100",
+			"weight": "35"
+		},
+		{
+			"prev_color_type": "1",
+			"next_color_type": "3",
+			"sequence": "6",
+			"parts_id": "300200",
+			"weight": "15"
+		},
+		{
+			"prev_color_type": "2",
+			"next_color_type": "3",
+			"sequence": "1",
+			"parts_id": "100100",
+			"weight": "85"
+		},
+		{
+			"prev_color_type": "2",
+			"next_color_type": "3",
+			"sequence": "2",
+			"parts_id": "100200",
+			"weight": "5"
+		},
+		{
+			"prev_color_type": "2",
+			"next_color_type": "3",
+			"sequence": "3",
+			"parts_id": "200100",
+			"weight": "50"
+		},
+		{
+			"prev_color_type": "2",
+			"next_color_type": "3",
+			"sequence": "4",
+			"parts_id": "200200",
+			"weight": "10"
+		},
+		{
+			"prev_color_type": "2",
+			"next_color_type": "3",
+			"sequence": "5",
+			"parts_id": "300100",
+			"weight": "35"
+		},
+		{
+			"prev_color_type": "2",
+			"next_color_type": "3",
+			"sequence": "6",
+			"parts_id": "300200",
+			"weight": "15"
+		}
+	]
+}

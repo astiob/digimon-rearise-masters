@@ -521,6 +521,48 @@
 			"name": "UNLOCK_WEEKLYQUEST_QUEST_ID",
 			"value": "1002100",
 			"description": "時限の渦の機能解放クエストID（2章最終話）（TutorialType:301）"
+		},
+		{
+			"category": "XLB",
+			"name": "BATTLE_PERIOD",
+			"value": "300",
+			"description": "バトルの制限時間（秒）"
+		},
+		{
+			"category": "XLB",
+			"name": "CANDIDATE_ACCESS_THRESHOLD",
+			"value": "86400",
+			"description": "最近アクセスしたとみなすアクセス時間の範囲(現在時刻からの秒数)"
+		},
+		{
+			"category": "XLB",
+			"name": "CANDIDATE_IGNORE_THRESHOLD",
+			"value": "86400",
+			"description": "助っ人になったユーザーが再び候補に挙がるまでの時間"
+		},
+		{
+			"category": "XLB",
+			"name": "HELPER_HIGHER_TAMER_LEVEL",
+			"value": "5",
+			"description": "ランダム抽選時のテイマーレベルのプラス補正値"
+		},
+		{
+			"category": "XLB",
+			"name": "HELPER_LOWER_TAMER_LEVEL",
+			"value": "2",
+			"description": "ランダム抽選時のテイマーレベルのマイナス補正値"
+		},
+		{
+			"category": "XLB",
+			"name": "RESET_TIME",
+			"value": "04:00",
+			"description": "クエストの進捗をリセットする時刻"
+		},
+		{
+			"category": "XLB",
+			"name": "START_DATE",
+			"value": "2120/02/21 16:00:00",
+			"description": "Xlb機能が有効となる開始日時\nこれ以降にサークルメニューに表示されます。"
 		}
 	]
 }
