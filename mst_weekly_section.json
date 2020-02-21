@@ -270,8 +270,8 @@
 			"unlock_item_count": "0",
 			"map_asset": "weekly_quest/map/map_weekly_section7",
 			"icon_asset": "weekly_quest/icon/weekly_icon_section_b12",
-			"start_date": "2019/09/21 12:00:00",
-			"end_date": "2019/10/29 11:59:59"
+			"start_date": "2020/02/29 00:00:00",
+			"end_date": "2119/09/29 11:59:59"
 		},
 		{
 			"weekly_section_id": "2302",
@@ -283,8 +283,8 @@
 			"unlock_item_count": "0",
 			"map_asset": "weekly_quest/map/map_weekly_section7",
 			"icon_asset": "weekly_quest/icon/weekly_icon_section_b13",
-			"start_date": "2019/09/21 12:00:00",
-			"end_date": "2019/10/29 11:59:59"
+			"start_date": "2020/02/29 00:00:00",
+			"end_date": "2119/09/29 11:59:59"
 		},
 		{
 			"weekly_section_id": "2303",
@@ -296,8 +296,73 @@
 			"unlock_item_count": "0",
 			"map_asset": "weekly_quest/map/map_weekly_section10",
 			"icon_asset": "weekly_quest/icon/weekly_icon_section_b14",
-			"start_date": "2019/09/21 12:00:00",
-			"end_date": "2019/10/29 11:59:59"
+			"start_date": "2020/02/29 00:00:00",
+			"end_date": "2119/09/29 11:59:59"
+		},
+		{
+			"weekly_section_id": "2603",
+			"section_type": "4",
+			"title": "Burst Limit Vortex",
+			"disp_order": "20",
+			"panel_asset": "weekly_quest/panel/weekly_panel_section_a15",
+			"unlock_item_id": "0",
+			"unlock_item_count": "0",
+			"map_asset": "weekly_quest/map/map_weekly_section13",
+			"icon_asset": "weekly_quest/icon/weekly_icon_section_b17",
+			"start_date": "2020/02/29 00:00:00",
+			"end_date": "2020/03/01 23:59:59"
+		},
+		{
+			"weekly_section_id": "2605",
+			"section_type": "4",
+			"title": "Burst Limit Vortex",
+			"disp_order": "20",
+			"panel_asset": "weekly_quest/panel/weekly_panel_section_a15",
+			"unlock_item_id": "0",
+			"unlock_item_count": "0",
+			"map_asset": "weekly_quest/map/map_weekly_section13",
+			"icon_asset": "weekly_quest/icon/weekly_icon_section_b17",
+			"start_date": "2020/03/07 00:00:00",
+			"end_date": "2020/03/08 23:59:59"
+		},
+		{
+			"weekly_section_id": "2607",
+			"section_type": "4",
+			"title": "Burst Limit Vortex",
+			"disp_order": "20",
+			"panel_asset": "weekly_quest/panel/weekly_panel_section_a15",
+			"unlock_item_id": "0",
+			"unlock_item_count": "0",
+			"map_asset": "weekly_quest/map/map_weekly_section13",
+			"icon_asset": "weekly_quest/icon/weekly_icon_section_b17",
+			"start_date": "2020/03/14 00:00:00",
+			"end_date": "2020/03/15 23:59:59"
+		},
+		{
+			"weekly_section_id": "2609",
+			"section_type": "4",
+			"title": "Burst Limit Vortex",
+			"disp_order": "20",
+			"panel_asset": "weekly_quest/panel/weekly_panel_section_a15",
+			"unlock_item_id": "0",
+			"unlock_item_count": "0",
+			"map_asset": "weekly_quest/map/map_weekly_section13",
+			"icon_asset": "weekly_quest/icon/weekly_icon_section_b17",
+			"start_date": "2020/03/21 00:00:00",
+			"end_date": "2020/03/22 23:59:59"
+		},
+		{
+			"weekly_section_id": "2611",
+			"section_type": "4",
+			"title": "Burst Limit Vortex",
+			"disp_order": "20",
+			"panel_asset": "weekly_quest/panel/weekly_panel_section_a15",
+			"unlock_item_id": "0",
+			"unlock_item_count": "0",
+			"map_asset": "weekly_quest/map/map_weekly_section13",
+			"icon_asset": "weekly_quest/icon/weekly_icon_section_b17",
+			"start_date": "2020/03/28 00:00:00",
+			"end_date": "2020/03/29 23:59:59"
 		},
 		{
 			"weekly_section_id": "5001",

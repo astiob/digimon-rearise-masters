@@ -467,35 +467,35 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Paralysis on a [@target_num]single[/@target_num] ally. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "10",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Paralysis on [@target_num]two[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "10",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Paralysis on [@target_num]three[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "10",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Paralysis on [@target_num]four[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "10",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Paralysis on [@target_num]all[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "10",
@@ -537,35 +537,35 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Blind on a [@target_num]single[/@target_num] ally. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "12",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Blind on [@target_num]two[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "12",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Blind on [@target_num]three[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "12",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Blind on [@target_num]four[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "12",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Blind on [@target_num]all[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "12",
@@ -1062,35 +1062,35 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Shock on a [@target_num]single[/@target_num] ally. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "18",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Shock on [@target_num]two[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "18",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Shock on [@target_num]three[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "18",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Shock on [@target_num]four[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "18",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Shock on [@target_num]all[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "18",
@@ -1132,35 +1132,35 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Stun on a [@target_num]single[/@target_num] ally. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "19",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Stun on [@target_num]two[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "19",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Stun on [@target_num]three[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "19",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Stun on [@target_num]four[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "19",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Stun on [@target_num]all[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "19",
@@ -1202,35 +1202,35 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Freeze on a [@target_num]single[/@target_num] ally. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "2",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Freeze on [@target_num]two[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "2",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Freeze on [@target_num]three[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "2",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Freeze on [@target_num]four[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "2",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Freeze on [@target_num]all[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "2",
@@ -1272,35 +1272,35 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Sleep on a [@target_num]single[/@target_num] ally. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "20",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Sleep on [@target_num]two[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "20",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Sleep on [@target_num]three[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "20",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Sleep on [@target_num]four[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "20",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Sleep on [@target_num]all[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "20",
@@ -1342,35 +1342,35 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Poison on a [@target_num]single[/@target_num] ally. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "21",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Poison on [@target_num]two[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "21",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Poison on [@target_num]three[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "21",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Poison on [@target_num]four[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "21",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Poison on [@target_num]all[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "21",
@@ -1412,35 +1412,35 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Error on a [@target_num]single[/@target_num] ally. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "22",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Error on [@target_num]two[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "22",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Error on [@target_num]three[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "22",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Error on [@target_num]four[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "22",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Error on [@target_num]all[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "22",
@@ -1482,35 +1482,35 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Skill Lock on a [@target_num]single[/@target_num] ally. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "23",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Skill Lock on [@target_num]two[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "23",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Skill Lock on [@target_num]three[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "23",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Skill Lock on [@target_num]four[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "23",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Skill Lock on [@target_num]all[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "23",
@@ -2014,35 +2014,35 @@
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows a [@target_num]single[/@target_num] enemy to evade attacks [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]two[/@target_num] enemies to evade attacks [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]three[/@target_num] enemies to evade attacks [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]four[/@target_num] enemies to evade attacks [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]all[/@target_num] enemies to evade attacks [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "30",
@@ -2133,35 +2133,35 @@
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows a [@target_num]single[/@target_num] enemy to reduce CT after using a skill by [@value][:value:][/@value]% [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]two[/@target_num] enemies to reduce CT after using a skill by [@value][:value:][/@value]% [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]three[/@target_num] enemies to reduce CT after using a skill by [@value][:value:][/@value]% [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]four[/@target_num] enemies to reduce CT after using a skill by [@value][:value:][/@value]% [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]に[@count][:count:][/@count]回だけ、スキル使用後のCTが[@value][:value:][/@value]％減少する効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]all[/@target_num] enemies to reduce CT after using a skill by [@value][:value:][/@value]% [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "32",
@@ -2406,35 +2406,35 @@
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows a [@target_num]single[/@target_num] enemy to reduce damage by [@value][:value:][/@value]% when blocking. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]two[/@target_num] enemies to reduce damage by [@value][:value:][/@value]% when blocking. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]three[/@target_num] enemies to reduce damage by [@value][:value:][/@value]% when blocking. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]four[/@target_num] enemies to reduce damage by [@value][:value:][/@value]% when blocking. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]にブロック発生時ダメージを[@value][:value:][/@value]%カットする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]all[/@target_num] enemies to reduce damage by [@value][:value:][/@value]% when blocking. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "36",
@@ -3260,35 +3260,35 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Burn on a [@target_num]single[/@target_num] ally. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "5",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Burn on [@target_num]two[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "5",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Burn on [@target_num]three[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "5",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Burn on [@target_num]four[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "5",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Burn on [@target_num]all[/@target_num] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "5",

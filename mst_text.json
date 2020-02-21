@@ -7270,7 +7270,7 @@
 		},
 		{
 			"text_id": "2324",
-			"text": "Attempts will reset every Saturday and Sunday at\n<br>{0}:{1:D2}(JST)."
+			"text": "Attempts will reset each week on the day the Burst Limit Vortex unlocks at \n[datetime_hour]00:00[/datetime_hour]."
 		},
 		{
 			"text_id": "2325",
@@ -7383,6 +7383,10 @@
 		{
 			"text_id": "2354",
 			"text": "Well done. You have my thanks."
+		},
+		{
+			"text_id": "2355",
+			"text": "Attempts will reset each week on the day the Burst Limit Vortex unlocks at \n[datetime_hour]00:00[/datetime_hour]."
 		},
 		{
 			"text_id": "2358",
@@ -9765,6 +9769,26 @@
 			"text": "Confirm"
 		},
 		{
+			"text_id": "2933",
+			"text": "1/5"
+		},
+		{
+			"text_id": "2934",
+			"text": "2/5"
+		},
+		{
+			"text_id": "2935",
+			"text": "3/5"
+		},
+		{
+			"text_id": "2936",
+			"text": "4/5"
+		},
+		{
+			"text_id": "2937",
+			"text": "5/5"
+		},
+		{
 			"text_id": "294",
 			"text": "Today"
 		},
@@ -10015,6 +10039,10 @@
 		{
 			"text_id": "305",
 			"text": "Claimed"
+		},
+		{
+			"text_id": "3059",
+			"text": "Event Period: Until [datetime_week]2020/03/12 11:59:59[/datetime_week]"
 		},
 		{
 			"text_id": "306",
@@ -10942,7 +10970,7 @@
 		},
 		{
 			"text_id": "490321",
-			"text": "- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and<color=#FFE25AFF>Error</color><sprite=7> are effective!\n- Include Digimon that <color=#FFE25AFF>Hit hard</color> in your party!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!"
+			"text": "- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and<color=#FFE25AFF> Error</color><sprite=7> are effective!\n- Include Digimon that <color=#FFE25AFF>Hit hard</color> in your party!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!"
 		},
 		{
 			"text_id": "490331",
