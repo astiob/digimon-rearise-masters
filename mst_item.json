@@ -2212,6 +2212,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1022251",
+			"item_name": "ディアナモン(冷静)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022251",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ディアナモン(冷静)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1022252",
+			"item_name": "ディアナモン(冷静)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022252",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ディアナモン(冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1022261",
+			"item_name": "タイタモン(勇敢)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022261",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体タイタモン(勇敢)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1022262",
+			"item_name": "タイタモン(勇敢)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022262",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体タイタモン(勇敢)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1022273",
+			"item_name": "ルナモン[DFQ](献身)スキルストーン",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022273",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "成長期ルナモン[DFQ](献身)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "102422001",
 			"item_name": "攻Ⅳ(冷静 パンダモン)",
 			"sort_key": "",
@@ -24410,6 +24465,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "239425001",
+			"item_name": "攻Ⅳ(献身 ルナモン[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のルナモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239425002",
+			"item_name": "攻Ⅳ(献身 ルナモン[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のルナモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239425003",
+			"item_name": "攻Ⅳ(献身 ルナモン[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のルナモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239425004",
+			"item_name": "攻Ⅳ(献身 ルナモン[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のルナモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239425005",
+			"item_name": "攻Ⅳ(献身 ルナモン[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のルナモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239435001",
+			"item_name": "守Ⅳ(献身 ルナモン[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のルナモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239435002",
+			"item_name": "守Ⅳ(献身 ルナモン[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のルナモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239435003",
+			"item_name": "守Ⅳ(献身 ルナモン[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のルナモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239435004",
+			"item_name": "守Ⅳ(献身 ルナモン[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のルナモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239435005",
+			"item_name": "守Ⅳ(献身 ルナモン[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のルナモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "24",
 			"item_name": "立派な野菜",
 			"sort_key": "",
@@ -24518,6 +24683,116 @@
 			"mood_value_rise_value": "0",
 			"description": "2019ハロウィンをモチーフにしたデジコネ背景",
 			"max_amount": "1"
+		},
+		{
+			"item_id": "240411001",
+			"item_name": "攻Ⅳ(勇敢 タイタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment240411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のタイタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "240411002",
+			"item_name": "攻Ⅳ(勇敢 タイタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment240411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のタイタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "240411003",
+			"item_name": "攻Ⅳ(勇敢 タイタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment240411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のタイタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "240411004",
+			"item_name": "攻Ⅳ(勇敢 タイタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment240411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のタイタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "240411005",
+			"item_name": "攻Ⅳ(勇敢 タイタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment240411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のタイタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "240431001",
+			"item_name": "守Ⅳ(勇敢 タイタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment240431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のタイタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "240431002",
+			"item_name": "守Ⅳ(勇敢 タイタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment240431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のタイタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "240431003",
+			"item_name": "守Ⅳ(勇敢 タイタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment240431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のタイタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "240431004",
+			"item_name": "守Ⅳ(勇敢 タイタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment240431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のタイタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "240431005",
+			"item_name": "守Ⅳ(勇敢 タイタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment240431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のタイタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
 		},
 		{
 			"item_id": "241001",
@@ -30157,6 +30432,17 @@
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
+			"max_amount": "999999999"
+		},
+		{
+			"item_id": "26011",
+			"item_name": "フィーチャーpt",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_scenario_event_point_012",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
