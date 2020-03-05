@@ -1741,77 +1741,77 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "Increases a [@target_num]single[/@target_num] ally's maximum HP by [@value][:value:]%[/@value]"
+			"text": "Increase a [@target_num]single[/@target_num] ally's maximum HP by [@value][:value:]%[/@value] (Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "Increases [@target_num]2[/@target_num] allies' maximum HP by [@value][:value:]%[/@value]"
+			"text": "Increases [@target_num]2[/@target_num] allies' maximum HP by [@value][:value:]%[/@value](Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "Increases [@target_num]3[/@target_num] allies' maximum HP by [@value][:value:]%[/@value]"
+			"text": "Increases [@target_num]3[/@target_num] allies' maximum HP by [@value][:value:]%[/@value](Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "Increases [@target_num]4[/@target_num] allies' maximum HP by [@value][:value:]%[/@value]"
+			"text": "Increases [@target_num]4[/@target_num] allies' maximum HP by [@value][:value:]%[/@value](Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "Increases [@target_num]all[/@target_num] allies' maximum HP by [@value][:value:]%[/@value]"
+			"text": "Increases [@target_num]all[/@target_num] allies' maximum HP by [@value][:value:]%[/@value](Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Increases a Brave ally's maximum HP by [@value][:value:]%[/@value]"
+			"text": "Increases a Brave ally's maximum HP by [@value][:value:]%[/@value](Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Increases a Calm ally's maximum HP by [@value][:value:]%[/@value]"
+			"text": "Increases a Calm ally's maximum HP by [@value][:value:]%[/@value](Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Increases a Deft ally's maximum HP by [@value][:value:]%[/@value]"
+			"text": "Increases a Deft ally's maximum HP by [@value][:value:]%[/@value](Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Increases a Tenacious ally's maximum HP by [@value][:value:]%[/@value]"
+			"text": "Increases a Tenacious ally's maximum HP by [@value][:value:]%[/@value](Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Increases a Devoted ally's maximum HP by [@value][:value:]%[/@value]"
+			"text": "Increases a Devoted ally's maximum HP by [@value][:value:]%[/@value](Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "Increases own maximum HP by [@value][:value:]%[/@value]"
+			"text": "Increases own maximum HP by [@value][:value:]%[/@value](Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",

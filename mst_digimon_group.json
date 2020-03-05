@@ -1,46 +1,6 @@
 {
 	"masterRows": [
 		{
-			"group_id": "1",
-			"sequence": "1",
-			"digimon_id": "1108103"
-		},
-		{
-			"group_id": "1",
-			"sequence": "2",
-			"digimon_id": "1108104"
-		},
-		{
-			"group_id": "1",
-			"sequence": "3",
-			"digimon_id": "1108105"
-		},
-		{
-			"group_id": "1",
-			"sequence": "4",
-			"digimon_id": "1108106"
-		},
-		{
-			"group_id": "10",
-			"sequence": "1",
-			"digimon_id": "1110302"
-		},
-		{
-			"group_id": "10",
-			"sequence": "2",
-			"digimon_id": "1110303"
-		},
-		{
-			"group_id": "10",
-			"sequence": "3",
-			"digimon_id": "1110304"
-		},
-		{
-			"group_id": "10",
-			"sequence": "4",
-			"digimon_id": "1110305"
-		},
-		{
 			"group_id": "100",
 			"sequence": "1",
 			"digimon_id": "1178302"
@@ -1251,6 +1211,191 @@
 			"digimon_id": "1075204"
 		},
 		{
+			"group_id": "1000081",
+			"sequence": "1",
+			"digimon_id": "1108102"
+		},
+		{
+			"group_id": "1000081",
+			"sequence": "2",
+			"digimon_id": "1108103"
+		},
+		{
+			"group_id": "1000081",
+			"sequence": "3",
+			"digimon_id": "1108104"
+		},
+		{
+			"group_id": "1000081",
+			"sequence": "4",
+			"digimon_id": "1108105"
+		},
+		{
+			"group_id": "1000081",
+			"sequence": "5",
+			"digimon_id": "1108106"
+		},
+		{
+			"group_id": "1000082",
+			"sequence": "1",
+			"digimon_id": "1131302"
+		},
+		{
+			"group_id": "1000082",
+			"sequence": "2",
+			"digimon_id": "1131303"
+		},
+		{
+			"group_id": "1000082",
+			"sequence": "3",
+			"digimon_id": "1131304"
+		},
+		{
+			"group_id": "1000082",
+			"sequence": "4",
+			"digimon_id": "1131305"
+		},
+		{
+			"group_id": "1000083",
+			"sequence": "1",
+			"digimon_id": "1085102"
+		},
+		{
+			"group_id": "1000083",
+			"sequence": "2",
+			"digimon_id": "1085103"
+		},
+		{
+			"group_id": "1000083",
+			"sequence": "3",
+			"digimon_id": "1085104"
+		},
+		{
+			"group_id": "1000083",
+			"sequence": "4",
+			"digimon_id": "1085105"
+		},
+		{
+			"group_id": "1000084",
+			"sequence": "1",
+			"digimon_id": "1009202"
+		},
+		{
+			"group_id": "1000084",
+			"sequence": "2",
+			"digimon_id": "1009203"
+		},
+		{
+			"group_id": "1000084",
+			"sequence": "3",
+			"digimon_id": "1009204"
+		},
+		{
+			"group_id": "1000084",
+			"sequence": "4",
+			"digimon_id": "1009205"
+		},
+		{
+			"group_id": "1000085",
+			"sequence": "1",
+			"digimon_id": "1111102"
+		},
+		{
+			"group_id": "1000085",
+			"sequence": "2",
+			"digimon_id": "1111103"
+		},
+		{
+			"group_id": "1000085",
+			"sequence": "3",
+			"digimon_id": "1111104"
+		},
+		{
+			"group_id": "1000085",
+			"sequence": "4",
+			"digimon_id": "1111105"
+		},
+		{
+			"group_id": "1000086",
+			"sequence": "1",
+			"digimon_id": "1112502"
+		},
+		{
+			"group_id": "1000086",
+			"sequence": "2",
+			"digimon_id": "1112503"
+		},
+		{
+			"group_id": "1000086",
+			"sequence": "3",
+			"digimon_id": "1112504"
+		},
+		{
+			"group_id": "1000086",
+			"sequence": "4",
+			"digimon_id": "1112505"
+		},
+		{
+			"group_id": "1000087",
+			"sequence": "1",
+			"digimon_id": "1114502"
+		},
+		{
+			"group_id": "1000087",
+			"sequence": "2",
+			"digimon_id": "1114503"
+		},
+		{
+			"group_id": "1000087",
+			"sequence": "3",
+			"digimon_id": "1114504"
+		},
+		{
+			"group_id": "1000087",
+			"sequence": "4",
+			"digimon_id": "1114505"
+		},
+		{
+			"group_id": "1000088",
+			"sequence": "1",
+			"digimon_id": "1109502"
+		},
+		{
+			"group_id": "1000088",
+			"sequence": "2",
+			"digimon_id": "1109503"
+		},
+		{
+			"group_id": "1000088",
+			"sequence": "3",
+			"digimon_id": "1109504"
+		},
+		{
+			"group_id": "1000088",
+			"sequence": "4",
+			"digimon_id": "1109505"
+		},
+		{
+			"group_id": "1000089",
+			"sequence": "1",
+			"digimon_id": "1091102"
+		},
+		{
+			"group_id": "1000089",
+			"sequence": "2",
+			"digimon_id": "1091103"
+		},
+		{
+			"group_id": "1000089",
+			"sequence": "3",
+			"digimon_id": "1091104"
+		},
+		{
+			"group_id": "1000089",
+			"sequence": "4",
+			"digimon_id": "1091105"
+		},
+		{
 			"group_id": "100009",
 			"sequence": "1",
 			"digimon_id": "1065302"
@@ -1264,6 +1409,246 @@
 			"group_id": "100009",
 			"sequence": "3",
 			"digimon_id": "1065304"
+		},
+		{
+			"group_id": "1000090",
+			"sequence": "1",
+			"digimon_id": "1068202"
+		},
+		{
+			"group_id": "1000090",
+			"sequence": "2",
+			"digimon_id": "1068203"
+		},
+		{
+			"group_id": "1000090",
+			"sequence": "3",
+			"digimon_id": "1068204"
+		},
+		{
+			"group_id": "1000090",
+			"sequence": "4",
+			"digimon_id": "1068205"
+		},
+		{
+			"group_id": "1000091",
+			"sequence": "1",
+			"digimon_id": "1089402"
+		},
+		{
+			"group_id": "1000091",
+			"sequence": "2",
+			"digimon_id": "1089403"
+		},
+		{
+			"group_id": "1000091",
+			"sequence": "3",
+			"digimon_id": "1089404"
+		},
+		{
+			"group_id": "1000091",
+			"sequence": "4",
+			"digimon_id": "1089405"
+		},
+		{
+			"group_id": "1000092",
+			"sequence": "1",
+			"digimon_id": "1048502"
+		},
+		{
+			"group_id": "1000092",
+			"sequence": "2",
+			"digimon_id": "1048503"
+		},
+		{
+			"group_id": "1000092",
+			"sequence": "3",
+			"digimon_id": "1048504"
+		},
+		{
+			"group_id": "1000092",
+			"sequence": "4",
+			"digimon_id": "1048505"
+		},
+		{
+			"group_id": "1000093",
+			"sequence": "1",
+			"digimon_id": "1142202"
+		},
+		{
+			"group_id": "1000093",
+			"sequence": "2",
+			"digimon_id": "1142203"
+		},
+		{
+			"group_id": "1000093",
+			"sequence": "3",
+			"digimon_id": "1142204"
+		},
+		{
+			"group_id": "1000093",
+			"sequence": "4",
+			"digimon_id": "1142205"
+		},
+		{
+			"group_id": "1000094",
+			"sequence": "1",
+			"digimon_id": "1132402"
+		},
+		{
+			"group_id": "1000094",
+			"sequence": "2",
+			"digimon_id": "1132403"
+		},
+		{
+			"group_id": "1000094",
+			"sequence": "3",
+			"digimon_id": "1132404"
+		},
+		{
+			"group_id": "1000094",
+			"sequence": "4",
+			"digimon_id": "1132405"
+		},
+		{
+			"group_id": "1000095",
+			"sequence": "1",
+			"digimon_id": "1015302"
+		},
+		{
+			"group_id": "1000095",
+			"sequence": "2",
+			"digimon_id": "1015303"
+		},
+		{
+			"group_id": "1000095",
+			"sequence": "3",
+			"digimon_id": "1015304"
+		},
+		{
+			"group_id": "1000096",
+			"sequence": "1",
+			"digimon_id": "1008202"
+		},
+		{
+			"group_id": "1000096",
+			"sequence": "2",
+			"digimon_id": "1008203"
+		},
+		{
+			"group_id": "1000096",
+			"sequence": "3",
+			"digimon_id": "1008204"
+		},
+		{
+			"group_id": "1000097",
+			"sequence": "1",
+			"digimon_id": "1047302"
+		},
+		{
+			"group_id": "1000097",
+			"sequence": "2",
+			"digimon_id": "1047303"
+		},
+		{
+			"group_id": "1000097",
+			"sequence": "3",
+			"digimon_id": "1047304"
+		},
+		{
+			"group_id": "1000098",
+			"sequence": "1",
+			"digimon_id": "1005402"
+		},
+		{
+			"group_id": "1000098",
+			"sequence": "2",
+			"digimon_id": "1005403"
+		},
+		{
+			"group_id": "1000098",
+			"sequence": "3",
+			"digimon_id": "1005404"
+		},
+		{
+			"group_id": "1000099",
+			"sequence": "1",
+			"digimon_id": "1043302"
+		},
+		{
+			"group_id": "1000099",
+			"sequence": "2",
+			"digimon_id": "1043303"
+		},
+		{
+			"group_id": "1000099",
+			"sequence": "3",
+			"digimon_id": "1043304"
+		},
+		{
+			"group_id": "1000100",
+			"sequence": "1",
+			"digimon_id": "1067502"
+		},
+		{
+			"group_id": "1000100",
+			"sequence": "2",
+			"digimon_id": "1067503"
+		},
+		{
+			"group_id": "1000100",
+			"sequence": "3",
+			"digimon_id": "1067504"
+		},
+		{
+			"group_id": "1000101",
+			"sequence": "1",
+			"digimon_id": "1096502"
+		},
+		{
+			"group_id": "1000101",
+			"sequence": "2",
+			"digimon_id": "1096503"
+		},
+		{
+			"group_id": "1000101",
+			"sequence": "3",
+			"digimon_id": "1096504"
+		},
+		{
+			"group_id": "1000102",
+			"sequence": "1",
+			"digimon_id": "1027502"
+		},
+		{
+			"group_id": "1000102",
+			"sequence": "2",
+			"digimon_id": "1027503"
+		},
+		{
+			"group_id": "1000102",
+			"sequence": "3",
+			"digimon_id": "1027504"
+		},
+		{
+			"group_id": "1000103",
+			"sequence": "1",
+			"digimon_id": "1113402"
+		},
+		{
+			"group_id": "1000103",
+			"sequence": "2",
+			"digimon_id": "1113403"
+		},
+		{
+			"group_id": "1000103",
+			"sequence": "3",
+			"digimon_id": "1113404"
+		},
+		{
+			"group_id": "1000103",
+			"sequence": "4",
+			"digimon_id": "1113405"
 		},
 		{
 			"group_id": "1000140",
@@ -1791,6 +2176,451 @@
 			"digimon_id": "1041404"
 		},
 		{
+			"group_id": "1001081",
+			"sequence": "1",
+			"digimon_id": "1108102"
+		},
+		{
+			"group_id": "1001081",
+			"sequence": "2",
+			"digimon_id": "1108103"
+		},
+		{
+			"group_id": "1001081",
+			"sequence": "3",
+			"digimon_id": "1108104"
+		},
+		{
+			"group_id": "1001081",
+			"sequence": "4",
+			"digimon_id": "1108105"
+		},
+		{
+			"group_id": "1001081",
+			"sequence": "5",
+			"digimon_id": "1108106"
+		},
+		{
+			"group_id": "1001082",
+			"sequence": "1",
+			"digimon_id": "1131302"
+		},
+		{
+			"group_id": "1001082",
+			"sequence": "2",
+			"digimon_id": "1131303"
+		},
+		{
+			"group_id": "1001082",
+			"sequence": "3",
+			"digimon_id": "1131304"
+		},
+		{
+			"group_id": "1001082",
+			"sequence": "4",
+			"digimon_id": "1131305"
+		},
+		{
+			"group_id": "1001083",
+			"sequence": "1",
+			"digimon_id": "1085102"
+		},
+		{
+			"group_id": "1001083",
+			"sequence": "2",
+			"digimon_id": "1085103"
+		},
+		{
+			"group_id": "1001083",
+			"sequence": "3",
+			"digimon_id": "1085104"
+		},
+		{
+			"group_id": "1001083",
+			"sequence": "4",
+			"digimon_id": "1085105"
+		},
+		{
+			"group_id": "1001084",
+			"sequence": "1",
+			"digimon_id": "1009202"
+		},
+		{
+			"group_id": "1001084",
+			"sequence": "2",
+			"digimon_id": "1009203"
+		},
+		{
+			"group_id": "1001084",
+			"sequence": "3",
+			"digimon_id": "1009204"
+		},
+		{
+			"group_id": "1001084",
+			"sequence": "4",
+			"digimon_id": "1009205"
+		},
+		{
+			"group_id": "1001085",
+			"sequence": "1",
+			"digimon_id": "1111102"
+		},
+		{
+			"group_id": "1001085",
+			"sequence": "2",
+			"digimon_id": "1111103"
+		},
+		{
+			"group_id": "1001085",
+			"sequence": "3",
+			"digimon_id": "1111104"
+		},
+		{
+			"group_id": "1001085",
+			"sequence": "4",
+			"digimon_id": "1111105"
+		},
+		{
+			"group_id": "1001086",
+			"sequence": "1",
+			"digimon_id": "1112502"
+		},
+		{
+			"group_id": "1001086",
+			"sequence": "2",
+			"digimon_id": "1112503"
+		},
+		{
+			"group_id": "1001086",
+			"sequence": "3",
+			"digimon_id": "1112504"
+		},
+		{
+			"group_id": "1001086",
+			"sequence": "4",
+			"digimon_id": "1112505"
+		},
+		{
+			"group_id": "1001087",
+			"sequence": "1",
+			"digimon_id": "1114502"
+		},
+		{
+			"group_id": "1001087",
+			"sequence": "2",
+			"digimon_id": "1114503"
+		},
+		{
+			"group_id": "1001087",
+			"sequence": "3",
+			"digimon_id": "1114504"
+		},
+		{
+			"group_id": "1001087",
+			"sequence": "4",
+			"digimon_id": "1114505"
+		},
+		{
+			"group_id": "1001088",
+			"sequence": "1",
+			"digimon_id": "1109502"
+		},
+		{
+			"group_id": "1001088",
+			"sequence": "2",
+			"digimon_id": "1109503"
+		},
+		{
+			"group_id": "1001088",
+			"sequence": "3",
+			"digimon_id": "1109504"
+		},
+		{
+			"group_id": "1001088",
+			"sequence": "4",
+			"digimon_id": "1109505"
+		},
+		{
+			"group_id": "1001089",
+			"sequence": "1",
+			"digimon_id": "1091102"
+		},
+		{
+			"group_id": "1001089",
+			"sequence": "2",
+			"digimon_id": "1091103"
+		},
+		{
+			"group_id": "1001089",
+			"sequence": "3",
+			"digimon_id": "1091104"
+		},
+		{
+			"group_id": "1001089",
+			"sequence": "4",
+			"digimon_id": "1091105"
+		},
+		{
+			"group_id": "1001090",
+			"sequence": "1",
+			"digimon_id": "1068202"
+		},
+		{
+			"group_id": "1001090",
+			"sequence": "2",
+			"digimon_id": "1068203"
+		},
+		{
+			"group_id": "1001090",
+			"sequence": "3",
+			"digimon_id": "1068204"
+		},
+		{
+			"group_id": "1001090",
+			"sequence": "4",
+			"digimon_id": "1068205"
+		},
+		{
+			"group_id": "1001091",
+			"sequence": "1",
+			"digimon_id": "1089402"
+		},
+		{
+			"group_id": "1001091",
+			"sequence": "2",
+			"digimon_id": "1089403"
+		},
+		{
+			"group_id": "1001091",
+			"sequence": "3",
+			"digimon_id": "1089404"
+		},
+		{
+			"group_id": "1001091",
+			"sequence": "4",
+			"digimon_id": "1089405"
+		},
+		{
+			"group_id": "1001092",
+			"sequence": "1",
+			"digimon_id": "1048502"
+		},
+		{
+			"group_id": "1001092",
+			"sequence": "2",
+			"digimon_id": "1048503"
+		},
+		{
+			"group_id": "1001092",
+			"sequence": "3",
+			"digimon_id": "1048504"
+		},
+		{
+			"group_id": "1001092",
+			"sequence": "4",
+			"digimon_id": "1048505"
+		},
+		{
+			"group_id": "1001093",
+			"sequence": "1",
+			"digimon_id": "1142202"
+		},
+		{
+			"group_id": "1001093",
+			"sequence": "2",
+			"digimon_id": "1142203"
+		},
+		{
+			"group_id": "1001093",
+			"sequence": "3",
+			"digimon_id": "1142204"
+		},
+		{
+			"group_id": "1001093",
+			"sequence": "4",
+			"digimon_id": "1142205"
+		},
+		{
+			"group_id": "1001094",
+			"sequence": "1",
+			"digimon_id": "1132402"
+		},
+		{
+			"group_id": "1001094",
+			"sequence": "2",
+			"digimon_id": "1132403"
+		},
+		{
+			"group_id": "1001094",
+			"sequence": "3",
+			"digimon_id": "1132404"
+		},
+		{
+			"group_id": "1001094",
+			"sequence": "4",
+			"digimon_id": "1132405"
+		},
+		{
+			"group_id": "1001095",
+			"sequence": "1",
+			"digimon_id": "1015302"
+		},
+		{
+			"group_id": "1001095",
+			"sequence": "2",
+			"digimon_id": "1015303"
+		},
+		{
+			"group_id": "1001095",
+			"sequence": "3",
+			"digimon_id": "1015304"
+		},
+		{
+			"group_id": "1001096",
+			"sequence": "1",
+			"digimon_id": "1008202"
+		},
+		{
+			"group_id": "1001096",
+			"sequence": "2",
+			"digimon_id": "1008203"
+		},
+		{
+			"group_id": "1001096",
+			"sequence": "3",
+			"digimon_id": "1008204"
+		},
+		{
+			"group_id": "1001097",
+			"sequence": "1",
+			"digimon_id": "1047302"
+		},
+		{
+			"group_id": "1001097",
+			"sequence": "2",
+			"digimon_id": "1047303"
+		},
+		{
+			"group_id": "1001097",
+			"sequence": "3",
+			"digimon_id": "1047304"
+		},
+		{
+			"group_id": "1001098",
+			"sequence": "1",
+			"digimon_id": "1005402"
+		},
+		{
+			"group_id": "1001098",
+			"sequence": "2",
+			"digimon_id": "1005403"
+		},
+		{
+			"group_id": "1001098",
+			"sequence": "3",
+			"digimon_id": "1005404"
+		},
+		{
+			"group_id": "1001099",
+			"sequence": "1",
+			"digimon_id": "1043302"
+		},
+		{
+			"group_id": "1001099",
+			"sequence": "2",
+			"digimon_id": "1043303"
+		},
+		{
+			"group_id": "1001099",
+			"sequence": "3",
+			"digimon_id": "1043304"
+		},
+		{
+			"group_id": "1001100",
+			"sequence": "1",
+			"digimon_id": "1067502"
+		},
+		{
+			"group_id": "1001100",
+			"sequence": "2",
+			"digimon_id": "1067503"
+		},
+		{
+			"group_id": "1001100",
+			"sequence": "3",
+			"digimon_id": "1067504"
+		},
+		{
+			"group_id": "1001101",
+			"sequence": "1",
+			"digimon_id": "1096502"
+		},
+		{
+			"group_id": "1001101",
+			"sequence": "2",
+			"digimon_id": "1096503"
+		},
+		{
+			"group_id": "1001101",
+			"sequence": "3",
+			"digimon_id": "1096504"
+		},
+		{
+			"group_id": "1001102",
+			"sequence": "1",
+			"digimon_id": "1027502"
+		},
+		{
+			"group_id": "1001102",
+			"sequence": "2",
+			"digimon_id": "1027503"
+		},
+		{
+			"group_id": "1001102",
+			"sequence": "3",
+			"digimon_id": "1027504"
+		},
+		{
+			"group_id": "1001103",
+			"sequence": "1",
+			"digimon_id": "1113402"
+		},
+		{
+			"group_id": "1001103",
+			"sequence": "2",
+			"digimon_id": "1113403"
+		},
+		{
+			"group_id": "1001103",
+			"sequence": "3",
+			"digimon_id": "1113404"
+		},
+		{
+			"group_id": "1001103",
+			"sequence": "4",
+			"digimon_id": "1113405"
+		},
+		{
+			"group_id": "1001104",
+			"sequence": "1",
+			"digimon_id": "1106302"
+		},
+		{
+			"group_id": "1001104",
+			"sequence": "2",
+			"digimon_id": "1106303"
+		},
+		{
+			"group_id": "1001104",
+			"sequence": "3",
+			"digimon_id": "1106304"
+		},
+		{
+			"group_id": "1001104",
+			"sequence": "4",
+			"digimon_id": "1106305"
+		},
+		{
 			"group_id": "101",
 			"sequence": "1",
 			"digimon_id": "1153102"
@@ -1956,26 +2786,6 @@
 			"digimon_id": "1164405"
 		},
 		{
-			"group_id": "11",
-			"sequence": "1",
-			"digimon_id": "1089402"
-		},
-		{
-			"group_id": "11",
-			"sequence": "2",
-			"digimon_id": "1089403"
-		},
-		{
-			"group_id": "11",
-			"sequence": "3",
-			"digimon_id": "1089404"
-		},
-		{
-			"group_id": "11",
-			"sequence": "4",
-			"digimon_id": "1089405"
-		},
-		{
 			"group_id": "110",
 			"sequence": "1",
 			"digimon_id": "1167102"
@@ -2139,166 +2949,6 @@
 			"group_id": "117",
 			"sequence": "4",
 			"digimon_id": "1130405"
-		},
-		{
-			"group_id": "12",
-			"sequence": "1",
-			"digimon_id": "1048502"
-		},
-		{
-			"group_id": "12",
-			"sequence": "2",
-			"digimon_id": "1048503"
-		},
-		{
-			"group_id": "12",
-			"sequence": "3",
-			"digimon_id": "1048504"
-		},
-		{
-			"group_id": "12",
-			"sequence": "4",
-			"digimon_id": "1048505"
-		},
-		{
-			"group_id": "13",
-			"sequence": "1",
-			"digimon_id": "1008202"
-		},
-		{
-			"group_id": "13",
-			"sequence": "2",
-			"digimon_id": "1008203"
-		},
-		{
-			"group_id": "13",
-			"sequence": "3",
-			"digimon_id": "1008204"
-		},
-		{
-			"group_id": "14",
-			"sequence": "1",
-			"digimon_id": "1043302"
-		},
-		{
-			"group_id": "14",
-			"sequence": "2",
-			"digimon_id": "1043303"
-		},
-		{
-			"group_id": "14",
-			"sequence": "3",
-			"digimon_id": "1043304"
-		},
-		{
-			"group_id": "15",
-			"sequence": "1",
-			"digimon_id": "1047302"
-		},
-		{
-			"group_id": "15",
-			"sequence": "2",
-			"digimon_id": "1047303"
-		},
-		{
-			"group_id": "15",
-			"sequence": "3",
-			"digimon_id": "1047304"
-		},
-		{
-			"group_id": "16",
-			"sequence": "1",
-			"digimon_id": "1015302"
-		},
-		{
-			"group_id": "16",
-			"sequence": "2",
-			"digimon_id": "1015303"
-		},
-		{
-			"group_id": "16",
-			"sequence": "3",
-			"digimon_id": "1015304"
-		},
-		{
-			"group_id": "17",
-			"sequence": "1",
-			"digimon_id": "1005402"
-		},
-		{
-			"group_id": "17",
-			"sequence": "2",
-			"digimon_id": "1005403"
-		},
-		{
-			"group_id": "17",
-			"sequence": "3",
-			"digimon_id": "1005404"
-		},
-		{
-			"group_id": "18",
-			"sequence": "1",
-			"digimon_id": "1096502"
-		},
-		{
-			"group_id": "18",
-			"sequence": "2",
-			"digimon_id": "1096503"
-		},
-		{
-			"group_id": "18",
-			"sequence": "3",
-			"digimon_id": "1096504"
-		},
-		{
-			"group_id": "19",
-			"sequence": "1",
-			"digimon_id": "1027502"
-		},
-		{
-			"group_id": "19",
-			"sequence": "2",
-			"digimon_id": "1027503"
-		},
-		{
-			"group_id": "19",
-			"sequence": "3",
-			"digimon_id": "1027504"
-		},
-		{
-			"group_id": "2",
-			"sequence": "1",
-			"digimon_id": "1085102"
-		},
-		{
-			"group_id": "2",
-			"sequence": "2",
-			"digimon_id": "1085103"
-		},
-		{
-			"group_id": "2",
-			"sequence": "3",
-			"digimon_id": "1085104"
-		},
-		{
-			"group_id": "2",
-			"sequence": "4",
-			"digimon_id": "1085105"
-		},
-		{
-			"group_id": "20",
-			"sequence": "1",
-			"digimon_id": "1067502"
-		},
-		{
-			"group_id": "20",
-			"sequence": "2",
-			"digimon_id": "1067503"
-		},
-		{
-			"group_id": "20",
-			"sequence": "3",
-			"digimon_id": "1067504"
 		},
 		{
 			"group_id": "200001",
@@ -2766,26 +3416,6 @@
 			"digimon_id": "1123205"
 		},
 		{
-			"group_id": "3",
-			"sequence": "1",
-			"digimon_id": "1111102"
-		},
-		{
-			"group_id": "3",
-			"sequence": "2",
-			"digimon_id": "1111103"
-		},
-		{
-			"group_id": "3",
-			"sequence": "3",
-			"digimon_id": "1111104"
-		},
-		{
-			"group_id": "3",
-			"sequence": "4",
-			"digimon_id": "1111105"
-		},
-		{
 			"group_id": "30",
 			"sequence": "1",
 			"digimon_id": "1092302"
@@ -2941,26 +3571,6 @@
 			"digimon_id": "1137305"
 		},
 		{
-			"group_id": "4",
-			"sequence": "1",
-			"digimon_id": "1009202"
-		},
-		{
-			"group_id": "4",
-			"sequence": "2",
-			"digimon_id": "1009203"
-		},
-		{
-			"group_id": "4",
-			"sequence": "3",
-			"digimon_id": "1009204"
-		},
-		{
-			"group_id": "4",
-			"sequence": "4",
-			"digimon_id": "1009205"
-		},
-		{
 			"group_id": "40",
 			"sequence": "1",
 			"digimon_id": "1136203"
@@ -3114,26 +3724,6 @@
 			"group_id": "49",
 			"sequence": "4",
 			"digimon_id": "1116105"
-		},
-		{
-			"group_id": "5",
-			"sequence": "1",
-			"digimon_id": "1114502"
-		},
-		{
-			"group_id": "5",
-			"sequence": "2",
-			"digimon_id": "1114503"
-		},
-		{
-			"group_id": "5",
-			"sequence": "3",
-			"digimon_id": "1114504"
-		},
-		{
-			"group_id": "5",
-			"sequence": "4",
-			"digimon_id": "1114505"
 		},
 		{
 			"group_id": "50",
@@ -3326,26 +3916,6 @@
 			"digimon_id": "1116105"
 		},
 		{
-			"group_id": "6",
-			"sequence": "1",
-			"digimon_id": "1112502"
-		},
-		{
-			"group_id": "6",
-			"sequence": "2",
-			"digimon_id": "1112503"
-		},
-		{
-			"group_id": "6",
-			"sequence": "3",
-			"digimon_id": "1112504"
-		},
-		{
-			"group_id": "6",
-			"sequence": "4",
-			"digimon_id": "1112505"
-		},
-		{
 			"group_id": "60",
 			"sequence": "1",
 			"digimon_id": "1130402"
@@ -3511,26 +4081,6 @@
 			"digimon_id": "1116105"
 		},
 		{
-			"group_id": "7",
-			"sequence": "1",
-			"digimon_id": "1109502"
-		},
-		{
-			"group_id": "7",
-			"sequence": "2",
-			"digimon_id": "1109503"
-		},
-		{
-			"group_id": "7",
-			"sequence": "3",
-			"digimon_id": "1109504"
-		},
-		{
-			"group_id": "7",
-			"sequence": "4",
-			"digimon_id": "1109505"
-		},
-		{
 			"group_id": "70",
 			"sequence": "1",
 			"digimon_id": "1169103"
@@ -3689,26 +4239,6 @@
 			"group_id": "79",
 			"sequence": "4",
 			"digimon_id": "1179305"
-		},
-		{
-			"group_id": "8",
-			"sequence": "1",
-			"digimon_id": "1091102"
-		},
-		{
-			"group_id": "8",
-			"sequence": "2",
-			"digimon_id": "1091103"
-		},
-		{
-			"group_id": "8",
-			"sequence": "3",
-			"digimon_id": "1091104"
-		},
-		{
-			"group_id": "8",
-			"sequence": "4",
-			"digimon_id": "1091105"
 		},
 		{
 			"group_id": "80",
@@ -3889,26 +4419,6 @@
 			"group_id": "89",
 			"sequence": "5",
 			"digimon_id": "1108106"
-		},
-		{
-			"group_id": "9",
-			"sequence": "1",
-			"digimon_id": "1068202"
-		},
-		{
-			"group_id": "9",
-			"sequence": "2",
-			"digimon_id": "1068203"
-		},
-		{
-			"group_id": "9",
-			"sequence": "3",
-			"digimon_id": "1068204"
-		},
-		{
-			"group_id": "9",
-			"sequence": "4",
-			"digimon_id": "1068205"
 		},
 		{
 			"group_id": "90",
