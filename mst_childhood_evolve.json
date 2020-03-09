@@ -4519,6 +4519,46 @@
 			"normal_times_speed": "100",
 			"good_times_speed": "110",
 			"great_times_speed": "120"
+		},
+		{
+			"prev_digimon_id": "1228500",
+			"next_digimon_id": "1228501",
+			"evolve_time": "43200",
+			"bit": "10000",
+			"friendship_level": "10",
+			"normal_times_speed": "100",
+			"good_times_speed": "110",
+			"great_times_speed": "120"
+		},
+		{
+			"prev_digimon_id": "1228501",
+			"next_digimon_id": "1228502",
+			"evolve_time": "86400",
+			"bit": "20000",
+			"friendship_level": "15",
+			"normal_times_speed": "100",
+			"good_times_speed": "110",
+			"great_times_speed": "120"
+		},
+		{
+			"prev_digimon_id": "1229100",
+			"next_digimon_id": "1229101",
+			"evolve_time": "43200",
+			"bit": "10000",
+			"friendship_level": "10",
+			"normal_times_speed": "100",
+			"good_times_speed": "110",
+			"great_times_speed": "120"
+		},
+		{
+			"prev_digimon_id": "1229101",
+			"next_digimon_id": "1229102",
+			"evolve_time": "86400",
+			"bit": "20000",
+			"friendship_level": "15",
+			"normal_times_speed": "100",
+			"good_times_speed": "110",
+			"great_times_speed": "120"
 		}
 	]
 }
