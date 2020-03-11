@@ -246,7 +246,7 @@
 		{
 			"code": "boruhumon",
 			"sort_key": "ヴォルフモン",
-			"profile": "伝説の十闘士の力を宿した、光の能力を持つデジモン。身体の各部にある薄紫のパーツは、聖なる光が封じ込められているセントアメジスト（聖紫水晶）。聖なる光によってアメジストの硬度は正しい心の時に非常な硬度を保持するが、持ち主に負の心が生じると途端に脆くなってしまう。自分の信じる物のためには命を賭けられる騎士道精神の持ち主で、非道を嫌う。ヴォルフモン自身は口数少なく他人とはあまり関わりたがらないため、冷たい印象を持たれることが多いが、実際は心優しい戦士。必殺技は光の剣“リヒト・シュベーアト”で相手を真っ二つにする『リヒト・ズィーガー』と、同じく二振りの“リヒト・シュベーアト”をつなげて多勢に斬り込む『ツヴァイ・ズィーガー』。",
+			"profile": "A light-wielding Digimon with the power of one of the Ten Legendary Warriors. The purple parts of its body are made of sacred amethysts that have holy light sealed within them. That holy light changes the quality of the amethysts according to the wearer's state of mind. They become highly durable if the wearer's thoughts are righteous, but turn as brittle as glass if the wearer becomes overwhelmed by negative emotions. The wearer must be chivalrous, abhor injustice, and be willing to put their life on the line to fight for what they believe in. Lobomon is the strong and silent type who associates with few people, thus giving others the impression of being standoffish despite being a warrior with a gentle heart. Its special moves are Licht Sieger, where it uses the light swords Licht Schwert to cut its opponents in half, and Zwei Zeiger, where it connects the dual swords Licht Schwert to slice its way through a wide swath of enemies.",
 			"icon_asset": "digimon/icon/digimonface1122203",
 			"attribute": "3",
 			"type": "75",
@@ -287,6 +287,15 @@
 			"attribute": "4",
 			"type": "36",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "buimongooguru",
+			"sort_key": "ブイモン[ゴーグルver]",
+			"profile": "A newly discovered species of Digimon. The last of a species that flourished in the genesis of the Digital World, it can use Digi-Eggs to undergo a pseudo-evolution called Armor Digivolution. Veemon is a superior member of the combat species, possessing hidden power and tremendous abilities when Armor Digivolved. It has a naughty and playful side, but also a strong sense of justice. It swings its arms around and strikes its enemy with its special move, Vee Punch. Its other special move, Veemon Headbutt, defeats enemies with a powerful headbutt. It is borrowing the goggles it is wearing from its trusted Partner.",
+			"icon_asset": "digimon/icon/digimonface1207102",
+			"attribute": "4",
+			"type": "36",
+			"start_date": "2020-01-21 12:00:00"
 		},
 		{
 			"code": "burakkukingunumemon",
@@ -525,7 +534,7 @@
 		{
 			"code": "ekusubuimon",
 			"sort_key": "エクスブイモン",
-			"profile": "ブイモンが本来の力を得て進化した成熟期の幻竜型デジモン。エクスブイモンはブイドラモンの原種であり、その派生系の一種がブイドラモンであると言われている。その発達した腕力と脚力から繰り出される攻撃力は凄まじく、山ほどもある岩石など跡形も無く破壊できるほどである。その破壊力を持つために恐れられているが、実際は正義感が強くむやみにその力を使うことは無い。得意技は、強烈な噛み付き技『ストロングクランチ』。必殺技は胸のＸ字の模様から放射されるエネルギー波『エクスレイザー』。",
+			"profile": "Veemon Digivolves into this Champion Mythical Dragon Digimon after gaining its true power. ExVeemon is said to be the true form of Veedramon, Veedramon being a mere derivation. The attacks it delivers from its powerful arms and legs are capable of demolishing mountains to nothing. It is feared for its destructive power but would never use this power recklessly, for its strong sense of justice prevents it from doing so. One of its special moves, Critical Crunch, is a ferocious biting technique. Its other special move, Vee Laser, fires an energy beam from the \"X\" on its chest.",
 			"icon_asset": "digimon/icon/digimonface1120103",
 			"attribute": "4",
 			"type": "49",
@@ -660,7 +669,7 @@
 		{
 			"code": "garumumon",
 			"sort_key": "ガルムモン",
-			"profile": "伝説の十闘士の力を宿した、光の能力を持つデジモン。光通信ネットで発見されたためか超高速移動が可能で、銃弾をかいくぐって敵に接近し、切れ味鋭い爪と牙は悪とみなした者を問答無用で引き裂く。北欧神話のラグナロクで軍神ティールと共に闘ったガルムの名に恥じぬ正義の心の持ち主で、悪を憎む気持ちは人一倍強い。少しでも邪心のある者には決して従わないが、一度、忠誠を誓うと決して裏切らない。必殺技は超高速で突進し、背部のウィングブレードで敵を寸断する『スピードスター』と、光のエネルギーを口から吸引し、臨界点と同時に吐き出す『ソーラレーザー』。",
+			"profile": "A light-wielding Digimon with the power of one of the Ten Legendary Warriors. Perhaps because it was discovered in the optical communication network, it is capable of super high-speed movement. It can weave through hails of bullet fire to get close to enemies and promptly rend perceived ne'er-do-wells to pieces with its sharp claws and fangs. Possessor of a righteous spirit worthy of the name Garmr, one who fought alongside the war god Tyr during Ragnarok of Norse mythology, its hatred of evil is unusually strong. It will not follow anyone with even the tiniest speck of malicious intent in their heart, and it will never betray someone once it has sworn allegiance to them. Its special moves are Speed Star, where it uses the wing blades on its back to tear enemies to shreds, and Solar Laser, where it draws in light energy into its mouth and expels it when it reaches its critical point.",
 			"icon_asset": "digimon/icon/digimonface1122204",
 			"attribute": "3",
 			"type": "23",
@@ -1182,7 +1191,7 @@
 		{
 			"code": "magunagarurumon",
 			"sort_key": "マグナガルルモン",
-			"profile": "伝説の十闘士の力をも超えると云われる、光の能力を持つ超越種デジモン。光速移動を得意とし、飛行ユニット装着時は亜光速で飛空することができる。また、胸部アーマーと、右腕の遠距離射撃「スナイパーファントム」、左腕の中距離射撃「ストライクファントム」は分離が可能だが火力の部分が低下してしまう。胸部の「レーザサイト」は上空での旋回によって、対空・対地全てのターゲットにロックオンが可能で、はるか上空を旋回してターゲットを確認次第、総攻撃を仕掛ける。もはやマグナガルルモンから逃げることは不可能であろう。必殺技は、ロックオンした全てのターゲットに全弾一斉攻撃を行い、高速でメインターゲットを強襲破壊する『マシンガンデストロイ』と、胸部アーマーと分離後、亜光速を越える超光速の域にまで達する速度へ加速し、その光の帯に触れたもの全てを消し去る『スターライトベロシティ』。",
+			"profile": "A light-wielding Transcendent Digimon that is said to have power that surpasses even that of the Ten Legendary Warriors. It is able to move at the speed of light; however, it can fly even faster if its flight unit is attached. It also has removable chest armor equipped, along with a long range attack weapon called Sniper Phantom on its right arm and a mid-range attack weapon called Strike Phantom on its left, but unequipping any of these parts will cause its firepower to fall. The Laser Sight on its chest can circle high in the sky in order to lock onto targets both in the air and on the ground, which allows it to attack them all at once. There is nowhere to run from MagnaGarurumon. One of its special moves is Machinegun Destroyer, where it fires shots at all targets it has locked onto while launching a high speed assault on its main target and destroying them. Its other special move is Starlight Velocity, in which it removes its chest armor to move beyond light speed and create a contrail light ray that turns all that touches it to ash.",
 			"icon_asset": "digimon/icon/digimonface1122205",
 			"attribute": "3",
 			"type": "23",
@@ -1542,7 +1551,7 @@
 		{
 			"code": "pairudoramon",
 			"sort_key": "パイルドラモン",
-			"profile": "エクスブイモンとスティングモンがジョグレスして進化した竜人型デジモン。竜型をベースにその要素を色濃く残しており、竜の持つパワーと昆虫の持つ甲殻で鉄壁の防御能力を身につけている。パワーもさることながら、俊敏な動きで敵にとどめを刺す。忠誠心が強く、主人のためには命を落とすこともいとわない。得意技は両腕の甲から伸びるスパイクでラッシュを繰り出す『エスグリーマ』。必殺技は腰から伸びている２本の生体砲から放たれるエネルギー波『デスペラードブラスター』。",
+			"profile": "A Dragon Man Digimon that ExVeemon and Stingmon DNA Digivolve to. There is a strong dragon influence on its form, and it boasts incredible defensive capabilities thanks to both its dragon power and insect carapace. It finishes off enemies not just with its strength, but with its astute tactics as well. With its strong sense of loyalty, it has no problem laying down its life for its leader. One of its special moves is Sting Strike, where it rushes enemies with the spikes extending from its pauldrons. Its other special move is Death Parade Blaster, where it fires energy beams from the two organic blasters extending from its lower back.",
 			"icon_asset": "digimon/icon/digimonface1120104",
 			"attribute": "4",
 			"type": "55",
@@ -1915,7 +1924,7 @@
 			"icon_asset": "digimon/icon/digimonface1131305",
 			"attribute": "1",
 			"type": "86",
-			"start_date": "2100-01-01 11:59:59"
+			"start_date": "2020-03-16 12:00:00"
 		},
 		{
 			"code": "roodonaitomon",
