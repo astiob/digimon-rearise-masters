@@ -265,6 +265,10 @@
 			"text": "You cannot generate any more Clash Battles.\nComplete one that's already been discovered."
 		},
 		{
+			"text_id": "1000067",
+			"text": "This area cannot be accessed because you have no attempts remaining."
+		},
+		{
 			"text_id": "1001",
 			"text": "Increase Decoration Limit"
 		},
@@ -2318,7 +2322,7 @@
 		},
 		{
 			"text_id": "1385",
-			"text": "Account Transfer through Social Media"
+			"text": "Account Transfer with ID Authentication"
 		},
 		{
 			"text_id": "1386",
@@ -2326,7 +2330,7 @@
 		},
 		{
 			"text_id": "1387",
-			"text": "<size=\"20\">Restoration Steps -Device Replacement through Social Media Authentication-</size>\n<br>■Data Backup with Social Media Authentication\n1. On your current device, select Menu ⇒ Account Transfer ⇒\nDevice Replacement through Social Media Authentication ⇒ Data Backup with Social Media Authentication.\nSelect which social media to authenticate with,\nand tap \"Yes\" when prompted to backup.\nNote: Your browser will open to sync with social media.\n<br>2. Your device browser will activate, and the login screen for your social media will be displayed.\nLog in to the account you want to use to backup data.\n<br>3. The confirmation screen will be displayed.\nSelect \"Yes\" to finalize authentication.\n<br>Please log in to an <color=#FB3536FF>account you manage</color>.\nThere is a risk of transfer failure, or having your\ngame taken over if another person's account is used.\n　You can link a single Twitter account to your Digimon ReArise account.\n　In order to backup data to an account different from the Twitter account used for backup, you must cancel your current backup first.\n<br>■Data Recovery through Social Media Authentication\n1. Install Digimon ReArise on the new device.\n<br>2. Tap the Account Transfer button on the Title Screen.\nSelect Account Transfer ⇒ Data Recovery with Social Media Authentication.\nSelect the social media you have the data backed up to, and tap \"Yes\" when prompted to recover data.\nNote: Your browser will open to sync with social media.\n<br>3. Your device browser will activate, and login screen for your social media will be displayed.\nLog in to the appropriate account.\n<br>4. Digimon ReArise will activate and will prompt you to recover data. Tap \"Yes\".\n<br>Note: Verify the <color=#FB3536FF>Tamer Name</color> and <color=#FB3536FF>Tamer Level</color> of the data being recovered.\nData Recovery can be done through the Account Transfer section found\nwithin the Menu in the DigiTown screen.\n<br><size=\"20\">Recovery Steps -Device Replacement with ID/Password-</size>\n<br>■Issuing Password for Device Replacement\n1. On the DigiTown screen with the current device, select Menu ⇒ Account Transfer ⇒ Transfer with ID/Password and tap the <color=#FB3536FF>Issue Password</color> button.\"\n<br>2. Your User ID and Your Password will be displayed, so please <color=#FB3536FF>take a note</color> of them.\n<br>If you forget to take a note of them, you can <color=#FB3536FF>have a new password issued</color>.\nThe <color=#FB3536FF>old password will be nullified</color> once a new password is issued.\n<br>■Inputting your Password\n1. Install Digimon ReArise to your new device.\n<br>2. On the Title screen, tap the Transfer/Support button, then Account Transfer ⇒ Transfer with ID/Password, then input your User ID and Password.\n\n<br>3. The completion screen will be displayed once data has been recovered.\n<br>Note: Verify the <color=#FB3536FF>Tamer Name</color> and <color=#FB3536FF>Tamer Level</color> on this screen.\n\nData Recovery can be done through the Account Transfer section found\nwithin the Menu in the DigiTown screen.\n<br><size=\"20\">Important Notice regarding Transfer</size>\n<br>1. <color=#FB3536FF>DigiRubies will not be transferred</color> with Data Recovery\nbetween devices of a different OS.</color>\nSpending your DigiRubies before transfer is recommended.\nDigiWalk progress will be reset.\n<color=#FB3536FF>Rewards found in DigiWalk</color> will not be transferred if not claimed.\n<br>2. If data is transferred in the middle of a quest, interrupted data will not be transferred.\n<br>3. Do not share your issued password to another individual or party.\nThe management team is not responsible for any loss incurred by doing this.\"\n\n<br>4. Issued passwords are valid for <color=#FB3536FF>90 days from the date of issue</color>.\nValidity is reset each time a new password is issued.\nOnly the <color=#FB3536FF>most recently issued password</color> will be valid.\n<br>5. Validity of a used password will be nullified.\n<br>6. ID/Password transfer cannot be used if your data has been backed up through Social Media Authentication."
+			"text": "<size=\"20\">Recovery Steps -Device Replacement with ID Authentication-</size> <br> \n- Data Backup with ID Authentication \n1. From the DigiTown screen on the current device, select Menu ⇒ Account Transfer ⇒ Account Transfer with ID Authentication ⇒ Data Backup with ID Authentication. Select a method to authenticate with, and tap \"Yes\" when prompted to backup. *Your browser or another app will open to authenticate your ID. <br> \n2. Your device browser or screen will activate, and the ID Authentication screen will be displayed. Sign in to the account you want to use to backup data. <br> \n3. The confirmation screen will be displayed. Select \"Yes\" to finalize authentication. <br>*Please sign in to <color=#FB3536FF>an account you manage</color>. There is a risk of transfer failure, or having your game taken over if another person's account is used. <br> \n- Data Recovery with ID Authentication \n1. Install Digimon ReArise on the new device. <br> \n2. Tap the Transfer/Support button on the Title Screen. Select Account Transfer ⇒ Account Transfer with ID Authentication ⇒ Data Recovery with ID Authentication. Select the ID you have the data backed up to, and tap \"Yes\" when prompted to recover data. *Your browser or another app will open to sync your ID. <br> \n3. Your device browser or app will activate, and the ID Authentication screen will be displayed. Sign in to the account you want to use to backup data. <br> \n4. Digimon ReArise will activate and will prompt you to recover data. Tap \"Yes\". <br> \n*Verify the <color=#FB3536FF>Tamer Level </color>and <color=#FB3536FF>Tamer Name </color>of the data being recovered. \n*Data Recovery can be done through the Account Transfer section found within the Menu in the DigiTown screen. <br> \n<size=\"20\">Recovery Steps -Device Replacement with ID/Password-</size> <br> \n- Issuing Password for Device Replacement \n1. From the DigiTown screen on the current device, select Menu ⇒ Account Transfer ⇒ Account Transfer through ID/Password and tap the <color=#FB3536FF>Issue Password</color> button. <br> \n2. Your User ID and Your Password will be displayed. Please <color=#FB3536FF>note and store this information in a safe place</color>. <br>*If you forget to take a note of them, you can <color=#FB3536FF>have a new password issued</color>. If a new password is issued, <color=#FB3536FF>the old password will become invalid</color>. <br> \n- Inputting your Password \n1. Install Digimon ReArise on the new device. <br> \n2. On the Title screen, tap the Transfer/Support button, then Account Transfer ⇒ Transfer with ID/Password, then input your User ID and Password. <br> \n3. The completion screen will be displayed once your data has been recovered. Verify the <color=#FB3536FF>Tamer Level </color>and <color=#FB3536FF>Tamer Name </color>on this screen. <br> \n4. Data Recovery can also be done through the Account Transfer section found within the Menu on the DigiTown screen. <br> \n<size=\"20\">Important Notice Regarding Transfer</size> <br>1. <color=#FB3536FF>DigiRubies cannot be transferred </color> between devices of a different OS. Spending the DigiRubies prior to data transfer is recommended. DigiWalk progress will not be transferred. <color=#FB3536FF>Rewards found in DigiWalk</color> will not be transferred if not claimed. <br> \n2. Do not share your issued password with another individual or party. The admin team is not responsible for any loss incurred by doing this. <br> \n3. Issued passwords are <color=#FB3536FF>valid for 90 days from the date of issue</color>. Validity is reset each time a new password is issued. Only the <color=#FB3536FF>most recently issued password will be valid</color>. <br> \n4. Validity of a password will be nullified once used. <br> \n5. ID/Password transfer cannot be used if your data has been backed up with ID Authentication. <br> \n6. Only one account on one device is recommended for this app. Please refrain from using multiple accounts on one device, as it can result in data loss that cannot be restored.<br> \n7. You cannot sync multiple IDs.<br> \n8. ID Authentication with Apple ID can only be performed with devices running iOS 13.0 or newer.<br>"
 		},
 		{
 			"text_id": "1388",
@@ -2602,7 +2606,7 @@
 		},
 		{
 			"text_id": "1449",
-			"text": "You can register a Twitter account.\n<color=#FB3536FF>DigiRubies</color> will not be transferred with Data Recovery between devices of a different OS. Spending your DigiRubies are recommended prior to Data Transfer.\nDigiWalk progress will not be transferred, and <color=#FB3536FF>items found during DigiWalk</color> will not be transferred if not claimed.\nIf data is transferred while a quest is interrupted, interrupted data will not be transferred.\nID/Password transfer cannot be used if data has been backed up through Social Media.\nYour issued Password will also be nullified.<br>Note: You can link a single Twitter account to your Digimon ReArise account.\nIn order to backup data to an account different from the Twitter account used for backup, you must cancel your current backup first.\nHaving confirmed the above, do you still want to backup with Twitter?\nNote: The Twitter web page will open. After linking your Twitter account, you can back up your data upon returning to the app."
+			"text": "You can register a Twitter account.\n<color=#FB3536FF>DigiRubies</color> cannot be transferred \nbetween devices of \na different OS.\nSpending the DigiRubies prior to data transfer is recommended.\nDigiWalk progress will not be transferred.\n<color=#FB3536FF>Rewards found in DigiWalk</color> will not be transferred if not claimed.\nID/Password transfer cannot be used \nif your data has been backed up \nthrough social media.\nYour issued Password will also be nullified.\nHaving confirmed the above, \ndo you still want to backup with Twitter?\n*The Twitter app or Twitter web page will open."
 		},
 		{
 			"text_id": "145",
@@ -2638,7 +2642,7 @@
 		},
 		{
 			"text_id": "1457",
-			"text": "Issuing Password for Data Recovery.\nPlease handle this password with care, and avoid sharing it with third parties.\n<color=#FB3536FF>DigiRubies will not be transferred</color> with Data Recovery\nbetween devices of a different OS.\n<color=#FB3536FF>Passwords are valid for 90 days</color> after being issued. If a new password is issued, the old password will become invalid.\nIf data is transferred with a quest interrupted, interrupted data will not be transferred.\nDigiWalk progress will be reset and will not transfer over.\nRewards found in DigiWalk <color=#FB3536FF>will not be transferred</color> if not claimed."
+			"text": "Issuing password for Data Recovery.\nDo not share your issued password with another individual or party.\n*<color=#FB3536FF>DigiRubies cannot be transferred </color>between devices of a different OS.\n*Passwords are <color=#FB3536FF>valid for 90 days after being issued</color>. If a new password is issued, the old password will become invalid.\n*DigiWalk progress will not be transferred.\n<color=#FB3536FF>Rewards found in DigiWalk</color> will not be transferred if not claimed."
 		},
 		{
 			"text_id": "1458",
@@ -2678,11 +2682,11 @@
 		},
 		{
 			"text_id": "1466",
-			"text": "Recovering data on a new device will\ndelete game data on the previous device.\n<color=#FB3536FF>DigiRubies will not be transferred</color> with Data Recovery\nbetween devices of a different OS.\nSpending your DigiRubies is recommended prior to Data Transfer.\nIf data is transferred with a quest interrupted, interrupted data will not be transferred.\nNote:\nDigiWalk progress will be reset and does not transfer over.\nRewards found in DigiWalk <color=#FB3536FF>will not be transferred</color> if not claimed.\nHaving confirmed the above,\nwould you still recover data with Twitter?"
+			"text": "Recovering data on \na new device will \ndelete game data \non the previous device.\n<color=#FB3536FF>DigiRubies</color> cannot be transferred \nbetween devices of \na different OS.\nSpending the DigiRubies prior to data transfer is recommended.\n*Important\nDigiWalk progress will not be transferred.\n<color=#FB3536FF>Rewards found in DigiWalk</color> will not be transferred if not claimed.\nHaving confirmed the above, \ndo you still want to recover data with Twitter?"
 		},
 		{
 			"text_id": "1467",
-			"text": "Recovering data on a new device will\ndelete game data on the previous device.\n<color=#FB3536FF>DigiRubies will not be transferred</color> with Data Recovery\nbetween devices of a different OS.\nSpending your DigiRubies is recommended prior to Data Transfer.\nNote:\nDigiWalk progress will be reset and will not transfer over.\nRewards found in DigiWalk <color=#FB3536FF>will not be transferred</color> if not claimed.\nHaving confirmed the above,\nwould you still recover data with Facebook?"
+			"text": "Recovering data on \na new device will \ndelete game data \non the previous device.\n<color=#FB3536FF>DigiRubies</color> cannot be transferred \nbetween devices of \na different OS.\nSpending the DigiRubies prior to data transfer is recommended.\n*Important\nDigiWalk progress will not be transferred.\n<color=#FB3536FF>Rewards found in DigiWalk</color> will not be transferred if not claimed.\nHaving confirmed the above, \ndo you still want to recover data with Facebook?"
 		},
 		{
 			"text_id": "1468",
@@ -7506,19 +7510,19 @@
 		},
 		{
 			"text_id": "2384",
-			"text": "The Spotlight Digimon is formed until case1 is cleared."
+			"text": "The Assist Digimon is in your party until case1 is cleared."
 		},
 		{
 			"text_id": "2385",
-			"text": "SDQ"
+			"text": "Assist"
 		},
 		{
 			"text_id": "2386",
-			"text": "Spotlight Team"
+			"text": "Event Team"
 		},
 		{
 			"text_id": "2387",
-			"text": "Spotlight Quest"
+			"text": "Event Quest"
 		},
 		{
 			"text_id": "2388",
@@ -7546,7 +7550,7 @@
 		},
 		{
 			"text_id": "2393",
-			"text": "Insufficient Spotlight Pts."
+			"text": "Not enough {0}."
 		},
 		{
 			"text_id": "2394",
@@ -7554,11 +7558,11 @@
 		},
 		{
 			"text_id": "2395",
-			"text": "Do you want to use Spotlight Pts. for a 1x Summon?"
+			"text": "Do you want to use {0}\nfor a 1x Summon?"
 		},
 		{
 			"text_id": "2396",
-			"text": "Do you want to use Spotlight Pts. for a {0}x Summon?"
+			"text": "Do you want to use {1}\nfor a {0} Summon?"
 		},
 		{
 			"text_id": "2397",
@@ -7714,7 +7718,7 @@
 		},
 		{
 			"text_id": "2430",
-			"text": "You have cleared the current Spotlight Digimon Quest. You became friends with the Spotlight Digimon!"
+			"text": "You have cleared the current Spotlight Digimon Quest.\nYou became friends with the Assist Digimon!"
 		},
 		{
 			"text_id": "2431",
@@ -7734,7 +7738,7 @@
 		},
 		{
 			"text_id": "2435",
-			"text": "You have cleared all Spotlight Digimon Quests currently available."
+			"text": "You have cleared all Event Quests currently available."
 		},
 		{
 			"text_id": "2436",
@@ -8386,7 +8390,7 @@
 		},
 		{
 			"text_id": "2583",
-			"text": "Reward for {0}."
+			"text": "Reward for {0}"
 		},
 		{
 			"text_id": "2584",
@@ -9210,7 +9214,7 @@
 		},
 		{
 			"text_id": "2774",
-			"text": "The Underworld Dungeon will change its appearance and be ready for you again after you have finished challenging it.\n<color=#e75600>*For more details on the Underworld Dungeon, please refer to Help."
+			"text": "The Underworld Dungeon will change its appearance and be ready for you again after you have finished challenging it.\n<color=#e75600>*For more details on the Underworld Dungeon, please refer to Help.</color>"
 		},
 		{
 			"text_id": "2775",
@@ -9673,6 +9677,10 @@
 			"text": "The Event Period has ended.\nRanking results are currently being calculated."
 		},
 		{
+			"text_id": "2880",
+			"text": "Workout / Awakening / Super Awakening"
+		},
+		{
 			"text_id": "2881",
 			"text": "Event Period: {0}-{1}"
 		},
@@ -9733,6 +9741,10 @@
 			"text": "Unlock the Royal Vortex with a key!"
 		},
 		{
+			"text_id": "2895",
+			"text": "{2}-{0} Scene {1}"
+		},
+		{
 			"text_id": "2896",
 			"text": "Royal Clash Battle!"
 		},
@@ -9749,12 +9761,52 @@
 			"text": "Encounter\nReward"
 		},
 		{
+			"text_id": "2915",
+			"text": "S\ne\na\ns\no\nn\n{0}"
+		},
+		{
 			"text_id": "2916",
 			"text": "is insufficient by <color=#FF2C3AFF>{0}</color>."
 		},
 		{
+			"text_id": "2917",
+			"text": "Season {0}"
+		},
+		{
 			"text_id": "292",
 			"text": "Customize"
+		},
+		{
+			"text_id": "2922",
+			"text": "Christmas Clash Battle Event Available!"
+		},
+		{
+			"text_id": "2923",
+			"text": "Christmas Clash Battle"
+		},
+		{
+			"text_id": "2924",
+			"text": "Unlock Conditions"
+		},
+		{
+			"text_id": "2925",
+			"text": "Clear {0}"
+		},
+		{
+			"text_id": "2926",
+			"text": "Total Earned Pts. <color=#FFE500><size=24>{0} Pt. +</size></color>"
+		},
+		{
+			"text_id": "2927",
+			"text": "{0} -"
+		},
+		{
+			"text_id": "2928",
+			"text": "{0}\nor {1}"
+		},
+		{
+			"text_id": "2929",
+			"text": "Fury"
 		},
 		{
 			"text_id": "293",
@@ -9767,6 +9819,10 @@
 		{
 			"text_id": "2931",
 			"text": "Confirm"
+		},
+		{
+			"text_id": "2932",
+			"text": "Christmas Clash Battle Event"
 		},
 		{
 			"text_id": "2933",
@@ -9789,32 +9845,128 @@
 			"text": "5/5"
 		},
 		{
+			"text_id": "2938",
+			"text": "Removes Poison, Burn, Error, Skill Lock, and Blind from self.\nIncreases own TEC by 120%. (Permanent)\nIncreases own Block Rate by 80%. (Permanent)"
+		},
+		{
 			"text_id": "294",
 			"text": "Today"
+		},
+		{
+			"text_id": "2940",
+			"text": "Let me tell you a story about Lucemon, whippersnapper.\nPay attention now."
+		},
+		{
+			"text_id": "2941",
+			"text": "There once was a savior named Lucemon.\nBut..."
+		},
+		{
+			"text_id": "2942",
+			"text": "I spun quite a long yarn...\nThat's the end of the story for now."
 		},
 		{
 			"text_id": "295",
 			"text": "We can keep going!"
 		},
 		{
+			"text_id": "2957",
+			"text": "Brave Boost Available!"
+		},
+		{
+			"text_id": "2958",
+			"text": "Brave Boost Activated!"
+		},
+		{
+			"text_id": "2959",
+			"text": "Calm Boost Available!"
+		},
+		{
 			"text_id": "296",
 			"text": "Just a little more!"
+		},
+		{
+			"text_id": "2960",
+			"text": "Calm Boost Activated!"
+		},
+		{
+			"text_id": "2961",
+			"text": "Deft Boost Available!"
+		},
+		{
+			"text_id": "2962",
+			"text": "Deft Boost Activated!"
+		},
+		{
+			"text_id": "2963",
+			"text": "Tenacious Boost Available!"
+		},
+		{
+			"text_id": "2964",
+			"text": "Tenacious Boost Activated!"
+		},
+		{
+			"text_id": "2965",
+			"text": "Devoted Boost Available!"
+		},
+		{
+			"text_id": "2966",
+			"text": "Devoted Boost Activated!"
+		},
+		{
+			"text_id": "2967",
+			"text": "Late December Challenge"
+		},
+		{
+			"text_id": "2968",
+			"text": "NEW YEAR Clash Battle!"
+		},
+		{
+			"text_id": "2969",
+			"text": "Act has been cleared."
 		},
 		{
 			"text_id": "297",
 			"text": "Item ahead!"
 		},
 		{
+			"text_id": "2970",
+			"text": "Unlock conditions have been met.\nA new area has been unlocked."
+		},
+		{
 			"text_id": "2971",
 			"text": "Early January Challenge"
+		},
+		{
+			"text_id": "2972",
+			"text": "2020 NEW YEAR Clash Battle!"
+		},
+		{
+			"text_id": "2977",
+			"text": "2020 NEW YEAR Clash Battle! Event Available!"
 		},
 		{
 			"text_id": "298",
 			"text": "Claim your rewards first."
 		},
 		{
+			"text_id": "2987",
+			"text": "Stingmon"
+		},
+		{
+			"text_id": "2988",
+			"text": "It seems that some Digimon have gone missing.\nThis is a problem that must be dealt with. Time to investigate."
+		},
+		{
+			"text_id": "2989",
+			"text": "It seems they were kidnapped by someone.\nWho would do such a thing and why...?"
+		},
+		{
 			"text_id": "299",
 			"text": "Let's go again tomorrow!"
+		},
+		{
+			"text_id": "2990",
+			"text": "Thank goodness. The Digimon were saved and unharmed!\n...And I feel like I'm getting a little closer with everyone?"
 		},
 		{
 			"text_id": "2997",
@@ -9885,8 +10037,28 @@
 			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth.\nThe total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon: a Rookie Digimon capable of Digivolving to Ultimate;\na Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Ultra;\nor a Rookie Digimon capable of Digivolving to Champion.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
 		},
 		{
+			"text_id": "3000009",
+			"text": "■ Warning\n *The drop rates are rounded off to the nearest thousandth.\n The total number of the listed drop rates may not add up to 100%.\n *More than one of the same item may appear from this summon.\n *One of the following is guaranteed in the 10+1 Summon: a Champion Digimon capable of Digivolving to Ultimate;\n   a Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega;\n  an Ultimate Digimon capable of Digivolving to Ultra;\n  or a Rookie Digimon capable of Digivolving to Ultra.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
+		},
+		{
 			"text_id": "300001",
 			"text": "A pure-hearted high school sophomore,\nMichi is best friends with Salamon. She\ndoes whatever she sets her mind to without\na care in the world, sometimes to the\npoint of recklessness. Her motto is\n\"Work hard, play hard, sleep hard!\""
+		},
+		{
+			"text_id": "3000010",
+			"text": "■ Warning\n *The drop rates are rounded off to the nearest thousandth.\n The total number of the listed drop rates may not add up to 100%.\n *More than one of the same item may appear from this summon.\n *One of the following is guaranteed in the 10+1 Summon: a Champion Digimon capable of Digivolving to Ultimate; \n  a Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega;\n  or a Rookie Digimon capable of Digivolving to Armor.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
+		},
+		{
+			"text_id": "3000011",
+			"text": "■ Warning\n *The drop rates are rounded off to the nearest thousandth.\n The total number of the listed drop rates may not add up to 100%.\n *More than one of the same item may appear from this summon.\n *One of the following is guaranteed in the 10+1 Summon: a Champion Digimon capable of Digivolving to Ultimate; \n  a Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega;\n  or a Rookie Digimon capable of Digivolving to Armor.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
+		},
+		{
+			"text_id": "3000012",
+			"text": "■ Warning\n *The drop rates are rounded off to the nearest thousandth.\n  The total number of the listed drop rates may not add up to 100%.\n *More than one of the same item may appear from this summon.\n *One of the following is guaranteed in the 10+1 Summon: a Champion Digimon capable of Digivolving to Ultimate;\n   a Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega;\n  a Mega Digimon capable of Digivolving to Mega;\n  or a Rookie Digimon capable of Digivolving to Armor. \nThe drop rates for the items other than the guaranteed Digimon are as follows:"
+		},
+		{
+			"text_id": "3000013",
+			"text": "■ Warning\n *The drop rates are rounded off to the nearest thousandth.\n  The total number of the listed drop rates may not add up to 100%.\n *More than one of the same item may appear from this summon.\n *One of the following is guaranteed in the 10+1 Summon: a Champion Digimon capable of Digivolving to Ultimate;\n   a Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega;\n  or a Mega Digimon capable of Digivolving to Mega.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
 		},
 		{
 			"text_id": "300002",
@@ -10033,16 +10205,120 @@
 			"text": "Valentine's Day Challenge 2020 (4)"
 		},
 		{
+			"text_id": "3025",
+			"text": "Account Transfer with ID Authentication"
+		},
+		{
+			"text_id": "3026",
+			"text": "Data Backup with ID Authentication"
+		},
+		{
+			"text_id": "3027",
+			"text": "Data Backup"
+		},
+		{
+			"text_id": "3028",
+			"text": "Data Recovery"
+		},
+		{
+			"text_id": "3029",
+			"text": "Backup with Apple ID"
+		},
+		{
 			"text_id": "303",
 			"text": "No new items found."
+		},
+		{
+			"text_id": "3030",
+			"text": "Sign in with Apple"
+		},
+		{
+			"text_id": "3031",
+			"text": "Authentication complete.\nBackup with this Apple ID?"
+		},
+		{
+			"text_id": "3032",
+			"text": "Backup with Apple ID has been completed."
+		},
+		{
+			"text_id": "3033",
+			"text": "Register your Apple ID with Sign in with Apple.\n To use this function, you will be required to Sign in with Apple on the OS and device you will be transferring to.\n If the device you are transferring to does not support the Sign in with Apple function, please use another linking method.\n DigiWalk progress will not be transferred.\n <color=#FB3536FF>Rewards found in DigiWalk</color> will not be transferred if not claimed.\n Having confirmed the above, \nauthentication will begin if you tap Sign in with Apple."
+		},
+		{
+			"text_id": "3034",
+			"text": "Data Recovery with ID Authentication"
+		},
+		{
+			"text_id": "3035",
+			"text": "Data Recovery with Twitter"
+		},
+		{
+			"text_id": "3036",
+			"text": "Data Recovery with Apple ID"
+		},
+		{
+			"text_id": "3037",
+			"text": "Authentication complete.\nRecover data with Apple ID?"
+		},
+		{
+			"text_id": "3038",
+			"text": "Recovering data on \n a new device will \n delete game data \n on the previous device.\n To use this function, you will be required to Sign in with Apple on the OS and device you are transferring from.\n If the device you are transferring from does not support the Sign in with Apple function, please use another linking method.\n *Important\n DigiWalk progress will not be transferred.\n <color=#FB3536FF>Rewards found in DigiWalk</color> will not be transferred if not claimed.\n Having confirmed the above, \nauthentication will begin if you tap Sign in with Apple."
+		},
+		{
+			"text_id": "3039",
+			"text": "Already backed up with Apple ID.\nRemove backup from Apple ID?"
 		},
 		{
 			"text_id": "304",
 			"text": "Encounter Results"
 		},
 		{
+			"text_id": "3040",
+			"text": "Backup with Apple ID Removed."
+		},
+		{
+			"text_id": "3041",
+			"text": "Backup completed.\n Use the following to recover data to continue play after device replacement.\n - Sign in with Apple ID\n Tap the button below to change/remove \nbackup game data."
+		},
+		{
+			"text_id": "3048",
+			"text": "The Assist Digimon will be put in your team until you befriend it."
+		},
+		{
+			"text_id": "3049",
+			"text": "Stingmon"
+		},
+		{
 			"text_id": "305",
 			"text": "Claimed"
+		},
+		{
+			"text_id": "3050",
+			"text": "We managed it somehow, thanks to my friends.\nThank you so much! I'll be counting on you next time, too!"
+		},
+		{
+			"text_id": "3052",
+			"text": "Authentication complete. \nBackup with this Twitter account?"
+		},
+		{
+			"text_id": "3053",
+			"text": "Authentication complete. \nRecover data with this Twitter account?"
+		},
+		{
+			"text_id": "3054",
+			"text": "Backup completed. \n Use the following to recover data to continue play after device replacement. \n - Twitter \n Tap the button below to change/remove  \nbackup game data."
+		},
+		{
+			"text_id": "3055",
+			"text": "Already backed up with Twitter. \nRemove backup from Twitter?"
+		},
+		{
+			"text_id": "3056",
+			"text": "Backup with Twitter Removed."
+		},
+		{
+			"text_id": "3057",
+			"text": "Remove Backup"
 		},
 		{
 			"text_id": "3059",
@@ -11051,6 +11327,34 @@
 		{
 			"text_id": "490501",
 			"text": "- Include Digimon that can enhance <color=#FFE25AFF>DEF</color> in your party!\n- Enhance your <color=#FFE25AFF>Block Rate</color>!\n- Take measures against <color=#FFE25AFF>Status Abnormalities</color>!"
+		},
+		{
+			"text_id": "490511",
+			"text": "- Include Digimon that can <color=#FFE25AFF>heal HP </color>in your party!\n- Enhance your <color=#FFE25AFF>DEF</color>!\n- Take measures against <color=#FFE25AFF>Blind</color><sprite=9> and <color=#FFE25AFF>Burn</color><sprite=6>!"
+		},
+		{
+			"text_id": "490512",
+			"text": "- Take measures against <color=#FFE25AFF>Stun</color><sprite=3> and <color=#FFE25AFF>Poison</color><sprite=5>!\n- Include Digimon that can enhance <color=#FFE25AFF>ATK</color> in your party!\n- Include Digimon that <color=#FFE25AFF>Hit hard</color> in your party!"
+		},
+		{
+			"text_id": "490521",
+			"text": "- Include Digimon that <color=#FFE25AFF>Hit hard</color> in your party!\n- Set Plugins that enhance <color=#FFE25AFF>DEF</color>!\n- Include Digimon that <color=#FFE25AFF>Heal HP</color> in your party!"
+		},
+		{
+			"text_id": "490522",
+			"text": "- Include Digimon that can <color=#FFE25AFF>heal HP </color>in your party!\n- Set Plugins that <color=#FFE25AFF>enhance DEF</color>!\n- Take measures against <color=#FFE25AFF>Status Abnormalities</color>!"
+		},
+		{
+			"text_id": "490531",
+			"text": "- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and <color=#FFE25AFF>Error</color><sprite=7> are effective!\n- Set Plugins that enhance <color=#FFE25AFF>DEF</color>!\n- Include Digimon that can enhance <color=#FFE25AFF>ATK</color> in your party!"
+		},
+		{
+			"text_id": "490532",
+			"text": "- Take measures against <color=#FFE25AFF>Error</color><sprite=7> and <color=#FFE25AFF>Burn</color><sprite=6>!\n- Include Digimon that can enhance <color=#FFE25AFF>ATK</color> in your party!\n- Include Digimon that <color=#FFE25AFF>Hit hard</color> in your party!"
+		},
+		{
+			"text_id": "490541",
+			"text": "- Set <color=#FFE25AFF>Plugins that enhance HP</color>!\n- Include Digimon that can enhance <color=#FFE25AFF>DEF</color> in your party!\n- Include Digimon that <color=#FFE25AFF>Heal HP</color> in your party!"
 		},
 		{
 			"text_id": "491",
@@ -13567,6 +13871,10 @@
 		{
 			"text_id": "910126",
 			"text": "Unidentified"
+		},
+		{
+			"text_id": "910128",
+			"text": "No Data"
 		},
 		{
 			"text_id": "911",

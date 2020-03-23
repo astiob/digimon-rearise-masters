@@ -661,6 +661,54 @@
 			"description": "Digimon too, enjoy a good fire. <color=#e75600>Up to four Digimon will dance cheerfully around the fire.</color> (7x7)"
 		},
 		{
+			"deco_id": "80",
+			"name": "クリスマスツリー(2019)",
+			"size_x": "6",
+			"size_y": "6",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco080",
+			"model_asset": "deco/deco0080",
+			"emotion_icon_asset": "",
+			"description": "エリスモンの姿を象ったクリスマスツリー。<color=#E75600>集まったデジモンたちが輪になって楽しそうな姿を見せる。</color>(6x6)"
+		},
+		{
+			"deco_id": "81",
+			"name": "聖夜のパーティセット",
+			"size_x": "7",
+			"size_y": "5",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco081",
+			"model_asset": "deco/deco0081",
+			"emotion_icon_asset": "",
+			"description": "2019年のクリスマスのために用意された<color=#E75600>ごちそうを囲んでデジモンたちがワイワイと楽しい時間を過ごす。</color>(5x7)"
+		},
+		{
+			"deco_id": "82",
+			"name": "プレゼントの山",
+			"size_x": "6",
+			"size_y": "6",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco082",
+			"model_asset": "deco/deco0082",
+			"emotion_icon_asset": "",
+			"description": "見るだけで心がワクワクするプレゼントの山。<color=#E75600>その中にカタカタと動く怪しい箱。その正体を見たデジモンは思わずビックリ。</color>(6x6)"
+		},
+		{
+			"deco_id": "83",
+			"name": "新年の銅像(2020)",
+			"size_x": "5",
+			"size_y": "5",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco083",
+			"model_asset": "deco/deco0083",
+			"emotion_icon_asset": "",
+			"description": "新年を記念して造られた銅像。デジタウンの新しいランドマークになるかもしれない…！？(5x5)"
+		},
+		{
 			"deco_id": "9",
 			"name": "Moai Statue",
 			"size_x": "6",

@@ -1,24 +1,3 @@
 {
-	"masterRows": [
-		{
-			"ec_battle_id": "3001",
-			"filter_value": "{\"strength_min\":1500,\"strength_max\":2000}"
-		},
-		{
-			"ec_battle_id": "3002",
-			"filter_value": "{\"strength_min\":2001,\"strength_max\":2500}"
-		},
-		{
-			"ec_battle_id": "3003",
-			"filter_value": "{\"strength_min\":2501,\"strength_max\":3000}"
-		},
-		{
-			"ec_battle_id": "3004",
-			"filter_value": "{\"strength_min\":3001,\"strength_max\":3500}"
-		},
-		{
-			"ec_battle_id": "3005",
-			"filter_value": "{\"strength_min\":3501,\"strength_max\":4000}"
-		}
-	]
+	"masterRows": []
 }

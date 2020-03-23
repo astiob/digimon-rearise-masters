@@ -100,6 +100,15 @@
 			"start_date": "2019-01-01 00:00:00"
 		},
 		{
+			"code": "Aruhwamonouryuuken",
+			"sort_key": "アルファモン王竜剣",
+			"profile": "アルファモンが放ったデジ文字の魔法陣の作用により、オウリュウモンが奇跡的な進化を遂げて剣になった姿。オウリュウモンは、さらなる戦闘力が追求された実験体「プロトタイプデジモン」の究極体であり、剣になったことで、その戦闘力の全てが攻撃だけに専念される。王竜剣の一振りは、言わば究極体デジモンに内包された全パワーを扱うことであり、並みのデジモンで振れる剣ではなく、並みのデジモンが受け止められる剣でもない。",
+			"icon_asset": "digimon/icon/digimonface1195206",
+			"attribute": "0",
+			"type": "910128",
+			"start_date": "2019/12/31 12:00:00"
+		},
+		{
 			"code": "arumazimon",
 			"sort_key": "アルマジモン",
 			"profile": "A Mammal Digimon with a body covered in a hard shell. Though usually carefree, it sometimes gets carried away and causes trouble. Much like Veemon, Armadillomon is a descendant of an ancient species, giving it the ability to perform special Armor Digivolutions. One of its special moves, Claw Chop, strikes using the sharp claws on its forelegs. The other, Diamond Shell, balls it up into a full-force charge.",
@@ -217,6 +226,15 @@
 			"start_date": "2018/10/24 12:00:00"
 		},
 		{
+			"code": "beriarubandemon",
+			"sort_key": "ベリアルヴァンデモン",
+			"profile": "ヴァンデモンの最終形態と言われる、魔王型デジモン。パワーを追求しすぎ、獣のように知性を失ってしまうヴェノムヴァンデモンとは違い、知性も兼ね揃え全ての面でヴェノムヴァンデモンを超えることに成功した。残虐非道で冷酷な性格を持ち、自らの欲望のためには手段を選ばない。左右の肩にはそれぞれ生体砲の「ソドム」と「ゴモラ」を寄生させている。必殺技は両肩のソドムとゴモラから発射される超高熱線『パンデモニウムフレイム』。",
+			"icon_asset": "digimon/icon/digimonface1203305",
+			"attribute": "1",
+			"type": "86",
+			"start_date": "2020-01-21 12:00:00"
+		},
+		{
 			"code": "beruzebumon",
 			"sort_key": "ベルゼブモン",
 			"profile": "One of the Seven Deadly Digimon, this Demon Lord Digimon has the power to control many Devil Digimon but chose a solitary life. It is said it has the power to reign over the Nightmare Soldiers, but some say there is still an Demon Lord Digimon with power that surpass even Beelzemon. It rides a gigantic motorcycle called Behemoth and has two cherished shotguns called Berenjena. It is cruel and merciless, yet too proud to bother attacking those it considers to be weak. Its special move, Darkness Claw, slices the opponent to pieces. It repeatedly fires its shotguns in its other move, Double Impact.",
@@ -327,7 +345,7 @@
 		{
 			"code": "burakkuwoogureimon",
 			"sort_key": "ブラックウォーグレイモン",
-			"profile": "“漆黒の竜戦士”として恐れられる、ウィルス種のウォーグレイモン。ウィルスバスターズのウォーグレイモンとは信条も主義も全て正反対であるが、彼なりの“正義”のために存在している。卑怯や卑劣なことを嫌い、同じウィルス種でも低俗なデジモンは仲間だとは思っていない。どういった経緯でウィルス化してしまったのかは謎で、背中に装備している“ブレイブシールド”には勇気の紋章が刻まれていない。必殺技はウォーグレイモンと同じ『ガイアフォース』だが、この世に存在する“負の念”を一点に集中させて放つ『暗黒のガイアフォース』である。",
+			"profile": "A Virus-type WarGreymon that is known and feared as the Jet-Black Dragon Warrior. Although its beliefs and principles are the polar opposite of those of the Virus Buster WarGreymon, it is devoted to the concept of justice in its own way. It despises cowardice and cruelty, shunning those who give into it, even if they are the same Virus-type. It is a mystery as to how it was able to transform into a Virus-type, but one look at the Brave Shield on its back reveals that the shield is missing the crest of bravery. Its special move is the same as WarGreymon's Terra Force, but when it releases its Dark Terra Force upon its enemies, it focuses on the negative emotions of the world.",
 			"icon_asset": "digimon/icon/digimonface1105205",
 			"attribute": "1",
 			"type": "55",
@@ -766,6 +784,15 @@
 			"start_date": "2017/01/01 00:00:00"
 		},
 		{
+			"code": "goorudobuidoramon",
+			"sort_key": "ゴールドブイドラモン",
+			"profile": "ブイモンが“運命のデジメンタル”で“アーマー進化”した幻竜型デジモン。その存在は貴重で、アーマー体の中でも並外れた攻撃力を持ち、ピンチになると究極体クラスの力を発揮する。また、黄金色のボディでネットの闇を照らし出す。必殺技は、黄金の熱戦『ブレイブレスアロー』。",
+			"icon_asset": "digimon/icon/digimonface1199104",
+			"attribute": "0",
+			"type": "49",
+			"start_date": "2020-01-01 12:00:00"
+		},
+		{
 			"code": "goorudonumemon",
 			"sort_key": "ゴールドヌメモン",
 			"profile": "A golden subspecies of Numemon that imported data from the Goldine Mine. Its special move, Golden Rush, sends a barrage of feces at its opponent.",
@@ -993,7 +1020,7 @@
 		{
 			"code": "inperiarudoramondjiiemu",
 			"sort_key": "インペリアルドラモンDM",
-			"profile": "古代に存在した究極の古代竜型デジモン。他のデジモンとは存在や能力の面で一線を画している。またインペリアルドラモンは竜形態（ドラゴンモード）と呼ばれているが、全てのパワーを開放することができる“竜人形態”（ファイターモード）が存在するらしい。しかし、その姿を見たものはいないと言われている。強大なパワーのため、制御するのは至難の技であり、扱い方によっては救世主にも破壊神にもなってしまう。必殺技は超質量の暗黒物質を発射し、全てを暗黒空間に呑み込んでしまう『メガデス』。この技は暗黒物質の着弾点から半径数百メートルの全ての物を完全に消滅させてしまう恐ろしい技だ。",
+			"profile": "A Mega Ancient Dragon Digimon from a time long past. It is a clear step above other Digimon in terms of sheer presence and abilities. Imperialdramon is said to be in Dragon Mode but supposedly, it has another Fighter Mode that allows it to use the full extent of its power. However, it is also said that none have ever seen it. Its immense power is next to impossible to control, and it can become either a savior or the downfall of the world depending on how it uses its power. Its special move is Megadeath, in which it fires super-dense dark matter that engulfs everything into darkness. This fear-inspiring attack destroys everything within a radius of hundreds of meters of the dark matter's epicenter.",
 			"icon_asset": "digimon/icon/digimonface1120105",
 			"attribute": "4",
 			"type": "90",
@@ -1002,7 +1029,7 @@
 		{
 			"code": "inperiarudoramonehuemu",
 			"sort_key": "インペリアルドラモンFM",
-			"profile": "古代竜型デジモンのインペリアルドラモン：ドラゴンモードが全てのパワーを開放し、伝説の竜戦士（ファイターモード）へと形態を変化させた姿。制御の難しかったドラゴンモードから、人型になることで高い知性を身につけた究極のデジモンである。その攻撃は惑星をも破壊するだけのパワーが宿っていると言われている。必殺技は右腕に装着した『ポジトロンレーザー』とポジトロンレーザーを胸部の竜顔にはめ込み、全身のエネルギーを放射する破壊のエネルギー波『ギガデス』。その威力はドラゴンモードの『メガデス』の十倍の威力を持っている。また、完全なる正義に目覚めたとき更なる別モードになることができると言われている。",
+			"profile": "When the Ancient Dragon Digimon, Imperialdramon DM (Dragon Mode) releases all of its power, it transforms into the legendary dragon warrior Imperialdramon FM (Fighter Mode). Controlling its power is difficult when it is in Dragon Mode; but in its humanoid form, this Mega Digimon gains a keen intelligence. With its power and intelligence combined, it can launch attacks powerful enough to destroy a planet. It wields the Positron Laser on its right arm. Its other special move Giga Death is a hugely destructive energy beam using all energy contained within its body released from the Positron Laser inserted into the dragon face on its chest. The power of this attack exceeds its Dragon Mode's special move, Megadeath, by a multiple of ten. It is said that when it awakens to the perfect justice, it is able to transform into another mode even more advanced than this one.",
 			"icon_asset": "digimon/icon/digimonface1130405",
 			"attribute": "4",
 			"type": "91",
@@ -1063,6 +1090,15 @@
 			"start_date": "2019/09/30 12:00:00"
 		},
 		{
+			"code": "Kaosudoramon",
+			"sort_key": "カオスドラモン",
+			"profile": "数々のサイボーグ系デジモンのパーツを組み合わせて造られたムゲンドラモンは想像以上の能力を発揮し、その実験は成功したと言われている。そのムゲンドラモンを更に改良強化を加えたのが深紅のメタルボディを持つカオスドラモンである。仮想超金属であるクロンデジゾイドを、再精製し硬度のみを上げた“レッドデジゾイド”を使ったボディは、あらゆる攻撃を跳ね返し、あらゆる物を破壊する。また、デジコアにセットされたプログラムのバージョンも、より破壊的に自律的に改良を施されている。カオスドラモンは主に、クラックチームのリーダーがエージェントとして使用するデジモンでもある。必殺技は２砲のキャノンから発射される超弩級のエネルギー波『ハイパームゲンキャノン』。",
+			"icon_asset": "digimon/icon/digimonface1196415",
+			"attribute": "1",
+			"type": "1",
+			"start_date": "2020-01-01 12:00:00"
+		},
+		{
 			"code": "keramon",
 			"sort_key": "ケラモン",
 			"profile": "A Rookie Digimon that Digivolved from Tsumemon. Its body has grown, and its huge mouth can eat away at far more data than Tsumemon ever could. It eats more than 100MB of data per second, so the moment Keramon invades a system it's safe to assume some data has been destroyed. Keramon has an extremely jovial attitude, and considers its destructive behavior as nothing more than play. Its special move, Crazy Giggle, fires an exceptionally destructive bolt of light from its cackling maw.",
@@ -1070,6 +1106,15 @@
 			"attribute": "5",
 			"type": "127",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "kimeramon",
+			"sort_key": "キメラモン",
+			"profile": "手、足、体、尾など全体を構成する各パーツが、様々なデジモンの合成で組み合わされ創られている合成型デジモン。何故このような合成が行われたのか、それは謎に包まれている。数種のデジモンのメタルパーツを合成したムゲンドラモンに対し、生身のパーツで組み合わされており、ムゲンドラモンの試作型なのか、対ムゲンドラモン用に造られたデジモンなのか、その真相は未だ解明されていない。ただ一つだけ分かっていることは、キメラモンの恐るべき闘争本能、そして強大な破壊力だけである。四本の腕から放出される、死の熱線『ヒート・バイパー』。この熱線を受けたものはキメラモンの呪いのごとく、見るも無残にバラバラに四散してしまう恐ろしい技である。",
+			"icon_asset": "digimon/icon/digimonface1204404",
+			"attribute": "2",
+			"type": "61",
+			"start_date": "2020-01-21 12:00:00"
 		},
 		{
 			"code": "kinguetemon",
@@ -1160,6 +1205,15 @@
 			"attribute": "1",
 			"type": "28",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "kuzuhamonmm",
+			"sort_key": "クズハモンMM",
+			"profile": "クズハモンが神事の奉仕をおこない神の意志を聞くときの姿。巫女形態で戦うことは少ないが、邪気をはらう力が強くなっている。",
+			"icon_asset": "digimon/icon/digimonface1201305",
+			"attribute": "2",
+			"type": "78",
+			"start_date": "2020-01-06 12:00:00"
 		},
 		{
 			"code": "kyuubimon",
@@ -1484,6 +1538,15 @@
 			"attribute": "0",
 			"type": "101",
 			"start_date": "2018/12/14 12:00:00"
+		},
+		{
+			"code": "ofanimonfm",
+			"sort_key": "オファニモンFM",
+			"profile": "怒りのあまり自らの感情を殺し、狂気に落ちたオファニモンの姿。どれだけ粛清しても残虐非道な悪行は増え続ける世界に憤りが高まり、心を閉ざしてしまった。悪の芽を摘むために、正義の弊害になると判断した相手は誰であろうと狩り、自分が認める正義の世界を築き上げようとするのである。必殺技は、武器となる炎を纏った『フレイムヘルサイズ』で敵を狩り、狩った魂を業火とともに地獄へ陥れる。また息絶えるまでなぶり続ける召喚技『デモンズクリスタル』がある。",
+			"icon_asset": "digimon/icon/digimonface1200115",
+			"attribute": "0",
+			"type": "44",
+			"start_date": "2020-01-15 12:00:00"
 		},
 		{
 			"code": "omegamon",
@@ -1954,6 +2017,33 @@
 			"start_date": "2017/01/01 00:00:00"
 		},
 		{
+			"code": "ruutyemon",
+			"sort_key": "ルーチェモン",
+			"profile": "遥か昔、古代デジタルワールドに降臨したといわれている、子供の姿をした天使デジモン。まだデジタルワールドが混沌としていた時代に現れ、この世界に秩序と平和をもたらしたと言われている。しかし、その後ルーチェモンの\"反乱\"により、永き暗黒の時代を迎えた。子供の姿をしているとはいえ完全体デジモンをも凌駕するほどの力と英知を持っている。現在ではルーチェモンの能力は三大天使に分割して受け継がれていると言われている。必殺技は１０個の超熱光球を、惑星直列の様に十字の形で放つ『グランドクロス』。この技はセラフィモンの「セブンヘブンズ」を凌駕する威力を持つ。",
+			"icon_asset": "digimon/icon/digimonface1191302",
+			"attribute": "0",
+			"type": "41",
+			"start_date": "2019-11-30 12:00:00"
+		},
+		{
+			"code": "ruutyemonfm",
+			"sort_key": "ルーチェモンフォールダウンモード",
+			"profile": "聖と魔を併せ持つ究極の魔王型デジモンで“七大魔王デジモン”最強の存在。超古代に反逆戦争を起こし、多くの魔王型デジモンと共にダークエリアに封印されていた。その力は他の究極体をも超え、“神”と呼ばれる存在に匹敵すると言われている。全てのものを慈しむ神のような一面も持ちながら、この世界全体を破壊せんとする悪魔の様な相反する存在である。そのためこの世界を一度破壊し、新たなる新世界を創造することを目論んでいた。必殺技は打撃の乱舞で敵を空高く舞い上げたあとに、敵の四肢を固定して地面に叩きつける破壊技『パラダイスロスト』と、聖と魔の光球で立体魔方陣を作り出し敵を封じ込める『デッド・オア・アライブ』。この魔方陣に閉じ込められると完全に消滅するか、大ダメージを負うか1/2で決まってしまう。",
+			"icon_asset": "digimon/icon/digimonface1191304",
+			"attribute": "1",
+			"type": "86",
+			"start_date": "2019-11-30 12:00:00"
+		},
+		{
+			"code": "ruutyemonsm",
+			"sort_key": "ルーチェモンSM",
+			"profile": "黙示録に登場する竜の姿をした、ルーチェモンの最終形態。黙示録に伝わるように頭上には７つの大罪の冠を抱き、あらゆる攻撃を吸収する暗黒の球体「ゲヘナ（地獄）」を持つ。全ての攻撃は「ゲヘナ」の前に無効化し、ルーチェモンがこの姿を現した時に世界は滅びると言われている。しかし、ルーチェモンの本体（ルーチェモン・ラルバ）は「ゲヘナ」の中に存在しており、サタンモードはルーチェモンの影に過ぎない。その為、サタンモードを幾ら攻撃しようとも、その攻撃は本体であるルーチェモン・ラルバには届かない。必殺技は全てを浄化する破壊の炎『パーガトリアルフレイム』と、七つの冠から放つ消滅の光『ディバインアトーンメント』。",
+			"icon_asset": "digimon/icon/digimonface1190306",
+			"attribute": "1",
+			"type": "115",
+			"start_date": "2019/12/16 12:00:00"
+		},
+		{
 			"code": "saaberureomon",
 			"sort_key": "サーベルレオモン",
 			"profile": "An Ancient Beast Digimon said to move at Mach speed. The circumstances of its origins are still shrouded in mystery; one theory proposes that it is in fact Leomon in beast form. The Digimon's supersonic speed enables it to evade any attack, no matter how swift they are. Some even call SaberLeomon the ultimate destructive Digimon due to the power of its two massively developed fangs and keen claws. Its special move Twin Fang hardens the numerous strands of poisonous hair in its mane before it charges into its victim, paralyzing anyone who bears the brunt of the attack. Its other special move, Howling Crusher, is a terrifying attack that tears its opponent to pieces using its gigantic claws.",
@@ -1988,6 +2078,15 @@
 			"attribute": "2",
 			"type": "78",
 			"start_date": "2018/08/17 12:00:00"
+		},
+		{
+			"code": "sakuyamonmm",
+			"sort_key": "サクヤモンMM",
+			"profile": "サクヤモンが神事の奉仕をおこない神の意志を聞くときの姿。巫女形態で戦うことは少ないが、邪気をはらう力が強くなっている。",
+			"icon_asset": "digimon/icon/digimonface1197505",
+			"attribute": "2",
+			"type": "78",
+			"start_date": "2019-12-30 12:00:00"
 		},
 		{
 			"code": "sanhuraumon",
@@ -2107,6 +2206,15 @@
 			"start_date": "2019/06/25 12:00:00"
 		},
 		{
+			"code": "susanoomon",
+			"sort_key": "スサノオモン",
+			"profile": "東方の伝承に伝えられる最強の破壊神にして再生を司る神。ネットワークシステムの異常時に降臨し、既存のシステムを無のものとし、新たなシステムを創造すると伝えられる。必殺技はゼロアームズ：オロチより放たれた光の剣が、天下のあらゆるものを切り刻み突き刺る『天羽々斬（あまのはばきり）』と、天上に向けて（ゼロアームズ：オロチより）放たれた光の剣が、破壊の稲妻となって地上に降り注ぐ究極技『八雷神（やくさのいかづち）』。",
+			"icon_asset": "digimon/icon/digimonface1187306",
+			"attribute": "0",
+			"type": "78",
+			"start_date": "2019-11-30 12:00:00"
+		},
+		{
 			"code": "sutaamon",
 			"sort_key": "スターモン",
 			"profile": "A Planet Digimon accidentally discovered in the analytical software of a space development center. Starmon is a cosmic warrior equipped with star-shaped armor. Its tattered yellow scarf tells the tale of its combat experience. Its eyes burn with fighting spirit, and can convey its will without speaking a word. It can use this technique to hypnotize others. It is a hot-headed Digimon that looks up to its hero, Leomon. Its special move, Meteor Shower, causes small meteors to rain down upon its enemy.",
@@ -2114,6 +2222,15 @@
 			"attribute": "2",
 			"type": "40",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "sutjingumon",
+			"sort_key": "スティングモン",
+			"profile": "人型の形態を持つ、非常に珍しい昆虫型デジモン。昆虫型デジモン特有の硬い外骨格と素早い動きをもっている。暗殺者としての能力に長けており、俊敏な身のこなしと的確な判断力で敵の急所を狙い、一撃で敵を沈黙させる攻撃を得意とする。いたって冷静で知性は高く、クールな性格の持ち主だ。必殺技は両腕のスパイクで敵を串刺しにする恐ろしい技『スパイキングフィニッシュ』。",
+			"icon_asset": "digimon/icon/digimonface1206203",
+			"attribute": "4",
+			"type": "28",
+			"start_date": "2020/01/21 12:00:00"
 		},
 		{
 			"code": "sutoraikudoramon",
@@ -2150,6 +2267,15 @@
 			"attribute": "0",
 			"type": "106",
 			"start_date": "2018/07/11 12:00:00"
+		},
+		{
+			"code": "syaingureimonruinmoodo",
+			"sort_key": "シャイングレイモンRM",
+			"profile": "仲間を倒され、誇りを傷つけられたシャイングレイモンが憎しみによって力を解放した姿。果てなき力への渇望が、本来「正」の力である太陽エネルギーを「負」の力である暗黒エネルギーへと変換している。必殺技もすべて暗黒エネルギーにより大幅に強化されている。しかし、戦闘時に限界を超えた暗黒エネルギーを引き出した場合、デジタマになってしまうリスクを負ってしまった。",
+			"icon_asset": "digimon/icon/digimonface1188315",
+			"attribute": "0",
+			"type": "106",
+			"start_date": "2019/12/10 12:00:00"
 		},
 		{
 			"code": "syakkoomon",

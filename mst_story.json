@@ -1,8 +1,8 @@
 {
 	"masterRows": [
 		{
-			"story_id": "0",
-			"story_type": "0",
+			"story_id": "1000",
+			"story_type": "2",
 			"name": "SDQ",
 			"start_date": "2018-06-30 12:00:00",
 			"end_date": "2119-07-31 11:59:59",
@@ -15,6 +15,14 @@
 			"start_date": "2018-06-30 12:00:00",
 			"end_date": "2119-07-31 11:59:59",
 			"disp_order": "1"
+		},
+		{
+			"story_id": "2001",
+			"story_type": "1",
+			"name": "Side",
+			"start_date": "2100-01-01 12:00:00",
+			"end_date": "2119-01-01 12:00:00",
+			"disp_order": "100"
 		}
 	]
 }

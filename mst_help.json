@@ -112,7 +112,7 @@
 			"help_id": "1013",
 			"help_category_id": "-1",
 			"title_text": "Team Roster",
-			"detail_text": "Your Team is a group of up to 5 Digimon who accompany you into battle.\nTeams can be adjusted each time you go on a Quest.\nYou can register up to 3 teams each for Main Story and Battle Park, and 1 team for Clash Battles.\n<br>You can select the Digimon you want to bring to battle with you by tapping the available slot where you can organize and replace Digimon in your team.\nYou can also go to the Equip Plugin screen from here.\n<br><color=#c7221d>When making a Team, only one Digimon with the same Digivolution Chain and Stage can be used at a time.</color>"
+			"detail_text": "Your Team is a group of up to 5 Digimon who accompany you into battle.\nTeams can be adjusted each time you go on a Quest.\nYou can register up to 3 teams each for Main Story and Battle Park, and Clash Battles.\n<br>You can select the Digimon you want to bring to battle with you by tapping the available slot where you can organize and replace Digimon in your team.\nYou can also go to the Equip Plugin screen from here.\n<br><color=#c7221d>When making a Team, only one Digimon with the same Digivolution Chain and Stage can be used at a time.</color>"
 		},
 		{
 			"help_id": "1014",
@@ -376,13 +376,13 @@
 			"help_id": "1053",
 			"help_category_id": "-1",
 			"title_text": "Spotlight Digimon Quests",
-			"detail_text": "Spotlight Digimon Quest (SDQ) is an event where original stories focusing on <color=#e75600>Spotlight Digimon</color> unfold.\nTo proceed with the story, you will need to use Stamina.\nDuring a Quest, <color=#e75600>Spotlight Digimon</color> will join your team and fight battles with you.\nYou will earn <color=#e75600>Spotlight Pts.</color> every time you clear a Quest, and you can use those points for the Limited Summon."
+			"detail_text": "Spotlight Digimon Quest (SDQ) is an event where original stories focusing on <color=#e75600>Assist Digimon </color>unfold.\nStamina is required to progress through the stories.\nDuring a Quest, <color=#e75600>Assist Digimon</color> will join your team and fight battles with you.\nMultiple acts are available. Complete the objectives of an act to unlock the next.\nYou will earn <color=#e75600>Spotlight Pts.</color> every time you clear a Quest, and you can use those points for the Limited Summon."
 		},
 		{
 			"help_id": "1054",
 			"help_category_id": "-1",
 			"title_text": "Spotlight Digimon Quest Rules",
-			"detail_text": "- Time Period\nSpotlight Digimon Quests\nwill be available for a limited time.\nQuests cannot be attempted\nafter the time period has ended.\n<br>- Spotlight Team\nYour team for the\nSpotlight Digimon Quests.\n<br>- Spotlight Digimon\n　Digimon that join your team \n　and can be used in battles during the event.\n　Spotlight Digimon will be automatically added \n　to your team until you clear the designated Quest.\n　Upon clearing the requirements, you will receive the Spotlight Digimon,\n　and you will once again be able to freely train and organize your team.\n<br> - Spotlight Pts.\nGain Spotlight Pts.\nby clearing Quests.\nSpotlight Pts. can be used\nfor this quest specific Limited Summon.\n<br>- Spotlight Digimon Quest Limited Summon\nLimited Summon that can\nbe used by spending Spotlight Pts.\nYou can get a variety of useful items from this Summon.\n<br>- Scene Select\nYou can view scenarios\nfrom Spotlight Digimon Quests.\nScenarios will be added to Scene Select\nafter viewing it once.\n<br><color=#c7221d>*If the requirements are not fulfilled by the end of the time period, you will no longer be able to befriend the Spotlight Digimon.</color>\n<color=#c7221d>*Until the designated requirements have been met, Spotlight Digimon cannot do the following:</color>\n　<color=#c7221d>- Equip Plugins.</color>\n　<color=#c7221d>- Be placed in DigiCare.</color>\n<color=#c7221d>*Once the Reward Claim Period has ended, you can no longer use your Spotlight Pts.</color>\n<color=#c7221d>*Spotlight Pts. will not be transferred to future Spotlight Digimon Quests.</color>\n<color=#c7221d>*Requirements for receiving Spotlight Digimon are different for each Spotlight Digimon Quest.</color>"
+			"detail_text": "- Time Period\nSpotlight Digimon Quest will be available \nfor a limited time.\nQuests cannot be attempted after the time period \nhas ended.\n<br>- Event Team\nYour team for the\nSpotlight Digimon Quests.\n<br>- Assist Digimon\nDigimon that join your team \nand can be used in battles during the event.\nAssist Digimon will be automatically added \nto your team until you clear the designated Quests.\nUpon clearing the requirements, you will receive the Assist Digimon, \nand you will once again be able to freely train and organize your team.\n<br>- Spotlight Pts.\nGain Spotlight Pts\nby clearing Quests.\nSpotlight Pts. can be used\nfor this quest-specific Limited Summon.\n<br>- Spotlight Digimon Quest Limited Summon\nLimited Summon that can be used \nby spending Spotlight Pts.\nYou can get a variety of useful items from this Summon.\n<br>- Scene Select\nYou can view scenarios \nfrom Spotlight Digimon Quests.\nScenarios will be added to Scene Select \nafter viewing them once.\n<br><color=#c7221d>*If the requirements are not fulfilled by the end of the time period, you will no longer be able to befriend the Assist Digimon.</color>\n<color=#c7221d>*Until the designated requirements have been met, Assist Digimon cannot do the following:</color>\n<color=#c7221d>- Equip Plugins.</color>\n<color=#c7221d>- Be placed in DigiCare.</color>\n<color=#c7221d>*Once the Reward Claim Period has ended, you can no longer use your Spotlight Pts.</color>\n<color=#c7221d>*Spotlight Pts. will not be transferred to future Spotlight Digimon Quests.</color>\n<color=#c7221d>*Requirements for receiving Assist Digimon are different for each Spotlight Digimon Quest.</color>"
 		},
 		{
 			"help_id": "1055",
@@ -407,6 +407,30 @@
 			"help_category_id": "7",
 			"title_text": "Friend Search",
 			"detail_text": "You can search for specific Tamers in the game.\nEach Tamer is provided with an individual ID.\nYou can send Friend Requests to specific Tamers by searching for their ID.\n<br>Your own ID can be seen at the Friend Search screen and Profile screen.\n<br>You can search for Friends using the Friend Search function under Friends on the Social screen."
+		},
+		{
+			"help_id": "1060",
+			"help_category_id": "-1",
+			"title_text": "Underworld Dungeon",
+			"detail_text": "Each floor brings the chance of earning rewards to use outside of the Underworld Dungeon by defeating the enemies. \nRewards cannot be kept unless all floors are cleared or Return is chosen. \nThe possibility of receiving rare items increases as you progress through the floors. \n<br>Team Roster \nOnly Digimon Lv. 99 or higher may attempt the Underworld Dungeon, including Partner Digimon.\nBattles consist of multiple battles with up to 3 teams (15 Digimon).\nEach Team's Cost is restricted to 100.\nA Team must fit within the Team Cost. \nEach Digimon's Cost is based on its Stage.\n- 35 Cost: Ultra/Mega \n- 20 Cost: Armor\n- 14 Cost: Ultimate\n- 7 Cost: Champion\n- 3 Cost: Rookie\n<br>Underworld Dungeon Battles\nBattles in the Underworld Dungeon consist of multiple battles.\nThe following Data will be carried over as each floor is cleared: \n- HP \n- CT (Cooldown Time) \n- Special Gauge \n<br>Field Effects \nEach floor has Field Effects that activate at the beginning of Battle, effecting the Digimon present on the field in various ways.\nThese effects can include Status Abnormalities, Buffs, and Debuffs.\nField Effects are dependent on the floor and are not related to the opponent.\nField Effects can be counteracted with a Resistance to the effect.\n<br>Progressing through the Underworld Dungeon \nAfter finishing a floor, you can decide whether to continue, or to Return. \nIf you continue on to the next floor, you will be prompted to choose one of the teams you created at the beginning of the Dungeon and the next battle will begin.\nTap a floor to find more information about it.\nIf you choose Return, you will leave the dungeon immediately and Temporary Items will be acquired permanently. However, you will begin your next attempt at the start of the Underworld Dungeon. \nRules may differ depending on the floor you are on. \nYou cannot return to a floor that has already been cleared. \n<br>Rewards \nTemporary Items can be received at the end of each floor.\nBecause these items have not been permanently received at this point, they cannot be used.\nItems are acquired permanently after all floors have been cleared, or after Returning.\nYou will be defeated when all your Digimon have fallen. All Temporary Items will be lost.\n<br>Rewinding Clock \nA unique item that can only be used once all your Digimon have fallen. \nUse the Rewinding Clock to return to the Gear Up screen and retry the floor.\nBoth your team and the enemy Digimon will return to the condition they were in at the moment of floor entry.\nReturn may be chosen at the end of the floor after a Rewinding Clock has been used.\n<br>Other \nThe Underworld Dungeon is reset after Returning, Defeat, or clearing all floors. \nIn addition, the organization of floors will also be different in each attempt. \n<br>\n<br><color=#c7221d>*After beginning the Underworld Dungeon, your partner cannot be changed. Additionally, the following are not available to Digimon in the Dungeon: \n- Team Edit \n- Skill Upgrade \n- Upgrade/Workout/Awaken/Digivolve \n- Release \n- Plugin Upgrade/Evolve \n- Equip/Remove Plugins \n- Selling Equipped Plugins</color>"
+		},
+		{
+			"help_id": "1061",
+			"help_category_id": "-1",
+			"title_text": "Rewinding Clock",
+			"detail_text": "A unique item that can only be used once all your Digimon have fallen. \n Use the Rewinding Clock to return to the Gear Up screen and retry the floor.\n Both your team and the enemy Digimon will return to the condition they were in at the moment of floor entry.\nReturn may be chosen at the end of the floor after a Rewinding Clock has been used."
+		},
+		{
+			"help_id": "1062",
+			"help_category_id": "-1",
+			"title_text": "Team Roster",
+			"detail_text": "Only Digimon Lv. 99 or higher may attempt the Underworld Dungeon, including Partner Digimon.\n Battles consist of multiple battles with up to 3 teams (15 Digimon).\n A Team's Cost is restricted to 100. \n A Team must fit within the Team Cost. \n Each Digimon's Cost is based on its Stage.\n - 35 Cost: Ultra/Mega \n - 20 Cost: Armor\n - 14 Cost: Ultimate\n - 7 Cost: Champion\n- 3 Cost: Rookie"
+		},
+		{
+			"help_id": "1063",
+			"help_category_id": "-1",
+			"title_text": "Gearing Up",
+			"detail_text": "Make final preparations before a battle at \n the Gear Up screen, such as the Team, your Partner, Plugins, and Backup.\n*Cannot call for Backup in the Underworld."
 		},
 		{
 			"help_id": "1068",
@@ -1144,7 +1168,7 @@
 			"help_id": "81",
 			"help_category_id": "5",
 			"title_text": "Team Types",
-			"detail_text": "You can create custom Teams for any type of mission.\n<br>Quests: Register up to 3 Teams\nClash Battle: Register 1 Team\nBattle Park: Register up to 3 Teams"
+			"detail_text": "You can create custom Teams for any type of mission.\n<br>Quests: Register up to 3 Teams\nClash Battle: Register 3 Team\nBattle Park: Register up to 3 Teams"
 		},
 		{
 			"help_id": "82",
