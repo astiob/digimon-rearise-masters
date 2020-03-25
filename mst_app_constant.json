@@ -523,6 +523,18 @@
 			"description": "時限の渦の機能解放クエストID（2章最終話）（TutorialType:301）"
 		},
 		{
+			"category": "USER",
+			"name": "FREE_DIGIRUBY_MAX",
+			"value": "90000",
+			"description": "無償デジルビーの所持最大値"
+		},
+		{
+			"category": "USER",
+			"name": "PAID_DIGIRUBY_MAX",
+			"value": "9999",
+			"description": "有償デジルビーの所持最大値"
+		},
+		{
 			"category": "XLB",
 			"name": "BATTLE_PERIOD",
 			"value": "300",

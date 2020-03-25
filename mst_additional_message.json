@@ -829,6 +829,15 @@
 			"position_detail": "2"
 		},
 		{
+			"sequence": "290501",
+			"disp_order": "10",
+			"start_date": "2020-04-01 12:00:00",
+			"end_date": "2020-04-08 11:59:59",
+			"message_text_id": "3079",
+			"display_position": "2",
+			"position_detail": "2"
+		},
+		{
 			"sequence": "3040011",
 			"disp_order": "1",
 			"start_date": "2019-03-15 12:00:00",
@@ -1112,6 +1121,24 @@
 			"disp_order": "1",
 			"start_date": "2020-03-16 12:00:00",
 			"end_date": "2020-03-31 11:59:59",
+			"message_text_id": "3085",
+			"display_position": "2",
+			"position_detail": "3"
+		},
+		{
+			"sequence": "3216011",
+			"disp_order": "1",
+			"start_date": "2020-03-31 12:00:00",
+			"end_date": "2020-04-16 11:59:59",
+			"message_text_id": "3096",
+			"display_position": "2",
+			"position_detail": "3"
+		},
+		{
+			"sequence": "3216012",
+			"disp_order": "1",
+			"start_date": "2020-03-31 12:00:00",
+			"end_date": "2020-04-16 11:59:59",
 			"message_text_id": "3085",
 			"display_position": "2",
 			"position_detail": "3"

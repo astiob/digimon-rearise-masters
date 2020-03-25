@@ -181,6 +181,42 @@
 			"description": "フロアの視線を独占できる憧れのオンステージ。<color=#e75600>デジモンがステージに立つと他のデジモンが観客として集まってショーが開幕する。</color>(9x6)"
 		},
 		{
+			"deco_id": "26",
+			"name": "銅のトロフィー",
+			"size_x": "6",
+			"size_y": "6",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco026",
+			"model_asset": "deco/deco0023",
+			"emotion_icon_asset": "",
+			"description": "<color=#e75600>ランキング３位</color>のデジクランメンバーに贈られるトロフィーです。(6x6)"
+		},
+		{
+			"deco_id": "27",
+			"name": "銀のトロフィー",
+			"size_x": "6",
+			"size_y": "6",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco027",
+			"model_asset": "deco/deco0024",
+			"emotion_icon_asset": "",
+			"description": "<color=#e75600>ランキング２位</color>のデジクランメンバーに贈られるトロフィーです。(6x6)"
+		},
+		{
+			"deco_id": "28",
+			"name": "金のトロフィー",
+			"size_x": "6",
+			"size_y": "6",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco028",
+			"model_asset": "deco/deco0025",
+			"emotion_icon_asset": "",
+			"description": "<color=#e75600>ランキング１位</color>のデジクランメンバーに贈られるトロフィーです。(6x6)"
+		},
+		{
 			"deco_id": "29",
 			"name": "噴水",
 			"size_x": "5",
@@ -707,6 +743,18 @@
 			"model_asset": "deco/deco0083",
 			"emotion_icon_asset": "",
 			"description": "新年を記念して造られた銅像。デジタウンの新しいランドマークになるかもしれない…！？(5x5)"
+		},
+		{
+			"deco_id": "84",
+			"name": "交換専用トロフィー",
+			"size_x": "6",
+			"size_y": "6",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco084",
+			"model_asset": "deco/deco0084",
+			"emotion_icon_asset": "",
+			"description": "ランキングメダルで交換できる、<color=#e75600>ランキングに参加した証のトロフィー</color>です。(6x6)"
 		},
 		{
 			"deco_id": "9",
