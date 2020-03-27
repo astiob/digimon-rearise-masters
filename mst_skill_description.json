@@ -3047,38 +3047,38 @@
 		},
 		{
 			"action_efficacy_type": "44",
-			"index_in_type": "",
+			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "Reduces the amount of HP recovered of a [@target_num]single[/@target_num] ally by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "44",
-			"index_in_type": "",
+			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "Reduces the amount of HP recovered of [@target_num]two[/@target_num] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "44",
-			"index_in_type": "",
+			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "Reduces the amount of HP recovered of [@target_num]three[/@target_num] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "44",
-			"index_in_type": "",
+			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "Reduces the amount of HP recovered of [@target_num]four[/@target_num] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "44",
-			"index_in_type": "",
+			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+			"text": "Reduces the amount of HP recovered of [@target_num]all[/@target_num] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "44",

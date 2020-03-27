@@ -7246,7 +7246,7 @@
 		},
 		{
 			"text_id": "2318",
-			"text": "Limited {0} time(s) s day! <color=#eaff00>{1}</color> more"
+			"text": "Limited {0} time(s) a day! <color=#eaff00>{1}</color> more"
 		},
 		{
 			"text_id": "2319",
@@ -9206,7 +9206,7 @@
 		},
 		{
 			"text_id": "2772",
-			"text": "You can obtain <color=#e75600>temporary items</color> if you win a battle.\nIf you participate in the next battle, then\n<color=#e75600>your team's HP, CT, and Special Gauge status</color> will continue from where it was as the end of the previous battle."
+			"text": "You can obtain <color=#e75600>temporary items</color> if you win a battle.\nIf you participate in the next battle, then <color=#e75600>your team's HP, CT, and Special Gauge status</color> will continue from where it was as the end of the previous battle."
 		},
 		{
 			"text_id": "2773",
@@ -10281,6 +10281,10 @@
 			"text": "Backup completed.\n Use the following to recover data to continue play after device replacement.\n - Sign in with Apple ID\n Tap the button below to change/remove \nbackup game data."
 		},
 		{
+			"text_id": "3046",
+			"text": "Movie Release Celebration"
+		},
+		{
 			"text_id": "3048",
 			"text": "The Assist Digimon will be put in your team until you befriend it."
 		},
@@ -10295,6 +10299,10 @@
 		{
 			"text_id": "3050",
 			"text": "We managed it somehow, thanks to my friends.\nThank you so much! I'll be counting on you next time, too!"
+		},
+		{
+			"text_id": "3051",
+			"text": "Movie Release Challenge - Part 2"
 		},
 		{
 			"text_id": "3052",

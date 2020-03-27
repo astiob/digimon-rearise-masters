@@ -7081,6 +7081,22 @@
 			"speed": "23"
 		},
 		{
+			"growth_type": "1208102",
+			"level": "1",
+			"hp": "864",
+			"attack": "756",
+			"defense": "379",
+			"speed": "23"
+		},
+		{
+			"growth_type": "1208102",
+			"level": "99",
+			"hp": "2838",
+			"attack": "1971",
+			"defense": "960",
+			"speed": "23"
+		},
+		{
 			"growth_type": "2001",
 			"level": "1",
 			"hp": "494",
@@ -10612,7 +10628,7 @@
 			"growth_type": "3043105",
 			"level": "4",
 			"hp": "300000",
-			"attack": "320",
+			"attack": "250",
 			"defense": "60",
 			"speed": "10"
 		},
@@ -10620,15 +10636,15 @@
 			"growth_type": "3043105",
 			"level": "5",
 			"hp": "500000",
-			"attack": "400",
-			"defense": "60",
+			"attack": "320",
+			"defense": "65",
 			"speed": "10"
 		},
 		{
 			"growth_type": "3043105",
 			"level": "6",
 			"hp": "750000",
-			"attack": "1000",
+			"attack": "800",
 			"defense": "70",
 			"speed": "15"
 		},
