@@ -1101,6 +1101,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "10150",
+			"item_name": "ヘヴィーレオモンの進化コード",
+			"sort_key": "",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10050",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がヘヴィーレオモンの系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "102",
 			"item_name": "体の特訓チップⅡ",
 			"sort_key": "",
@@ -21077,6 +21088,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "22018",
+			"item_name": "レオメダル",
+			"sort_key": "",
+			"item_type": "11",
+			"icon_asset": "icon/item/icon_leo_medal",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "（仮のせつめー）激突戦ヘヴィーレオモンで手に入るメダル",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "2202",
 			"item_name": "俊敏性の特訓フラグメントⅡ",
 			"sort_key": "",
@@ -24902,6 +24924,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンチケットガシャ vol.2を回すことができるチケット(使用期間 2020/03/01 12:00 ～ 2020/05/07 11:59)",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "23523",
+			"item_name": "デジモンガシャチケット vol.3",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no003",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンチケットガシャ vol.3を回すことができるチケット(使用期間 2020/05/01 12:00 ～ 2020/07/07 11:59)",
 			"max_amount": "9999"
 		},
 		{
@@ -31336,7 +31369,7 @@
 			"icon_asset": "icon/digitama/icondigitama003",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "マリンエンジェモンに育つデジモンが産まれるデジタマ",
+			"description": "究極体マリンエンジェモン（献身）に育つデジモンが産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -31754,7 +31787,7 @@
 			"icon_asset": "icon/digitama/icondigitama030",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "ディアボロモンに育つデジモンが産まれるデジタマ",
+			"description": "究極体ディアボロモン（不屈）に育つデジモンが産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -32701,6 +32734,347 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "究極体ハイアンドロモン系譜、究極体グランクワガーモン系譜、究極体インペリアルドラモンDM系譜、究極体ラストティラノモン系譜のいずれかが各25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25252",
+			"item_name": "ズッシリとした白黒のデジタマ",
+			"sort_key": "ズッシリトシタシロクロノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama009",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "253414001",
+			"item_name": "攻Ⅳ(不屈 カオスドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment253414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のカオスドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "253414002",
+			"item_name": "攻Ⅳ(不屈 カオスドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment253414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のカオスドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "253414003",
+			"item_name": "攻Ⅳ(不屈 カオスドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment253414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のカオスドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "253414004",
+			"item_name": "攻Ⅳ(不屈 カオスドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment253414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のカオスドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "253414005",
+			"item_name": "攻Ⅳ(不屈 カオスドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment253414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のカオスドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "253434001",
+			"item_name": "守Ⅳ(不屈 カオスドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment253434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のカオスドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "253434002",
+			"item_name": "守Ⅳ(不屈 カオスドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment253434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のカオスドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "253434003",
+			"item_name": "守Ⅳ(不屈 カオスドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment253434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のカオスドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "253434004",
+			"item_name": "守Ⅳ(不屈 カオスドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment253434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のカオスドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "253434005",
+			"item_name": "守Ⅳ(不屈 カオスドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment253434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のカオスドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "254422001",
+			"item_name": "攻Ⅳ(冷静 ラピッドモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment254422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラピッドモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "254422002",
+			"item_name": "攻Ⅳ(冷静 ラピッドモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment254422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラピッドモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "254422003",
+			"item_name": "攻Ⅳ(冷静 ラピッドモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment254422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラピッドモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "254422004",
+			"item_name": "攻Ⅳ(冷静 ラピッドモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment254422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラピッドモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "254422005",
+			"item_name": "攻Ⅳ(冷静 ラピッドモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment254422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラピッドモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "254432001",
+			"item_name": "守Ⅳ(冷静 ラピッドモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment254432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラピッドモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "254432002",
+			"item_name": "守Ⅳ(冷静 ラピッドモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment254432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラピッドモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "254432003",
+			"item_name": "守Ⅳ(冷静 ラピッドモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment254432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラピッドモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "254432004",
+			"item_name": "守Ⅳ(冷静 ラピッドモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment254432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラピッドモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "254432005",
+			"item_name": "守Ⅳ(冷静 ラピッドモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment254432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のラピッドモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "255423001",
+			"item_name": "攻Ⅳ(器用 スカルサタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment255423001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用のスカルサタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "255423002",
+			"item_name": "攻Ⅳ(器用 スカルサタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment255423001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用のスカルサタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "255423003",
+			"item_name": "攻Ⅳ(器用 スカルサタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment255423001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用のスカルサタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "255423004",
+			"item_name": "攻Ⅳ(器用 スカルサタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment255423001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用のスカルサタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "255423005",
+			"item_name": "攻Ⅳ(器用 スカルサタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment255423001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用のスカルサタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "255433001",
+			"item_name": "守Ⅳ(器用 スカルサタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment255433001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用のスカルサタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "255433002",
+			"item_name": "守Ⅳ(器用 スカルサタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment255433001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用のスカルサタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "255433003",
+			"item_name": "守Ⅳ(器用 スカルサタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment255433001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用のスカルサタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "255433004",
+			"item_name": "守Ⅳ(器用 スカルサタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment255433001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用のスカルサタモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "255433005",
+			"item_name": "守Ⅳ(器用 スカルサタモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment255433001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用のスカルサタモンがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{

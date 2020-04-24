@@ -155,6 +155,28 @@
 			"end_date": "2020-03-07 11:59:59"
 		},
 		{
+			"shop_id": "22",
+			"name": "ランキングメダル交換",
+			"cost_item_id": "22017",
+			"disp_order": "35",
+			"entrance_asset": "shop/entrance/shopbannerbg020_02",
+			"tab_asset": "shop/skin/shop_skin020",
+			"start_date": "2020-04-30 12:00:00",
+			"new_end_date": "",
+			"end_date": ""
+		},
+		{
+			"shop_id": "23",
+			"name": "レオメダル交換",
+			"cost_item_id": "22018",
+			"disp_order": "15",
+			"entrance_asset": "shop/entrance/shopbannerbg021_02",
+			"tab_asset": "shop/skin/shop_skin021",
+			"start_date": "2020-04-30 12:00:00",
+			"new_end_date": "2020-05-24 11:59:59",
+			"end_date": "2020-05-24 11:59:59"
+		},
+		{
 			"shop_id": "4",
 			"name": "コミュpt交換",
 			"cost_item_id": "22004",

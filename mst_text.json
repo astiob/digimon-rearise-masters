@@ -326,7 +326,7 @@
 		},
 		{
 			"text_id": "1012",
-			"text": "<size=\"20\">条件をクリアして</size><size=\"30\"><sprite=4></size><size=\"20\">を獲得することで\n報酬がもらえます。</size>"
+			"text": "<size=\"20\">条件をクリアして<sprite=4>を獲得することで\n報酬がもらえます。</size>"
 		},
 		{
 			"text_id": "1013",
@@ -10345,6 +10345,10 @@
 			"text": "色々と大騒ぎだったけれど……\nこれでひとまずは落ち着いたかな"
 		},
 		{
+			"text_id": "3109",
+			"text": "自分への感電,マヒ,気絶,眠り,毒,ヤケド,エラー,スキル封じ,暗闇を解除\n自分のPWRを80％アップ（永続）\n自分のDEFを220％アップ（永続）"
+		},
+		{
 			"text_id": "311",
 			"text": "新しく出会ったデジモンはいません"
 		},
@@ -10355,6 +10359,14 @@
 		{
 			"text_id": "3112",
 			"text": "なんとか町に平和が戻ってきたね。\nこれからも一緒にベビーたちを見守ろう"
+		},
+		{
+			"text_id": "3115",
+			"text": "必須 最大140文字"
+		},
+		{
+			"text_id": "3118",
+			"text": "ランキングメダル"
 		},
 		{
 			"text_id": "3119",
@@ -10379,6 +10391,14 @@
 		{
 			"text_id": "3127",
 			"text": "キングエテモン出現中！"
+		},
+		{
+			"text_id": "3128",
+			"text": "チャレンジ人数"
+		},
+		{
+			"text_id": "3129",
+			"text": "レオメダル"
 		},
 		{
 			"text_id": "313",
@@ -11411,6 +11431,10 @@
 		{
 			"text_id": "490602",
 			"text": "・個性が<color=#FFE25AFF>冷静以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5><color=#FFE25AFF>ヤケド</color><sprite=6><color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+		},
+		{
+			"text_id": "490611",
+			"text": "・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>毒</color>、<color=#FFE25AFF>ヤケド</color>、<color=#FFE25AFF>エラー</color>が有効だ！"
 		},
 		{
 			"text_id": "491",
