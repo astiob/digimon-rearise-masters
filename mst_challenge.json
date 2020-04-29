@@ -9041,6 +9041,72 @@
 			"challenge_condition": "4",
 			"json_value": "{\"count\":25,\"level\":10}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50037010",
+			"challenge_group_id": "500370",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "Clear all challenges.",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "50037011",
+			"challenge_group_id": "500370",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1991",
+			"description": "Clear Main Story Act 14 Scene 17.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1014150}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50037012",
+			"challenge_group_id": "500370",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1991",
+			"description": "Clear Main Story Act 15 Scene 17.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1015150}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50037013",
+			"challenge_group_id": "500370",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1991",
+			"description": "Clear Main Story Act 16 Scene 17.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1016150}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50037014",
+			"challenge_group_id": "500370",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1991",
+			"description": "Clear Main Story Act 17 Scene 17.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1017150}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50037015",
+			"challenge_group_id": "500370",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1991",
+			"description": "Clear Main Story Act 18 Scene 17.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1018150}",
+			"receive_asset": ""
 		}
 	]
 }

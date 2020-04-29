@@ -1648,10 +1648,28 @@
 			"position_detail": "4"
 		},
 		{
+			"sequence": "500001",
+			"disp_order": "20",
+			"start_date": "2020-05-10 22:00:00",
+			"end_date": "2020-05-17 15:59:59",
+			"message_text_id": "2957",
+			"display_position": "2",
+			"position_detail": "4"
+		},
+		{
 			"sequence": "500002",
 			"disp_order": "20",
 			"start_date": "2020-04-05 22:00:00",
 			"end_date": "2020-04-12 15:59:59",
+			"message_text_id": "2959",
+			"display_position": "2",
+			"position_detail": "4"
+		},
+		{
+			"sequence": "500002",
+			"disp_order": "20",
+			"start_date": "2020-05-17 22:00:00",
+			"end_date": "2020-05-24 15:59:59",
 			"message_text_id": "2959",
 			"display_position": "2",
 			"position_detail": "4"
@@ -1666,6 +1684,15 @@
 			"position_detail": "4"
 		},
 		{
+			"sequence": "500003",
+			"disp_order": "20",
+			"start_date": "2020-05-24 22:00:00",
+			"end_date": "2020-05-31 15:59:59",
+			"message_text_id": "2961",
+			"display_position": "2",
+			"position_detail": "4"
+		},
+		{
 			"sequence": "500004",
 			"disp_order": "20",
 			"start_date": "2020-04-19 22:00:00",
@@ -1675,10 +1702,28 @@
 			"position_detail": "4"
 		},
 		{
+			"sequence": "500004",
+			"disp_order": "20",
+			"start_date": "2020-05-31 22:00:00",
+			"end_date": "2020-06-07 15:59:59",
+			"message_text_id": "2963",
+			"display_position": "2",
+			"position_detail": "4"
+		},
+		{
 			"sequence": "500005",
 			"disp_order": "20",
 			"start_date": "2020-04-26 22:00:00",
 			"end_date": "2020-05-03 15:59:59",
+			"message_text_id": "2965",
+			"display_position": "2",
+			"position_detail": "4"
+		},
+		{
+			"sequence": "500005",
+			"disp_order": "20",
+			"start_date": "2020-06-07 22:00:00",
+			"end_date": "2020-06-14 15:59:59",
 			"message_text_id": "2965",
 			"display_position": "2",
 			"position_detail": "4"
