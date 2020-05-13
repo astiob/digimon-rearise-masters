@@ -1112,6 +1112,28 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "10151",
+			"item_name": "レイヴモンBMの進化コード",
+			"sort_key": "",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10051",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がレイヴモンBMの系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
+			"item_id": "10152",
+			"item_name": "ロゼモンBMの進化コード",
+			"sort_key": "",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10052",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がロゼモンBMの系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "102",
 			"item_name": "体の特訓チップⅡ",
 			"sort_key": "",
@@ -32825,6 +32847,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25253",
+			"item_name": "五月雨のテイマーのためのデジタマ(虹)",
+			"sort_key": "サミダレノテイマーノタメノデジタマニジ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama054",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "ドゥフトモン（器用）に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25254",
+			"item_name": "五月雨のテイマーのためのデジタマ(金)",
+			"sort_key": "サミダレノテイマーノタメノデジタマキン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama055",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "ドゥフトモン（器用）に育つデジモンが50％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25255",
+			"item_name": "五月雨のテイマーのためのデジタマ(銀)",
+			"sort_key": "サミダレノテイマーノタメノデジタマギン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama056",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "ドゥフトモン（器用）に育つデジモンが25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25256",
+			"item_name": "五月雨のテイマーのためのデジタマ(青)",
+			"sort_key": "サミダレノテイマーノタメノデジタマアオ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama057",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "ドゥフトモン（器用）に育つデジモンが10％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25257",
+			"item_name": "五月雨のテイマーのためのデジタマ(白)",
+			"sort_key": "サミダレノテイマーノタメノデジタマシロ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama058",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "ドゥフトモン（器用）に育つデジモンがごくまれに産まれるかもしれないデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "253414001",
 			"item_name": "攻Ⅳ(不屈 カオスドラモン)",
 			"sort_key": "",
@@ -33372,6 +33449,226 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "冷静のギルモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "258422001",
+			"item_name": "攻Ⅳ(冷静 レイヴモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment258422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のレイヴモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "258422002",
+			"item_name": "攻Ⅳ(冷静 レイヴモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment258422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のレイヴモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "258422003",
+			"item_name": "攻Ⅳ(冷静 レイヴモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment258422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のレイヴモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "258422004",
+			"item_name": "攻Ⅳ(冷静 レイヴモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment258422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のレイヴモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "258422005",
+			"item_name": "攻Ⅳ(冷静 レイヴモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment258422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のレイヴモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "258432001",
+			"item_name": "守Ⅳ(冷静 レイヴモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment258432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のレイヴモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "258432002",
+			"item_name": "守Ⅳ(冷静 レイヴモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment258432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のレイヴモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "258432003",
+			"item_name": "守Ⅳ(冷静 レイヴモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment258432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のレイヴモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "258432004",
+			"item_name": "守Ⅳ(冷静 レイヴモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment258432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のレイヴモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "258432005",
+			"item_name": "守Ⅳ(冷静 レイヴモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment258432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のレイヴモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "259422001",
+			"item_name": "攻Ⅳ(冷静 ロゼモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment259422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のロゼモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "259422002",
+			"item_name": "攻Ⅳ(冷静 ロゼモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment259422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のロゼモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "259422003",
+			"item_name": "攻Ⅳ(冷静 ロゼモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment259422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のロゼモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "259422004",
+			"item_name": "攻Ⅳ(冷静 ロゼモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment259422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のロゼモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "259422005",
+			"item_name": "攻Ⅳ(冷静 ロゼモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment259422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のロゼモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "259432001",
+			"item_name": "守Ⅳ(冷静 ロゼモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment259432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のロゼモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "259432002",
+			"item_name": "守Ⅳ(冷静 ロゼモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment259432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のロゼモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "259432003",
+			"item_name": "守Ⅳ(冷静 ロゼモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment259432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のロゼモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "259432004",
+			"item_name": "守Ⅳ(冷静 ロゼモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment259432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のロゼモンBMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "259432005",
+			"item_name": "守Ⅳ(冷静 ロゼモンBM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment259432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のロゼモンBMがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{

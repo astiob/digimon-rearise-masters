@@ -1357,6 +1357,18 @@
 			"extension_data": "{\"shopId\":6,\"information_id\":43772}"
 		},
 		{
+			"banner_id": "110042",
+			"banner_type": "2",
+			"disp_order": "10",
+			"start_date": "2020-05-24 12:00:00",
+			"end_date": "2020-06-24 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner465",
+			"extension_type": "1",
+			"extension_id": "31",
+			"extension_data": "{\"shopId\":6,\"information_id\":44752}"
+		},
+		{
 			"banner_id": "110043",
 			"banner_type": "2",
 			"disp_order": "9",
@@ -2135,6 +2147,18 @@
 			"extension_type": "1",
 			"extension_id": "23",
 			"extension_data": "{\"information_id\":44621}"
+		},
+		{
+			"banner_id": "20071",
+			"banner_type": "0",
+			"disp_order": "21",
+			"start_date": "2020-05-15 12:00:00",
+			"end_date": "2020-06-15 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner512",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":44631}"
 		},
 		{
 			"banner_id": "30000",
@@ -3047,6 +3071,42 @@
 			"extension_type": "2",
 			"extension_id": "44590",
 			"extension_data": "{\"information_id\":44590}"
+		},
+		{
+			"banner_id": "30078",
+			"banner_type": "0",
+			"disp_order": "31",
+			"start_date": "2020-05-15 12:00:00",
+			"end_date": "2020-05-22 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner514",
+			"extension_type": "2",
+			"extension_id": "44601",
+			"extension_data": "{\"information_id\":44601}"
+		},
+		{
+			"banner_id": "30079",
+			"banner_type": "0",
+			"disp_order": "31",
+			"start_date": "2020-05-22 12:00:00",
+			"end_date": "2020-05-31 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner515",
+			"extension_type": "2",
+			"extension_id": "44602",
+			"extension_data": "{\"information_id\":44602}"
+		},
+		{
+			"banner_id": "30080",
+			"banner_type": "0",
+			"disp_order": "30",
+			"start_date": "2020-05-14 12:00:00",
+			"end_date": "2020-06-07 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner513",
+			"extension_type": "2",
+			"extension_id": "44600",
+			"extension_data": "{\"information_id\":44600}"
 		},
 		{
 			"banner_id": "30100",
