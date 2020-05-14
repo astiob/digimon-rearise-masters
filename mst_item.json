@@ -21194,7 +21194,7 @@
 			"icon_asset": "icon/item/icon_leo_medal",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "（仮のせつめー）激突戦ヘヴィーレオモンで手に入るメダル",
+			"description": "激突戦！ヘヴィーレオモンで獲得できるメダル、色々なものと交換できる",
 			"max_amount": "99999"
 		},
 		{
@@ -32899,6 +32899,61 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "ドゥフトモン（器用）に育つデジモンがごくまれに産まれるかもしれないデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25258",
+			"item_name": "勇敢の超デラックスデジタマ",
+			"sort_key": "ユウカンノチョウデラックスデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama031",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢の究極体ガイオウモン系譜、究極体カオスデュークモン系譜、究極体グランクワガーモン系譜、究極体ハイアンドロモン系譜のいずれかが各25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25259",
+			"item_name": "冷静の超デラックスデジタマ",
+			"sort_key": "レイセイノチョウデラックスデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama035",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静の究極体マグナガルルモン系譜、究極体ラグエルモン系譜、究極体マリンエンジェモン系譜、究極体ウォーグレイモン系譜のいずれかが各25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25260",
+			"item_name": "器用の超デラックスデジタマ",
+			"sort_key": "キヨウノチョウデラックスデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama036",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用の究極体ヴァルキリモン系譜、究極体ダークドラモン系譜、究極体キングエテモン系譜、究極体プレシオモン系譜のいずれかが各25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25261",
+			"item_name": "不屈の超デラックスデジタマ",
+			"sort_key": "フクツノチョウデラックスデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama040",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈の究極体インペリアルドラモンFM系譜、究極体カイゼルグレイモン系譜、究極体ボルトモン系譜、究極体ラストティラノモン系譜のいずれかが各25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25262",
+			"item_name": "献身の超デラックスデジタマ",
+			"sort_key": "ケンシンノチョウデラックスデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama032",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身の究極体ホーリードラモン系譜、究極体ラジエルモン系譜、究極体マスティモン系譜、究極体プリンスマメモン系譜のいずれかが各25％の確率で産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
