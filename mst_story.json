@@ -6,7 +6,7 @@
 			"name": "SDQ",
 			"start_date": "2018-06-30 12:00:00",
 			"end_date": "2119-07-31 11:59:59",
-			"disp_order": "0"
+			"disp_order": "10"
 		},
 		{
 			"story_id": "1001",
@@ -14,7 +14,15 @@
 			"name": "Season 1",
 			"start_date": "2018-06-30 12:00:00",
 			"end_date": "2119-07-31 11:59:59",
-			"disp_order": "1"
+			"disp_order": "20"
+		},
+		{
+			"story_id": "1002",
+			"story_type": "0",
+			"name": "Season 2",
+			"start_date": "2120-03-02 12:00:00",
+			"end_date": "2120-03-02 11:59:59",
+			"disp_order": "30"
 		},
 		{
 			"story_id": "2001",

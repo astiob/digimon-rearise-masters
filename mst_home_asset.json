@@ -36,6 +36,20 @@
 			"home_asset": "home/home_asset001"
 		},
 		{
+			"home_asset_id": "14",
+			"disp_order": "100",
+			"start_date": "2020/01/31 12:00:00",
+			"end_date": "2020/03/06 11:59:59",
+			"home_asset": "home/home_asset1006"
+		},
+		{
+			"home_asset_id": "15",
+			"disp_order": "100",
+			"start_date": "2020/03/06 12:00:00",
+			"end_date": "2020/04/16 11:59:59",
+			"home_asset": "home/home_asset1007"
+		},
+		{
 			"home_asset_id": "2",
 			"disp_order": "100",
 			"start_date": "2018/12/14 12:00:00",
@@ -86,9 +100,9 @@
 		},
 		{
 			"home_asset_id": "7",
-			"disp_order": "100",
-			"start_date": "2019/04/01 12:00:00",
-			"end_date": "2019/04/01 23:59:59",
+			"disp_order": "90",
+			"start_date": "2020/04/01 00:00:00",
+			"end_date": "2020/04/01 23:59:59",
 			"home_asset": "home/home_asset1005"
 		},
 		{

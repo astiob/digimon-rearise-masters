@@ -12,7 +12,7 @@
 		{
 			"code": "aamagegemon　AAMAGEMON",
 			"sort_key": "アーマゲモン",
-			"profile": "ディアボロモンの幼年期が大量に融合し、突然変異を起こし誕生した超究極体のデジモン。ディアボロモンは自らを大量にコピーする能力を持っていたが、それでは本来持っている能力を下げてしまう特性があった。しかし、幼年期を大量に発生させ融合させることで、能力を分散させるのではなく、１個体に凝縮させることでディアボロモン以上のパワーを得ることができた。また、ディアボロモン系デジモンは光にも闇にも属さない特殊なデジモンである。必殺技は背部から上空にエネルギー弾を放ち、四散したビームを雨の様に降らせる『ブラックレイン』と、大きく開けた口から放射する破壊のエネルギー波『アルティメットフレア』。",
+			"profile": "An Ultra Digimon created by a mutation resulting from the fusion of a large number of In-Training Diaboromon. Although Diaboromon is capable of copying itself in large quantities, this also lowers its original strength. However, this can be avoided through the fusion of multiple In-Training Diaboromon to create a single Digimon with concentrated power. Diaboromon-type Digimon are special Digimon that do not belong in the category of light or darkness. Its special moves are Black Rain, where it shoots a ball of energy from its back to the sky, causing a scattering of beams to fall on its opponents, and Ultimate Flare, where it opens its mouth wide to unleash a destructive wave of energy.",
 			"icon_asset": "digimon/icon/digimonface1152306",
 			"attribute": "5",
 			"type": "127",
@@ -98,6 +98,15 @@
 			"attribute": "4",
 			"type": "46",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "apokarimon",
+			"sort_key": "アポカリモン",
+			"profile": "負の想念が、闇のパワーによって集まって出現した謎のデジモン。その正体を知るものは誰もおらず、この物体がデジモンなのかも解析することはできない。その出現理由は定かではないが、混沌とした電脳世界（デジタルワールド）を粛清し“無”に帰そうとしていると考えられる。一説には太古の予言書にアポカリモンの出現を予言しているものがあると言われている。必殺技は、無限に広がる闇を発生させ、全てを“無”に帰してしまう『暗黒(ダークネスゾーン)』。この闇に包まれたものは、全方位の方向感覚を失い、消滅していくと言われている。",
+			"icon_asset": "digimon/icon/digimonface1211306",
+			"attribute": "5",
+			"type": "127",
+			"start_date": "2020-02-07 12:00:00"
 		},
 		{
 			"code": "Aruhwamon",
@@ -244,6 +253,15 @@
 			"start_date": "2020-01-21 12:00:00"
 		},
 		{
+			"code": "beruhwemonsm",
+			"sort_key": "ベルフェモンSM",
+			"profile": "ダークエリアの最深部に封印されているといわれる魔王デジモン。強大すぎる力を持つため、デジタルワールドのシステムによって、データをスリープ状態にされているといわれているが真偽は定かではない。深い眠りについているため、自ら攻撃を繰り出すことは出来ないが、寝息だけでデジモンにダメージを与えることが可能であり、そのためベルフェモン：スリープモードの寝込みを襲うことは容易ではないだろう。必殺技は、安らかな寝息から発動する『エターナルナイトメア』と、体に巻きついた鎖から発する黒い炎『ランプランツス』。睡眠不足であれば『エターナルナイトメア』はお勧めである。永遠の眠りを約束してくれるだろう。",
+			"icon_asset": "digimon/icon/digimonface1238405",
+			"attribute": "1",
+			"type": "86",
+			"start_date": "2020-03-31 12:00:00"
+		},
+		{
 			"code": "beruzebumon",
 			"sort_key": "ベルゼブモン",
 			"profile": "One of the Seven Deadly Digimon, this Demon Lord Digimon has the power to control many Devil Digimon but chose a solitary life. It is said it has the power to reign over the Nightmare Soldiers, but some say there is still an Demon Lord Digimon with power that surpass even Beelzemon. It rides a gigantic motorcycle called Behemoth and has two cherished shotguns called Berenjena. It is cruel and merciless, yet too proud to bother attacking those it considers to be weak. Its special move, Darkness Claw, slices the opponent to pieces. It repeatedly fires its shotguns in its other move, Double Impact.",
@@ -251,6 +269,15 @@
 			"attribute": "1",
 			"type": "86",
 			"start_date": "2018/10/31 12:00:00"
+		},
+		{
+			"code": "beruzebumonbm",
+			"sort_key": "ベルゼブモンBM",
+			"profile": "力と精神を極限にまで高めた究極魔王。邪悪に進化したのとは違い、より安定した精神状態を保ち、凶々しかった３つの赤眼は緑色になっている。通常時とは桁違いのパワーとスピードを発揮し、背中から漆黒の４枚の翼を生やしている。この姿になったベルゼブモンの前に、もはや敵は存在しないとまで言われている。右腕がブラスターと一体化しており、強烈なエネルギー波を放ちあらゆるものを原子分解してしまう。得意技は右腕のブラスターから破壊の波動を放つ『デススリンガー』、必殺技は前方に魔方陣を描き、その中心に向かって破壊の波動を放つ『カオスフレア』。",
+			"icon_asset": "digimon/icon/digimonface1220115",
+			"attribute": "1",
+			"type": "86",
+			"start_date": "2020-02-29 12:00:00"
 		},
 		{
 			"code": "betamon",
@@ -379,6 +406,15 @@
 			"start_date": "2019-01-31 12:00:00"
 		},
 		{
+			"code": "burittugureimon",
+			"sort_key": "ブリッツグレイモン",
+			"profile": "グレイモン系デジモンの究極形態であり、電流火器が備わったウォーグレイモンの亜種。どっしりとした格闘戦に電撃を加え、強固なものであっても両腕の『プラズマステーク』から電撃を流し込み内側から破壊する。背中の『サンダーバーニア』を前方に転回して雷を撃ち、背面へ放出すれば自身の推進力増量にも活用できる。さらにプラズマ粒子を周囲に展開しバリアを形成する『エレックガード』を持つ。",
+			"icon_asset": "digimon/icon/digimonface1221305",
+			"attribute": "1",
+			"type": "23",
+			"start_date": "2020-03-01 12:00:00"
+		},
+		{
 			"code": "buruumeramon",
 			"sort_key": "ブルーメラモン",
 			"profile": "A Flame Digimon that burns hotter than a Champion-level Meramon. It gives opponents frostbite with the sub-zero flames of its special move, Ice Phantom.",
@@ -478,6 +514,15 @@
 			"start_date": "2019-03-15 12:00:00"
 		},
 		{
+			"code": "djianamon",
+			"sort_key": "ディアナモン",
+			"profile": "オリンポス十二神族の１体で、水と氷を司り、絶対零度の状況下でも戦闘可能な神人型デジモン。月の表裏（光と闇）のように二面性をもった性格で、美しくも恐るべき力を秘めている。必殺技は、月の神秘の力で幻覚を魅せ、己の敵と判断すれば即時斬り裂く『クレセントハーケン』と、背中の突起から、細く鋭く長大な、眩いばかりの氷の矢を引き抜いて放つ『アロー・オブ・アルテミス』。また、両足“グッドナイトシスターズ”から月の光を放ち、浴びた相手を睡眠に誘う『グッドナイト・ムーン』をもつ。",
+			"icon_asset": "digimon/icon/digimonface1225205",
+			"attribute": "2",
+			"type": "78",
+			"start_date": "2020-03-06 12:00:00"
+		},
+		{
 			"code": "djunasumon",
 			"sort_key": "デュナスモン",
 			"profile": "One of the Royal Knights which is imbued with the strength of dragons and possesses the ability to soar high in the sky. Dynasmon is exemplary even among the Royal Knights for its strong loyalty, and it will faithfully serve a lord whose sense of justice matches its own. Even if such a lord were supposedly \"evil\", Dynasmon would not hesitate to lay down its life for the sake of its own code of justice. Due to this, it has a deep affinity to the ideals of devotion and fidelity inherent in chivalry and Bushido. The Royal Knight boasts unparalleled strength, with its formidable draconic power and high-purity Chrome Digizoid dragon armor. Its special moves are Dragon's Roar, in which it releases an energy blast of the same element as the Ten Legendary Warriors from its two hands, and Wyvern's Breath, in which it transforms all the energy contained in its body into a great flying dragon.",
@@ -512,6 +557,15 @@
 			"attribute": "2",
 			"type": "53",
 			"start_date": "2019-01-01 00:00:00"
+		},
+		{
+			"code": "dorugoramon",
+			"sort_key": "ドルゴラモン",
+			"profile": "ドルゴラモンとは、“デジコア（電脳核）の空想”が生み出した架空のデジモンである。額のインターフェースによってデジコア自身の創造力までもが奇跡的に解き放たれて進化した姿である。元々デジコア内に伝説の生き物“ドラゴン”の強い生命力のデータを持っていた為か、デジコアの創造した姿は、強大な“破壊”の権化であり、“究極の敵”の化身であった。必殺技は全身全霊を込めた凄まじい突撃『ブレイブメタル』と、破壊の衝撃波を放つ『ドルディーン』。",
+			"icon_asset": "digimon/icon/digimonface1229105",
+			"attribute": "2",
+			"type": "53",
+			"start_date": "2020-03-16 12:00:00"
 		},
 		{
 			"code": "doruguremon",
@@ -593,6 +647,15 @@
 			"attribute": "2",
 			"type": "18",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "erisumonesuzerotuukinen",
+			"sort_key": "エリスモン[S02記念]",
+			"profile": "好奇心旺盛で物事に熱中すると周りが一切目に入らなくなるが、警戒心は強く、怖いと感じると針のように硬い針毛を逆立てて危険が去るまで丸まってやり過ごす。ただし打ち解けた者にはよく懐き、針毛の中に隠したお気に入りの宝物を見せてくれる。過去に何度かいたずらされたことがあり、テイルモンを見ると少し身構えてしまう癖があるようだ。必殺技は、閃光を纏わせた針毛を撃ち出し相手を攻撃する『ライトニングファー』と、ボールのように身体を丸めて突進する『ケンザンダイブ』。[S02記念]",
+			"icon_asset": "digimon/icon/digimonface1228502",
+			"attribute": "2",
+			"type": "18",
+			"start_date": "2100-03-06 16:00:00"
 		},
 		{
 			"code": "etemon",
@@ -1128,7 +1191,7 @@
 		{
 			"code": "kinguetemon",
 			"sort_key": "キングエテモン",
-			"profile": "自称、「キング・オブ・デジモン」のエテモンの中でも、更に頂点に位置する存在といわれている究極の形態。更に調子にのって「キング・オブ・キングス」を名乗っている。胸に\"大王\"の文字が入ったサルスーツを颯爽と着こなし、スターきどりで闊歩しているが、他のデジモン達の冷笑を買っている。必殺技は、芝居をうって相手の戦闘意欲をそいでしまう「サルしばい」。",
+			"profile": "The Mega form of Etemon, the self-proclaimed King of Digimon. It will often get carried away due to its huge ego, causing it to go even further by proclaiming itself to be the King of Kings. Jauntily dressed in a monkey suit with the words \"Great King\" written on the chest, it prances around as if it is a celebrity, attracting sneers from other Digimon. Its special move is Monkey Wrench, where it plays a trick on its opponents, discouraging them from fighting.",
 			"icon_asset": "digimon/icon/digimonface1170305",
 			"attribute": "1",
 			"type": "27",
@@ -1189,6 +1252,15 @@
 			"start_date": "2019/09/09 12:00:00"
 		},
 		{
+			"code": "Kuresyemon",
+			"sort_key": "クレシェモン",
+			"profile": "体が柔軟で、しなやかな動きで敵を討つ魔人型デジモン。流麗な戦闘を得意とし、月の光を受けるとその力は倍増すると言われている。必殺技は、舞うようなステップで敵を幻惑し、間合いを詰め、両手に持った武器“ノワ・ルーナ（羅：新月）”を使った斬撃『ルナティックダンス』。また、“ノワ・ルーナ”は１つに組み合わせることでボウガンのような形態に変化する。この状態から氷の矢を放つ『アイスアーチェリー』と、闇エネルギーの矢を放つ『ダークアーチェリー』の２つの技を繰り出すことができる。",
+			"icon_asset": "digimon/icon/digimonface1225204",
+			"attribute": "2",
+			"type": "47",
+			"start_date": "2020-03-06 12:00:00"
+		},
+		{
 			"code": "kurisarimon",
 			"sort_key": "クリサリモン",
 			"profile": "A Champion Digimon resembling a pupa. Keramon Digivolves into this chrysalis-like state to conserve energy and Digivolve into a stronger Digimon. It cannot move in this state, but is protected by a tough shell and offensive tentacles. It is technically possible for Keramon to bypass the Champion stage and Digivolve straight to Ultimate, but going through the Chrysalimon stage first allows for an even more powerful Digivolution. Its special move, Data Crusher, destroys its target's configuration data with the tentacles extending from its back.",
@@ -1205,6 +1277,15 @@
 			"attribute": "2",
 			"type": "1",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "Kuuresugarurumon",
+			"sort_key": "クーレスガルルモン",
+			"profile": "ガルルモンの最終形態で、同じ最終形態のズィードガルルモンとは異なる人型になったメタルガルルモンの亜種。攻撃を跳ね返す黄金のクロンデジゾイト製の装甲を身に纏い、『黄獣偃月刀』を武器に持ち剣劇を得意とする。全身を回転させて刃にしながら敵を襲う『獣狼大回転』、また黄獣偃月刀を氷で無数に形作り敵に飛ばす『激・氷月牙』を技として繰り出す。",
+			"icon_asset": "digimon/icon/digimonface1222105",
+			"attribute": "2",
+			"type": "114",
+			"start_date": "2020-03-01 12:00:00"
 		},
 		{
 			"code": "kuwagaamon",
@@ -1290,7 +1371,7 @@
 		{
 			"code": "masuteimon",
 			"sort_key": "マスティモン",
-			"profile": "デジタルワールドに未曾有の危機が訪れたとき、相容れない天使型デジモンと堕天使型デジモンが手を取り合い、ジョグレス進化を果たした姿で現れるという天使型デジモン。ゲートを繋ぎ別のデジタルワールドから呼び寄せた天使族・堕天使族の勢力を統制し窮地に立ち向かう。普段は敵対する両種族をまとめ上げられるのも、『異世界の軍師』と呼ばれるマスティモンの持つ資質ゆえである。自身も相反する2体のジョグレス進化でありながら一本気な心の持ち主で、光と闇のエネルギーを自在に操って様々な状況でデジモン達に力を貸し、また自らも強敵を討つ。\n必殺技は右腕から放つ光の矢で邪悪なる者を討ち滅ぼす「ホーリーディザイア」と、左手で掴んだ相手をデジコアごと握り潰しデリートする「ダークディスパイア」、そして両腕の光と闇のエネルギーを融合させてゲートを作り出し、敵を異次元の彼方へと葬り去る「カオスディグレイド」。",
+			"profile": "An Angel Digimon that appeared at a time when the Digital World was faced with an unprecedented crisis. It came into existence as the result of a DNA Digivolution in the midst of a struggle between Angel Digimon and Fallen Angel Digimon. It fights against the crisis by controlling the forces of angels and fallen angels called through the gate from other Digital Worlds. A combination of two opposing types, it also possesses Mastemon's natural abilities as a warrior of alternate universes. Although it is the culmination of a DNA Digivolution that brings together two contradictory natures, it possesses a one-track mind and is able to freely manipulate both light and dark energy, lending its powers to Digimon and attacking powerful enemies at the same time.\nIts special moves are Holy Desire, where it pierces through and destroys the wicked with the arrow of light unleashed from its right arm, and Dark Despair, where it crushes the opponent it grasps in its left hand, together with that opponent's DigiCore. With both arms, it uses Chaos Degradation to create a gate with the fusion of light and dark energy, allowing it to consign its enemy into oblivion in another dimension.",
 			"icon_asset": "digimon/icon/digimonface1183505",
 			"attribute": "0",
 			"type": "41",
@@ -1567,6 +1648,15 @@
 			"start_date": "2019-02-28 12:00:00"
 		},
 		{
+			"code": "omegamonalter-s",
+			"sort_key": "オメガモンAlter-S",
+			"profile": "ウォーグレイモンの亜種“ブリッツグレイモン”、メタルガルルモンの亜種“クーレスガルルモン”が融合し誕生したオメガモンの新たな一面。“ロイヤルナイツ”に所属するオメガモンとは別の個体であるが、２体の特性を併せ持ちマルチタイプな性能は変わず、強さも同等である。なぜ2体のデジモンが融合に至ったかは謎であり、このオメガモンもまた誰かの強い意志によるものか、何の望みがあっての融合かは不明である。\n必殺技はブリッツグレイモンの形をした砲塔からプラズマを撃ち抜く『グレイキャノン』、さらに『ガルルソード』は剣中央に溜めるエネルギー量で斬撃力が変化する。最大チャージしたガルルソードの斬撃に切れぬものはない。",
+			"icon_asset": "digimon/icon/digimonface1230406",
+			"attribute": "1",
+			"type": "88",
+			"start_date": "2020/03/25 12:00:00"
+		},
+		{
 			"code": "omegamonzuwaruto",
 			"sort_key": "オメガモンズワルト",
 			"profile": "ウイルスバスターであるウォーグレイモン・メタルガルルモンが、善を望む人々の強い意志によって融合し誕生した“ロイヤルナイツ”の一員である聖騎士型デジモン。２体の特性を併せもつデジモンで、どんな状況下でも、その能力をいかんなく発揮することのできるマルチタイプの戦士である。近年判明されてきた、姿を黒く変えてしまう分泌物“ブラックデジトロン”が、何らかの形で混入し一時的に黒い姿となったとされ、その間はパワーが増加されている。ウォーグレイモンの形をした左腕には盾と剣が、そしてメタルガルルモンの形をした右腕には大砲やミサイルが装備されている。背中のマントは、敵の攻撃を避ける時や、飛行するときに背中から自動的に装着される。必殺技は、メタルガルルモンの形をした大砲から打ち出される絶対零度の冷気弾で敵を凍結させる『ガルルキャノン』。また、左腕には無敵の剣『グレイソード』が装備されている。",
@@ -1574,6 +1664,15 @@
 			"attribute": "0",
 			"type": "88",
 			"start_date": "2019/08/31 12:00:00"
+		},
+		{
+			"code": "omegamonzuwarutod",
+			"sort_key": "オメガモンズワルトD",
+			"profile": "オメガモンズワルトが、何者かにウィルスプログラムを注入されて狂戦士とされた姿。視界に映るデジモンは全て禍々しい敵として映り、近づく者は誰であれ容赦なく襲いかかる。　体内で猛威を奮うウィルスプログラムと微かに残るワクチンプログラムが体内で反発しあって不安定となり、傷ついた身体は癒えることなく疲弊、暴走を繰り返す。時としてワクチンプログラムが押し返し自我を取り戻した一瞬に、被害を抑えるため両武器を拘束した。",
+			"icon_asset": "digimon/icon/digimonface1213206",
+			"attribute": "1",
+			"type": "88",
+			"start_date": "2020-02-14 12:00:00"
 		},
 		{
 			"code": "omekamon",
@@ -1945,6 +2044,15 @@
 			"start_date": "2017/01/01 00:00:00"
 		},
 		{
+			"code": "rekisumon",
+			"sort_key": "レキスモン",
+			"profile": "驚異的なジャンプ力を身に付け、素早い動きで敵を翻弄する獣人型デジモン。月の満ち欠けのように、つかみどころのない性格をしてるが、その佇まいはどこか神秘的である。必殺技は、両手の“ムーングローブ”から発生させた催眠効果のある水の泡を投げつけ、敵を眠らせる『ムーンナイトボム』と、背中の突起から美しい氷の矢を引き抜きいて放つ『ティアーアロー』。また、空高く跳躍し、急降下キックを繰り出す『ムーンナイトキック』も強力である。",
+			"icon_asset": "digimon/icon/digimonface1225203",
+			"attribute": "2",
+			"type": "42",
+			"start_date": "2020-03-06 12:00:00"
+		},
+		{
 			"code": "renamon",
 			"sort_key": "レナモン",
 			"profile": "A Beast Man Digimon that looks like a golden fox. Because its relationship with humans greatly influences its growth, the In-Training stage of its life determines whether or not it can become a particularly intelligent Renamon. Calm and composed, it never loses its cool. Its tall, slender build stands out compared to other Rookies and it uses speed-based techniques rather than battling with raw power. Its special move, Kohenkyo, uses its transformation abilities to copy the opponent's appearance. It can also throw sharpened leaves at its opponent in its move Diamond Storm.",
@@ -2024,6 +2132,15 @@
 			"attribute": "2",
 			"type": "33",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "runamon",
+			"sort_key": "ルナモン",
+			"profile": "月の観測データと融合して生まれた、うさぎのような姿をした哺乳類型デジモン。大きな耳でどんな遠くの音も聞き分ける事ができ、臆病だが、なつきやすく寂しがり屋。必殺技は、一見可愛らしいが、闇の力が込められた爪で引っかく『ルナクロー』と、力を額の触角に集中し、綺麗な水球を敵に放つ『ティアーシュート』。また、耳をくるくると回し、発生させたシャボンの渦で敵を巻き込む『ロップイヤーリップル』を持つ。",
+			"icon_asset": "digimon/icon/digimonface1225202",
+			"attribute": "2",
+			"type": "18",
+			"start_date": "2020-03-06 12:00:00"
 		},
 		{
 			"code": "ruutyemon",
@@ -2184,7 +2301,7 @@
 			"profile": "A disgusting Digimon shaped like a golden lump of poop. It was born when scraps of discarded data mutated and came to life. It prefers dark places and since it's a pile of leftover data, it's disliked by other Digimon much like Numemon. It has little to no intelligence or power, and its partner Chuumon, which is a small rodent-like Digimon that never fights on its own, takes advantage of that fact to influence Sukamon to do mischief.",
 			"icon_asset": "digimon/icon/digimonface1003203",
 			"attribute": "1",
-			"type": "40",
+			"type": "910129",
 			"start_date": "2017/01/01 00:00:00"
 		},
 		{
@@ -2276,6 +2393,15 @@
 			"attribute": "0",
 			"type": "106",
 			"start_date": "2018/07/11 12:00:00"
+		},
+		{
+			"code": "syaingureimonbm",
+			"sort_key": "シャイングレイモンBM",
+			"profile": "シャイングレイモンがバースト進化で一時的に限界能力を発動し、太陽級の高エネルギー火炎オーラをまとった特殊な姿である。必殺技は、火炎の盾と剣を合体させ、爆発的に威力を増した大剣『コロナブレイズソード』と、全身全霊を込めて大爆発を引き起こす『ファイナルシャイニングバースト』。また、灼熱の火炎弾を連続して放つ『トリッドヴァイス』をもつ。",
+			"icon_asset": "digimon/icon/digimonface1232415",
+			"attribute": "0",
+			"type": "106",
+			"start_date": "2020-03-31 12:00:00"
 		},
 		{
 			"code": "syaingureimonruinmoodo",

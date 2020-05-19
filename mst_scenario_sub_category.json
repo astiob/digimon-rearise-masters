@@ -183,6 +183,20 @@
 			"resource": ""
 		},
 		{
+			"sub_category_id": "501",
+			"main_category_id": "5",
+			"order": "1",
+			"title": "1章\n新たなる冒険！謎の来訪者",
+			"resource": "quest/panel/panel_s2_section1"
+		},
+		{
+			"sub_category_id": "502",
+			"main_category_id": "5",
+			"order": "2",
+			"title": "2章\n漂着！デジタルワールド",
+			"resource": "quest/panel/panel_season2_section1_02"
+		},
+		{
 			"sub_category_id": "601",
 			"main_category_id": "3",
 			"order": "40",
@@ -213,7 +227,7 @@
 		{
 			"sub_category_id": "605",
 			"main_category_id": "3",
-			"order": "5",
+			"order": "50",
 			"title": "Eyes of Determination",
 			"resource": "quest/panel/dfq_panel_section5"
 		},
@@ -249,8 +263,15 @@
 			"sub_category_id": "610",
 			"main_category_id": "3",
 			"order": "10",
-			"title": "",
+			"title": "見・賢・思・斉",
 			"resource": "quest/panel/dfq_panel_section11"
+		},
+		{
+			"sub_category_id": "611",
+			"main_category_id": "3",
+			"order": "11",
+			"title": "兎に角 月探し",
+			"resource": "quest/panel/dfq_panel_section12"
 		},
 		{
 			"sub_category_id": "701",
@@ -258,6 +279,13 @@
 			"order": "100",
 			"title": "サイドストーリー\n対決！ノーブル系？デジモン",
 			"resource": "quest/panel/ss_panel_section1_g3858"
+		},
+		{
+			"sub_category_id": "702",
+			"main_category_id": "4",
+			"order": "100",
+			"title": "サイドストーリー\nデジタマが見る夢",
+			"resource": "quest/panel/ss_panel_section2_g3940"
 		}
 	]
 }

@@ -614,448 +614,448 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "Increase a [@target_num]single[/@target_num] ally's [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] ally's [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "Increase [@target_num]two[/@target_num] allies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] allies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "Increase [@target_num]three[/@target_num] allies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] allies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "Increase [@target_num]four[/@target_num] allies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] allies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "Increase [@target_num]all[/@target_num] allies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] allies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Increase the [:attack_type:] of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Increase the [:attack_type:] of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Increase the [:attack_type:] of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Increase the [:attack_type:] of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Increase the [:attack_type:] of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "Increase one's own [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] one's own [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "Decrease a [@target_num]single[/@target_num] enemy target's [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] enemy's [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "Decrease [@target_num]two[/@target_num] enemy targets' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] enemies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "Decrease [@target_num]three[/@target_num] enemy targets' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] enemies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "Decrease [@target_num]four[/@target_num] enemy targets' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] enemies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "Decrease [@target_num]all[/@target_num] enemy targets' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] enemies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "Increase a [@target_num]single[/@target_num] ally's Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] ally's Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "Increase [@target_num]two[/@target_num] allies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] allies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "Increase [@target_num]three[/@target_num] allies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] allies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "Increase [@target_num]four[/@target_num] allies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] allies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "Increase [@target_num]all[/@target_num] allies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] allies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Increase the Pinpoint Rate of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Pinpoint Rate of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Increase the Pinpoint Rate of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Pinpoint Rate of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Increase the Pinpoint Rate of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Pinpoint Rate of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Increase the Pinpoint Rate of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Pinpoint Rate of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Increase the Pinpoint Rate of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Pinpoint Rate of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "Increase one's own Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] one's own Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "Decrease a [@target_num]single[/@target_num] enemy target's Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] enemy's Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "Decrease [@target_num]two[/@target_num] enemy targets' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] enemies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "Decrease [@target_num]three[/@target_num] enemy targets' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] enemies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "Decrease [@target_num]four[/@target_num] enemy targets' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] enemies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "Decrease [@target_num]all[/@target_num] enemy targets' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] enemies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "Increase a [@target_num]single[/@target_num] ally's Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] ally's Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "Increase [@target_num]two[/@target_num] allies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] allies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "Increase [@target_num]three[/@target_num] allies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] allies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "Increase [@target_num]four[/@target_num] allies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] allies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "Increase [@target_num]all[/@target_num] allies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] allies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Increase the Counter Rate of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Counter Rate of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Increase the Counter Rate of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Counter Rate of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Increase the Counter Rate of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Counter Rate of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Increase the Counter Rate of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Counter Rate of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Increase the Counter Rate of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Counter Rate of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "Increase one's own Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] one's own Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "Decrease a [@target_num]single[/@target_num] enemy target's Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] enemy's Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "Decrease [@target_num]two[/@target_num] enemy targets' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] enemies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "Decrease [@target_num]three[/@target_num] enemy targets' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] enemies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "Decrease [@target_num]four[/@target_num] enemy targets' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] enemies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "Decrease [@target_num]all[/@target_num] enemy targets' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] enemies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "Increase a [@target_num]single[/@target_num] ally's Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] ally's Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "Increase [@target_num]two[/@target_num] allies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] allies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "Increase [@target_num]three[/@target_num] allies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] allies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "Increase [@target_num]four[/@target_num] allies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] allies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "Increase [@target_num]all[/@target_num] allies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] allies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Increase the Block Rate of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Block Rate of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Increase the Block Rate of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Block Rate of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Increase the Block Rate of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Block Rate of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Increase the Block Rate of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Block Rate of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Increase the Block Rate of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Block Rate of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "Increase one's own Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] one's own Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "Decrease a [@target_num]single[/@target_num] enemy target's Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] enemy's Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "Decrease [@target_num]two[/@target_num] enemy targets' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] enemies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "Decrease [@target_num]three[/@target_num] enemy targets' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] enemies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "Decrease [@target_num]four[/@target_num] enemy targets' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] enemies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "Decrease [@target_num]all[/@target_num] enemy targets' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] enemies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "18",
@@ -1552,112 +1552,112 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "Increase a [@target_num]single[/@target_num] ally's [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] ally's [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "Increase [@target_num]two[/@target_num] allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "Increase [@target_num]three[/@target_num] allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "Increase [@target_num]four[/@target_num] allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "Increase [@target_num]all[/@target_num] allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Increase Brave allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] Brave allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Increase Calm allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] Calm allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Increase Deft allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] Deft allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Increase Tenacious allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] Tenacious allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Increase Devoted allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] Devoted allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "Increase one's own [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] one's own [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "Decrease a [@target_num]single[/@target_num] enemy's [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] enemy's [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "Decrease [@target_num]two[/@target_num] enemies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] enemies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "Decrease [@target_num]three[/@target_num] enemies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] enemies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "Decrease [@target_num]four[/@target_num] enemies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] enemies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "Decrease [@target_num]all[/@target_num] enemies' [:attack_type:] damage resistance by [@value][:value:]%[/@value] ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] enemies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "26",
@@ -3225,35 +3225,35 @@
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」のどれか1つを付与する（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict one of [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] on a [@target_num]single[/@target_num] enemy ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "46",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」のどれか1つを付与する（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict one of [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] on [@target_num]two[/@target_num] enemies ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "46",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」のどれか1つを付与する（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict one of [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] on [@target_num]three[/@target_num] enemies ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "46",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」のどれか1つを付与する（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict one of [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] on [@target_num]four[/@target_num] enemies ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "46",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」のどれか1つを付与する（[@duration][:duration:][/@duration]）"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict one of [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] on [@target_num]all[/@target_num] enemies ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "47",
@@ -3491,224 +3491,224 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "Increase a [@target_num]single[/@target_num] ally's DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] ally's DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "Increase [@target_num]two[/@target_num] allies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] allies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "Increase [@target_num]three[/@target_num] allies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] allies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "Increase [@target_num]four[/@target_num] allies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] allies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "Increase [@target_num]all[/@target_num] allies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] allies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Increase the DEF of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Increase the DEF of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Increase the DEF of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Increase the DEF of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Increase the DEF of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "Increase one's own DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] one's own DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "Decrease a [@target_num]single[/@target_num] enemy target's DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] enemy's DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "Decrease [@target_num]two[/@target_num] enemy targets' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] enemies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "Decrease [@target_num]three[/@target_num] enemy targets' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] enemies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "Decrease [@target_num]four[/@target_num] enemy targets' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] enemies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "Decrease [@target_num]all[/@target_num] enemy targets' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] enemies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "Increase a [@target_num]single[/@target_num] ally's Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] ally's Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "Increase [@target_num]two[/@target_num] allies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] allies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "Increase [@target_num]three[/@target_num] allies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] allies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "Increase [@target_num]four[/@target_num] allies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] allies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "Increase [@target_num]all[/@target_num] allies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] allies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Increase the Critical Rate of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Critical Rate of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Increase the Critical Rate of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Critical Rate of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Increase the Critical Rate of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Critical Rate of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Increase the Critical Rate of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Critical Rate of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Increase the Critical Rate of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Critical Rate of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "Increase one's own Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] one's own Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "Decrease a [@target_num]single[/@target_num] enemy target's Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] a [@target_num]single[/@target_num] enemy's Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "Decrease [@target_num]two[/@target_num] enemy targets' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]2[/@target_num] enemies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "Decrease [@target_num]three[/@target_num] enemy targets' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]3[/@target_num] enemies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "Decrease [@target_num]four[/@target_num] enemy targets' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]4[/@target_num] enemies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "Decrease [@target_num]all[/@target_num] enemy targets' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] [@target_num]all[/@target_num] enemies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		}
 	]
 }

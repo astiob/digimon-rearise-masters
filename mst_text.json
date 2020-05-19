@@ -518,7 +518,7 @@
 		},
 		{
 			"text_id": "1012",
-			"text": "<size=\"20\">Clear requirements and acquire </size>\n<size=\"30\"><sprite=4></size><size=\"20\"> to obtain rewards.</size>"
+			"text": "<size=\"20\">Clear requirements and acquire </size>\n<size=\"20\"><sprite=4></size><size=\"20\"> to obtain rewards.</size>"
 		},
 		{
 			"text_id": "1013",
@@ -2298,7 +2298,7 @@
 		},
 		{
 			"text_id": "138",
-			"text": "Accessible from the third stage of Digivolution."
+			"text": "Train"
 		},
 		{
 			"text_id": "1380",
@@ -3762,7 +3762,7 @@
 		},
 		{
 			"text_id": "171",
-			"text": "Quest 2"
+			"text": "Quest 3"
 		},
 		{
 			"text_id": "1710",
@@ -9218,11 +9218,11 @@
 		},
 		{
 			"text_id": "2775",
-			"text": "Up"
+			"text": "Increase"
 		},
 		{
 			"text_id": "2776",
-			"text": "Down"
+			"text": "Decrease"
 		},
 		{
 			"text_id": "2777",
@@ -9865,8 +9865,32 @@
 			"text": "I spun quite a long yarn...\nThat's the end of the story for now."
 		},
 		{
+			"text_id": "2943",
+			"text": "Invalid Time Period"
+		},
+		{
+			"text_id": "2944",
+			"text": "N"
+		},
+		{
+			"text_id": "2945",
+			"text": "!"
+		},
+		{
+			"text_id": "2947",
+			"text": "No challenges available."
+		},
+		{
 			"text_id": "295",
 			"text": "We can keep going!"
+		},
+		{
+			"text_id": "2955",
+			"text": "Limited Boost Available!"
+		},
+		{
+			"text_id": "2956",
+			"text": "Limited Boost Activated!"
 		},
 		{
 			"text_id": "2957",
@@ -9941,12 +9965,60 @@
 			"text": "2020 NEW YEAR Clash Battle!"
 		},
 		{
+			"text_id": "2973",
+			"text": "Mobile data will not be used."
+		},
+		{
+			"text_id": "2974",
+			"text": "Connecting…"
+		},
+		{
+			"text_id": "2975",
+			"text": "Checking for latest data..."
+		},
+		{
+			"text_id": "2976",
+			"text": "Downloading latest data..."
+		},
+		{
 			"text_id": "2977",
 			"text": "2020 NEW YEAR Clash Battle! Event Available!"
 		},
 		{
+			"text_id": "2979",
+			"text": "Team"
+		},
+		{
 			"text_id": "298",
 			"text": "Claim your rewards first."
+		},
+		{
+			"text_id": "2980",
+			"text": "Team"
+		},
+		{
+			"text_id": "2981",
+			"text": "Story"
+		},
+		{
+			"text_id": "2982",
+			"text": "Dimensional Vortex"
+		},
+		{
+			"text_id": "2983",
+			"text": "Battle Park"
+		},
+		{
+			"text_id": "2984",
+			"text": "Clash Battle"
+		},
+		{
+			"text_id": "2985",
+			"text": "Under\nworld"
+		},
+		{
+			"text_id": "2986",
+			"text": "Raging Raid Battle!"
 		},
 		{
 			"text_id": "2987",
@@ -9967,6 +10039,30 @@
 		{
 			"text_id": "2990",
 			"text": "Thank goodness. The Digimon were saved and unharmed!\n...And I feel like I'm getting a little closer with everyone?"
+		},
+		{
+			"text_id": "2991",
+			"text": "Easy"
+		},
+		{
+			"text_id": "2992",
+			"text": "Normal"
+		},
+		{
+			"text_id": "2993",
+			"text": "Hard"
+		},
+		{
+			"text_id": "2994",
+			"text": "Advanced"
+		},
+		{
+			"text_id": "2995",
+			"text": "February Clash Battle!"
+		},
+		{
+			"text_id": "2996",
+			"text": "February Clash Battle! Event Available!"
 		},
 		{
 			"text_id": "2997",
@@ -10059,6 +10155,14 @@
 		{
 			"text_id": "3000013",
 			"text": "■ Warning\n *The drop rates are rounded off to the nearest thousandth.\n  The total number of the listed drop rates may not add up to 100%.\n *More than one of the same item may appear from this summon.\n *One of the following is guaranteed in the 10+1 Summon: a Champion Digimon capable of Digivolving to Ultimate;\n   a Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega;\n  or a Mega Digimon capable of Digivolving to Mega.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
+		},
+		{
+			"text_id": "3000014",
+			"text": "- Warning\n *The drop rates are rounded off to the nearest thousandth.\n The total number of the listed drop rates may not add up to 100%.\n *More than one of the same item may appear from this summon.\n *One of the following is guaranteed in the 10+1 Summon: a Champion Digimon capable of Digivolving to Ultimate;\n   a Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega;\n  an Ultimate Digimon capable of Digivolving to Ultra;\n  or a Rookie Digimon capable of Digivolving to Armor.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
+		},
+		{
+			"text_id": "3000016",
+			"text": "- Warning\n *The drop rates are rounded off to the nearest thousandth.\n The total number of the listed drop rates may not add up to 100%.\n *More than one of the same item may appear from this summon.\n *One of the following is guaranteed in the 10+1 Summon: a Champion Digimon capable of Digivolving to Ultimate;\n  an Ultimate Digimon capable of Digivolving to Ultra;\n  or an Mega Digimon capable of Digivolving to Ultra.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
 		},
 		{
 			"text_id": "300002",
@@ -10173,12 +10277,96 @@
 			"text": "Chihiro's partner Digimon, found outside the cafe on a rainy day. Its cuteness is a cut above, making it hard to view Lopmon as the old-fashioned and serious Digimon that it is."
 		},
 		{
+			"text_id": "300030",
+			"text": "Mon the Mysterious Girl"
+		},
+		{
+			"text_id": "300031",
+			"text": "A mysterious girl appears before you suddenly.\n She seems to have some kind of deep connection to the Digital World..."
+		},
+		{
+			"text_id": "300032",
+			"text": "Hackmon"
+		},
+		{
+			"text_id": "300033",
+			"text": "A Digimon that appeared along with \n Mon. \nIt supports Mon with its level-headed demeanor."
+		},
+		{
 			"text_id": "3001",
 			"text": "Event Period: Until [datetime_week]2020/02/29 23:59:59[/datetime_week]"
 		},
 		{
+			"text_id": "3002",
+			"text": "Raging Raid Battle!"
+		},
+		{
+			"text_id": "3003",
+			"text": "Select Difficulty"
+		},
+		{
+			"text_id": "3004",
+			"text": "Event Period"
+		},
+		{
+			"text_id": "3005",
+			"text": "{0} - {1}"
+		},
+		{
+			"text_id": "3006",
+			"text": "Team Conditions"
+		},
+		{
+			"text_id": "3007",
+			"text": "Partner"
+		},
+		{
+			"text_id": "3008",
+			"text": "Companions"
+		},
+		{
+			"text_id": "3009",
+			"text": "Total"
+		},
+		{
 			"text_id": "301",
 			"text": "Claimed found items."
+		},
+		{
+			"text_id": "3010",
+			"text": "{0} / {1}"
+		},
+		{
+			"text_id": "3011",
+			"text": "Choose 4 Companions."
+		},
+		{
+			"text_id": "3012",
+			"text": "{0} has ended."
+		},
+		{
+			"text_id": "3013",
+			"text": "Do you want to quit \"Raging Raid Battle!\"?"
+		},
+		{
+			"text_id": "3014",
+			"text": "Claim Raid Reward"
+		},
+		{
+			"text_id": "3015",
+			"text": "Reward claimed."
+		},
+		{
+			"text_id": "3016",
+			"text": "Completion Time"
+		},
+		{
+			"text_id": "3017",
+			"text": "You have an interrupted battle\n in Raging Raid Battle!\nReturn to the battle?"
+		},
+		{
+			"text_id": "3018",
+			"text": "Raid Reward"
 		},
 		{
 			"text_id": "3019",
@@ -10187,6 +10375,10 @@
 		{
 			"text_id": "302",
 			"text": "OK"
+		},
+		{
+			"text_id": "3020",
+			"text": "<color=#C7221DFF>{0}</color> / {1}"
 		},
 		{
 			"text_id": "3021",
@@ -10281,8 +10473,28 @@
 			"text": "Backup completed.\n Use the following to recover data to continue play after device replacement.\n - Sign in with Apple ID\n Tap the button below to change/remove \nbackup game data."
 		},
 		{
+			"text_id": "3042",
+			"text": "Companion 1"
+		},
+		{
+			"text_id": "3043",
+			"text": "Companion 2"
+		},
+		{
+			"text_id": "3044",
+			"text": "Companion 3"
+		},
+		{
+			"text_id": "3045",
+			"text": "Companion 4"
+		},
+		{
 			"text_id": "3046",
 			"text": "Movie Release Celebration"
+		},
+		{
+			"text_id": "3047",
+			"text": "No event available."
 		},
 		{
 			"text_id": "3048",
@@ -10329,6 +10541,10 @@
 			"text": "Remove Backup"
 		},
 		{
+			"text_id": "3058",
+			"text": "Early February Challenge"
+		},
+		{
 			"text_id": "3059",
 			"text": "Event Period: Until [datetime_week]2020/03/12 11:59:59[/datetime_week]"
 		},
@@ -10337,16 +10553,96 @@
 			"text": "Log"
 		},
 		{
+			"text_id": "3060",
+			"text": "Team"
+		},
+		{
+			"text_id": "3061",
+			"text": "Raging Raid Battle! Available!!"
+		},
+		{
+			"text_id": "3062",
+			"text": "OK"
+		},
+		{
+			"text_id": "3063",
+			"text": "Movie Release Vortex Now Available"
+		},
+		{
+			"text_id": "3064",
+			"text": "Unlock the Movie Release Vortex with a key!"
+		},
+		{
+			"text_id": "3065",
+			"text": "There is a chance of obtaining a Movie\nRelease Vortex key from\nGiant Spirals (Lv. 10 and Lv. 20)\nthat appear in the February Clash Battle!"
+		},
+		{
+			"text_id": "3066",
+			"text": "Confirm"
+		},
+		{
+			"text_id": "3067",
+			"text": "New Act Release Challenge"
+		},
+		{
+			"text_id": "3068",
+			"text": "Hackmon"
+		},
+		{
+			"text_id": "3069",
+			"text": "Show me what you can do!"
+		},
+		{
 			"text_id": "307",
 			"text": "Visit"
+		},
+		{
+			"text_id": "3070",
+			"text": "Let's see how far you can go."
+		},
+		{
+			"text_id": "3071",
+			"text": "Well done. You've got what it takes."
 		},
 		{
 			"text_id": "3072",
 			"text": "CB"
 		},
 		{
+			"text_id": "3073",
+			"text": "March Clash Battle!"
+		},
+		{
+			"text_id": "3074",
+			"text": "Lunamon"
+		},
+		{
+			"text_id": "3075",
+			"text": "I wanna go to the moon.\nDo you know how to get there?"
+		},
+		{
+			"text_id": "3076",
+			"text": "Help me find something moon-y\nto regain my memories!"
+		},
+		{
+			"text_id": "3077",
+			"text": "Thanks!\nIt was really nice of you to help me search for something moon-y."
+		},
+		{
+			"text_id": "3078",
+			"text": "You cannot purchase anymore DigiRubies\nbecause you have reached the maximum carry limit."
+		},
+		{
+			"text_id": "3079",
+			"text": "Dimensional Vortex Fully Unlocked!"
+		},
+		{
 			"text_id": "308",
 			"text": "Send"
+		},
+		{
+			"text_id": "3080",
+			"text": "March Clash Battle! Available!"
 		},
 		{
 			"text_id": "3081",
@@ -10357,8 +10653,76 @@
 			"text": "They will be obtainable at a fixed rate\nfrom the Valentine's Day Challenge and\nby defeating strong high-level enemies on\n[Clash Battle! A Red-Hot Valentine's!]."
 		},
 		{
+			"text_id": "3083",
+			"text": "Lunamon"
+		},
+		{
+			"text_id": "3084",
+			"text": "I want to go moon-finding with you again.\nSo...look forward to it!"
+		},
+		{
+			"text_id": "3085",
+			"text": "Make a team with BON Digimon!"
+		},
+		{
+			"text_id": "3086",
+			"text": "Side Story Added!"
+		},
+		{
+			"text_id": "3087",
+			"text": "[Personal] {0} ({1})-ranked Placement Rewards."
+		},
+		{
+			"text_id": "3088",
+			"text": "[DigiGuild] {0} ({1})-ranked Placement Rewards."
+		},
+		{
+			"text_id": "3089",
+			"text": "DigiRubies will be sent to Present Box if they exceed the maximum limit."
+		},
+		{
 			"text_id": "309",
 			"text": "Tamer Name"
+		},
+		{
+			"text_id": "3090",
+			"text": "DigiRubies will be sent to Present Box if they exceed the maximum limit."
+		},
+		{
+			"text_id": "3091",
+			"text": "DigiRubies will be sent to Present Box if they exceed the maximum limit."
+		},
+		{
+			"text_id": "3092",
+			"text": "DigiRubies will be sent to Present Box if they exceed the maximum limit."
+		},
+		{
+			"text_id": "3093",
+			"text": "Confirm"
+		},
+		{
+			"text_id": "3094",
+			"text": "You won {0}'s Raging Raid Battle!"
+		},
+		{
+			"text_id": "3095",
+			"text": "Make a team with BON Digimon!"
+		},
+		{
+			"text_id": "3096",
+			"text": "Clash Battle Event Available!"
+		},
+		{
+			"text_id": "3097",
+			"text": "訳が無い"
+		},
+		{
+			"text_id": "3098",
+			"text": "訳が無い"
+		},
+		{
+			"text_id": "3099",
+			"text": "Reward will be sent to Present Box if it exceeds the maximum limit."
 		},
 		{
 			"text_id": "31",
@@ -10367,6 +10731,26 @@
 		{
 			"text_id": "310",
 			"text": "Last login"
+		},
+		{
+			"text_id": "3100",
+			"text": "DigiRubies will be sent to Present Box if they exceed the maximum limit."
+		},
+		{
+			"text_id": "3101",
+			"text": "*You have not met the reward conditions."
+		},
+		{
+			"text_id": "3102",
+			"text": "Extreme"
+		},
+		{
+			"text_id": "3103",
+			"text": "April Clash Battle!"
+		},
+		{
+			"text_id": "3104",
+			"text": "DigiRubies will be sent to Present Box if they exceed the maximum limit."
 		},
 		{
 			"text_id": "311",
@@ -10379,6 +10763,10 @@
 		{
 			"text_id": "312",
 			"text": "Customize"
+		},
+		{
+			"text_id": "3128",
+			"text": "Participants:"
 		},
 		{
 			"text_id": "313",
@@ -11238,7 +11626,7 @@
 		},
 		{
 			"text_id": "490261",
-			"text": "- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and <color=#FFE25AFF>Error</color><sprite=7> are effective!"
+			"text": "- Include <color=#FFE25AFF>Calm</color> Digimon in your party!\n- Include Digimon that can enhance <color=#FFE25AFF>TEC</color> in your party!\n- Enhance your <color=#FFE25AFF>DEF</color>!"
 		},
 		{
 			"text_id": "490271",
@@ -11278,7 +11666,7 @@
 		},
 		{
 			"text_id": "490361",
-			"text": "- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!"
+			"text": "- Include Digimon with Personalities <color=#FFE25AFF>other than Brave</color> in your party!\n- Enhance your <color=#FFE25AFF>Block Rate</color>!\n- Include Digimon that can <color=#FFE25AFF>Heal HP</color> in your party!"
 		},
 		{
 			"text_id": "490371",
@@ -11367,6 +11755,42 @@
 		{
 			"text_id": "490541",
 			"text": "- Set <color=#FFE25AFF>Plugins that enhance HP</color>!\n- Include Digimon that can enhance <color=#FFE25AFF>DEF</color> in your party!\n- Include Digimon that <color=#FFE25AFF>Heal HP</color> in your party!"
+		},
+		{
+			"text_id": "490551",
+			"text": "- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and <color=#FFE25AFF>Error</color><sprite=7> are effective!\n - Include Digimon that can enhance <color=#FFE25AFF>ATK</color> in your party!\n- Set Plugins that <color=#FFE25AFF>enhance DEF</color>!"
+		},
+		{
+			"text_id": "490552",
+			"text": "- Take measures against <color=#FFE25AFF>Burn</color><sprite=6> and <color=#FFE25AFF>Poison</color><sprite=5>!\n - Include Digimon that can enhance <color=#FFE25AFF>ATK</color> in your party!\n- Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!"
+		},
+		{
+			"text_id": "490561",
+			"text": "- Take measures against <color=#FFE25AFF>Poison</color><sprite=5>!\n - Set Plugins that <color=#FFE25AFF>enhance DEF</color>!\n- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and <color=#FFE25AFF>Error</color><sprite=7> are effective!"
+		},
+		{
+			"text_id": "490562",
+			"text": "- Take measures against <color=#FFE25AFF>Stun</color><sprite=3> and <color=#FFE25AFF>Error</color><sprite=7>!\n - Set Plugins that <color=#FFE25AFF>enhance DEF</color>!\n- Include Digimon that can <color=#FFE25AFF>heal HP </color>in your party!"
+		},
+		{
+			"text_id": "490571",
+			"text": "- Set Plugins that <color=#FFE25AFF>enhance DEF</color>!\n - Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!\n- <color=#FFE25AFF>Burn</color><sprite=6> is effective!"
+		},
+		{
+			"text_id": "490572",
+			"text": "- Take measures against <color=#FFE25AFF>Poison</color><sprite=5>!\n - Include Digimon that can <color=#FFE25AFF>heal HP </color>in your party!\n- Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!"
+		},
+		{
+			"text_id": "490581",
+			"text": "- Enhance your <color=#FFE25AFF>DEF</color>!\n - Include Digimon that can <color=#FFE25AFF>heal HP </color>in your party!\n- <color=#FFE25AFF>Error</color><sprite=7> is effective!"
+		},
+		{
+			"text_id": "490591",
+			"text": "- Include Digimon that can lower <color=#FFE25AFF>DEF</color> in your party!\n - Include Digimon that can <color=#FFE25AFF>heal HP </color>in your party!\n- Take measures against <color=#FFE25AFF>Burn</color>!"
+		},
+		{
+			"text_id": "490592",
+			"text": "- Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!\n - Set Plugins that <color=#FFE25AFF>enhance Block Rate</color>!\n- Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!"
 		},
 		{
 			"text_id": "491",
@@ -13887,6 +14311,10 @@
 		{
 			"text_id": "910128",
 			"text": "No Data"
+		},
+		{
+			"text_id": "910129",
+			"text": "Mutant"
 		},
 		{
 			"text_id": "911",
