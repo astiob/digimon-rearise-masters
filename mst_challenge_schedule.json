@@ -638,6 +638,438 @@
 			"start_asset": "challenge/challenge_begin_10280",
 			"start_trigger_type": "0",
 			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10750",
+			"start_date": "2020-05-31 12:00:00",
+			"end_date": "2020-06-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10320",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10760",
+			"start_date": "2020-06-15 12:00:00",
+			"end_date": "2020-06-30 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10330",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10770",
+			"start_date": "2020-06-30 12:00:00",
+			"end_date": "2020-07-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10350",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10780",
+			"start_date": "2020-07-15 12:00:00",
+			"end_date": "2020-07-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10390",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10790",
+			"start_date": "2020-07-31 12:00:00",
+			"end_date": "2020-08-14 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10400",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10800",
+			"start_date": "2020-08-14 12:00:00",
+			"end_date": "2020-08-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10410",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10810",
+			"start_date": "2020-08-31 12:00:00",
+			"end_date": "2020-09-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10450",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10820",
+			"start_date": "2020-09-15 12:00:00",
+			"end_date": "2020-09-30 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10460",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10830",
+			"start_date": "2020-09-30 12:00:00",
+			"end_date": "2020-10-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10480",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10840",
+			"start_date": "2020-10-15 12:00:00",
+			"end_date": "2020-10-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10490",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10850",
+			"start_date": "2020-10-31 12:00:00",
+			"end_date": "2020-11-16 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10520",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10860",
+			"start_date": "2020-11-16 12:00:00",
+			"end_date": "2020-11-30 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10530",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10870",
+			"start_date": "2020-11-30 12:00:00",
+			"end_date": "2020-12-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10550",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10880",
+			"start_date": "2020-12-15 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10560",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10890",
+			"start_date": "2020-12-31 12:00:00",
+			"end_date": "2021-01-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10570",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10900",
+			"start_date": "2021-01-15 12:00:00",
+			"end_date": "2021-01-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10580",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10910",
+			"start_date": "2021-01-31 12:00:00",
+			"end_date": "2021-02-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10620",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10920",
+			"start_date": "2021-02-15 12:00:00",
+			"end_date": "2021-02-28 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10630",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10930",
+			"start_date": "2021-02-28 12:00:00",
+			"end_date": "2021-03-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10660",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10940",
+			"start_date": "2021-03-15 12:00:00",
+			"end_date": "2021-03-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10670",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10950",
+			"start_date": "2021-03-31 12:00:00",
+			"end_date": "2021-04-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10680",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10960",
+			"start_date": "2021-04-15 12:00:00",
+			"end_date": "2021-04-30 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10690",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10970",
+			"start_date": "2021-04-30 12:00:00",
+			"end_date": "2021-05-14 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10270",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10980",
+			"start_date": "2021-05-14 12:00:00",
+			"end_date": "2021-05-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10280",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "10990",
+			"start_date": "2021-05-31 12:00:00",
+			"end_date": "2021-06-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10320",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11000",
+			"start_date": "2021-06-15 12:00:00",
+			"end_date": "2021-06-30 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10330",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11010",
+			"start_date": "2021-06-30 12:00:00",
+			"end_date": "2021-07-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10350",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11020",
+			"start_date": "2021-07-15 12:00:00",
+			"end_date": "2021-07-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10390",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11030",
+			"start_date": "2021-07-31 12:00:00",
+			"end_date": "2021-08-16 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10400",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11040",
+			"start_date": "2021-08-16 12:00:00",
+			"end_date": "2021-08-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10410",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11050",
+			"start_date": "2021-08-31 12:00:00",
+			"end_date": "2021-09-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10450",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11060",
+			"start_date": "2021-09-15 12:00:00",
+			"end_date": "2021-09-30 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10460",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11070",
+			"start_date": "2021-09-30 12:00:00",
+			"end_date": "2021-10-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10480",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11080",
+			"start_date": "2021-10-15 12:00:00",
+			"end_date": "2021-10-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10490",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11090",
+			"start_date": "2021-10-31 12:00:00",
+			"end_date": "2021-11-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10520",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11100",
+			"start_date": "2021-11-15 12:00:00",
+			"end_date": "2021-11-30 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10530",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11110",
+			"start_date": "2021-11-30 12:00:00",
+			"end_date": "2021-12-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10550",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11120",
+			"start_date": "2021-12-15 12:00:00",
+			"end_date": "2021-12-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10560",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11130",
+			"start_date": "2021-12-31 12:00:00",
+			"end_date": "2022-01-14 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10570",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11140",
+			"start_date": "2022-01-14 12:00:00",
+			"end_date": "2022-01-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10580",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11150",
+			"start_date": "2022-01-31 12:00:00",
+			"end_date": "2022-02-14 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10620",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11160",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-28 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10630",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11170",
+			"start_date": "2022-02-28 12:00:00",
+			"end_date": "2022-03-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10660",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11180",
+			"start_date": "2022-03-15 12:00:00",
+			"end_date": "2022-03-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10670",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11190",
+			"start_date": "2022-03-31 12:00:00",
+			"end_date": "2022-04-15 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10680",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11200",
+			"start_date": "2022-04-15 12:00:00",
+			"end_date": "2022-04-30 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10690",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11210",
+			"start_date": "2022-04-30 12:00:00",
+			"end_date": "2022-05-16 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10270",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11220",
+			"start_date": "2022-05-16 12:00:00",
+			"end_date": "2022-05-31 11:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_10280",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
 		}
 	]
 }

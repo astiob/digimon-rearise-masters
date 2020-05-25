@@ -12,35 +12,35 @@
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "[if)is_multiple_attack]敵全体を対象にランダムに[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]敵[@target_num]単体[/@target_num]に[/elif)is_multiple_attack][if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
+			"text": "[if)is_multiple_attack]敵全体を対象にランダムで[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]敵[@target_num]単体[/@target_num]に[/elif)is_multiple_attack][if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ[if)is_multiple_attack]（対象[@target_num]単体[/@target_num]）[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "[if)is_multiple_attack]使用できないですが、[/if)is_multiple_attack]敵[@target_num]2体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
+			"text": "[if)is_multiple_attack]敵全体を対象にランダムで[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]敵[@target_num]2体[/@target_num]に[/elif)is_multiple_attack][if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ[if)is_multiple_attack]（対象[@target_num]2体[/@target_num]同時）[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "[if)is_multiple_attack]使用できないですが、[/if)is_multiple_attack]敵[@target_num]3体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
+			"text": "[if)is_multiple_attack]敵全体を対象にランダムで[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]敵[@target_num]3体[/@target_num]に[/elif)is_multiple_attack][if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ[if)is_multiple_attack]（対象[@target_num]3体[/@target_num]同時）[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "[if)is_multiple_attack]使用できないですが、[/if)is_multiple_attack]敵[@target_num]4体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
+			"text": "[if)is_multiple_attack]敵全体を対象にランダムで[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]敵[@target_num]4体[/@target_num]に[/elif)is_multiple_attack][if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ[if)is_multiple_attack]（対象[@target_num]4体[/@target_num]同時）[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "[if)is_multiple_attack]使用できないですが、[/if)is_multiple_attack]敵[@target_num]全体[/@target_num]に[if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ"
+			"text": "[if)is_multiple_attack]敵全体を対象にランダムで[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]敵[@target_num]全体[/@target_num]に[/elif)is_multiple_attack][if)fixed_damage][@strength][:strength:][/@strength]の固定[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]の[/elif)fixed_damage]ダメージ[if)is_multiple_attack]（対象[@target_num]全体[/@target_num]同時）[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
@@ -82,35 +82,35 @@
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]のバフを[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]ターン減少"
+			"text": "[if)is_multiple_attack]攻撃対象の[/if)is_multiple_attack][elif)is_multiple_attack]敵[@target_num]単体[/@target_num]の[/elif)is_multiple_attack]バフを[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]ターン減少"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]のバフを[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]ターン減少"
+			"text": "[if)is_multiple_attack]攻撃対象の[/if)is_multiple_attack][elif)is_multiple_attack]敵[@target_num]2体[/@target_num]の[/elif)is_multiple_attack]バフを[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]ターン減少"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]のバフを[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]ターン減少"
+			"text": "[if)is_multiple_attack]攻撃対象の[/if)is_multiple_attack][elif)is_multiple_attack]敵[@target_num]3体[/@target_num]の[/elif)is_multiple_attack]バフを[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]ターン減少"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]のバフを[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]ターン減少"
+			"text": "[if)is_multiple_attack]攻撃対象の[/if)is_multiple_attack][elif)is_multiple_attack]敵[@target_num]4体[/@target_num]の[/elif)is_multiple_attack]バフを[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]ターン減少"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]のバフを[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]ターン減少"
+			"text": "[if)is_multiple_attack]攻撃対象の[/if)is_multiple_attack][elif)is_multiple_attack]敵[@target_num]全体[/@target_num]の[/elif)is_multiple_attack]バフを[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]ターン減少"
 		},
 		{
 			"action_efficacy_type": "0",
@@ -533,6 +533,41 @@
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "10",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でマヒの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
 			"action_efficacy_type": "12",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -601,6 +636,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で暗闇の付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "13",
@@ -722,6 +792,41 @@
 			"text": "敵[@target_num]全体[/@target_num]の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "14",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "14",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "14",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "14",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "14",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象の[:attack_type:]を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -832,6 +937,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "15",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "15",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "15",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "15",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "15",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象の狙い撃ち率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
@@ -946,6 +1086,41 @@
 			"text": "敵[@target_num]全体[/@target_num]の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "16",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "16",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "16",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "16",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "16",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象の反撃率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -1058,6 +1233,41 @@
 			"text": "敵[@target_num]全体[/@target_num]のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "17",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "17",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "17",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "17",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "17",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
 			"action_efficacy_type": "18",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -1126,6 +1336,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で感電の付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "19",
@@ -1198,6 +1443,41 @@
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "19",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で気絶の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
 			"action_efficacy_type": "2",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -1266,6 +1546,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で凍結の付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "20",
@@ -1338,6 +1653,41 @@
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "20",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で眠りの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
 			"action_efficacy_type": "21",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -1406,6 +1756,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で毒の付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "22",
@@ -1478,6 +1863,41 @@
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "22",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でエラーの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
 			"action_efficacy_type": "23",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -1546,6 +1966,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でスキル封じ（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
@@ -1658,6 +2113,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "25",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "25",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "25",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "25",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "25",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象の[:attack_type:]ダメージ耐性を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "26",
@@ -2934,6 +3424,41 @@
 			"text": "敵[@target_num]全体[/@target_num]の[:text_id_ex:]を打ち消す"
 		},
 		{
+			"action_efficacy_type": "41",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象の[:text_id_ex:]を打ち消す"
+		},
+		{
+			"action_efficacy_type": "41",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象の[:text_id_ex:]を打ち消す"
+		},
+		{
+			"action_efficacy_type": "41",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象の[:text_id_ex:]を打ち消す"
+		},
+		{
+			"action_efficacy_type": "41",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象の[:text_id_ex:]を打ち消す"
+		},
+		{
+			"action_efficacy_type": "41",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象の[:text_id_ex:]を打ち消す"
+		},
+		{
 			"action_efficacy_type": "42",
 			"index_in_type": "0",
 			"target_type": "9",
@@ -2967,6 +3492,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で[@limit_count][:limit_count:]回[/@limit_count]行動するとロストする効果を付与する"
+		},
+		{
+			"action_efficacy_type": "42",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で[@limit_count][:limit_count:]回[/@limit_count]行動するとロストする効果を付与する"
+		},
+		{
+			"action_efficacy_type": "42",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で[@limit_count][:limit_count:]回[/@limit_count]行動するとロストする効果を付与する"
+		},
+		{
+			"action_efficacy_type": "42",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で[@limit_count][:limit_count:]回[/@limit_count]行動するとロストする効果を付与する"
+		},
+		{
+			"action_efficacy_type": "42",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で[@limit_count][:limit_count:]回[/@limit_count]行動するとロストする効果を付与する"
+		},
+		{
+			"action_efficacy_type": "42",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で[@limit_count][:limit_count:]回[/@limit_count]行動するとロストする効果を付与する"
 		},
 		{
 			"action_efficacy_type": "43",
@@ -3151,6 +3711,41 @@
 			"text": "敵[@target_num]全体[/@target_num]のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "44",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "44",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "44",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "44",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "44",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
 			"action_efficacy_type": "45",
 			"index_in_type": "0",
 			"target_type": "15",
@@ -3221,6 +3816,41 @@
 			"text": "敵[@target_num]全体[/@target_num]の状態異常耐性を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "45",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象の状態異常耐性を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "45",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象の状態異常耐性を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "45",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象の状態異常耐性を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "45",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象の状態異常耐性を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "45",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象の状態異常耐性を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
+		},
+		{
 			"action_efficacy_type": "46",
 			"index_in_type": "0",
 			"target_type": "9",
@@ -3254,6 +3884,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」のどれか1つを付与する（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "46",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」のどれか1つを付与する（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "46",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」のどれか1つを付与する（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "46",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」のどれか1つを付与する（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "46",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」のどれか1つを付与する（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "46",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率で「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」のどれか1つを付与する（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "47",
@@ -3408,6 +4073,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "6",
@@ -3599,6 +4299,41 @@
 			"text": "敵[@target_num]全体[/@target_num]のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "7",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "7",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "7",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "7",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "7",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象のDEFを[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -3709,6 +4444,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "敵[@target_num]全体[/@target_num]のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "9",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "攻撃対象のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "9",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "攻撃対象のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "9",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "攻撃対象のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "9",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "攻撃対象のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "9",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "攻撃対象のクリティカル率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
 		}
 	]
 }

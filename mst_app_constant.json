@@ -176,6 +176,12 @@
 		},
 		{
 			"category": "DIGIMON",
+			"name": "PART_MAX",
+			"value": "50",
+			"description": "お別れで選択できる最大数"
+		},
+		{
+			"category": "DIGIMON",
 			"name": "PARTNER_INFLUENCE_FRIENDSHIP_VALUE_RATE",
 			"value": "30",
 			"description": "パートナーによるお世話、バトルで獲得する友情ポイントの上昇率(百分率)"
@@ -255,8 +261,8 @@
 		{
 			"category": "EXTENSION",
 			"name": "DIGIMON_SLOT_MAX",
-			"value": "750",
-			"description": "デジモン枠の最大値\n500->750 (2018/11/27 変更)"
+			"value": "800",
+			"description": "デジモン枠の最大値\n500→750 (2018/11/27 変更)→800 (2020/05/29 変更)"
 		},
 		{
 			"category": "EXTENSION",
@@ -273,8 +279,8 @@
 		{
 			"category": "EXTENSION",
 			"name": "PLUGIN_SLOT_MAX",
-			"value": "750",
-			"description": "プラグイン枠の最大値\n500->750 (2018/10/30 変更)"
+			"value": "800",
+			"description": "プラグイン枠の最大値\n500→750 (2018/11/27 変更)→800 (2020/05/29 変更)"
 		},
 		{
 			"category": "FOOTPRINT",
