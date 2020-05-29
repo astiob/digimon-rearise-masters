@@ -327,35 +327,35 @@
 			"index_in_type": "9",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "ダメージが極まれに[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]になる"
+			"text": "Extremely rare chance to deal [@super_critical_damage][:super_critical_damage:] times[/@super_critical_damage] as much damage."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "9",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "ダメージが極まれに[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]になる"
+			"text": "Extremely rare chance to deal [@super_critical_damage][:super_critical_damage:] times[/@super_critical_damage] as much damage."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "9",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "ダメージが極まれに[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]になる"
+			"text": "Extremely rare chance to deal [@super_critical_damage][:super_critical_damage:] times[/@super_critical_damage] as much damage."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "9",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "ダメージが極まれに[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]になる"
+			"text": "Extremely rare chance to deal [@super_critical_damage][:super_critical_damage:] times[/@super_critical_damage] as much damage."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "9",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "ダメージが極まれに[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]になる"
+			"text": "Extremely rare chance to deal [@super_critical_damage][:super_critical_damage:] times[/@super_critical_damage] as much damage."
 		},
 		{
 			"action_efficacy_type": "1",
@@ -2938,112 +2938,112 @@
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "敵[@target_num]単体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で[@limit_count][:limit_count:]回[/@limit_count]行動するとロストする効果を付与する"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Fade on a [@target_num]single[/@target_num] enemy after performing an action [@limit_count][:limit_count:] times[/@limit_count]."
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "敵[@target_num]2体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で[@limit_count][:limit_count:]回[/@limit_count]行動するとロストする効果を付与する"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Fade on [@target_num]2[/@target_num] enemies after performing an action [@limit_count][:limit_count:] times[/@limit_count]."
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "敵[@target_num]3体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で[@limit_count][:limit_count:]回[/@limit_count]行動するとロストする効果を付与する"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Fade on [@target_num]3[/@target_num] enemies after performing an action [@limit_count][:limit_count:] times[/@limit_count]."
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "敵[@target_num]4体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で[@limit_count][:limit_count:]回[/@limit_count]行動するとロストする効果を付与する"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Fade on [@target_num]4[/@target_num] enemies after performing an action [@limit_count][:limit_count:] times[/@limit_count]."
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "敵[@target_num]全体[/@target_num]に[@rate][:rate:]%[/@rate]の確率で[@limit_count][:limit_count:]回[/@limit_count]行動するとロストする効果を付与する"
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Fade on [@target_num]all[/@target_num] enemies after performing an action [@limit_count][:limit_count:] times[/@limit_count]."
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に[@count][:count:][/@count]回だけ味方への攻撃を肩代わりする効果を付与（[@damage_cut_rate][:damage_cut_rate:]％[/@damage_cut_rate]ダメージカット）"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to another [@target_num]single[/@target_num] ally [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に[@count][:count:][/@count]回だけ味方への攻撃を肩代わりする効果を付与（[@damage_cut_rate][:damage_cut_rate:]％[/@damage_cut_rate]ダメージカット）"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to [@target_num]2[/@target_num] allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に[@count][:count:][/@count]回だけ味方への攻撃を肩代わりする効果を付与（[@damage_cut_rate][:damage_cut_rate:]％[/@damage_cut_rate]ダメージカット）"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to [@target_num]3[/@target_num] allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に[@count][:count:][/@count]回だけ味方への攻撃を肩代わりする効果を付与（[@damage_cut_rate][:damage_cut_rate:]％[/@damage_cut_rate]ダメージカット）"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to [@target_num]4[/@target_num] allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に[@count][:count:][/@count]回だけ味方への攻撃を肩代わりする効果を付与（[@damage_cut_rate][:damage_cut_rate:]％[/@damage_cut_rate]ダメージカット）"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to [@target_num]all[/@target_num] allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "個性が「勇敢」の味方に[@count][:count:][/@count]回だけ味方への攻撃を肩代わりする効果を付与（[@damage_cut_rate][:damage_cut_rate:]％[/@damage_cut_rate]ダメージカット）"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to Brave allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "個性が「冷静」の味方に[@count][:count:][/@count]回だけ味方への攻撃を肩代わりする効果を付与（[@damage_cut_rate][:damage_cut_rate:]％[/@damage_cut_rate]ダメージカット）"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to Calm allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "個性が「器用」の味方に[@count][:count:][/@count]回だけ味方への攻撃を肩代わりする効果を付与（[@damage_cut_rate][:damage_cut_rate:]％[/@damage_cut_rate]ダメージカット）"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to Deft allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "個性が「不屈」の味方に[@count][:count:][/@count]回だけ味方への攻撃を肩代わりする効果を付与（[@damage_cut_rate][:damage_cut_rate:]％[/@damage_cut_rate]ダメージカット）"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to Tenacious allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "個性が「献身」の味方に[@count][:count:][/@count]回だけ味方への攻撃を肩代わりする効果を付与（[@damage_cut_rate][:damage_cut_rate:]％[/@damage_cut_rate]ダメージカット）"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to Devoted allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "自分に[@count][:count:][/@count]回だけ味方への攻撃を肩代わりする効果を付与（[@damage_cut_rate][:damage_cut_rate:]％[/@damage_cut_rate]ダメージカット）"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to yourself [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "44",
