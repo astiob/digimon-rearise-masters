@@ -1517,7 +1517,7 @@
 			"banner_type": "0",
 			"disp_order": "66",
 			"start_date": "2020-04-22 12:00:00",
-			"end_date": "2020-06-07 11:59:59",
+			"end_date": "2020-06-21 11:59:59",
 			"event_id": "0",
 			"banner_asset": "banner/crn_banner_w1243",
 			"extension_type": "1",
@@ -1547,6 +1547,18 @@
 			"extension_type": "1",
 			"extension_id": "23",
 			"extension_data": "{\"information_id\":1020046}"
+		},
+		{
+			"banner_id": "50060015",
+			"banner_type": "0",
+			"disp_order": "68",
+			"start_date": "2020-06-08 12:00:00",
+			"end_date": "2020-09-08 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/crn_banner_w1322",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":1020050}"
 		},
 		{
 			"banner_id": "50070001",
