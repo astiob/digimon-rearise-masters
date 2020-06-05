@@ -1,28 +1,16 @@
 {
 	"masterRows": [
 		{
-			"slayer_id": "1",
+			"slayer_id": "32190",
 			"display_type": "1",
 			"sequence": "1",
 			"text_id": "2296"
 		},
 		{
-			"slayer_id": "1",
+			"slayer_id": "32190",
 			"display_type": "2",
 			"sequence": "1",
 			"text_id": "2295"
-		},
-		{
-			"slayer_id": "10",
-			"display_type": "1",
-			"sequence": "1",
-			"text_id": "2955"
-		},
-		{
-			"slayer_id": "10",
-			"display_type": "2",
-			"sequence": "1",
-			"text_id": "2956"
 		},
 		{
 			"slayer_id": "33390",
@@ -512,6 +500,18 @@
 		},
 		{
 			"slayer_id": "45180",
+			"display_type": "2",
+			"sequence": "1",
+			"text_id": "2295"
+		},
+		{
+			"slayer_id": "45190",
+			"display_type": "1",
+			"sequence": "1",
+			"text_id": "2296"
+		},
+		{
+			"slayer_id": "45190",
 			"display_type": "2",
 			"sequence": "1",
 			"text_id": "2295"
