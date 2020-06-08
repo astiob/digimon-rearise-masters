@@ -8,13 +8,6 @@
 			"home_asset": "home/home_asset000"
 		},
 		{
-			"home_asset_id": "10",
-			"disp_order": "100",
-			"start_date": "2019/08/15 12:00:00",
-			"end_date": "2019/08/23 11:59:59",
-			"home_asset": "home/home_asset_g3746_002"
-		},
-		{
 			"home_asset_id": "11",
 			"disp_order": "100",
 			"start_date": "2019/09/30 12:00:00",
@@ -99,6 +92,20 @@
 			"home_asset": "home/home_asset1006"
 		},
 		{
+			"home_asset_id": "50000007",
+			"disp_order": "100",
+			"start_date": "2020/06/15 12:00:00",
+			"end_date": "2020/06/22 11:59:59",
+			"home_asset": "home/home_asset_g3746_001"
+		},
+		{
+			"home_asset_id": "50000008",
+			"disp_order": "100",
+			"start_date": "2020/06/22 12:00:00",
+			"end_date": "2020/06/30 11:59:59",
+			"home_asset": "home/home_asset_g3746_002"
+		},
+		{
 			"home_asset_id": "7",
 			"disp_order": "90",
 			"start_date": "2020/04/01 00:00:00",
@@ -111,13 +118,6 @@
 			"start_date": "2019/06/25 12:00:00",
 			"end_date": "2019/07/31 11:59:59",
 			"home_asset": "home/home_asset1006"
-		},
-		{
-			"home_asset_id": "9",
-			"disp_order": "100",
-			"start_date": "2019/08/07 12:00:00",
-			"end_date": "2019/08/15 11:59:59",
-			"home_asset": "home/home_asset_g3746_001"
 		}
 	]
 }
