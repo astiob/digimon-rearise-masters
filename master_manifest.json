@@ -9,10 +9,10 @@
 		},
 		{
 			"className": "AdditionalMessageMaster",
-			"crc": 2169331867,
+			"crc": 1418850134,
 			"hashName": "3C0221E48C8AC859BE355ED2068F9E1F",
 			"masterName": "mst_additional_message",
-			"size": 3332
+			"size": 3348
 		},
 		{
 			"className": "AppConstantMaster",
@@ -23,10 +23,10 @@
 		},
 		{
 			"className": "BannerMaster",
-			"crc": 1848301870,
+			"crc": 1095988985,
 			"hashName": "E38D9351E8D204E96DB057E0E956688D",
 			"masterName": "mst_banner",
-			"size": 12692
+			"size": 12724
 		},
 		{
 			"className": "BattleMaster",
@@ -548,10 +548,10 @@
 		},
 		{
 			"className": "QuestMaster",
-			"crc": 2038163497,
+			"crc": 3816826055,
 			"hashName": "9C94E55253E8942FB4BEC19B936FA5B9",
 			"masterName": "mst_quest",
-			"size": 8788
+			"size": 8836
 		},
 		{
 			"className": "QuestAssetMaster",
@@ -576,10 +576,10 @@
 		},
 		{
 			"className": "QuestScenarioMaster",
-			"crc": 88605200,
+			"crc": 1166856737,
 			"hashName": "31278EAAD7663AE11CEC79352C6745FF",
 			"masterName": "mst_quest_scenario",
-			"size": 2516
+			"size": 2548
 		},
 		{
 			"className": "RaidBattleMaster",
@@ -639,17 +639,17 @@
 		},
 		{
 			"className": "ScenarioMaster",
-			"crc": 2044097668,
+			"crc": 1690247145,
 			"hashName": "4C5B99883DBFBF717DEA0E481C8CD54B",
 			"masterName": "mst_scenario",
-			"size": 6836
+			"size": 6884
 		},
 		{
 			"className": "ScenarioDictionaryMaster",
-			"crc": 2755385974,
+			"crc": 3221665068,
 			"hashName": "3997121E50B1073145FEE905B0250AAE",
 			"masterName": "mst_scenario_dictionary",
-			"size": 4100
+			"size": 4116
 		},
 		{
 			"className": "ScenarioEventUnlockMaster",
@@ -688,10 +688,10 @@
 		},
 		{
 			"className": "ScenarioSubCategoryMaster",
-			"crc": 2838255700,
+			"crc": 1682940631,
 			"hashName": "96001806A7849837B4F6A1B10D62CE49",
 			"masterName": "mst_scenario_sub_category",
-			"size": 1748
+			"size": 1780
 		},
 		{
 			"className": "ScroungeMaster",
@@ -716,10 +716,10 @@
 		},
 		{
 			"className": "SectionMaster",
-			"crc": 1977482860,
+			"crc": 736317233,
 			"hashName": "AC84881A2C7E0EE04BAB060A2E5F41E9",
 			"masterName": "mst_section",
-			"size": 1636
+			"size": 1684
 		},
 		{
 			"className": "ShopMaster",
@@ -765,7 +765,7 @@
 		},
 		{
 			"className": "SideStoryQuestUnlockMaster",
-			"crc": 3069607313,
+			"crc": 1643322205,
 			"hashName": "0869E3FFB769301668647A01DE41AE73",
 			"masterName": "mst_side_story_quest_unlock",
 			"size": 116
@@ -912,7 +912,7 @@
 		},
 		{
 			"className": "StorySectionMaster",
-			"crc": 2534860363,
+			"crc": 1847051812,
 			"hashName": "DA340911D530EC1D91DD04DA0C674FF0",
 			"masterName": "mst_story_section",
 			"size": 180
@@ -1079,5 +1079,5 @@
 			"size": 16644
 		}
 	],
-	"version": "2020-06-05 12:23:35"
+	"version": "2020-06-15 12:21:46"
 }

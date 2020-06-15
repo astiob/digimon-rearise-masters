@@ -7156,6 +7156,57 @@
 			"panel_asset": "quest/panel/storylist_bg015",
 			"icon_types": ",,,,,,",
 			"campaign_id": "0"
+		},
+		{
+			"section_id": "7003",
+			"quest_id": "7003010",
+			"number": "1",
+			"release_quest_id": "7003011",
+			"title": "トラッフル",
+			"description": "トラッフル",
+			"stamina_cost": "0",
+			"user_exp": "0",
+			"gain_friendship": "0",
+			"difficulty": "0",
+			"battle_id": "0",
+			"map_index": "0",
+			"panel_asset": "quest/panel/storylist_bg041",
+			"icon_types": ",,,,,,",
+			"campaign_id": "0"
+		},
+		{
+			"section_id": "7003",
+			"quest_id": "7003011",
+			"number": "2",
+			"release_quest_id": "7003012",
+			"title": "トラッフル",
+			"description": "トラッフル",
+			"stamina_cost": "0",
+			"user_exp": "0",
+			"gain_friendship": "0",
+			"difficulty": "0",
+			"battle_id": "0",
+			"map_index": "1",
+			"panel_asset": "quest/panel/storylist_bg041",
+			"icon_types": ",,,,,,",
+			"campaign_id": "0"
+		},
+		{
+			"section_id": "7003",
+			"quest_id": "7003012",
+			"number": "3",
+			"release_quest_id": "0",
+			"title": "トラッフル",
+			"description": "トラッフル",
+			"stamina_cost": "0",
+			"user_exp": "0",
+			"gain_friendship": "0",
+			"difficulty": "0",
+			"battle_id": "0",
+			"map_index": "2",
+			"panel_asset": "quest/panel/storylist_bg041",
+			"icon_types": ",,,,,,",
+			"campaign_id": "0"
 		}
 	]
 }
