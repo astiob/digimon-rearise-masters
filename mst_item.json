@@ -893,13 +893,13 @@
 		},
 		{
 			"item_id": "10136",
-			"item_name": "カオスデュークモンの進化コード",
+			"item_name": "ChaosGallantmon DGV-Code",
 			"sort_key": "",
 			"item_type": "3",
 			"icon_asset": "icon/item/evolution/iconevolutionitem10036",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態がカオスデュークモンの系譜の進化を導くアイテム",
+			"description": "An item that facilitates the Digivolution of ChaosGallantmon Chain Digimon.",
 			"max_amount": "99999"
 		},
 		{
@@ -1130,7 +1130,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1020093",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "A precious stone slab that has a guaranteed chance of upgrading Mega MetalGarurumon (Calm) Chain's Skill Level.",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega MetalGarurumon (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1141,7 +1141,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1020523",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "A precious stone slab that guarantees a chance of upgrading a Mega MarineAngemon (Devoted) Chain's Skill Level.",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega MarineAngemon (Devoted) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1174,7 +1174,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1020852",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "A large stone shard that has a high chance of upgrading Mega WarGreymon (Brave) Chain's Skill Level.",
+			"description": "A large stone that has a high chance of upgrading Mega WarGreymon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1196,7 +1196,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021051",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ブラックウォーグレイモン(冷静)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega BlackWarGreymon (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021052",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ブラックウォーグレイモン(冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega BlackWarGreymon (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1240,18 +1240,18 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021183",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "A precious stone slab that guarantees a chance of upgrading a Mega Beelzemon[DFQ] (Deft) Chain's Skill Level.",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega Beelzemon [SDQ] (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "1021193",
-			"item_name": "ベルゼブモン(勇敢)スキルストーン",
+			"item_name": "Beelzemon (Brave) Skill Stone",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021193",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "A precious stone slab that guarantees a chance of upgrading a Mega Beelzemon (Brave) Chain's Skill Level.",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega Beelzemon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1284,7 +1284,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021263",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ケルビモン(善)(冷静)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega Cherubimon (Good) (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1339,7 +1339,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021333",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "A precious stone slab that guarantees a chance of upgrading mega Machinedramon [SDQ] (Brave) Chain's Skill Level.",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega Machinedramon [SDQ] (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021503",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ノーブルパンプモン(器用)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega NoblePumpkinmon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1438,7 +1438,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021511",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体インペリアルドラモンPM（冷静）の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Ultra Imperialdramon PM (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1449,7 +1449,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021512",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体インペリアルドラモンPM（冷静）の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Ultra Imperialdramon PM (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1460,7 +1460,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021513",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体インペリアルドラモンPM（冷静）の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Ultra Imperialdramon PM (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1471,7 +1471,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021521",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体アーマゲモン（器用）の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Ultra Armageddemon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1482,7 +1482,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021522",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体アーマゲモン（器用）の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Ultra Armageddemon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1493,7 +1493,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021523",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体アーマゲモン（器用）の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Ultra Armageddemon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1559,7 +1559,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021601",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体オメガモンズワルト(器用)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Ultra Omegamon Zwart (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1570,7 +1570,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021602",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体オメガモンズワルト(器用)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Ultra Omegamon Zwart (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1581,7 +1581,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021603",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体オメガモンズワルト(器用)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Ultra Omegamon Zwart (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1603,7 +1603,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021641",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体クレニアムモン(不屈)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Craniamon (Tenacious) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1614,7 +1614,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021642",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体クレニアムモン(不屈)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega Craniamon (Tenacious) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1625,7 +1625,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021651",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体タイガーヴェスパモン(勇敢)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega TigerVespamon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1636,7 +1636,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021652",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体タイガーヴェスパモン(勇敢)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega TigerVespamon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021663",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "アーマー体フレイドラモン[DFQ](不屈)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Armor Flamedramon [SDQ] (Tenacious) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1658,7 +1658,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021671",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ロードナイトモン(勇敢)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Crusadermon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1669,7 +1669,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021672",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ロードナイトモン(勇敢)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega Crusadermon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1680,7 +1680,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021673",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ロードナイトモン(勇敢)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading a Mega Crusadermon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1691,7 +1691,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021691",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体カオスデュークモン(勇敢)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega ChaosGallantmon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1702,7 +1702,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021692",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体カオスデュークモン(勇敢)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega ChaosGallantmon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1713,7 +1713,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021693",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体カオスデュークモン(勇敢)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega ChaosGallantmon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1724,7 +1724,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021701",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体キングエテモン(器用)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega KingEtemon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1735,7 +1735,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021702",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体キングエテモン(器用)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega KingEtemon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1746,7 +1746,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021711",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体メタルガルルモン(勇敢)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega MetalGarurumon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1757,7 +1757,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021712",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体メタルガルルモン(勇敢)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega MetalGarurumon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1768,7 +1768,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021731",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ドゥフトモン(冷静)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Leopardmon (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1779,7 +1779,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021732",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ドゥフトモン(冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega Leopardmon (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1790,7 +1790,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021733",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ドゥフトモン(冷静)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega Leopardmon (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1801,7 +1801,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021753",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "成長期ガブモン[DFQ](冷静)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Rookie Gabumon [SDQ] (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1812,7 +1812,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021761",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ジエスモン(冷静)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Jesmon (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1823,7 +1823,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021762",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ジエスモン(冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega Jesmon (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1834,7 +1834,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021763",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ジエスモン(冷静)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega Jesmon (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1845,7 +1845,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021791",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ダークドラモン(器用)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Darkdramon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1856,7 +1856,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021792",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ダークドラモン(器用)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega Darkdramon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1867,7 +1867,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021801",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体デーモン(不屈)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Creepymon (Tenacious) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1878,7 +1878,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021802",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体デーモン(不屈)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega Creepymon (Tenacious) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1889,7 +1889,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021823",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "完全体レディーデビモン[DFQ](献身)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Ultimate LadyDevimon [SDQ] (Devoted) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1900,7 +1900,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021831",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体マスティモン(献身)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Mastemon (Devoted) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1911,7 +1911,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021832",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体マスティモン(献身)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega Mastemon (Devoted) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1922,7 +1922,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021833",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体マスティモン(献身)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega Mastemon (Devoted) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1933,7 +1933,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021871",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体スサノオモン(器用)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Ultra Susanoomon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1944,7 +1944,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021872",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体スサノオモン(器用)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Ultra Susanoomon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1955,7 +1955,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021873",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体スサノオモン(器用)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Ultra Susanoomon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1966,7 +1966,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021881",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体シャイングレイモンRM(器用)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega ShineGreymon RM (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021882",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体シャイングレイモンRM(器用)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega ShineGreymon RM (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1988,7 +1988,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021891",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体リリスモン(献身)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Lilithmon (Devoted) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -1999,7 +1999,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021892",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体リリスモン(献身)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega Lilithmon (Devoted) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2010,7 +2010,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021901",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体ルーチェモンSM(冷静)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Ultra Lucemon SM (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2021,7 +2021,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021902",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体ルーチェモンSM(冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Ultra Lucemon SM (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2032,7 +2032,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021903",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体ルーチェモンSM(冷静)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Ultra Lucemon SM (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2043,7 +2043,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021923",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "成長期ルーチェモン[DFQ](勇敢)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Rookie Lucemon [SDQ] (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2054,7 +2054,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021951",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体アルファモン王竜剣(冷静)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Ultra Alphamon Blade of the Dragon King (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2065,7 +2065,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021952",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体アルファモン王竜剣(冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Ultra Alphamon Blade of the Dragon King (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2076,7 +2076,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1021953",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超究極体アルファモン王竜剣(冷静)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Ultra Alphamon Blade of the Dragon King (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体オファニモンFM(勇敢)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Ophanimon FM (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2098,7 +2098,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022002",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体オファニモンFM(勇敢)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega Ophanimon FM (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2109,7 +2109,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022003",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体オファニモンFM(勇敢)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega Ophanimon FM (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2120,7 +2120,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022031",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ベリアルヴァンデモン(器用)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega MaloMyotismon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2131,7 +2131,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022032",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ベリアルヴァンデモン(器用)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega MaloMyotismon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2142,7 +2142,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022053",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "完全体パイルドラモン[DFQ](器用)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Ultimate Paildramon [SDQ] (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2153,7 +2153,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022063",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "成熟期スティングモン[DFQ](冷静)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Champion Stingmon [SDQ] (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2186,7 +2186,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022091",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ウォーグレイモン(器用)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega WarGreymon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2197,7 +2197,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022092",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ウォーグレイモン(器用)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega WarGreymon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2208,7 +2208,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022093",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ウォーグレイモン(器用)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega WarGreymon (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2219,7 +2219,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022101",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体インペリアルドラモンFM(勇敢)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Imperialdramon FM (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2230,7 +2230,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022102",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体インペリアルドラモンFM(勇敢)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega Imperialdramon FM (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2241,7 +2241,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022103",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体インペリアルドラモンFM(勇敢)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega Imperialdramon FM (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2252,7 +2252,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022251",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ディアナモン(冷静)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Dianamon (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2263,7 +2263,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022252",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ディアナモン(冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega Dianamon (Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2274,7 +2274,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022261",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体タイタモン(勇敢)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Titamon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2285,7 +2285,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022262",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体タイタモン(勇敢)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Mega Titamon (Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -2296,7 +2296,7 @@
 			"icon_asset": "icon/item/skillitem/icon_skillitem1022273",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "成長期ルナモン[DFQ](献身)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Rookie Lunamon [SDQ] (Devoted) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -17283,112 +17283,112 @@
 		},
 		{
 			"item_id": "204411001",
-			"item_name": "攻Ⅳ(勇敢 カオスデュークモン)",
+			"item_name": "Attack-IV (Brave - ChaosGallantmon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment204411001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "勇敢のカオスデュークモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Brave ChaosGallantmon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "204411002",
-			"item_name": "攻Ⅳ(勇敢 カオスデュークモン)",
+			"item_name": "Attack-IV (Brave - ChaosGallantmon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment204411001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "勇敢のカオスデュークモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Brave ChaosGallantmon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "204411003",
-			"item_name": "攻Ⅳ(勇敢 カオスデュークモン)",
+			"item_name": "Attack-IV (Brave - ChaosGallantmon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment204411001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "勇敢のカオスデュークモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Brave ChaosGallantmon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "204411004",
-			"item_name": "攻Ⅳ(勇敢 カオスデュークモン)",
+			"item_name": "Attack-IV (Brave - ChaosGallantmon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment204411001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "勇敢のカオスデュークモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Brave ChaosGallantmon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "204411005",
-			"item_name": "攻Ⅳ(勇敢 カオスデュークモン)",
+			"item_name": "Attack-IV (Brave - ChaosGallantmon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment204411001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "勇敢のカオスデュークモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Brave ChaosGallantmon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "204431001",
-			"item_name": "守Ⅳ(勇敢 カオスデュークモン)",
+			"item_name": "Protection-IV (Brave - ChaosGallantmon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment204431001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "勇敢のカオスデュークモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Brave ChaosGallantmon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "204431002",
-			"item_name": "守Ⅳ(勇敢 カオスデュークモン)",
+			"item_name": "Protection-IV (Brave - ChaosGallantmon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment204431001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "勇敢のカオスデュークモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Brave ChaosGallantmon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "204431003",
-			"item_name": "守Ⅳ(勇敢 カオスデュークモン)",
+			"item_name": "Protection-IV (Brave - ChaosGallantmon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment204431001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "勇敢のカオスデュークモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Brave ChaosGallantmon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "204431004",
-			"item_name": "守Ⅳ(勇敢 カオスデュークモン)",
+			"item_name": "Protection-IV (Brave - ChaosGallantmon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment204431001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "勇敢のカオスデュークモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Brave ChaosGallantmon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "204431005",
-			"item_name": "守Ⅳ(勇敢 カオスデュークモン)",
+			"item_name": "Protection-IV (Brave - ChaosGallantmon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment204431001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "勇敢のカオスデュークモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Brave ChaosGallantmon.",
 			"max_amount": "9999"
 		},
 		{
@@ -30907,7 +30907,7 @@
 			"icon_asset": "icon/digitama/icondigitama003",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "A Digimon that will grow into MarineAngemon will hatch.",
+			"description": "A Digimon that will grow into Mega MarineAngemon (Devoted) will hatch.",
 			"max_amount": "9999"
 		},
 		{
@@ -31215,7 +31215,7 @@
 			"icon_asset": "icon/digitama/icondigitama030",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "A Digimon that will grow into Diaboromon will hatch.",
+			"description": "A Digimon that will grow into Mega Diaboromon (Tenacious) will hatch.",
 			"max_amount": "9999"
 		},
 		{
@@ -32265,7 +32265,7 @@
 		},
 		{
 			"item_id": "26007",
-			"item_name": "フィーチャーpt",
+			"item_name": "Spotlight Pts.",
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_007",
@@ -32276,7 +32276,7 @@
 		},
 		{
 			"item_id": "26008",
-			"item_name": "フィーチャーpt",
+			"item_name": "Spotlight Pts.",
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_008",
@@ -32287,7 +32287,7 @@
 		},
 		{
 			"item_id": "26009",
-			"item_name": "フィーチャーpt",
+			"item_name": "Spotlight Pts.",
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_010",
@@ -32298,7 +32298,7 @@
 		},
 		{
 			"item_id": "26010",
-			"item_name": "フィーチャーpt",
+			"item_name": "Spotlight Pts.",
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_011",
@@ -32309,7 +32309,7 @@
 		},
 		{
 			"item_id": "26011",
-			"item_name": "フィーチャーpt",
+			"item_name": "Spotlight Pts.",
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_012",
