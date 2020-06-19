@@ -122,10 +122,10 @@
 		},
 		{
 			"movie_id": "23",
-			"title": "ラセンモン進化",
+			"title": "スティフィルモン進化",
 			"res_manage_type": "0",
 			"movie_file": "scenario039",
-			"bgm_name": "go_bgm_014",
+			"bgm_name": "go_bgm_048",
 			"bgm_starttime": "0"
 		},
 		{
@@ -133,6 +133,14 @@
 			"title": "グラップレオモン進化",
 			"res_manage_type": "0",
 			"movie_file": "scenario041",
+			"bgm_name": "go_bgm_048",
+			"bgm_starttime": "0"
+		},
+		{
+			"movie_id": "25",
+			"title": "チィリンモン進化",
+			"res_manage_type": "0",
+			"movie_file": "scenario042",
 			"bgm_name": "go_bgm_048",
 			"bgm_starttime": "0"
 		},
