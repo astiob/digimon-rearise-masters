@@ -3076,6 +3076,131 @@
 			"digimon_id": "1108106"
 		},
 		{
+			"group_id": "1000226",
+			"sequence": "1",
+			"digimon_id": "1160302"
+		},
+		{
+			"group_id": "1000226",
+			"sequence": "2",
+			"digimon_id": "1160303"
+		},
+		{
+			"group_id": "1000226",
+			"sequence": "3",
+			"digimon_id": "1160304"
+		},
+		{
+			"group_id": "1000226",
+			"sequence": "4",
+			"digimon_id": "1160305"
+		},
+		{
+			"group_id": "1000226",
+			"sequence": "5",
+			"digimon_id": "1160306"
+		},
+		{
+			"group_id": "1000227",
+			"sequence": "2",
+			"digimon_id": "1169102"
+		},
+		{
+			"group_id": "1000227",
+			"sequence": "3",
+			"digimon_id": "1169103"
+		},
+		{
+			"group_id": "1000227",
+			"sequence": "4",
+			"digimon_id": "1169104"
+		},
+		{
+			"group_id": "1000227",
+			"sequence": "5",
+			"digimon_id": "1169105"
+		},
+		{
+			"group_id": "1000228",
+			"sequence": "1",
+			"digimon_id": "1152302"
+		},
+		{
+			"group_id": "1000228",
+			"sequence": "2",
+			"digimon_id": "1152303"
+		},
+		{
+			"group_id": "1000228",
+			"sequence": "3",
+			"digimon_id": "1152304"
+		},
+		{
+			"group_id": "1000228",
+			"sequence": "4",
+			"digimon_id": "1152305"
+		},
+		{
+			"group_id": "1000228",
+			"sequence": "5",
+			"digimon_id": "1152306"
+		},
+		{
+			"group_id": "1000229",
+			"sequence": "2",
+			"digimon_id": "1180402"
+		},
+		{
+			"group_id": "1000229",
+			"sequence": "3",
+			"digimon_id": "1180403"
+		},
+		{
+			"group_id": "1000229",
+			"sequence": "4",
+			"digimon_id": "1180404"
+		},
+		{
+			"group_id": "1000229",
+			"sequence": "5",
+			"digimon_id": "1180405"
+		},
+		{
+			"group_id": "1000230",
+			"sequence": "3",
+			"digimon_id": "1240202"
+		},
+		{
+			"group_id": "1000230",
+			"sequence": "4",
+			"digimon_id": "1240203"
+		},
+		{
+			"group_id": "1000230",
+			"sequence": "5",
+			"digimon_id": "1240204"
+		},
+		{
+			"group_id": "1000231",
+			"sequence": "2",
+			"digimon_id": "1184202"
+		},
+		{
+			"group_id": "1000231",
+			"sequence": "3",
+			"digimon_id": "1184203"
+		},
+		{
+			"group_id": "1000231",
+			"sequence": "4",
+			"digimon_id": "1184204"
+		},
+		{
+			"group_id": "1000231",
+			"sequence": "5",
+			"digimon_id": "1184205"
+		},
+		{
 			"group_id": "100035",
 			"sequence": "1",
 			"digimon_id": "1164402"
@@ -5484,6 +5609,86 @@
 			"group_id": "1500101",
 			"sequence": "4",
 			"digimon_id": "1106305"
+		},
+		{
+			"group_id": "1500110",
+			"sequence": "1",
+			"digimon_id": "1160302"
+		},
+		{
+			"group_id": "1500110",
+			"sequence": "2",
+			"digimon_id": "1160303"
+		},
+		{
+			"group_id": "1500110",
+			"sequence": "3",
+			"digimon_id": "1160304"
+		},
+		{
+			"group_id": "1500110",
+			"sequence": "4",
+			"digimon_id": "1160305"
+		},
+		{
+			"group_id": "1500110",
+			"sequence": "5",
+			"digimon_id": "1160306"
+		},
+		{
+			"group_id": "1500111",
+			"sequence": "1",
+			"digimon_id": "1169102"
+		},
+		{
+			"group_id": "1500111",
+			"sequence": "2",
+			"digimon_id": "1169103"
+		},
+		{
+			"group_id": "1500111",
+			"sequence": "3",
+			"digimon_id": "1169104"
+		},
+		{
+			"group_id": "1500111",
+			"sequence": "4",
+			"digimon_id": "1169105"
+		},
+		{
+			"group_id": "1500120",
+			"sequence": "1",
+			"digimon_id": "1184202"
+		},
+		{
+			"group_id": "1500120",
+			"sequence": "2",
+			"digimon_id": "1184203"
+		},
+		{
+			"group_id": "1500120",
+			"sequence": "3",
+			"digimon_id": "1184204"
+		},
+		{
+			"group_id": "1500120",
+			"sequence": "4",
+			"digimon_id": "1184205"
+		},
+		{
+			"group_id": "1500121",
+			"sequence": "1",
+			"digimon_id": "1240202"
+		},
+		{
+			"group_id": "1500121",
+			"sequence": "2",
+			"digimon_id": "1240203"
+		},
+		{
+			"group_id": "1500121",
+			"sequence": "3",
+			"digimon_id": "1240204"
 		},
 		{
 			"group_id": "151",
@@ -9474,36 +9679,6 @@
 			"group_id": "500150",
 			"sequence": "5",
 			"digimon_id": "1232415"
-		},
-		{
-			"group_id": "62",
-			"sequence": "1",
-			"digimon_id": "1160304"
-		},
-		{
-			"group_id": "62",
-			"sequence": "2",
-			"digimon_id": "1160305"
-		},
-		{
-			"group_id": "62",
-			"sequence": "3",
-			"digimon_id": "1160306"
-		},
-		{
-			"group_id": "63",
-			"sequence": "1",
-			"digimon_id": "1119103"
-		},
-		{
-			"group_id": "63",
-			"sequence": "2",
-			"digimon_id": "1119104"
-		},
-		{
-			"group_id": "63",
-			"sequence": "3",
-			"digimon_id": "1119105"
 		},
 		{
 			"group_id": "66",
