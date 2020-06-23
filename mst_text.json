@@ -10473,6 +10473,10 @@
 			"text": "<size=16>あと</size> {0}"
 		},
 		{
+			"text_id": "3143",
+			"text": "処理中に通信エラーの発生を確認しました。\n<br>・決済が完了しデジルビーが反映されていない\n<br>上記ケースを確認された場合は、\nお問い合わせのほどお願い申し上げます。\n<br>[タイトル] -> [引き継ぎ/サポート] -> [お問い合わせ]"
+		},
+		{
 			"text_id": "315",
 			"text": "{0}ターン"
 		},
@@ -11523,6 +11527,10 @@
 		{
 			"text_id": "490642",
 			"text": "・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
+		},
+		{
+			"text_id": "490651",
+			"text": "・<color=#FFE25AFF>眠り</color><sprite=4>対策をしよう！\n・<color=#FFE25AFF>ATK</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>DEFを上げるプラグイン</color>をセットしよう！"
 		},
 		{
 			"text_id": "491",

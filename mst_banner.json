@@ -913,6 +913,18 @@
 			"extension_data": "{\"shopId\":2,\"information_id\":45331}"
 		},
 		{
+			"banner_id": "10034",
+			"banner_type": "0",
+			"disp_order": "10",
+			"start_date": "2020-06-30 12:00:00",
+			"end_date": "2020-07-15 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner439",
+			"extension_type": "1",
+			"extension_id": "31",
+			"extension_data": "{\"shopId\":2,\"information_id\":45731}"
+		},
+		{
 			"banner_id": "110000",
 			"banner_type": "2",
 			"disp_order": "99",
@@ -2281,6 +2293,18 @@
 			"extension_data": "{\"information_id\":45211}"
 		},
 		{
+			"banner_id": "20076",
+			"banner_type": "0",
+			"disp_order": "21",
+			"start_date": "2020-06-30 12:00:00",
+			"end_date": "2020-07-31 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner536",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":45651}"
+		},
+		{
 			"banner_id": "30000",
 			"banner_type": "0",
 			"disp_order": "31",
@@ -3275,6 +3299,30 @@
 			"extension_type": "2",
 			"extension_id": "45192",
 			"extension_data": "{\"information_id\":45192}"
+		},
+		{
+			"banner_id": "30085",
+			"banner_type": "0",
+			"disp_order": "31",
+			"start_date": "2020-06-30 12:00:00",
+			"end_date": "2020-07-07 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner539",
+			"extension_type": "2",
+			"extension_id": "45630",
+			"extension_data": "{\"information_id\":45630}"
+		},
+		{
+			"banner_id": "30086",
+			"banner_type": "0",
+			"disp_order": "31",
+			"start_date": "2020-07-07 12:00:00",
+			"end_date": "2020-07-15 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner539",
+			"extension_type": "2",
+			"extension_id": "45631",
+			"extension_data": "{\"information_id\":45631}"
 		},
 		{
 			"banner_id": "30100",
@@ -7055,6 +7103,18 @@
 			"extension_type": "1",
 			"extension_id": "23",
 			"extension_data": "{\"information_id\":44671}"
+		},
+		{
+			"banner_id": "70050",
+			"banner_type": "0",
+			"disp_order": "71",
+			"start_date": "2020-06-30 12:00:00",
+			"end_date": "2999-01-01 00:00:00",
+			"event_id": "0",
+			"banner_asset": "banner/banner491",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":45701}"
 		},
 		{
 			"banner_id": "80000",
