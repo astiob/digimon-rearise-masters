@@ -433,6 +433,18 @@
 			"detail_text": "Make final preparations before a battle at \n the Gear Up screen, such as the Team, your Partner, Plugins, and Backup.\n*Cannot call for Backup in the Underworld."
 		},
 		{
+			"help_id": "1066",
+			"help_category_id": "-1",
+			"title_text": "Ranking",
+			"detail_text": "Different rankings will be available for Raid Pts. obtained during Clash Battles and number of defeated enemies.\nIt will be possible to check your individual rankings.\n<br>Types of Rankings\n• <color=#e75600>Raid Pt. Ranking</color>\nThis is ranking is based on Raid Pts. obtained.\n<br>• <color=#e75600>Giant Spirals Defeated Ranking</color>\nThis ranking is based on the number of Giant Spirals defeated.\n(The number defeated will only be added up until Rank 3.)\n<br>• <color=#e75600>Damage to Giant Spirals Ranking</color>\nThis ranking is based on the amount of\ndamage dealt to Giant Spirals during a battle.\n(Even if more damage is dealt than the Giant Spirals' total HP in the final blow,\ncalculated damage for the ranking will be equivalent to the remaining HP.)\n<br>Ranking Period\nRanking Period will be divided into Part One and Part Two.\nIn addition, there will also be a Total ranking that combines both parts.\n<br><color=#c7221d>(Ranking displayed during the event will be updated once every 30 minutes.)</color>\n<color=#c7221d>(Part Two Rankings cannot be checked while Part One Rankings are being tallied.)</color>"
+		},
+		{
+			"help_id": "1067",
+			"help_category_id": "-1",
+			"title_text": "Ranking Rewards",
+			"detail_text": "You can receive rewards based on your ranking in each category.\nThere is a tallying period for each category of ranking. During the tallying period, information on the ranking cannot be accessed.\nFinal results will be displayed once the tallying is complete.\n<br><color=#c7221d>(Any user who participates in any unacceptable activities such as cheating during the tallying period will be excluded from ranking.)</color>\n<color=#c7221d>(Part Two Rankings cannot be checked while Part One Rankings are being tallied.)</color>"
+		},
+		{
 			"help_id": "1068",
 			"help_category_id": "-1",
 			"title_text": "Workout / Awakening / Super Awakening",
@@ -461,6 +473,18 @@
 			"help_category_id": "7",
 			"title_text": "DigiGuilds",
 			"detail_text": "A DigiGuild is a community composed of Tamers.\nAll members of the DigiGuild can enjoy benefits through cooperation.\n<br>Each DigiGuild has a single Leader, \nand all other Tamers within the DigiGuild are Members.\nOne Subleader can be appointed from among the Members.\nA DigiGuild can have a maximum of 40 members, including a Leader.\n<br>To be associated with a DigiGuild, either create one yourself as a Leader, or join another Tamer's DigiGuild.\n<br>You must reach a certain point in the Story to be associated with a DigiGuild."
+		},
+		{
+			"help_id": "1080",
+			"help_category_id": "-1",
+			"title_text": "Clash Battle Event",
+			"detail_text": "Clash Battle Events are battles available for a limited period of time where you team up with other Tamers to take on a powerful foe.\n <br>You will gain Raid Points (Pt.) if you join a Clash Battle and successfully defeat the foe during the event.\n You can also gain Personal Raid Pt. depending on how many Raid Pt. you have earned.\n Furthermore, you can gain Global Raid Pt. Rewards based on the total Raid Points collected by all users.\n <br>Moreover, having a BON Digimon in your team when you defeat the foe will earn you extra points.\n <br>Generally, BON Digimon will have higher stats than usual during a Clash Battle Event.\nYou can find out which Digimon will have a BON effect by checking the Notices for the event."
+		},
+		{
+			"help_id": "1081",
+			"help_category_id": "-1",
+			"title_text": "Clash Battle Event Rules",
+			"detail_text": "Defeating a foe during a Raid Clash Battle will earn you Raid Pt. You can claim an exclusive reward based on the amount of Raid Pt acquired.\n <br>- <color=#e75600>Global Raid Pt. Reward</color>\n A reward based on the total Raid Points collected by all users.\n <br>- <color=#e75600>Personal Raid Pt. Reward</color>\n A reward based on your individual Raid Points earned.\n <br>*You cannot receive rewards for the following:\n - <color=#c7221d>If you find a Clash Battle but do not participate in it.</color>\n - <color=#c7221d>If you dealt no damage to the enemy.</color>\n - <color=#c7221d>If you quit the Clash Battle halfway.</color>\n - <color=#c7221d>If you fail a raid.</color>\n <br><color=#c7221d>*Raids that have expired will be treated as unconquered.</color>\n <color=#c7221d>*During the Clash Battle Event, the details of the Global Raid Pt. Rewards displayed on the Event Top screen is the information at the time of access.</color>\n<color=#c7221d>*Get the latest info by refreshing the Event Top screen.</color>"
 		},
 		{
 			"help_id": "109",
@@ -616,7 +640,7 @@
 			"help_id": "131",
 			"help_category_id": "9",
 			"title_text": "The Shop",
-			"detail_text": "You can purchase DigiRubies and use them for items at the Shop.\nOffered Items change from time to time, so be sure to check out the Shop frequently.\n<br>- <color=#e75600>Purchasing DigiRubies</color>\nYou can purchase DigiRubies with real money.\n- <color=#e75600>Purchasing Items</color>\nYou can spend DigiRubies to purchase items.\n- <color=#e75600>BP Medal Exchange</color>\nExchange BP Medals for items.\n- <color=#e75600>CB Medal Exchange</color>\nExchange CB Medals for items.\n- <color=#e75600>Social Pt. Exchange</color>\nExchange Social Pt. for items.\n- <color=#e75600>DigiOrb Exchange</color>\nExchange DigiOrbs for items."
+			"detail_text": "You can purchase DigiRubies and use them for items at the Shop.\nOffered Items change from time to time, so be sure to check out the Shop frequently.\n<br>• <color=#e75600>Purchasing DigiRubies</color>\nYou can purchase DigiRubies with real money.\n• <color=#e75600>Purchasing Items</color>\nYou can spend DigiRubies to purchase items.\n• <color=#e75600>BP Medal Exchange</color>\nExchange BP Medals for items.\n• <color=#e75600>CB Medal Exchange</color>\nExchange CB Medals for items.\n• <color=#e75600>Social Pt. Exchange</color>\nExchange Social Pt. for items.\n• <color=#e75600>DigiOrb Exchange</color>\nExchange DigiOrbs for items."
 		},
 		{
 			"help_id": "132",
@@ -748,7 +772,7 @@
 			"help_id": "18",
 			"help_category_id": "1",
 			"title_text": "Increase Limit",
-			"detail_text": "There is a limit to the number of Digimon you can acquire as companions—150 in the beginning.\nYou can use DigiRubies to increase this limit.\n<br>In DigiTown, tap the Team icon, then go to Digimon List. From there, you can expand your Digimon limit with the + symbol next to the number at the top-right of your screen.\nYou can do this from other screens as well.\nYou can increase your limit up to 750 Digimon."
+			"detail_text": "There is a limit to the number of Digimon you can acquire as companions.\nYou can use DigiRubies to increase this limit.\n<br>In DigiTown, tap the Train icon, then go to Digimon List. From there, you can expand your Digimon limit with the + symbol next to the number at the top-right of your screen.\nYou can do this from other screens as well."
 		},
 		{
 			"help_id": "19",
@@ -928,7 +952,7 @@
 			"help_id": "46",
 			"help_category_id": "3",
 			"title_text": "Increase Limit",
-			"detail_text": "There is a limit to the number of Plugins you can have—150 in the beginning.\nYou can use DigiRubies to increase this limit.\n<br>In DigiTown, tap the Train icon, then go to Plugin List and tap the + symbol next to the number at the top-right of your screen, indicating how many Plugins you have.\nYou can do this from other screens as well.\nYou can increase your limit up to 750 Plugins."
+			"detail_text": "There is a limit to the number of Plugins you can have.\nYou can use DigiRubies to increase this limit.\n<br>In DigiTown, tap the Train icon, then go to Plugin List and tap the + symbol next to the number at the top-right of your screen, indicating how many Plugins you have.\nYou can do this from other screens as well."
 		},
 		{
 			"help_id": "47",
@@ -977,6 +1001,48 @@
 			"help_category_id": "8",
 			"title_text": "Step-Up Summon",
 			"detail_text": "Step-Up Summons are Summons whose drop rates and bonuses change depending on how many times you use them.\nSteps will be taken each time Summons are used.\nAfter reaching a certain number of Steps, some Summons will return your Steps to 0 or continue to increase them.\nAvailable Digimon vary depending on the Summon; you can check what is available and their drop rate by viewing Summon Rates.\n<br>\nA bonus granting you a guaranteed Digimon or Plugin can be obtained based on your number of Steps or once you have reached a certain number of Steps."
+		},
+		{
+			"help_id": "503",
+			"help_category_id": "3",
+			"title_text": "Exclusive",
+			"detail_text": "There are certain Plugins that can only be set to specified Digimon.\nYou will be unable to set those Plugins to any other Digimon.\nThese Plugins will be marked as \"Exclusive.\""
+		},
+		{
+			"help_id": "504",
+			"help_category_id": "2",
+			"title_text": "Super Awakening",
+			"detail_text": "By using the required Hero Codes, Valiant Codes, Personality Emblems, Super DGV-Codes, and Unique DGV-Codes, a Digimon's level cap may be raised to 100 and above.\nThe type and number of items required for Super Awakening differs according to the Digimon's Personality and Stage."
+		},
+		{
+			"help_id": "505",
+			"help_category_id": "2",
+			"title_text": "How to Super Awaken Digimon",
+			"detail_text": "In DigiTown, tap the Train icon, then go to Workout/Awakening, and select the Digimon you would like to Super Awaken.\n <br>You can Super Awaken your Digimon after fulfilling the following condition:\n- Raise the Digimon to level 99"
+		},
+		{
+			"help_id": "506",
+			"help_category_id": "2",
+			"title_text": "Hero Code",
+			"detail_text": "A Hero Code is an item required to Super Awaken Digimon.\n<br>Hero Codes can be obtained as a reward in the Underworld Dungeon or as a Season Reward (S Rank) in the Battle Park."
+		},
+		{
+			"help_id": "507",
+			"help_category_id": "2",
+			"title_text": "Valiant Code",
+			"detail_text": "A Valiant Code is an item required to Super Awaken Digimon.\n<br>Valiant Codes can be obtained as a Clash Battle reward."
+		},
+		{
+			"help_id": "508",
+			"help_category_id": "2",
+			"title_text": "Personality Emblem",
+			"detail_text": "A Personality Emblem is an item required to Super Awaken Digimon.\n There are 5 in all: Brave Emblem, Calm Emblem, Deft Emblem, Tenacious Emblem, and Devoted Emblem.\n<br>Personality Emblems can be obtained as a reward in the Underworld Dungeon."
+		},
+		{
+			"help_id": "509",
+			"help_category_id": "6",
+			"title_text": "Raging Raid Battle!",
+			"detail_text": "Raging Raid Battle! is a battle available for a limited period of time where you team up with other Tamers to take on a powerful foe.\n <br>Raging Raid Battle! Rules\n Team up with your Partner Digimon and other Tamers' Partner Digimon to fight battles.\n All Tamers that participate and win the battle within the time limit will get Raid rewards!\n Specials cannot be used during battle.\n <br>There are multiple difficulty levels. Clearing one level will unlock the next.\n Once you have cleared a difficulty level, you cannot select it again. However, the levels can be restarted from easy once a day at a predetermined time.\n <br>Team\n Teams are composed of your Partner Digimon and five other Partner Digimon.\n Your team can have Digimon of the same Personality and Digivolution Chain.\n <br>Rewards\n Each difficulty level allows you to earn different rewards.\nFurthermore, the rewards will be sent to the befriended Tamer's Present Box."
 		},
 		{
 			"help_id": "51",
@@ -1276,7 +1342,7 @@
 			"help_id": "96",
 			"help_category_id": "6",
 			"title_text": "Battle Park Seasons",
-			"detail_text": "Battle periods in the Battle Park are called <color=#e75600>Seasons</color>.\nThe time period and time remaining in a Season can be checked via the top screen of the Battle Park.\n<br>Once the Season is over, players will receive rewards based on their Ranks. Please refer to Battle Park Ranks for more information."
+			"detail_text": "Battle periods in the Battle Park are called <color=#e75600>Seasons</color>.\nThe time period and time remaining in a Season can be checked via the top screen of the Battle Park.\n<br>Once the Season is over, players will receive rewards based on their Ranks. Please refer to Battle Park Ranks for more information.\n<br><color=#c7221d>Rankings are updated once every hour.\n\"Season Information\" on the Battle Achievement screen will be updated each Season.</color>"
 		},
 		{
 			"help_id": "97",

@@ -176,6 +176,12 @@
 		},
 		{
 			"category": "DIGIMON",
+			"name": "PART_MAX",
+			"value": "50",
+			"description": "お別れで選択できる最大数"
+		},
+		{
+			"category": "DIGIMON",
 			"name": "PARTNER_INFLUENCE_FRIENDSHIP_VALUE_RATE",
 			"value": "30",
 			"description": "パートナーによるお世話、バトルで獲得する友情ポイントの上昇率(百分率)"

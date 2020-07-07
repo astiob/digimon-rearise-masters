@@ -12,35 +12,35 @@
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "[if)fixed_damage]Deals [@strength][:strength:][/@strength] fixed damage[/if)fixed_damage][elif)fixed_damage]Deals [@strength][:strength:]%[/@strength] damage[/elif)fixed_damage][if)is_multiple_attack] to random enemies.[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack] to a [@target_num]single[/@target_num] enemy.[/elif)is_multiple_attack]"
+			"text": "[if)fixed_damage]Deals [@strength][:strength:][/@strength] fixed damage[/if)fixed_damage][elif)fixed_damage]Deals [@strength][:strength:]%[/@strength] damage[/elif)fixed_damage][if)is_multiple_attack] to random enemies.[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack] to a [@target_num]single[/@target_num] enemy.[/elif)is_multiple_attack][if)is_multiple_attack](Applicable to a [@target_num]single[/@target_num] target.)[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "[if)fixed_damage]Deals [@strength][:strength:][/@strength] fixed damage[/if)fixed_damage][elif)fixed_damage]Deals [@strength][:strength:]%[/@strength] damage[/elif)fixed_damage][if)is_multiple_attack]使用できないですが、[/if)is_multiple_attack][elif)is_multiple_attack] to [@target_num]2[/@target_num] enemies.[/elif)is_multiple_attack]"
+			"text": "[if)fixed_damage]Deals [@strength][:strength:][/@strength] fixed damage[/if)fixed_damage][elif)fixed_damage]Deals [@strength][:strength:]%[/@strength] damage[/elif)fixed_damage][if)is_multiple_attack] to random enemies.[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack] to [@target_num]2[/@target_num] enemies.[/elif)is_multiple_attack][if)is_multiple_attack](Applicable to [@target_num]2[/@target_num] targets at the same time.)[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "[if)fixed_damage]Deals [@strength][:strength:][/@strength] fixed damage[/if)fixed_damage][elif)fixed_damage]Deals [@strength][:strength:]%[/@strength] damage[/elif)fixed_damage][if)is_multiple_attack]使用できないですが、[/if)is_multiple_attack][elif)is_multiple_attack] to [@target_num]3[/@target_num] enemies.[/elif)is_multiple_attack]"
+			"text": "[if)fixed_damage]Deals [@strength][:strength:][/@strength] fixed damage[/if)fixed_damage][elif)fixed_damage]Deals [@strength][:strength:]%[/@strength] damage[/elif)fixed_damage][if)is_multiple_attack] to random enemies.[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack] to [@target_num]3[/@target_num] enemies.[/elif)is_multiple_attack][if)is_multiple_attack](Applicable to [@target_num]3[/@target_num] targets at the same time.)[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "[if)fixed_damage]Deals [@strength][:strength:][/@strength] fixed damage[/if)fixed_damage][elif)fixed_damage]Deals [@strength][:strength:]%[/@strength] damage[/elif)fixed_damage][if)is_multiple_attack]使用できないですが、[/if)is_multiple_attack][elif)is_multiple_attack] to [@target_num]4[/@target_num] enemies.[/elif)is_multiple_attack]"
+			"text": "[if)fixed_damage]Deals [@strength][:strength:][/@strength] fixed damage[/if)fixed_damage][elif)fixed_damage]Deals [@strength][:strength:]%[/@strength] damage[/elif)fixed_damage][if)is_multiple_attack] to random enemies.[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack] to [@target_num]4[/@target_num] enemies.[/elif)is_multiple_attack][if)is_multiple_attack](Applicable to [@target_num]4[/@target_num] targets at the same time.)[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "[if)fixed_damage]Deals [@strength][:strength:][/@strength] fixed damage[/if)fixed_damage][elif)fixed_damage]Deals [@strength][:strength:]%[/@strength] damage[/elif)fixed_damage][if)is_multiple_attack]使用できないですが、[/if)is_multiple_attack][elif)is_multiple_attack] to [@target_num]all[/@target_num] enemies.[/elif)is_multiple_attack]"
+			"text": "[if)fixed_damage]Deals [@strength][:strength:][/@strength] fixed damage[/if)fixed_damage][elif)fixed_damage]Deals [@strength][:strength:]%[/@strength] damage[/elif)fixed_damage][if)is_multiple_attack] to random enemies.[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack] to [@target_num]all[/@target_num] enemies.[/elif)is_multiple_attack][if)is_multiple_attack](Applicable to [@target_num]all[/@target_num] targets at the same time.)[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
@@ -82,35 +82,35 @@
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "Reduce a [@target_num]single[/@target_num] enemy target's buffs by [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce] turns."
+			"text": "Reduce buffs of [elif)is_multiple_attack]a [@target_num]single[/@target_num] enemy target[/elif)is_multiple_attack] [if)is_multiple_attack]targets[/if)is_multiple_attack] by [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce] turns."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "Reduce [@target_num]two[/@target_num] enemy targets' buffs by [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce] turns."
+			"text": "Reduce buffs of [elif)is_multiple_attack][@target_num]2[/@target_num] enemy targets[/elif)is_multiple_attack] [if)is_multiple_attack]targets[/if)is_multiple_attack] by [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce] turns."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "Reduce [@target_num]three[/@target_num] enemy targets' buffs by [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce] turns."
+			"text": "Reduce buffs of [elif)is_multiple_attack][@target_num]3[/@target_num] enemy targets[/elif)is_multiple_attack] [if)is_multiple_attack]targets[/if)is_multiple_attack] by [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce] turns."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "Reduce [@target_num]four[/@target_num] enemy targets' buffs by [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce] turns."
+			"text": "Reduce buffs of [elif)is_multiple_attack][@target_num]4[/@target_num] enemy targets[/elif)is_multiple_attack] [if)is_multiple_attack]targets[/if)is_multiple_attack] by [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce] turns."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "Reduce [@target_num]all[/@target_num] enemy target's buffs by [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce] turns."
+			"text": "Reduce buffs of [elif)is_multiple_attack][@target_num]all[/@target_num] enemy targets[/elif)is_multiple_attack] [if)is_multiple_attack]targets[/if)is_multiple_attack] by [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce] turns."
 		},
 		{
 			"action_efficacy_type": "0",
@@ -533,6 +533,41 @@
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict Paralysis on [@target_num]all[/@target_num] enemy targets. ([@duration][:duration:][/@duration])"
 		},
 		{
+			"action_efficacy_type": "10",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Paralysis on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Paralysis on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Paralysis on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Paralysis on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "10",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Paralysis on target. ([@duration][:duration:][/@duration])"
+		},
+		{
 			"action_efficacy_type": "12",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -601,6 +636,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict Blind on [@target_num]all[/@target_num] enemy targets. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Blind on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Blind on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Blind on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Blind on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "12",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Blind on target. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "13",
@@ -722,6 +792,41 @@
 			"text": "[:updown:] [@target_num]all[/@target_num] enemies' [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
+			"action_efficacy_type": "14",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[:updown:] target's [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "14",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[:updown:] target's [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "14",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[:updown:] target's [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "14",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[:updown:] target's [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "14",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[:updown:] target's [:attack_type:] by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -832,6 +937,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "[:updown:] [@target_num]all[/@target_num] enemies' Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "15",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[:updown:] target's Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "15",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[:updown:] target's Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "15",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[:updown:] target's Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "15",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[:updown:] target's Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "15",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[:updown:] target's Pinpoint Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
@@ -946,6 +1086,41 @@
 			"text": "[:updown:] [@target_num]all[/@target_num] enemies' Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
+			"action_efficacy_type": "16",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[:updown:] target's Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "16",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[:updown:] target's Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "16",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[:updown:] target's Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "16",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[:updown:] target's Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "16",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[:updown:] target's Counter Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -1058,6 +1233,41 @@
 			"text": "[:updown:] [@target_num]all[/@target_num] enemies' Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
+			"action_efficacy_type": "17",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[:updown:] target's Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "17",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[:updown:] target's Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "17",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[:updown:] target's Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "17",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[:updown:] target's Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "17",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[:updown:] target's Block Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
 			"action_efficacy_type": "18",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -1126,6 +1336,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict Shock on [@target_num]all[/@target_num] enemy targets. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Shock on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Shock on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Shock on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Shock on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "18",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Shock on target. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "19",
@@ -1198,6 +1443,41 @@
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict Stun on [@target_num]all[/@target_num] enemy targets. ([@duration][:duration:][/@duration])"
 		},
 		{
+			"action_efficacy_type": "19",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Stun on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Stun on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Stun on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Stun on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "19",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Stun on target. ([@duration][:duration:][/@duration])"
+		},
+		{
 			"action_efficacy_type": "2",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -1266,6 +1546,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict Freeze on [@target_num]all[/@target_num] enemy targets. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Freeze on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Freeze on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Freeze on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Freeze on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "2",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Freeze on target. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "20",
@@ -1338,6 +1653,41 @@
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict Sleep on [@target_num]all[/@target_num] enemy targets. ([@duration][:duration:][/@duration])"
 		},
 		{
+			"action_efficacy_type": "20",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Sleep on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Sleep on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Sleep on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Sleep on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "20",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Sleep on target. ([@duration][:duration:][/@duration])"
+		},
+		{
 			"action_efficacy_type": "21",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -1406,6 +1756,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict Poison on [@target_num]all[/@target_num] enemy targets. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Poison on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Poison on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Poison on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Poison on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "21",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Poison on target. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "22",
@@ -1478,6 +1863,41 @@
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict Error on [@target_num]all[/@target_num] enemy targets. ([@duration][:duration:][/@duration])"
 		},
 		{
+			"action_efficacy_type": "22",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Error on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Error on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Error on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Error on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "22",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Error on target. ([@duration][:duration:][/@duration])"
+		},
+		{
 			"action_efficacy_type": "23",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -1546,6 +1966,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict Skill Lock on [@target_num]all[/@target_num] enemy targets. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Skill Lock on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Skill Lock on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Skill Lock on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Skill Lock on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "23",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Skill Lock on target. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
@@ -1658,6 +2113,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "[:updown:] [@target_num]all[/@target_num] enemies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "25",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[:updown:] target's [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "25",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[:updown:] target's [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "25",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[:updown:] target's [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "25",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[:updown:] target's [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "25",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[:updown:] target's [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "26",
@@ -2934,6 +3424,41 @@
 			"text": "Negate [@target_num]all[/@target_num] enemies' [:text_id_ex:]."
 		},
 		{
+			"action_efficacy_type": "41",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "Negate target's [:text_id_ex:]."
+		},
+		{
+			"action_efficacy_type": "41",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "Negate target's [:text_id_ex:]."
+		},
+		{
+			"action_efficacy_type": "41",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "Negate target's [:text_id_ex:]."
+		},
+		{
+			"action_efficacy_type": "41",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "Negate target's [:text_id_ex:]."
+		},
+		{
+			"action_efficacy_type": "41",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "Negate target's [:text_id_ex:]."
+		},
+		{
 			"action_efficacy_type": "42",
 			"index_in_type": "0",
 			"target_type": "9",
@@ -2967,6 +3492,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict Fade on [@target_num]all[/@target_num] enemies after performing an action [@limit_count][:limit_count:] times[/@limit_count]."
+		},
+		{
+			"action_efficacy_type": "42",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Fade on target after performing an action [@limit_count][:limit_count:] times[/@limit_count]."
+		},
+		{
+			"action_efficacy_type": "42",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Fade on target after performing an action [@limit_count][:limit_count:] times[/@limit_count]."
+		},
+		{
+			"action_efficacy_type": "42",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Fade on target after performing an action [@limit_count][:limit_count:] times[/@limit_count]."
+		},
+		{
+			"action_efficacy_type": "42",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Fade on target after performing an action [@limit_count][:limit_count:] times[/@limit_count]."
+		},
+		{
+			"action_efficacy_type": "42",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Fade on target after performing an action [@limit_count][:limit_count:] times[/@limit_count]."
 		},
 		{
 			"action_efficacy_type": "43",
@@ -3151,6 +3711,41 @@
 			"text": "敵[@target_num]全体[/@target_num]のHP回復量を[@value][:value:]%[/@value]ダウン（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "44",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "Reduces the amount of HP recovered by a target by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "44",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "Reduces the amount of HP recovered by a target by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "44",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "Reduces the amount of HP recovered by a target by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "44",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "Reduces the amount of HP recovered by a target by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "44",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "Reduces the amount of HP recovered by a target by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
 			"action_efficacy_type": "45",
 			"index_in_type": "0",
 			"target_type": "15",
@@ -3221,6 +3816,41 @@
 			"text": "Decrease [@target_num]all[/@target_num] enemies' status abnormality resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
+			"action_efficacy_type": "45",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "Decrease target's status abnormality resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "45",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "Decrease target's status abnormality resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "45",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "Decrease target's status abnormality resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "45",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "Decrease target's status abnormality resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "45",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "Decrease target's status abnormality resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
 			"action_efficacy_type": "46",
 			"index_in_type": "0",
 			"target_type": "9",
@@ -3254,6 +3884,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict one of [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] on [@target_num]all[/@target_num] enemies ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "46",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict one of [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "46",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict one of [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "46",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict one of [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "46",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict one of [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "46",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict one of [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] on target. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "47",
@@ -3408,6 +4073,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict Burn on [@target_num]all[/@target_num] enemy targets. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Burn on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Burn on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Burn on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Burn on target. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "5",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[@rate][:rate:]%[/@rate] chance to inflict Burn on target. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "6",
@@ -3599,6 +4299,41 @@
 			"text": "[:updown:] [@target_num]all[/@target_num] enemies' DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
+			"action_efficacy_type": "7",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[:updown:] target's DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "7",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[:updown:] target's DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "7",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[:updown:] target's DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "7",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[:updown:] target's DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "7",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[:updown:] target's DEF by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -3709,6 +4444,41 @@
 			"target_type": "9",
 			"target_num": "5",
 			"text": "[:updown:] [@target_num]all[/@target_num] enemies' Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "9",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "[:updown:] target's Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "9",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "[:updown:] target's Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "9",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "[:updown:] target's Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "9",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "[:updown:] target's Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "9",
+			"index_in_type": "100",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "[:updown:] target's Critical Rate by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		}
 	]
 }
