@@ -4002,7 +4002,7 @@
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "1回だけ自分の残りHPが[@affect_hp_rate][:affect_hp_rate:]%[/@affect_hp_rate]以下になると、[:text_id_ex:]の効果を付与"
+			"text": "When your remaining health is below [@affect_hp_rate][:affect_hp_rate:]%[/@affect_hp_rate], you will receive the [:text_id_ex:] effect once."
 		},
 		{
 			"action_efficacy_type": "5",
