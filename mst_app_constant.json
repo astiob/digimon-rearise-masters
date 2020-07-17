@@ -573,13 +573,13 @@
 		{
 			"category": "XLB",
 			"name": "RESET_TIME",
-			"value": "04:00",
+			"value": "00:00",
 			"description": "クエストの進捗をリセットする時刻"
 		},
 		{
 			"category": "XLB",
 			"name": "START_DATE",
-			"value": "2120/02/27 17:00:00",
+			"value": "2020/07/27 12:00:00",
 			"description": "Xlb機能が有効となる開始日時\nこれ以降にサークルメニューに表示されます。"
 		}
 	]
