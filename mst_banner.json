@@ -277,6 +277,18 @@
 			"extension_data": "{\"shopId\":2,\"information_id\":1050070}"
 		},
 		{
+			"banner_id": "50010022",
+			"banner_type": "0",
+			"disp_order": "10",
+			"start_date": "2020-07-31 12:00:00",
+			"end_date": "2020-08-17 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner439",
+			"extension_type": "1",
+			"extension_id": "31",
+			"extension_data": "{\"shopId\":2,\"information_id\":1050075}"
+		},
+		{
 			"banner_id": "50020001",
 			"banner_type": "0",
 			"disp_order": "20",
@@ -587,6 +599,18 @@
 			"extension_type": "1",
 			"extension_id": "23",
 			"extension_data": "{\"information_id\":1020057}"
+		},
+		{
+			"banner_id": "50020028",
+			"banner_type": "0",
+			"disp_order": "20",
+			"start_date": "2020-07-31 12:00:00",
+			"end_date": "2020-08-31 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner310",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":1020060}"
 		},
 		{
 			"banner_id": "50020029",
@@ -983,6 +1007,18 @@
 			"extension_type": "2",
 			"extension_id": "1010059",
 			"extension_data": "{\"information_id\":1010059}"
+		},
+		{
+			"banner_id": "50030033",
+			"banner_type": "0",
+			"disp_order": "31",
+			"start_date": "2020-07-31 12:00:00",
+			"end_date": "2020-08-17 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner303",
+			"extension_type": "2",
+			"extension_id": "1010065",
+			"extension_data": "{\"information_id\":1010065}"
 		},
 		{
 			"banner_id": "50040001",
@@ -1393,6 +1429,18 @@
 			"extension_data": "{\"information_id\":1040014}"
 		},
 		{
+			"banner_id": "50040036",
+			"banner_type": "0",
+			"disp_order": "41",
+			"start_date": "2020-07-31 12:00:00",
+			"end_date": "2020-08-05 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner298",
+			"extension_type": "2",
+			"extension_id": "1040015",
+			"extension_data": "{\"information_id\":1040015}"
+		},
+		{
 			"banner_id": "50040037",
 			"banner_type": "0",
 			"disp_order": "41",
@@ -1415,6 +1463,18 @@
 			"extension_type": "2",
 			"extension_id": "1010061",
 			"extension_data": "{\"information_id\":1010061}"
+		},
+		{
+			"banner_id": "50040042",
+			"banner_type": "0",
+			"disp_order": "41",
+			"start_date": "2020-07-31 12:00:00",
+			"end_date": "2020-08-31 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner402",
+			"extension_type": "2",
+			"extension_id": "1010063",
+			"extension_data": "{\"information_id\":1010063}"
 		},
 		{
 			"banner_id": "50040043",

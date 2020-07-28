@@ -10,15 +10,6 @@
 			"position_detail": "6"
 		},
 		{
-			"sequence": "1012",
-			"disp_order": "1",
-			"start_date": "2020-07-27 12:00:00",
-			"end_date": "2020-08-08 23:59:59",
-			"message_text_id": "0",
-			"display_position": "5",
-			"position_detail": "6"
-		},
-		{
 			"sequence": "13024010",
 			"disp_order": "1",
 			"start_date": "2020-01-31 12:00:00",
@@ -141,6 +132,24 @@
 			"start_date": "2020-03-24 12:00:00",
 			"end_date": "2020-03-31 11:59:59",
 			"message_text_id": "2295",
+			"display_position": "2",
+			"position_detail": "3"
+		},
+		{
+			"sequence": "13055011",
+			"disp_order": "1",
+			"start_date": "2020-07-31 12:00:00",
+			"end_date": "2020-08-17 11:59:59",
+			"message_text_id": "2401",
+			"display_position": "2",
+			"position_detail": "3"
+		},
+		{
+			"sequence": "13055012",
+			"disp_order": "1",
+			"start_date": "2020-07-31 12:00:00",
+			"end_date": "2020-08-17 11:59:59",
+			"message_text_id": "2296",
 			"display_position": "2",
 			"position_detail": "3"
 		},
