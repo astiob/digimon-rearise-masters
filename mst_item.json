@@ -1200,6 +1200,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "10159",
+			"item_name": "メタルガルルモン(X抗体)の進化コード",
+			"sort_key": "sort",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10059",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がメタルガルルモン(X抗体)の系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "102",
 			"item_name": "体の特訓チップⅡ",
 			"sort_key": "",
@@ -26016,6 +26027,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "23524",
+			"item_name": "デジモンガシャチケット vol.4",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no004",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンチケットガシャ vol.4を回すことができるチケット(使用期間 2020/08/31 12:00 ～ 2020/11/07 11:59)",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "235422001",
 			"item_name": "攻Ⅳ(冷静 オメガモンズワルトD)",
 			"sort_key": "",
@@ -37244,6 +37266,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンが超限界突破するために必要な個性の証",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280422001",
+			"item_name": "攻Ⅳ(冷静 メタルガルルモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のメタルガルルモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280422002",
+			"item_name": "攻Ⅳ(冷静 メタルガルルモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のメタルガルルモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280422003",
+			"item_name": "攻Ⅳ(冷静 メタルガルルモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のメタルガルルモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280422004",
+			"item_name": "攻Ⅳ(冷静 メタルガルルモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のメタルガルルモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280422005",
+			"item_name": "攻Ⅳ(冷静 メタルガルルモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のメタルガルルモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280432001",
+			"item_name": "守Ⅳ(冷静 メタルガルルモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のメタルガルルモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280432002",
+			"item_name": "守Ⅳ(冷静 メタルガルルモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のメタルガルルモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280432003",
+			"item_name": "守Ⅳ(冷静 メタルガルルモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のメタルガルルモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280432004",
+			"item_name": "守Ⅳ(冷静 メタルガルルモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のメタルガルルモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280432005",
+			"item_name": "守Ⅳ(冷静 メタルガルルモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のメタルガルルモン(X抗体)がセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
