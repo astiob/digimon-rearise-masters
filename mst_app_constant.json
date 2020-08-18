@@ -244,7 +244,7 @@
 			"category": "EXTENSION",
 			"name": "DECO_SLOT_MAX",
 			"value": "300",
-			"description": "デコ枠の最大値\n150⇒300  (2020/02/06 ver1.3.0にて変更)　※海外版は初期150でリリース"
+			"description": "デコ枠の最大値"
 		},
 		{
 			"category": "EXTENSION",
@@ -261,8 +261,8 @@
 		{
 			"category": "EXTENSION",
 			"name": "DIGIMON_SLOT_MAX",
-			"value": "750",
-			"description": "デジモン枠の最大値\n500⇒750 (2020/02/06 ver1.3.0にて変更)　※海外版は初期500でリリース"
+			"value": "800",
+			"description": "デジモン枠の最大値"
 		},
 		{
 			"category": "EXTENSION",
@@ -279,8 +279,8 @@
 		{
 			"category": "EXTENSION",
 			"name": "PLUGIN_SLOT_MAX",
-			"value": "750",
-			"description": "プラグイン枠の最大値\n500⇒750  (2020/02/06 ver1.3.0にて変更)　※海外版は初期500でリリース"
+			"value": "800",
+			"description": "プラグイン枠の最大値"
 		},
 		{
 			"category": "FOOTPRINT",
