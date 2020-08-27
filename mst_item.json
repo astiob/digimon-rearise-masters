@@ -1211,6 +1211,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "10160",
+			"item_name": "ウォーグレイモン(X抗体)の進化コード",
+			"sort_key": "sort",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10060",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がウォーグレイモン(X抗体)の系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "102",
 			"item_name": "体の特訓チップⅡ",
 			"sort_key": "",
@@ -37379,6 +37390,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "280442011",
+			"item_name": "強靭Ⅳ(冷静 メタルガルルモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモン(X抗体)のみがセットでき、ブロック率は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280442012",
+			"item_name": "強靭Ⅳ(冷静 メタルガルルモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモン(X抗体)のみがセットでき、ブロック率は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280442013",
+			"item_name": "強靭Ⅳ(冷静 メタルガルルモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモン(X抗体)のみがセットでき、ブロック率は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280442014",
+			"item_name": "強靭Ⅳ(冷静 メタルガルルモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモン(X抗体)のみがセットでき、ブロック率は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "280442015",
+			"item_name": "強靭Ⅳ(冷静 メタルガルルモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment280442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静メタルガルルモン(X抗体)のみがセットでき、ブロック率は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "28051",
 			"item_name": "献身の証",
 			"sort_key": "ケンシンノアカシ",
@@ -37398,6 +37464,171 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンが超限界突破するために必要なコード",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281411001",
+			"item_name": "攻Ⅳ(勇敢 ウォーグレイモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のウォーグレイモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281411002",
+			"item_name": "攻Ⅳ(勇敢 ウォーグレイモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のウォーグレイモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281411003",
+			"item_name": "攻Ⅳ(勇敢 ウォーグレイモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のウォーグレイモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281411004",
+			"item_name": "攻Ⅳ(勇敢 ウォーグレイモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のウォーグレイモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281411005",
+			"item_name": "攻Ⅳ(勇敢 ウォーグレイモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のウォーグレイモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281431001",
+			"item_name": "守Ⅳ(勇敢 ウォーグレイモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のウォーグレイモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281431002",
+			"item_name": "守Ⅳ(勇敢 ウォーグレイモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のウォーグレイモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281431003",
+			"item_name": "守Ⅳ(勇敢 ウォーグレイモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のウォーグレイモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281431004",
+			"item_name": "守Ⅳ(勇敢 ウォーグレイモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のウォーグレイモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281431005",
+			"item_name": "守Ⅳ(勇敢 ウォーグレイモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のウォーグレイモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281441011",
+			"item_name": "暴速Ⅳ(勇敢 ウォーグレイモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢ウォーグレイモン(X抗体)のみがセットでき、狙い撃ち率の値は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281441012",
+			"item_name": "暴速Ⅳ(勇敢 ウォーグレイモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢ウォーグレイモン(X抗体)のみがセットでき、狙い撃ち率の値は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281441013",
+			"item_name": "暴速Ⅳ(勇敢 ウォーグレイモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢ウォーグレイモン(X抗体)のみがセットでき、狙い撃ち率の値は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281441014",
+			"item_name": "暴速Ⅳ(勇敢 ウォーグレイモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢ウォーグレイモン(X抗体)のみがセットでき、狙い撃ち率の値は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "281441015",
+			"item_name": "暴速Ⅳ(勇敢 ウォーグレイモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment281441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢ウォーグレイモン(X抗体)のみがセットでき、狙い撃ち率の値は下がるが、よりSPDの値をプラスにする古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
