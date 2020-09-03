@@ -224,6 +224,18 @@
 		},
 		{
 			"category": "EC",
+			"name": "HARD_FLOOR_RELEASE_DATE",
+			"value": "2020/09/08 14:00:00",
+			"description": "16階層以降の処理が有効となる日時。\nこの日時前は1~15階層の表示となる。"
+		},
+		{
+			"category": "EC",
+			"name": "HARD_FLOOR_VALUE",
+			"value": "16",
+			"description": "HARDになる階層。"
+		},
+		{
+			"category": "EC",
 			"name": "START_DATE",
 			"value": "2019-10-03 14:00:00",
 			"description": "エンドコンテンツが有効となる日時"
@@ -236,9 +248,21 @@
 		},
 		{
 			"category": "EC",
+			"name": "XANTIBODY_KILLER_JSON_VALUE",
+			"value": "{\"value\":0,\"sharpshoot_rate\":100}",
+			"description": "X抗体(キラー)のjson_value相当。"
+		},
+		{
+			"category": "EC",
 			"name": "XANTIBODY_SLAYER_ID",
 			"value": "[46550]",
 			"description": "UWDでX抗体に適応するSlayerMasterのslayer_idの配列"
+		},
+		{
+			"category": "EC",
+			"name": "XANTIBODY_UWD_PASSIVE_SKILL_ID",
+			"value": "[126720504]",
+			"description": "HARD_FLOOR_RELEASE_DATE 以降に有効となる UWDで発動するX抗体デジモンのパッシブスキルのスキルIDの配列。"
 		},
 		{
 			"category": "EXTENSION",
