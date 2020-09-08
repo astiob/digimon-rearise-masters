@@ -3,7 +3,7 @@
 		{
 			"rank_id": "1",
 			"rank_group_id": "1",
-			"name": "Rookie Tamer<sprite=5>",
+			"name": "루키 테이머<sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank025",
 			"min_bp_point": "1000",
 			"max_bp_point": "1099"
@@ -11,7 +11,7 @@
 		{
 			"rank_id": "10",
 			"rank_group_id": "4",
-			"name": "Elite Tamer<sprite=5>",
+			"name": "엘리트 테이머<sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank016",
 			"min_bp_point": "1900",
 			"max_bp_point": "1999"
@@ -19,7 +19,7 @@
 		{
 			"rank_id": "11",
 			"rank_group_id": "4",
-			"name": "Elite Tamer<sprite=5><sprite=5>",
+			"name": "엘리트 테이머<sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank015",
 			"min_bp_point": "2000",
 			"max_bp_point": "2199"
@@ -27,7 +27,7 @@
 		{
 			"rank_id": "12",
 			"rank_group_id": "4",
-			"name": "Elite Tamer<sprite=5><sprite=5><sprite=5>",
+			"name": "엘리트 테이머<sprite=5><sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank014",
 			"min_bp_point": "2200",
 			"max_bp_point": "2399"
@@ -35,7 +35,7 @@
 		{
 			"rank_id": "13",
 			"rank_group_id": "5",
-			"name": "Veteran Tamer<sprite=5>",
+			"name": "베테랑 테이머<sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank013",
 			"min_bp_point": "2400",
 			"max_bp_point": "2599"
@@ -43,7 +43,7 @@
 		{
 			"rank_id": "14",
 			"rank_group_id": "5",
-			"name": "Veteran Tamer<sprite=5><sprite=5>",
+			"name": "베테랑 테이머<sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank012",
 			"min_bp_point": "2600",
 			"max_bp_point": "2799"
@@ -51,7 +51,7 @@
 		{
 			"rank_id": "15",
 			"rank_group_id": "5",
-			"name": "Veteran Tamer<sprite=5><sprite=5><sprite=5>",
+			"name": "베테랑 테이머<sprite=5><sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank011",
 			"min_bp_point": "2800",
 			"max_bp_point": "2999"
@@ -59,7 +59,7 @@
 		{
 			"rank_id": "16",
 			"rank_group_id": "6",
-			"name": "Ace Tamer<sprite=5>",
+			"name": "에이스 테이머<sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank010",
 			"min_bp_point": "3000",
 			"max_bp_point": "3199"
@@ -67,7 +67,7 @@
 		{
 			"rank_id": "17",
 			"rank_group_id": "6",
-			"name": "Ace Tamer<sprite=5><sprite=5>",
+			"name": "에이스 테이머<sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank009",
 			"min_bp_point": "3200",
 			"max_bp_point": "3399"
@@ -75,7 +75,7 @@
 		{
 			"rank_id": "18",
 			"rank_group_id": "6",
-			"name": "Ace Tamer<sprite=5><sprite=5><sprite=5>",
+			"name": "에이스 테이머<sprite=5><sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank008",
 			"min_bp_point": "3400",
 			"max_bp_point": "3599"
@@ -83,7 +83,7 @@
 		{
 			"rank_id": "19",
 			"rank_group_id": "7",
-			"name": "Grand Tamer<sprite=5>",
+			"name": "그랜드 테이머<sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank007",
 			"min_bp_point": "3600",
 			"max_bp_point": "3799"
@@ -91,7 +91,7 @@
 		{
 			"rank_id": "2",
 			"rank_group_id": "1",
-			"name": "Rookie Tamer<sprite=5><sprite=5>",
+			"name": "루키 테이머<sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank024",
 			"min_bp_point": "1100",
 			"max_bp_point": "1199"
@@ -99,7 +99,7 @@
 		{
 			"rank_id": "20",
 			"rank_group_id": "7",
-			"name": "Grand Tamer<sprite=5><sprite=5>",
+			"name": "그랜드 테이머<sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank006",
 			"min_bp_point": "3800",
 			"max_bp_point": "3999"
@@ -107,7 +107,7 @@
 		{
 			"rank_id": "21",
 			"rank_group_id": "7",
-			"name": "Grand Tamer<sprite=5><sprite=5><sprite=5>",
+			"name": "그랜드 테이머<sprite=5><sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank005",
 			"min_bp_point": "4000",
 			"max_bp_point": "4299"
@@ -115,7 +115,7 @@
 		{
 			"rank_id": "22",
 			"rank_group_id": "8",
-			"name": "Master Tamer<sprite=5>",
+			"name": "마스터 테이머<sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank004",
 			"min_bp_point": "4300",
 			"max_bp_point": "4599"
@@ -123,7 +123,7 @@
 		{
 			"rank_id": "23",
 			"rank_group_id": "8",
-			"name": "Master Tamer<sprite=5><sprite=5>",
+			"name": "마스터 테이머<sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank003",
 			"min_bp_point": "4600",
 			"max_bp_point": "4899"
@@ -131,7 +131,7 @@
 		{
 			"rank_id": "24",
 			"rank_group_id": "8",
-			"name": "Master Tamer<sprite=5><sprite=5><sprite=5>",
+			"name": "마스터 테이머<sprite=5><sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank002",
 			"min_bp_point": "4900",
 			"max_bp_point": "4999"
@@ -139,7 +139,7 @@
 		{
 			"rank_id": "25",
 			"rank_group_id": "9",
-			"name": "Champion Tamer",
+			"name": "챔피언 테이머",
 			"icon_asset": "icon/rank/icon_bprank001",
 			"min_bp_point": "5000",
 			"max_bp_point": "5499"
@@ -147,7 +147,7 @@
 		{
 			"rank_id": "26",
 			"rank_group_id": "10",
-			"name": "Legendary Tamer",
+			"name": "레전드 테이머",
 			"icon_asset": "icon/rank/icon_bprank000",
 			"min_bp_point": "5500",
 			"max_bp_point": "9999"
@@ -155,7 +155,7 @@
 		{
 			"rank_id": "3",
 			"rank_group_id": "1",
-			"name": "Rookie Tamer<sprite=5><sprite=5><sprite=5>",
+			"name": "루키 테이머<sprite=5><sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank023",
 			"min_bp_point": "1200",
 			"max_bp_point": "1299"
@@ -163,7 +163,7 @@
 		{
 			"rank_id": "4",
 			"rank_group_id": "2",
-			"name": "Amateur Tamer<sprite=5>",
+			"name": "아마추어 테이머<sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank022",
 			"min_bp_point": "1300",
 			"max_bp_point": "1399"
@@ -171,7 +171,7 @@
 		{
 			"rank_id": "5",
 			"rank_group_id": "2",
-			"name": "Amateur Tamer<sprite=5><sprite=5>",
+			"name": "아마추어 테이머<sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank021",
 			"min_bp_point": "1400",
 			"max_bp_point": "1499"
@@ -179,7 +179,7 @@
 		{
 			"rank_id": "6",
 			"rank_group_id": "2",
-			"name": "Amateur Tamer<sprite=5><sprite=5><sprite=5>",
+			"name": "아마추어 테이머<sprite=5><sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank020",
 			"min_bp_point": "1500",
 			"max_bp_point": "1599"
@@ -187,7 +187,7 @@
 		{
 			"rank_id": "7",
 			"rank_group_id": "3",
-			"name": "Casual Tamer<sprite=5>",
+			"name": "캐주얼 테이머<sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank019",
 			"min_bp_point": "1600",
 			"max_bp_point": "1699"
@@ -195,7 +195,7 @@
 		{
 			"rank_id": "8",
 			"rank_group_id": "3",
-			"name": "Casual Tamer<sprite=5><sprite=5>",
+			"name": "캐주얼 테이머<sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank018",
 			"min_bp_point": "1700",
 			"max_bp_point": "1799"
@@ -203,7 +203,7 @@
 		{
 			"rank_id": "9",
 			"rank_group_id": "3",
-			"name": "Casual Tamer<sprite=5><sprite=5><sprite=5>",
+			"name": "캐주얼 테이머<sprite=5><sprite=5><sprite=5>",
 			"icon_asset": "icon/rank/icon_bprank017",
 			"min_bp_point": "1800",
 			"max_bp_point": "1899"
