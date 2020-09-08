@@ -1,18 +1,6 @@
 {
 	"masterRows": [
 		{
-			"slayer_id": "10",
-			"display_type": "1",
-			"sequence": "1",
-			"text_id": "2955"
-		},
-		{
-			"slayer_id": "10",
-			"display_type": "2",
-			"sequence": "1",
-			"text_id": "2956"
-		},
-		{
 			"slayer_id": "1001062",
 			"display_type": "1",
 			"sequence": "1",
@@ -260,6 +248,18 @@
 		},
 		{
 			"slayer_id": "1001419",
+			"display_type": "2",
+			"sequence": "1",
+			"text_id": "2295"
+		},
+		{
+			"slayer_id": "1001420",
+			"display_type": "1",
+			"sequence": "1",
+			"text_id": "2296"
+		},
+		{
+			"slayer_id": "1001420",
 			"display_type": "2",
 			"sequence": "1",
 			"text_id": "2295"
@@ -560,30 +560,6 @@
 		},
 		{
 			"slayer_id": "43030",
-			"display_type": "2",
-			"sequence": "1",
-			"text_id": "2295"
-		},
-		{
-			"slayer_id": "43580",
-			"display_type": "1",
-			"sequence": "1",
-			"text_id": "2296"
-		},
-		{
-			"slayer_id": "43580",
-			"display_type": "2",
-			"sequence": "1",
-			"text_id": "2295"
-		},
-		{
-			"slayer_id": "43581",
-			"display_type": "1",
-			"sequence": "1",
-			"text_id": "2296"
-		},
-		{
-			"slayer_id": "43581",
 			"display_type": "2",
 			"sequence": "1",
 			"text_id": "2295"
@@ -632,6 +608,54 @@
 		},
 		{
 			"slayer_id": "45180",
+			"display_type": "2",
+			"sequence": "1",
+			"text_id": "2295"
+		},
+		{
+			"slayer_id": "45190",
+			"display_type": "1",
+			"sequence": "1",
+			"text_id": "2296"
+		},
+		{
+			"slayer_id": "45190",
+			"display_type": "2",
+			"sequence": "1",
+			"text_id": "2295"
+		},
+		{
+			"slayer_id": "45630",
+			"display_type": "1",
+			"sequence": "1",
+			"text_id": "2296"
+		},
+		{
+			"slayer_id": "45630",
+			"display_type": "2",
+			"sequence": "1",
+			"text_id": "2295"
+		},
+		{
+			"slayer_id": "45640",
+			"display_type": "1",
+			"sequence": "1",
+			"text_id": "2296"
+		},
+		{
+			"slayer_id": "45640",
+			"display_type": "2",
+			"sequence": "1",
+			"text_id": "2295"
+		},
+		{
+			"slayer_id": "46260",
+			"display_type": "1",
+			"sequence": "1",
+			"text_id": "2296"
+		},
+		{
+			"slayer_id": "46260",
 			"display_type": "2",
 			"sequence": "1",
 			"text_id": "2295"

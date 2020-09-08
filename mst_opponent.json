@@ -1,56 +1,6 @@
 {
 	"masterRows": [
 		{
-			"battle_id": "0",
-			"wave": "1",
-			"party_index": "5",
-			"digimon_id": "1006302",
-			"level": "1",
-			"bit": "0",
-			"item_drop_group": "",
-			"enemy_type": "0"
-		},
-		{
-			"battle_id": "0",
-			"wave": "1",
-			"party_index": "6",
-			"digimon_id": "1033302",
-			"level": "1",
-			"bit": "0",
-			"item_drop_group": "60100013",
-			"enemy_type": "0"
-		},
-		{
-			"battle_id": "0",
-			"wave": "2",
-			"party_index": "7",
-			"digimon_id": "1006302",
-			"level": "1",
-			"bit": "0",
-			"item_drop_group": "60100011",
-			"enemy_type": "0"
-		},
-		{
-			"battle_id": "0",
-			"wave": "2",
-			"party_index": "8",
-			"digimon_id": "1033302",
-			"level": "1",
-			"bit": "2400",
-			"item_drop_group": "60110012",
-			"enemy_type": "1"
-		},
-		{
-			"battle_id": "0",
-			"wave": "2",
-			"party_index": "9",
-			"digimon_id": "1006302",
-			"level": "1",
-			"bit": "0",
-			"item_drop_group": "60100014",
-			"enemy_type": "0"
-		},
-		{
 			"battle_id": "100001",
 			"wave": "1",
 			"party_index": "2",
@@ -28991,6 +28941,1866 @@
 			"enemy_type": "2"
 		},
 		{
+			"battle_id": "110502",
+			"wave": "1",
+			"party_index": "5",
+			"digimon_id": "2009303",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "11050103",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110502",
+			"wave": "1",
+			"party_index": "6",
+			"digimon_id": "2010303",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050102",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110502",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2009303",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "11050101",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110502",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2022303",
+			"level": "10",
+			"bit": "3600",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110502",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2009303",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050105",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110503",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2017303",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "11050206",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110503",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2006403",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110503",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2017303",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "11050203",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110503",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "2006403",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "11050205",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110503",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "2012403",
+			"level": "12",
+			"bit": "3600",
+			"item_drop_group": "11050201",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110504",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2009303",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050303",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110504",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2022303",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050302",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110504",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2009303",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050304",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110504",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "2005102",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050301",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110504",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "2005102",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050305",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110504",
+			"wave": "3",
+			"party_index": "5",
+			"digimon_id": "2022303",
+			"level": "15",
+			"bit": "3600",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110504",
+			"wave": "3",
+			"party_index": "6",
+			"digimon_id": "2022303",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110505",
+			"wave": "1",
+			"party_index": "5",
+			"digimon_id": "2017203",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050401",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110505",
+			"wave": "1",
+			"party_index": "6",
+			"digimon_id": "2017203",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11050403",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110505",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "2006403",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110505",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "2006403",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050405",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110505",
+			"wave": "3",
+			"party_index": "5",
+			"digimon_id": "2015203",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110505",
+			"wave": "3",
+			"party_index": "6",
+			"digimon_id": "2015303",
+			"level": "12",
+			"bit": "3600",
+			"item_drop_group": "11050406",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110506",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2015203",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050503",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110506",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2018103",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050501",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110506",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2015203",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110506",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "2013403",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11050505",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110506",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "2013403",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050502",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110506",
+			"wave": "3",
+			"party_index": "5",
+			"digimon_id": "2015303",
+			"level": "12",
+			"bit": "3600",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110506",
+			"wave": "3",
+			"party_index": "6",
+			"digimon_id": "2015303",
+			"level": "12",
+			"bit": "0",
+			"item_drop_group": "11050501",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110507",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2011203",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11050603",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110507",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2013303",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11050601",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110507",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2011203",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11050605",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110507",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "2015303",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11050604",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110507",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "2013403",
+			"level": "15",
+			"bit": "3600",
+			"item_drop_group": "11050606",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110508",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2021202",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11050703",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110508",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2022103",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11050701",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110508",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2021202",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11050705",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110508",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "2018103",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "11050702",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110508",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "2015203",
+			"level": "10",
+			"bit": "3600",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110509",
+			"wave": "1",
+			"party_index": "0",
+			"digimon_id": "2011203",
+			"level": "17",
+			"bit": "0",
+			"item_drop_group": "11050803",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110509",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "1146403",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11050801",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110509",
+			"wave": "1",
+			"party_index": "2",
+			"digimon_id": "2014303",
+			"level": "17",
+			"bit": "0",
+			"item_drop_group": "11050805",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110509",
+			"wave": "1",
+			"party_index": "3",
+			"digimon_id": "2011203",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11050806",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110509",
+			"wave": "1",
+			"party_index": "4",
+			"digimon_id": "1146403",
+			"level": "15",
+			"bit": "3600",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110510",
+			"wave": "1",
+			"party_index": "5",
+			"digimon_id": "2012103",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11050903",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110510",
+			"wave": "1",
+			"party_index": "6",
+			"digimon_id": "1146403",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110510",
+			"wave": "2",
+			"party_index": "10",
+			"digimon_id": "2022103",
+			"level": "14",
+			"bit": "0",
+			"item_drop_group": "11050905",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110510",
+			"wave": "2",
+			"party_index": "11",
+			"digimon_id": "1020404",
+			"level": "15",
+			"bit": "3600",
+			"item_drop_group": "11050904",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110510",
+			"wave": "2",
+			"party_index": "12",
+			"digimon_id": "2023403",
+			"level": "14",
+			"bit": "0",
+			"item_drop_group": "11050901",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110510",
+			"wave": "2",
+			"party_index": "13",
+			"digimon_id": "1146403",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11050902",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110511",
+			"wave": "1",
+			"party_index": "10",
+			"digimon_id": "2013403",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11051003",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110511",
+			"wave": "1",
+			"party_index": "11",
+			"digimon_id": "2012103",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11051005",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110511",
+			"wave": "1",
+			"party_index": "12",
+			"digimon_id": "2015303",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11051001",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110511",
+			"wave": "1",
+			"party_index": "13",
+			"digimon_id": "2013403",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11051006",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110511",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "2008303",
+			"level": "20",
+			"bit": "3600",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110511",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "2012103",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11051005",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110512",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2017303",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110512",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2014303",
+			"level": "17",
+			"bit": "0",
+			"item_drop_group": "11051101",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110512",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2017303",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11051102",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110512",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "1265204",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11051103",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110512",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "1264104",
+			"level": "16",
+			"bit": "3600",
+			"item_drop_group": "11051105",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110513",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2020204",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11051203",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110513",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2020204",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11051201",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110513",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2020204",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11051205",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110513",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2005102",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11051206",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110513",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2036405",
+			"level": "20",
+			"bit": "3600",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110513",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2005102",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11051204",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110514",
+			"wave": "1",
+			"party_index": "5",
+			"digimon_id": "2020204",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11051301",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110514",
+			"wave": "1",
+			"party_index": "6",
+			"digimon_id": "2013403",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11051302",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110514",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2020204",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11051303",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110514",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2013403",
+			"level": "18",
+			"bit": "3600",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110514",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2020204",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11051305",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110515",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2011203",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11051401",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110515",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2021202",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11051403",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110515",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2011203",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11051405",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110515",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2013403",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11051406",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110515",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2020204",
+			"level": "20",
+			"bit": "3600",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110515",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2013403",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110516",
+			"wave": "1",
+			"party_index": "5",
+			"digimon_id": "2012103",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11051501",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110516",
+			"wave": "1",
+			"party_index": "6",
+			"digimon_id": "2012103",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11051505",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110516",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2023403",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11051504",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110516",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2020204",
+			"level": "10",
+			"bit": "3600",
+			"item_drop_group": "11051503",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110516",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2023403",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11051502",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110517",
+			"wave": "1",
+			"party_index": "10",
+			"digimon_id": "2022103",
+			"level": "21",
+			"bit": "0",
+			"item_drop_group": "11051602",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110517",
+			"wave": "1",
+			"party_index": "11",
+			"digimon_id": "2015303",
+			"level": "21",
+			"bit": "0",
+			"item_drop_group": "11051604",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110517",
+			"wave": "1",
+			"party_index": "12",
+			"digimon_id": "2015303",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11051601",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110517",
+			"wave": "1",
+			"party_index": "13",
+			"digimon_id": "2022103",
+			"level": "21",
+			"bit": "0",
+			"item_drop_group": "11051605",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110517",
+			"wave": "2",
+			"party_index": "0",
+			"digimon_id": "2020204",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11051603",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110517",
+			"wave": "2",
+			"party_index": "1",
+			"digimon_id": "2013403",
+			"level": "21",
+			"bit": "0",
+			"item_drop_group": "11051601",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110517",
+			"wave": "2",
+			"party_index": "2",
+			"digimon_id": "1083205",
+			"level": "10",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "110517",
+			"wave": "2",
+			"party_index": "3",
+			"digimon_id": "2013403",
+			"level": "21",
+			"bit": "0",
+			"item_drop_group": "11051604",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110517",
+			"wave": "2",
+			"party_index": "4",
+			"digimon_id": "2020204",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11051605",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110602",
+			"wave": "1",
+			"party_index": "10",
+			"digimon_id": "2008303",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11060103",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110602",
+			"wave": "1",
+			"party_index": "11",
+			"digimon_id": "2006203",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11060102",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110602",
+			"wave": "1",
+			"party_index": "12",
+			"digimon_id": "2006203",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11060101",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110602",
+			"wave": "1",
+			"party_index": "13",
+			"digimon_id": "2008303",
+			"level": "14",
+			"bit": "0",
+			"item_drop_group": "11060105",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110602",
+			"wave": "2",
+			"party_index": "2",
+			"digimon_id": "1264104",
+			"level": "15",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110603",
+			"wave": "1",
+			"party_index": "5",
+			"digimon_id": "2015303",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11060206",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110603",
+			"wave": "1",
+			"party_index": "6",
+			"digimon_id": "2015303",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11060203",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110603",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2023403",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11060201",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110603",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2015303",
+			"level": "14",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110603",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2023403",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11060205",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110604",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2022203",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060303",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110604",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2023403",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060302",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110604",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2022203",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060304",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110604",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2015303",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060301",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110604",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2015203",
+			"level": "16",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110604",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2023403",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060305",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110605",
+			"wave": "1",
+			"party_index": "5",
+			"digimon_id": "2023403",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060401",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110605",
+			"wave": "1",
+			"party_index": "6",
+			"digimon_id": "2023403",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060403",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110605",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "2015203",
+			"level": "17",
+			"bit": "0",
+			"item_drop_group": "11060406",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110605",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "2015203",
+			"level": "17",
+			"bit": "0",
+			"item_drop_group": "11060405",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110605",
+			"wave": "3",
+			"party_index": "2",
+			"digimon_id": "1275204",
+			"level": "",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110606",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2011203",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11060503",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110606",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2012403",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11060501",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110606",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2011203",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110606",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2012103",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060505",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110606",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2011203",
+			"level": "17",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110606",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2012103",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060502",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110607",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2008403",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060603",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110607",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2008403",
+			"level": "17",
+			"bit": "0",
+			"item_drop_group": "11060601",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110607",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2008403",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060605",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110607",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "2015203",
+			"level": "17",
+			"bit": "0",
+			"item_drop_group": "11060604",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110607",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "2015203",
+			"level": "17",
+			"bit": "4000",
+			"item_drop_group": "11060606",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110608",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2013303",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060703",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110608",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2011203",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11060701",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110608",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2013303",
+			"level": "17",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110608",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2011203",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060702",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110608",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2022203",
+			"level": "18",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110608",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2011203",
+			"level": "16",
+			"bit": "0",
+			"item_drop_group": "11060705",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110609",
+			"wave": "1",
+			"party_index": "5",
+			"digimon_id": "2014303",
+			"level": "17",
+			"bit": "0",
+			"item_drop_group": "11060803",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110609",
+			"wave": "1",
+			"party_index": "6",
+			"digimon_id": "2017203",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11060801",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110609",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2017203",
+			"level": "19",
+			"bit": "0",
+			"item_drop_group": "11060805",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110609",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2014303",
+			"level": "18",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110609",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2017203",
+			"level": "19",
+			"bit": "0",
+			"item_drop_group": "11060806",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110610",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2015303",
+			"level": "19",
+			"bit": "0",
+			"item_drop_group": "11060903",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110610",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2015303",
+			"level": "19",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110610",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2015303",
+			"level": "19",
+			"bit": "0",
+			"item_drop_group": "11060905",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110610",
+			"wave": "2",
+			"party_index": "0",
+			"digimon_id": "2022203",
+			"level": "17",
+			"bit": "0",
+			"item_drop_group": "11060901",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110610",
+			"wave": "2",
+			"party_index": "1",
+			"digimon_id": "2018103",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11060902",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110610",
+			"wave": "2",
+			"party_index": "2",
+			"digimon_id": "2023403",
+			"level": "17",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110610",
+			"wave": "2",
+			"party_index": "3",
+			"digimon_id": "2018103",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11060904",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110610",
+			"wave": "2",
+			"party_index": "4",
+			"digimon_id": "2022203",
+			"level": "17",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110611",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2014303",
+			"level": "19",
+			"bit": "0",
+			"item_drop_group": "11061003",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110611",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2023403",
+			"level": "19",
+			"bit": "0",
+			"item_drop_group": "11061005",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110611",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2014303",
+			"level": "19",
+			"bit": "0",
+			"item_drop_group": "11061001",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110611",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2023403",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110611",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2014303",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11061006",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110611",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2023403",
+			"level": "18",
+			"bit": "0",
+			"item_drop_group": "11061005",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110611",
+			"wave": "3",
+			"party_index": "2",
+			"digimon_id": "1274104",
+			"level": "18",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110612",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2012103",
+			"level": "21",
+			"bit": "0",
+			"item_drop_group": "11061105",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110612",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2012103",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11061101",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110612",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2012103",
+			"level": "21",
+			"bit": "0",
+			"item_drop_group": "11061102",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110612",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "2014303",
+			"level": "22",
+			"bit": "0",
+			"item_drop_group": "11061103",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110612",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "2014303",
+			"level": "22",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110613",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2018103",
+			"level": "19",
+			"bit": "0",
+			"item_drop_group": "11061203",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110613",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2019503",
+			"level": "22",
+			"bit": "0",
+			"item_drop_group": "11061201",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110613",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2018103",
+			"level": "19",
+			"bit": "0",
+			"item_drop_group": "11061205",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110613",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2022303",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11061206",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110613",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2018103",
+			"level": "22",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110613",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2022303",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11061204",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110614",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2023403",
+			"level": "21",
+			"bit": "0",
+			"item_drop_group": "11061301",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110614",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2018103",
+			"level": "23",
+			"bit": "0",
+			"item_drop_group": "11061302",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110614",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2023403",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110614",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "2023403",
+			"level": "23",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110614",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "2023403",
+			"level": "21",
+			"bit": "0",
+			"item_drop_group": "11061303",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110614",
+			"wave": "3",
+			"party_index": "2",
+			"digimon_id": "1083205",
+			"level": "25",
+			"bit": "4000",
+			"item_drop_group": "11061305",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110615",
+			"wave": "1",
+			"party_index": "7",
+			"digimon_id": "2015303",
+			"level": "19",
+			"bit": "0",
+			"item_drop_group": "11061401",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110615",
+			"wave": "1",
+			"party_index": "8",
+			"digimon_id": "2018103",
+			"level": "21",
+			"bit": "0",
+			"item_drop_group": "11061403",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110615",
+			"wave": "1",
+			"party_index": "9",
+			"digimon_id": "2015303",
+			"level": "19",
+			"bit": "0",
+			"item_drop_group": "11061405",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110615",
+			"wave": "2",
+			"party_index": "5",
+			"digimon_id": "2023403",
+			"level": "23",
+			"bit": "0",
+			"item_drop_group": "11061406",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110615",
+			"wave": "2",
+			"party_index": "6",
+			"digimon_id": "2023403",
+			"level": "22",
+			"bit": "4000",
+			"item_drop_group": "0",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110616",
+			"wave": "1",
+			"party_index": "5",
+			"digimon_id": "2007203",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11061501",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110616",
+			"wave": "1",
+			"party_index": "6",
+			"digimon_id": "2007203",
+			"level": "21",
+			"bit": "0",
+			"item_drop_group": "11061505",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110616",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2014303",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11061504",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110616",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2008403",
+			"level": "23",
+			"bit": "4000",
+			"item_drop_group": "11061503",
+			"enemy_type": "1"
+		},
+		{
+			"battle_id": "110616",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2014303",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "11061502",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110617",
+			"wave": "1",
+			"party_index": "10",
+			"digimon_id": "2022103",
+			"level": "24",
+			"bit": "0",
+			"item_drop_group": "11061602",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110617",
+			"wave": "1",
+			"party_index": "11",
+			"digimon_id": "2023403",
+			"level": "22",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110617",
+			"wave": "1",
+			"party_index": "12",
+			"digimon_id": "2023403",
+			"level": "22",
+			"bit": "0",
+			"item_drop_group": "11061601",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110617",
+			"wave": "1",
+			"party_index": "13",
+			"digimon_id": "2022103",
+			"level": "24",
+			"bit": "0",
+			"item_drop_group": "11061605",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110617",
+			"wave": "2",
+			"party_index": "7",
+			"digimon_id": "2021302",
+			"level": "23",
+			"bit": "0",
+			"item_drop_group": "11061603",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110617",
+			"wave": "2",
+			"party_index": "8",
+			"digimon_id": "2013203",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110617",
+			"wave": "2",
+			"party_index": "9",
+			"digimon_id": "2021302",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "11061604",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "110617",
+			"wave": "3",
+			"party_index": "2",
+			"digimon_id": "1092305",
+			"level": "25",
+			"bit": "4400",
+			"item_drop_group": "11061605",
+			"enemy_type": "2"
+		},
+		{
 			"battle_id": "1141001",
 			"wave": "1",
 			"party_index": "1",
@@ -29212,6 +31022,236 @@
 		},
 		{
 			"battle_id": "1185005",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9170307",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1221001",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9254103",
+			"level": "1",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1222002",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9254104",
+			"level": "6",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1223003",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9254105",
+			"level": "8",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1224004",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9254106",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1225005",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9254107",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1231001",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9253403",
+			"level": "1",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1232002",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9253404",
+			"level": "6",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1233003",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9253405",
+			"level": "8",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1234004",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9253406",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1235005",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9253407",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1241001",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9259303",
+			"level": "1",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1242002",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9259304",
+			"level": "6",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1243003",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9259305",
+			"level": "8",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1244004",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9259306",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1245005",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9259307",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1251001",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9251203",
+			"level": "1",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1252002",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9251204",
+			"level": "6",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1253003",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9251205",
+			"level": "8",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1254004",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9251206",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1255005",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9251207",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1261001",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9170303",
+			"level": "1",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1263003",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "9170305",
+			"level": "8",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "1265005",
 			"wave": "1",
 			"party_index": "1",
 			"digimon_id": "9170307",
@@ -36809,6 +38849,36 @@
 			"bit": "0",
 			"item_drop_group": "",
 			"enemy_type": "0"
+		},
+		{
+			"battle_id": "290601",
+			"wave": "1",
+			"party_index": "2",
+			"digimon_id": "2023403",
+			"level": "5",
+			"bit": "0",
+			"item_drop_group": "29060101",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "290601",
+			"wave": "2",
+			"party_index": "2",
+			"digimon_id": "2023403",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "29060102",
+			"enemy_type": "0"
+		},
+		{
+			"battle_id": "290601",
+			"wave": "3",
+			"party_index": "2",
+			"digimon_id": "2023403",
+			"level": "15",
+			"bit": "0",
+			"item_drop_group": "29060103",
+			"enemy_type": "1"
 		},
 		{
 			"battle_id": "300101",
@@ -45705,6 +47775,1006 @@
 			"wave": "1",
 			"party_index": "1",
 			"digimon_id": "3272206",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327301",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3273206",
+			"level": "1",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327302",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3273206",
+			"level": "2",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327303",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3273206",
+			"level": "3",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327304",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3273206",
+			"level": "4",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327305",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3273206",
+			"level": "5",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327306",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3273206",
+			"level": "6",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327307",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3273206",
+			"level": "7",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327308",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3273206",
+			"level": "8",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327309",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3273206",
+			"level": "9",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327310",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3273206",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327401",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3274101",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327501",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3275201",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327601",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3276301",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327701",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3277401",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327801",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3278501",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "327901",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3279103",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328001",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3280203",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328101",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3281303",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328201",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3282403",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328301",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3283503",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328401",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3284206",
+			"level": "1",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328402",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3284206",
+			"level": "2",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328403",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3284206",
+			"level": "3",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328404",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3284206",
+			"level": "4",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328405",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3284206",
+			"level": "5",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328406",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3284206",
+			"level": "6",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328407",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3284206",
+			"level": "7",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328408",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3284206",
+			"level": "8",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328409",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3284206",
+			"level": "9",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328410",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3284206",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328501",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3285101",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328601",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3286201",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328701",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3287301",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328801",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3288401",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "328901",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3289501",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329001",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3290103",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329101",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3291203",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329201",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3292303",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329301",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3293403",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329401",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3294503",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329501",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3295505",
+			"level": "1",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329502",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3295505",
+			"level": "2",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329503",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3295505",
+			"level": "3",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329504",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3295505",
+			"level": "4",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329505",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3295505",
+			"level": "5",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329506",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3295505",
+			"level": "6",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329507",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3295505",
+			"level": "7",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329508",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3295505",
+			"level": "8",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329509",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3295505",
+			"level": "9",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329510",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3295505",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329601",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3296315",
+			"level": "1",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329602",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3296315",
+			"level": "2",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329603",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3296315",
+			"level": "3",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329604",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3296315",
+			"level": "4",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329605",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3296315",
+			"level": "5",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329606",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3296315",
+			"level": "6",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329607",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3296315",
+			"level": "7",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329608",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3296315",
+			"level": "8",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329609",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3296315",
+			"level": "9",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329610",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3296315",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329701",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3297102",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329801",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3298202",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "329901",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3299302",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330001",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3300402",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330101",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3301502",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330201",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3302103",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330301",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3303203",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330401",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3304303",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330501",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3305403",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330601",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3306503",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330701",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3307315",
+			"level": "1",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330702",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3307315",
+			"level": "2",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330703",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3307315",
+			"level": "3",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330704",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3307315",
+			"level": "4",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330705",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3307315",
+			"level": "5",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330706",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3307315",
+			"level": "6",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330707",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3307315",
+			"level": "7",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330708",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3307315",
+			"level": "8",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330709",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3307315",
+			"level": "9",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330710",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3307315",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330801",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3308102",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "330901",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3309202",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331001",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3310302",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331101",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3311402",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331201",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3312502",
+			"level": "10",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331301",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3313103",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331401",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3314203",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331501",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3315303",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331601",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3316403",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331701",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3317503",
+			"level": "20",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331801",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3318106",
+			"level": "1",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331802",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3318106",
+			"level": "2",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331803",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3318106",
+			"level": "3",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331804",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3318106",
+			"level": "4",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331805",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3318106",
+			"level": "5",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331806",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3318106",
+			"level": "6",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331807",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3318106",
+			"level": "7",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331808",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3318106",
+			"level": "8",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331809",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3318106",
+			"level": "9",
+			"bit": "0",
+			"item_drop_group": "0",
+			"enemy_type": "2"
+		},
+		{
+			"battle_id": "331810",
+			"wave": "1",
+			"party_index": "1",
+			"digimon_id": "3318106",
 			"level": "10",
 			"bit": "0",
 			"item_drop_group": "0",

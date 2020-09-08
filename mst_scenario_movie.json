@@ -1,6 +1,14 @@
 {
 	"masterRows": [
 		{
+			"movie_id": "#N/A",
+			"title": "#N/A",
+			"res_manage_type": "0",
+			"movie_file": "#N/A",
+			"bgm_name": "#N/A",
+			"bgm_starttime": "0"
+		},
+		{
 			"movie_id": "1",
 			"title": "Opening",
 			"res_manage_type": "1",
@@ -133,6 +141,14 @@
 			"title": "GrapLeomon Digivolves!",
 			"res_manage_type": "0",
 			"movie_file": "scenario041",
+			"bgm_name": "go_bgm_048",
+			"bgm_starttime": "0"
+		},
+		{
+			"movie_id": "25",
+			"title": "Chirinmon Digivolves!",
+			"res_manage_type": "0",
+			"movie_file": "scenario042",
 			"bgm_name": "go_bgm_048",
 			"bgm_starttime": "0"
 		},

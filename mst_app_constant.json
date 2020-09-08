@@ -217,6 +217,12 @@
 			"description": "通常アイテムでお世話したときのごきげん度の影響率(百分率) 基礎値×0.8とする"
 		},
 		{
+			"category": "DIGIMON",
+			"name": "XANTIBODY_RELEASE_DATE",
+			"value": "2120/08/17 12:00:00",
+			"description": ""
+		},
+		{
 			"category": "EC",
 			"name": "START_DATE",
 			"value": "2020-04-01 12:00:00",
@@ -227,6 +233,12 @@
 			"name": "TEAM_COST",
 			"value": "100",
 			"description": "1チームのコスト上限"
+		},
+		{
+			"category": "EC",
+			"name": "XANTIBODY_SLAYER_ID",
+			"value": "[46550]",
+			"description": ""
 		},
 		{
 			"category": "EXTENSION",

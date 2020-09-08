@@ -211,6 +211,20 @@
 			"resource": "quest/panel/panel_s2_section4"
 		},
 		{
+			"sub_category_id": "505",
+			"main_category_id": "5",
+			"order": "5",
+			"title": "5章\n神獣招来！真由が求める道",
+			"resource": "quest/panel/panel_s2_section5"
+		},
+		{
+			"sub_category_id": "506",
+			"main_category_id": "5",
+			"order": "6",
+			"title": "6章\nデーヴァの試練！　相対の刻！",
+			"resource": "quest/panel/panel_s2_section6"
+		},
+		{
 			"sub_category_id": "601",
 			"main_category_id": "3",
 			"order": "40",
@@ -314,6 +328,13 @@
 			"order": "100",
 			"title": "Side Story\nA DigiEgg's Dream",
 			"resource": "quest/panel/ss_panel_section2_g3940"
+		},
+		{
+			"sub_category_id": "703",
+			"main_category_id": "4",
+			"order": "100",
+			"title": "サイドストーリー\nエリスモンの記念日",
+			"resource": "quest/panel/ss_panel_section3_g4514"
 		}
 	]
 }

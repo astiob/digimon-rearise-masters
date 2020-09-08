@@ -223,7 +223,7 @@
 			"description": "A New Quest! The Mysterious Visitor",
 			"panel_asset": "section/section_skin_s2_001",
 			"map_asset": "quest/map/map_s2_section01",
-			"start_date": "2120-03-02 12:00:00"
+			"start_date": "2020-09-14 12:00:00"
 		},
 		{
 			"section_id": "1102",
@@ -232,7 +232,7 @@
 			"description": "Stranded in the Digital World?!",
 			"panel_asset": "section/section_skin_s2_002",
 			"map_asset": "quest/map/map_s2_section02",
-			"start_date": "2120-04-03 12:00:00"
+			"start_date": "2020-09-14 12:00:00"
 		},
 		{
 			"section_id": "1103",
@@ -253,6 +253,24 @@
 			"start_date": "2120-05-29 12:00:00"
 		},
 		{
+			"section_id": "1105",
+			"number": "5",
+			"title": "Act 5",
+			"description": "神獣招来！真由が求める道",
+			"panel_asset": "section/section_skin_s2_005",
+			"map_asset": "quest/map/map_s2_section05",
+			"start_date": "2120-06-28 12:00:00"
+		},
+		{
+			"section_id": "1106",
+			"number": "6",
+			"title": "Act 6",
+			"description": "デーヴァの試練！　相対の刻！",
+			"panel_asset": "section/section_skin_s2_006",
+			"map_asset": "quest/map/map_s2_section06",
+			"start_date": "2120-07-29 12:00:00"
+		},
+		{
 			"section_id": "7001",
 			"number": "1",
 			"title": "Side Story",
@@ -269,6 +287,15 @@
 			"panel_asset": "section/ss_section_skin002_g3940",
 			"map_asset": "quest/map/map_section_sidestory002_g3940",
 			"start_date": "2020-09-09 12:00:00"
+		},
+		{
+			"section_id": "7003",
+			"number": "3",
+			"title": "Side Story",
+			"description": "エリスモンの記念日",
+			"panel_asset": "section/ss_section_skin003_g4514",
+			"map_asset": "quest/map/map_section_sidestory003_g4514",
+			"start_date": "2120-06-22 12:00:00"
 		}
 	]
 }
