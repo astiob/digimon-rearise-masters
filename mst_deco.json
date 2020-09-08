@@ -2,7 +2,7 @@
 	"masterRows": [
 		{
 			"deco_id": "10",
-			"name": "Picnic Blanket",
+			"name": "野餐墊",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -10,11 +10,11 @@
 			"icon_asset": "deco/icon/icondeco010",
 			"model_asset": "deco/deco0004",
 			"emotion_icon_asset": "",
-			"description": "A great day for a picnic! Food, drinks, and fun for all Digimon. (5x5)"
+			"description": "快樂野餐必備。\n豪華的便當會讓數碼寶貝們非常高興。(5x5)"
 		},
 		{
 			"deco_id": "11",
-			"name": "Vending Machine",
+			"name": "自動販賣機",
 			"size_x": "6",
 			"size_y": "5",
 			"is_limited": "0",
@@ -22,11 +22,11 @@
 			"icon_asset": "deco/icon/icondeco011",
 			"model_asset": "deco/deco0001",
 			"emotion_icon_asset": "",
-			"description": "An error makes this dispense drinks without inserting cash. <color=#e75600>Digimon sometimes visit this machine to quench their thirst.</color> (6x5)"
+			"description": "因為一些機能錯誤而變成\n不需要投錢也會掉出飲料的自動販賣機。\n<color=#e75600>數碼寶貝們有時會取用掉出的飲料滋潤喉嚨。</color>(6x5)"
 		},
 		{
 			"deco_id": "12",
-			"name": "Warped Tower",
+			"name": "荒涼的鐵塔",
 			"size_x": "7",
 			"size_y": "7",
 			"is_limited": "0",
@@ -34,11 +34,11 @@
 			"icon_asset": "deco/icon/icondeco012",
 			"model_asset": "deco/deco0008",
 			"emotion_icon_asset": "",
-			"description": "Could the eerily warped form of this metal tower be symbolic of something? Many Digimon seem to enjoy its aesthetic. (7x7)"
+			"description": "有點扭曲的形狀彷彿是某種象徵，看起來略顯詭異，\n但喜歡這種氛圍的數碼寶貝據說也是不少。(7x7)"
 		},
 		{
 			"deco_id": "13",
-			"name": "Pansies (Blue)",
+			"name": "三色堇（藍）",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -46,11 +46,11 @@
 			"icon_asset": "deco/icon/icondeco013",
 			"model_asset": "deco/deco0030",
 			"emotion_icon_asset": "",
-			"description": "Violaceae Viola. A flower known to come in a variety of colors. (1x1) <color=#e75600>Passable</color>"
+			"description": "堇菜科堇菜屬的園藝植物，有好幾種不同的花色。\n(1x1)<color=#e75600>【可通過】</color>"
 		},
 		{
 			"deco_id": "14",
-			"name": "Pansies (Violet)",
+			"name": "三色堇（紫）",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -58,11 +58,11 @@
 			"icon_asset": "deco/icon/icondeco014",
 			"model_asset": "deco/deco0031",
 			"emotion_icon_asset": "",
-			"description": "Violaceae Viola. A flower known to come in a variety of colors. (1x1) <color=#e75600>Passable</color>"
+			"description": "堇菜科堇菜屬的園藝植物，有好幾種不同的花色。\n(1x1)<color=#e75600>【可通過】</color>"
 		},
 		{
 			"deco_id": "15",
-			"name": "Pansies (Yellow)",
+			"name": "三色堇（黃）",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -70,11 +70,11 @@
 			"icon_asset": "deco/icon/icondeco015",
 			"model_asset": "deco/deco0032",
 			"emotion_icon_asset": "",
-			"description": "Violaceae Viola. A flower known to come in a variety of colors. (1x1) <color=#e75600>Passable</color>"
+			"description": "堇菜科堇菜屬的園藝植物，有好幾種不同的花色。\n(1x1)<color=#e75600>【可通過】</color>"
 		},
 		{
 			"deco_id": "17",
-			"name": "Portable Potty",
+			"name": "臨時廁所",
 			"size_x": "7",
 			"size_y": "7",
 			"is_limited": "0",
@@ -82,11 +82,11 @@
 			"icon_asset": "deco/icon/icondeco017",
 			"model_asset": "deco/deco0011",
 			"emotion_icon_asset": "",
-			"description": "When you gotta go, you gotta go. <color=#e75600>Please be sure to wash your hands after you're finished.</color> (7x7)"
+			"description": "感謝各位平日使用時保持清潔。\n<color=#e75600>可以觀賞到數碼寶貝急急忙忙衝進廁所的模樣，\n偶爾也會意外撞見先到的使用者。</color>(7x7)"
 		},
 		{
 			"deco_id": "18",
-			"name": "Tent",
+			"name": "帳篷",
 			"size_x": "7",
 			"size_y": "7",
 			"is_limited": "0",
@@ -94,11 +94,11 @@
 			"icon_asset": "deco/icon/icondeco018",
 			"model_asset": "deco/deco0013",
 			"emotion_icon_asset": "",
-			"description": "None can resist the urge to crawl into a tent. <color=#e75600>Even Digimon will slide in for a short rest.</color> (7x7)"
+			"description": "露營不論有多少人都很快樂。\n看見帳篷就會下意識想進去看看。\n<color=#e75600>數碼寶貝也會進去小憩片刻。</color>(7x7)"
 		},
 		{
 			"deco_id": "19",
-			"name": "Barrel",
+			"name": "木桶",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -106,11 +106,11 @@
 			"icon_asset": "deco/icon/icondeco019",
 			"model_asset": "deco/deco0015",
 			"emotion_icon_asset": "",
-			"description": "A wooden vessel made for storage. Not intended for throwing or riding atop while it rolls. (5x5)"
+			"description": "保存飲料等液體的木製容器。\n投擲砸人或是推倒並站到上面等等都不是原本的使用方式。(5x5)"
 		},
 		{
 			"deco_id": "2",
-			"name": "Flowers",
+			"name": "花",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -118,11 +118,11 @@
 			"icon_asset": "deco/icon/icondeco002",
 			"model_asset": "deco/deco0033",
 			"emotion_icon_asset": "deco/emotion_icon/icon_emotion_deco002",
-			"description": "These flowers have no name, but are often observed blooming in even the hardest soil. (1x1) <color=#e75600>Passable</color>"
+			"description": "無名的花朵，但生命力堅強，時常可以看到堅硬的地面上開著這種花。(1x1)<color=#e75600>【可通過】</color>"
 		},
 		{
 			"deco_id": "21",
-			"name": "Refrigerator",
+			"name": "冰箱",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -130,11 +130,11 @@
 			"icon_asset": "deco/icon/icondeco021",
 			"model_asset": "deco/deco0012",
 			"emotion_icon_asset": "",
-			"description": "<color=#e75600>Hungry Digimon come to scavenge snacks out of this,</color> but nobody knows what powers it or who refills its contents. (5x5)"
+			"description": "<color=#e75600>肚子餓的數碼寶貝會過來偷吃東西</color>，\n不過電力以及內容物的補充來源都是未知數。(5x5)"
 		},
 		{
 			"deco_id": "22",
-			"name": "Planter",
+			"name": "花盆",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -142,11 +142,11 @@
 			"icon_asset": "deco/icon/icondeco022",
 			"model_asset": "deco/deco0014",
 			"emotion_icon_asset": "",
-			"description": "A planter for flowers and other decorative plants. Have Digimon suddenly found pleasure in gardening? (5x5)"
+			"description": "可以栽種花朵作為裝飾的花盆。\n數碼寶貝們也開始流行園藝了嗎？(5x5)"
 		},
 		{
 			"deco_id": "23",
-			"name": "Giant Mushroom",
+			"name": "巨大香菇",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -154,11 +154,11 @@
 			"icon_asset": "deco/icon/icondeco023",
 			"model_asset": "deco/deco0016",
 			"emotion_icon_asset": "",
-			"description": "A giant, mutated mushroom. Whether it's edible or not is unknown, but <color=#e75600>hungry Digimon have been seen taking bites out of it.</color> (5x5)"
+			"description": "突然變種的巨大香菇。尚不確定能否食用，\n<color=#e75600>但也會有貪吃的數碼寶貝吞下肚。</color>(5x5)"
 		},
 		{
 			"deco_id": "24",
-			"name": "Gears",
+			"name": "齒輪",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -166,11 +166,11 @@
 			"icon_asset": "deco/icon/icondeco024",
 			"model_asset": "deco/deco0018",
 			"emotion_icon_asset": "",
-			"description": "An installation designed to teach how gears work. The gears move under an unknown power source. The black gears are a little unnerving... (5x5)"
+			"description": "用來學習齒輪架構的物件。\n齒輪會不停旋轉，動力來源不明。\n黑色齒輪令人有點在意……(5x5)"
 		},
 		{
 			"deco_id": "25",
-			"name": "Performance Stage",
+			"name": "歌唱舞台",
 			"size_x": "9",
 			"size_y": "6",
 			"is_limited": "0",
@@ -178,11 +178,11 @@
 			"icon_asset": "deco/icon/icondeco025",
 			"model_asset": "deco/deco0019",
 			"emotion_icon_asset": "",
-			"description": "Shine on center stage. <color=#e75600>Any Digimon who stand on the stage put on a show, causing a crowd to gather.</color> (9x6)"
+			"description": "能夠獨占台下視線，令人憧憬的舞台。\n<color=#e75600>當數碼寶貝登上舞台，其他的數碼寶貝就會聚集過來當觀眾，上演舞台秀。</color>(9x6)"
 		},
 		{
 			"deco_id": "26",
-			"name": "Bronze Trophy",
+			"name": "銅獎盃",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -190,11 +190,11 @@
 			"icon_asset": "deco/icon/icondeco026",
 			"model_asset": "deco/deco0023",
 			"emotion_icon_asset": "",
-			"description": "A trophy given to <color=#e75600>third-ranked</color> DigiGuild Members. (6x6)"
+			"description": "贈送給排名為<color=#e75600>第3名</color>的數碼戰隊成員的獎盃。(6x6)"
 		},
 		{
 			"deco_id": "27",
-			"name": "Silver Trophy",
+			"name": "銀獎盃",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -202,11 +202,11 @@
 			"icon_asset": "deco/icon/icondeco027",
 			"model_asset": "deco/deco0024",
 			"emotion_icon_asset": "",
-			"description": "A trophy given to <color=#e75600>second-ranked</color> DigiGuild Members. (6x6)"
+			"description": "贈送給排名為<color=#e75600>第2名</color>的數碼戰隊成員的獎盃。(6x6)"
 		},
 		{
 			"deco_id": "28",
-			"name": "Gold Trophy",
+			"name": "金獎盃",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -214,11 +214,11 @@
 			"icon_asset": "deco/icon/icondeco028",
 			"model_asset": "deco/deco0025",
 			"emotion_icon_asset": "",
-			"description": "A trophy given to <color=#e75600>top-ranked</color> DigiGuild Members. (6x6)"
+			"description": "贈送給排名為<color=#e75600>第1名</color>的數碼戰隊成員的獎盃。(6x6)"
 		},
 		{
 			"deco_id": "29",
-			"name": "Fountain",
+			"name": "噴水池",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -226,11 +226,11 @@
 			"icon_asset": "deco/icon/icondeco029",
 			"model_asset": "deco/deco0028",
 			"emotion_icon_asset": "",
-			"description": "A simple fountain with a soothing spray. <color=#e75600>Digimon can play and refresh themselves by the waterside.</color> (5x5)"
+			"description": "簡單的噴水池，噴起來的水給人療癒的感覺。\n<color=#e75600>數碼寶貝可以踏入水池邊。</color>(5x5)"
 		},
 		{
 			"deco_id": "31",
-			"name": "Cradle",
+			"name": "搖籃",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -238,11 +238,11 @@
 			"icon_asset": "deco/icon/icondeco031",
 			"model_asset": "deco/deco0029",
 			"emotion_icon_asset": "",
-			"description": "A place for <color=#e75600>Fresh Digimon to take naps.</color> The sight of them sleeping brings comfort to all. <color=#e75600>Rookie Digimon can be found playing around in it.</color> (6x6)"
+			"description": "<color=#e75600>可供幼年期數碼寶貝午睡</color>的地方。\n午睡的樣子十分療癒人心。\n<color=#e75600>偶爾可以看見成長期數碼寶貝在這裡嬉鬧。</color>(6x6)"
 		},
 		{
 			"deco_id": "33",
-			"name": "Tram Car",
+			"name": "路面電車",
 			"size_x": "9",
 			"size_y": "6",
 			"is_limited": "0",
@@ -250,11 +250,11 @@
 			"icon_asset": "deco/icon/icondeco034",
 			"model_asset": "deco/deco0034",
 			"emotion_icon_asset": "",
-			"description": "A tram car that suddenly appeared in DigiTown. <color=#E75600>Curious Digimon will climb on board,</color> but it lacks a power source or rails allowing it to move. Somewhat nostalgic. (9x6)"
+			"description": "突然出現在數碼小鎮的路面電車。\n<color=#E75600>好奇心旺盛的數碼寶貝會靠近並搭上去</color>，\n但因為沒有動力也沒有軌道所以不會移動。\n有一種懷舊的感覺。(9x6)"
 		},
 		{
 			"deco_id": "34",
-			"name": "Campfire",
+			"name": "篝火",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -262,11 +262,11 @@
 			"icon_asset": "deco/icon/icondeco033",
 			"model_asset": "deco/deco0035",
 			"emotion_icon_asset": "",
-			"description": "<color=#E75600>Sitting quietly by the fire can put your mind at ease.</color> A nice, warm meal cooked over fire wouldn't hurt, either. (5x5)"
+			"description": "<color=#E75600>靜靜站在篝火旁邊烤火，\n原本燥動的心或許就會漸漸沈靜下來。</color>\n若是苦惱的時候肚子餓了，不妨來碗剛炊好的飯。(5x5)"
 		},
 		{
 			"deco_id": "35",
-			"name": "Butterfly",
+			"name": "蝴蝶",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -274,11 +274,11 @@
 			"icon_asset": "deco/icon/icondeco035",
 			"model_asset": "deco/deco0036",
 			"emotion_icon_asset": "",
-			"description": "A fickle and whimsical digital butterfly found in the Digital World. Alluring to those who see it, but <color=#e75600>disappears when approached</color>. (5x5)"
+			"description": "棲息在數碼小鎮裡的數碼資料蝴蝶。\n會讓看見的人各自產生不同的想法，<color=#e75600>但追上去的話蝴蝶就會消失</color>，非常隨意自在的蝴蝶。(5x5)"
 		},
 		{
 			"deco_id": "37",
-			"name": "Watermelon",
+			"name": "西瓜",
 			"size_x": "6",
 			"size_y": "5",
 			"is_limited": "0",
@@ -286,11 +286,11 @@
 			"icon_asset": "deco/icon/icondeco036",
 			"model_asset": "deco/deco0037",
 			"emotion_icon_asset": "",
-			"description": "Juicy and refreshing, watermelons are perfect snacks for the summer! Still, Digimon have just as much fun <color=#E75600>smashing them to pieces as they do eating them</color>. (6x5)"
+			"description": "夏日的風情詩，提到海邊就是要打西瓜！\n但是不曉得這項遊戲的數碼寶貝們<color=#E75600>看到西瓜就會開心地立刻打破</color>。(6x5)"
 		},
 		{
 			"deco_id": "4",
-			"name": "Tilted Traffic Signs",
+			"name": "傾倒的道路號誌",
 			"size_x": "7",
 			"size_y": "7",
 			"is_limited": "0",
@@ -298,11 +298,11 @@
 			"icon_asset": "deco/icon/icondeco004",
 			"model_asset": "deco/deco0007",
 			"emotion_icon_asset": "",
-			"description": "Traffic signs from the real world that phased into DigiTown. Their chaotic arrangement will lead you nowhere. (7x7)"
+			"description": "突然出現在數碼小鎮的現實世界道路號誌，\n不規則的排列方式給人一種詭異的感覺。(7x7)"
 		},
 		{
 			"deco_id": "40",
-			"name": "Punching Machine",
+			"name": "拳擊機",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -310,11 +310,11 @@
 			"icon_asset": "deco/icon/icondeco040",
 			"model_asset": "deco/deco0041",
 			"emotion_icon_asset": "",
-			"description": "It may look nice and cheerful, but it's a rather aggressive facility.<color=#E75600>The Digimon inside are doing their best, but those who lack training sometimes find it's more than they can handle...</color>(6x6)"
+			"description": "外觀看起來很有趣的設備，但實際上相當具有攻擊性。<color=#E75600>數碼寶貝們會為了展現修行成果而挑戰這個設備，但有時卻會發生修行不足，反遭擊倒的情況……！？</color>(6x6)"
 		},
 		{
 			"deco_id": "41",
-			"name": "Tombstone",
+			"name": "墓碑",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -322,11 +322,11 @@
 			"icon_asset": "deco/icon/icondeco041",
 			"model_asset": "deco/deco0042",
 			"emotion_icon_asset": "",
-			"description": "A place where someone's soul is laid to rest. A <color=#E75600>certain Digimon</color> is said to live within, a rumor that <color=#E75600>several eyewitnesses</color> have attested to. (5x5)"
+			"description": "某人的靈魂安眠之處。\n<color=#E75600>有著其實裡面住著數碼寶貝</color>的傳聞，\n聽說也有<color=#E75600>實際目擊到的數碼寶貝</color>。（5x5）"
 		},
 		{
 			"deco_id": "42",
-			"name": "Jack-o'-Lantern",
+			"name": "傑克南瓜燈（小）",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -334,11 +334,11 @@
 			"icon_asset": "deco/icon/icondeco042",
 			"model_asset": "deco/deco0043",
 			"emotion_icon_asset": "",
-			"description": "A pumpkin decoration for Halloween. <color=#E75600>Digimon will gather around it</color> in high spirits. (5x5)"
+			"description": "萬聖節的南瓜裝飾品。心情亢奮的<color=#E75600>數碼寶貝們會很愉快地聚集過來。</color>（5x5）"
 		},
 		{
 			"deco_id": "43",
-			"name": "Jumbo Jack-o'-Lantern",
+			"name": "傑克南瓜燈（大）",
 			"size_x": "6",
 			"size_y": "5",
 			"is_limited": "0",
@@ -346,11 +346,11 @@
 			"icon_asset": "deco/icon/icondeco043",
 			"model_asset": "deco/deco0044",
 			"emotion_icon_asset": "",
-			"description": "A pumpkin decoration for Halloween. All the candy makes for a jovial Halloween mood. <color=#E75600>But then, from inside the lantern...!</color> Talk about \"Trick or Treat\"! (6x5)"
+			"description": "萬聖節的南瓜裝飾品。還有許多糖果，充滿萬聖節氣氛。<color=#E75600>突然從南瓜裡……！？</color>正是所謂的不給糖就搗蛋。（6x5）"
 		},
 		{
 			"deco_id": "44",
-			"name": "Withered Tree & Candlesticks",
+			"name": "枯樹＆燭台",
 			"size_x": "5",
 			"size_y": "6",
 			"is_limited": "0",
@@ -358,11 +358,11 @@
 			"icon_asset": "deco/icon/icondeco044",
 			"model_asset": "deco/deco0045",
 			"emotion_icon_asset": "",
-			"description": "This eerie dead tree is home to spiderwebs, soaring bats and creepy candles, adding a splash of horror to your DigiTown. (5x6)"
+			"description": "用結滿蜘蛛網、蝙蝠四處飛舞的詭異枯樹和燭台，讓數碼小鎮充滿恐怖氛圍。（5x6）"
 		},
 		{
 			"deco_id": "46",
-			"name": "Phone Booth",
+			"name": "電話亭",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -370,11 +370,11 @@
 			"icon_asset": "deco/icon/icondeco046",
 			"model_asset": "deco/deco0046",
 			"emotion_icon_asset": "deco/emotion_icon/icon_emotion_deco001",
-			"description": "This telephone is a rare sight in the real world. <color=#e75600>Digimon can get startled by the sudden ringing of a phone.</color> Who could be calling? (5x5)"
+			"description": "在現實世界越來越少見的電話亭。\n<color=#e75600>可以看見突然響起的電話鈴聲讓數碼寶貝嚇一跳。</color>\n電話是從哪裡打來的目前還是謎。(5x5)"
 		},
 		{
 			"deco_id": "47",
-			"name": "Christmas Tree",
+			"name": "聖誕樹",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -382,11 +382,11 @@
 			"icon_asset": "deco/icon/icondeco047",
 			"model_asset": "deco/deco0047",
 			"emotion_icon_asset": "",
-			"description": "Your run-of-the-mill Christmas tree. <color=#E75600>Digimon gather around, waiting with glee for the festivities to begin.</color> (5x5)"
+			"description": "典型的聖誕樹。\n<color=#E75600>期待聖誕節的數碼寶貝們會聚集過來。</color>（5x5）"
 		},
 		{
 			"deco_id": "48",
-			"name": "Thanksgiving Garden Party",
+			"name": "感謝祭花園派對",
 			"size_x": "6",
 			"size_y": "5",
 			"is_limited": "0",
@@ -394,11 +394,11 @@
 			"icon_asset": "deco/icon/icondeco048",
 			"model_asset": "deco/deco0048",
 			"emotion_icon_asset": "",
-			"description": "<color=#E75600>Your Digimon will have a blast, surrounded by these delicacies</color> made specially for the Thanksgiving Garden Party. (6x5)"
+			"description": "為感謝祭派對準備的<color=#E75600>美食，讓數碼寶貝們聚集在一起度過熱鬧的</color>快樂時光。(6x5)"
 		},
 		{
 			"deco_id": "49",
-			"name": "Great Chestnut Tree",
+			"name": "高大的栗樹",
 			"size_x": "5",
 			"size_y": "6",
 			"is_limited": "0",
@@ -406,11 +406,11 @@
 			"icon_asset": "deco/icon/icondeco049",
 			"model_asset": "deco/deco0049",
 			"emotion_icon_asset": "",
-			"description": "A tree filled with sizeable chestnuts, perfect to satisfy one's autumn appetite. <color=#E75600>But if you get too greedy...</color> (5x6)"
+			"description": "適合食慾之秋，能自由採栗的高大栗樹。\n<color=#E75600>要是太貪心的話會發生不得了的事……！？</color>（5x6）"
 		},
 		{
 			"deco_id": "5",
-			"name": "Pansies (Red)",
+			"name": "三色堇（紅）",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -418,11 +418,11 @@
 			"icon_asset": "deco/icon/icondeco005",
 			"model_asset": "deco/deco0009",
 			"emotion_icon_asset": "",
-			"description": "Violaceae Viola. A flower known to come in a variety of colors. (1x1) <color=#e75600>Passable</color>"
+			"description": "堇菜科堇菜屬的園藝植物，有好幾種不同的花色。\n(1x1)<color=#e75600>【可通過】</color>"
 		},
 		{
 			"deco_id": "50",
-			"name": "Dinosaur Sculpture",
+			"name": "公園的恐龍擺飾",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -430,11 +430,11 @@
 			"icon_asset": "deco/icon/icondeco050",
 			"model_asset": "deco/deco0050",
 			"emotion_icon_asset": "",
-			"description": "A dinosaur sculpture found in a certain park. <color=#E75600>Digimon can be found chatting and playing games inside.</color> (5x5)"
+			"description": "某處公園裡的恐龍擺飾。\n<color=#E75600>數碼寶貝們似乎會在裡頭聊天或玩樂。</color>（5x5）"
 		},
 		{
 			"deco_id": "51",
-			"name": "Illuminated Tree",
+			"name": "燈樹",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -442,11 +442,11 @@
 			"icon_asset": "deco/icon/icondeco051",
 			"model_asset": "deco/deco0051",
 			"emotion_icon_asset": "",
-			"description": "A glittering and stylish Christmas Tree. <color=#E75600>A place of healing for Digimon who are drawn to the beautiful lights.</color> (6x6)"
+			"description": "光華璀璨的時髦聖誕樹。<color=#E75600>在那美麗光芒的吸引下，聖誕樹成了數碼寶貝們的療癒場所。</color>(6x6)"
 		},
 		{
 			"deco_id": "52",
-			"name": "Santa's Sleigh",
+			"name": "聖誕老人的雪橇",
 			"size_x": "5",
 			"size_y": "6",
 			"is_limited": "0",
@@ -454,7 +454,7 @@
 			"icon_asset": "deco/icon/icondeco052",
 			"model_asset": "deco/deco0052",
 			"emotion_icon_asset": "",
-			"description": "A personal sleigh that Santa Claus uses to fly high in the sky. Will the Digimon get Christmas presents? (5x6)"
+			"description": "飛翔於高空中的聖誕老人專用雪橇。數碼寶貝們都有領到聖誕禮物嗎？（5x6）"
 		},
 		{
 			"deco_id": "53",
@@ -470,7 +470,7 @@
 		},
 		{
 			"deco_id": "54",
-			"name": "Festive Rice Cake",
+			"name": "賀歲年糕與烤麻糬",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -478,11 +478,11 @@
 			"icon_asset": "deco/icon/icondeco054",
 			"model_asset": "deco/deco0054",
 			"emotion_icon_asset": "",
-			"description": "A rice cake grilled beside the Festive Rice Cake. <color=#E75600>Digimon can eat the fluffy grilled delicacy or sit atop the Festive Rice Cake! There are plenty of ways for your Digimon to enjoy this item.</color>(6x6)"
+			"description": "賀歲年糕旁邊正在烤著麻糬。<color=#E75600>數碼寶貝們會吃膨脹的麻糬，或是站在賀歲年糕上面，遊樂方式也是五花八門。</color>(6x6)"
 		},
 		{
 			"deco_id": "55",
-			"name": "Winter Puddle",
+			"name": "冬天的水窪",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -490,11 +490,11 @@
 			"icon_asset": "deco/icon/icondeco055",
 			"model_asset": "deco/deco0055",
 			"emotion_icon_asset": "",
-			"description": "A puddle that has frozen due to the coldness of winter. <color=#E75600>You'll probably get an urge to walk on it, but be plenty careful if you do...!</color> (5x5)"
+			"description": "因凜冽寒冬而凍結的水窪。<color=#E75600>讓人忍不住想走在上面，但要是不小心的話……！</color>（5x5）"
 		},
 		{
 			"deco_id": "56",
-			"name": "Snowman",
+			"name": "雪人",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -502,11 +502,11 @@
 			"icon_asset": "deco/icon/icondeco056",
 			"model_asset": "deco/deco0056",
 			"emotion_icon_asset": "",
-			"description": "A simple snowman. It's simple appearance <color=#e75600>is what sparks a Digimon's appetite for creativity</color>. (6x6)"
+			"description": "簡易堆成的雪人。其所醞釀出的樸素感，<color=#e75600>刺激著數碼寶貝們的創作熱情。</color>（6x6）"
 		},
 		{
 			"deco_id": "57",
-			"name": "Snow-covered Tree",
+			"name": "覆雪的樹",
 			"size_x": "5",
 			"size_y": "6",
 			"is_limited": "0",
@@ -514,11 +514,11 @@
 			"icon_asset": "deco/icon/icondeco057",
 			"model_asset": "deco/deco0057",
 			"emotion_icon_asset": "",
-			"description": "A tree covered in tons of snow. <color=#e75600>Digimon will get excited about this, but watch out for falling snow!</color> Best to be safe and not stand under it... (5x6)"
+			"description": "因白雪層層堆疊而覆雪的樹。<color=#e75600>數碼寶貝們對這些雪感到雀躍不已，但是要小心落雪！</color>記得不要靠得太近了……（5x6）"
 		},
 		{
 			"deco_id": "58",
-			"name": "Igloo",
+			"name": "雪屋",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -526,7 +526,7 @@
 			"icon_asset": "deco/icon/icondeco058",
 			"model_asset": "deco/deco0058",
 			"emotion_icon_asset": "",
-			"description": "A mysterious igloo that fits Digimon of any size. Surprisingly, the inside is warm <color=#E75600>and is a place of relaxation for Digimon.</color>. (6x6)"
+			"description": "不管是多麼大的數碼寶貝都進得去的神奇雪屋。裡頭意外地很溫暖，<color=#E75600>成了數碼寶貝們的休息之地。</color>（6x6）"
 		},
 		{
 			"deco_id": "59",
@@ -542,7 +542,7 @@
 		},
 		{
 			"deco_id": "6",
-			"name": "Punching Ball",
+			"name": "拳擊出氣球",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -550,11 +550,11 @@
 			"icon_asset": "deco/icon/icondeco006",
 			"model_asset": "deco/deco0002",
 			"emotion_icon_asset": "",
-			"description": "A training installation used for practicing punches. <color=#e75600>Some Digimon just like to play with its bouncy nature.</color> (5x5)"
+			"description": "以出拳等方式擊打氣球部分進行訓練的器具。\n<color=#e75600>亦可作為數碼寶貝的娛樂工具。\n</color>非常有彈性。(5x5)"
 		},
 		{
 			"deco_id": "60",
-			"name": "Giant Chocolate Bar",
+			"name": "巨大的板狀巧克力",
 			"size_x": "5",
 			"size_y": "6",
 			"is_limited": "0",
@@ -562,11 +562,11 @@
 			"icon_asset": "deco/icon/icondeco060",
 			"model_asset": "deco/deco0060",
 			"emotion_icon_asset": "",
-			"description": "A Giant Chocolate Bar is now available to help\nset the Valentine's Day mood in your DigiTown.\n<color=#E75600>You may even witness some unexpected\nheart-pounding moments...!</color> (5x6)"
+			"description": "增加情人節氣氛的巨大的板狀巧克力於數碼小鎮登場。<color=#E75600>或許有機會目擊到令人臉紅心跳的意外瞬間喔……！？</color>（5x6）"
 		},
 		{
 			"deco_id": "65",
-			"name": "Retro Computer",
+			"name": "復古電腦",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -574,11 +574,11 @@
 			"icon_asset": "deco/icon/icondeco065",
 			"model_asset": "deco/deco0065",
 			"emotion_icon_asset": "",
-			"description": "A computer from the distant past. Though this one is still pretty bulky, some were said to have filled up the entire gym.<color=#e75600> Most Digimon will give it a whirl but won't be able to make much sense of it. A tech-savvy Digimon might find a use for it however. </color>(6x6)"
+			"description": "很久以前的電腦。據說在過去體積好比一座小體育館，但現在的體積依然相當占空間。\n<color=#e75600>雖然想操作看看，但數碼寶貝們對此一竅不通。如果有熟悉機器的數碼寶貝在，或許就能啟動它。</color>(6x6)"
 		},
 		{
 			"deco_id": "66",
-			"name": "Cherry Blossoms",
+			"name": "櫻花樹",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -586,11 +586,11 @@
 			"icon_asset": "deco/icon/icondeco066",
 			"model_asset": "deco/deco0066",
 			"emotion_icon_asset": "",
-			"description": "Cherry Blossoms in full bloom. Looking at cherry blossoms can stir feelings within even the most stoic of people, but nothing's quite as heartwarming as watching <color=#E75600>Digimon frolic together</color>. (6x6)"
+			"description": "盛開的櫻花樹。靜靜看著櫻花雖會讓各種情感湧上心頭，但<color=#E75600>數碼寶貝們比較喜歡跟大家一起熱鬧地賞花</color>。(6x6)"
 		},
 		{
 			"deco_id": "7",
-			"name": "Traffic Cone",
+			"name": "交通錐",
 			"size_x": "5",
 			"size_y": "5",
 			"is_limited": "0",
@@ -598,11 +598,11 @@
 			"icon_asset": "deco/icon/icondeco007",
 			"model_asset": "deco/deco0010",
 			"emotion_icon_asset": "",
-			"description": "These are used to sort and regulate traffic in the real world, but aren't very effective for corralling Digimon. Looks pretty beat up. (5x5)"
+			"description": "在現實世界原是用於整頓交通或進行管制，\n但是對數碼寶貝們並沒有什麼效果。\n看起來似乎使用很久了。(5x5)"
 		},
 		{
 			"deco_id": "70",
-			"name": "Retro TV",
+			"name": "復古電視機",
 			"size_x": "6",
 			"size_y": "5",
 			"is_limited": "0",
@@ -610,7 +610,7 @@
 			"icon_asset": "deco/icon/icondeco070",
 			"model_asset": "deco/deco0070",
 			"emotion_icon_asset": "",
-			"description": "An outdated TV. This TV once transmitted information to lots of people, but it was rendered obsolete due to the rapid changes in the space of a single generation. <color=#e75600>Something may appear on the screen if a Digimon goes near it. </color>(5x6)"
+			"description": "舊時代電視機。曾負責傳遞各種資訊給許多人，\n但在世代交替的潮流下，如今它的使命已然完結……？\n<color=#e75600>若附近有數碼寶貝，\n或許電視畫面會忽然映出些什麼也說不定。</color>（5x6）"
 		},
 		{
 			"deco_id": "72",
@@ -662,7 +662,7 @@
 		},
 		{
 			"deco_id": "78",
-			"name": "Poop",
+			"name": "大便",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -670,11 +670,11 @@
 			"icon_asset": "deco/icon/icondeco078",
 			"model_asset": "deco/deco0078",
 			"emotion_icon_asset": "",
-			"description": "An ornament of...Sukamon's handmade poop. Fear not, this is only a replica! Comes odor-free so you won't get sick from it. (1x1) <color=#e75600>Passable</color>"
+			"description": "大便獸親手製作的大便……擺設。因為是擺設，所以不會臭，也不需要擔心會染病。(1x1)<color=#e75600>【可通過】</color>"
 		},
 		{
 			"deco_id": "79",
-			"name": "Golden Poop",
+			"name": "金大便",
 			"size_x": "1",
 			"size_y": "1",
 			"is_limited": "0",
@@ -682,11 +682,11 @@
 			"icon_asset": "deco/icon/icondeco079",
 			"model_asset": "deco/deco0079",
 			"emotion_icon_asset": "",
-			"description": "An ornament of...Sukamon's handmade golden poop. The glossy finish really shows off the artisan's passion. (1x1) <color=#e75600>Passable</color>"
+			"description": "大便獸親手製作的金大便……擺設。似乎能從它的耀眼光芒裡感受到大便獸的熱忱。(1x1)<color=#e75600>【可通過】</color>"
 		},
 		{
 			"deco_id": "8",
-			"name": "Bonfire",
+			"name": "營火",
 			"size_x": "7",
 			"size_y": "7",
 			"is_limited": "0",
@@ -694,7 +694,7 @@
 			"icon_asset": "deco/icon/icondeco008",
 			"model_asset": "deco/deco0003",
 			"emotion_icon_asset": "",
-			"description": "Digimon too, enjoy a good fire. <color=#e75600>Up to four Digimon will dance cheerfully around the fire.</color> (7x7)"
+			"description": "看到火似乎會使數碼寶貝們的情緒亢奮起來。\n<color=#e75600>最多可讓4隻數碼寶貝開心地繞著火行走。</color>(7x7)"
 		},
 		{
 			"deco_id": "80",
@@ -746,7 +746,7 @@
 		},
 		{
 			"deco_id": "84",
-			"name": "Exchange-Exclusive Trophy",
+			"name": "交換專用獎盃",
 			"size_x": "6",
 			"size_y": "6",
 			"is_limited": "0",
@@ -754,11 +754,11 @@
 			"icon_asset": "deco/icon/icondeco084",
 			"model_asset": "deco/deco0084",
 			"emotion_icon_asset": "",
-			"description": "A <color=#e75600>trophy which serves as proof of participating in the Rankings</color>. Exchange Ranking Medals to receive this. (6x6)"
+			"description": "可藉由排名獎牌交換獲得，<color=#e75600>用來證明參加過排名的獎盃</color>。(6x6)"
 		},
 		{
 			"deco_id": "9",
-			"name": "Moai Statue",
+			"name": "摩艾像",
 			"size_x": "6",
 			"size_y": "5",
 			"is_limited": "0",
@@ -766,7 +766,7 @@
 			"icon_asset": "deco/icon/icondeco009",
 			"model_asset": "deco/deco0005",
 			"emotion_icon_asset": "",
-			"description": "Stone statues found on a certain island in the real world. Where did they come from? And how did they end up in your DigiTown? (6x5)"
+			"description": "現實世界中存在於地球某座島上的石像雕刻。\n關於究竟為何製造這種東西，又為何連在數碼小鎮裡也能看到，真相依然未明。（6x5）"
 		}
 	]
 }
