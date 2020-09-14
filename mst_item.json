@@ -1222,6 +1222,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "10161",
+			"item_name": "ヴォルケニックドラモンの進化コード",
+			"sort_key": "sort",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10061",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がヴォルケニックドラモンの系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "102",
 			"item_name": "体の特訓チップⅡ",
 			"sort_key": "",
@@ -2616,6 +2627,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "最終進化形態がアーマー体ライドラモン[DFQ](勇敢)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1022813",
+			"item_name": "ヴォーボモン[CBE](不屈)スキルストーン",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022813",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が成長期ヴォーボモン[CBE](不屈)の系譜のスキルレベルを確実にアップできる貴重な石板",
 			"max_amount": "9999"
 		},
 		{
@@ -34453,6 +34475,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25282",
+			"item_name": "情熱的な岩竜のデジタマ",
+			"sort_key": "ジョウネツテキナガンリュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama065",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "ヴォーボモン[CBE]（不屈）に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "253414001",
 			"item_name": "攻Ⅳ(不屈 カオスドラモン)",
 			"sort_key": "",
@@ -35393,6 +35426,17 @@
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_005",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
+			"max_amount": "999999999"
+		},
+		{
+			"item_id": "26016",
+			"item_name": "フィーチャーpt",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_scenario_event_point_002",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
@@ -38091,6 +38135,336 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンが超限界突破するために必要なコード",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "282414001",
+			"item_name": "攻Ⅳ(不屈 ヴォルケニックドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment282414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のヴォルケニックドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "282414002",
+			"item_name": "攻Ⅳ(不屈 ヴォルケニックドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment282414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のヴォルケニックドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "282414003",
+			"item_name": "攻Ⅳ(不屈 ヴォルケニックドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment282414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のヴォルケニックドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "282414004",
+			"item_name": "攻Ⅳ(不屈 ヴォルケニックドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment282414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のヴォルケニックドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "282414005",
+			"item_name": "攻Ⅳ(不屈 ヴォルケニックドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment282414001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のヴォルケニックドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "282434001",
+			"item_name": "守Ⅳ(不屈 ヴォルケニックドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment282434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のヴォルケニックドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "282434002",
+			"item_name": "守Ⅳ(不屈 ヴォルケニックドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment282434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のヴォルケニックドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "282434003",
+			"item_name": "守Ⅳ(不屈 ヴォルケニックドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment282434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のヴォルケニックドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "282434004",
+			"item_name": "守Ⅳ(不屈 ヴォルケニックドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment282434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のヴォルケニックドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "282434005",
+			"item_name": "守Ⅳ(不屈 ヴォルケニックドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment282434001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈のヴォルケニックドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283414011",
+			"item_name": "強打Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、クリティカル率の値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283414012",
+			"item_name": "強打Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、クリティカル率の値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283414013",
+			"item_name": "強打Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、クリティカル率の値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283414014",
+			"item_name": "強打Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、クリティカル率の値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283414015",
+			"item_name": "強打Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、クリティカル率の値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283434011",
+			"item_name": "頑強Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283434012",
+			"item_name": "頑強Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283434013",
+			"item_name": "頑強Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283434014",
+			"item_name": "頑強Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283434015",
+			"item_name": "頑強Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283441021",
+			"item_name": "縮地Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283441021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283441022",
+			"item_name": "縮地Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283441021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283441023",
+			"item_name": "縮地Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283441021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283441024",
+			"item_name": "縮地Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283441021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283441025",
+			"item_name": "縮地Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283441021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283442011",
+			"item_name": "閃光Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283442012",
+			"item_name": "閃光Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283442013",
+			"item_name": "閃光Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283442014",
+			"item_name": "閃光Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "283442015",
+			"item_name": "閃光Ⅳ(不屈 ヴォーボモン[CBE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment283442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴォーボモン[CBE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
