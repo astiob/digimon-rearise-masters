@@ -46,6 +46,15 @@
 			"start_date": "2017/01/01 00:00:00"
 		},
 		{
+			"code": "agumonyuukinokizuna",
+			"sort_key": "アグモン‐勇気の絆‐",
+			"profile": "This legendary final Digivolution of Agumon is rooted in the deep bond it shares with its partner, one that pushes the boundaries of even the most unlimited of possibilities. The powerful flames that burst out of this Digimon are proof of the unwavering bravery and loyalty that define it and its partner! After living with humans for so long, this Digimon has come to know and understand a lot about them; that influence now shows in its nearly humanoid form. Its special moves are Red Reamer, where high density lasers emanate from the tips of its claws to burn through its opponents; Striking Salamander Slash, where its tail is used as a lance to slice and dice through its enemies; and Brave Gaia, where it transforms its latent flames of bravery into a high-powered shot of energy.",
+			"icon_asset": "digimon/icon/digimonface1217106",
+			"attribute": "5",
+			"type": "127",
+			"start_date": "2020-10-05 12:00:00"
+		},
+		{
 			"code": "agunimon",
 			"sort_key": "アグニモン",
 			"profile": "A fire-wielding Digimon with the power of one of the Ten Legendary Warriors. It can manipulate fire at will due to the Spiritual Fire, often dubbed the Holy Flame, which encompasses its DigiCore. It is an incarnation of the Internet Firewall and a guardian deity. Because it gets worked up easily, it practices many self-discipline techniques like deep breathing to maintain a level-headed demeanor. It is also a militaristic Digimon that speaks as if it were an ancient martial artist. It utilizes Eastern martial arts in battle and increases its power by focusing its flames into one point on its body. Its special moves are Pyro Punch, where it unleashes a Flaming Dragon from its flame-engulfed fist, and Salamander Break, where it unleashes a flaming whirlwind kick.",
@@ -642,7 +651,7 @@
 		{
 			"code": "dorugoramon",
 			"sort_key": "ドルゴラモン",
-			"profile": "ドルゴラモンとは、“デジコア（電脳核）の空想”が生み出した架空のデジモンである。額のインターフェースによってデジコア自身の創造力までもが奇跡的に解き放たれて進化した姿である。元々デジコア内に伝説の生き物“ドラゴン”の強い生命力のデータを持っていた為か、デジコアの創造した姿は、強大な“破壊”の権化であり、“究極の敵”の化身であった。必殺技は全身全霊を込めた凄まじい突撃『ブレイブメタル』と、破壊の衝撃波を放つ『ドルディーン』。",
+			"profile": "An imaginary Digimon created from the daydream of a DigiCore. Dorugoramon is a Digimon that Digivolved through the interface on its forehead when its creative powers were miraculously unleashed. Likely due to the fact that it possessed the data of a powerful legendary dragon within its original DigiCore, the form created by the DigiCore resulted in the ultimate enemy, an incarnation of destruction. Its special moves are Brave Metal, in which it devotes its entire body and soul to land a terrible assault on its enemies, and Doru Djinn, where it unleashes a destructive shockwave.",
 			"icon_asset": "digimon/icon/digimonface1229105",
 			"attribute": "2",
 			"type": "53",
@@ -800,6 +809,15 @@
 			"attribute": "2",
 			"type": "15",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "gabumonyuuzyoonokizuna",
+			"sort_key": "ガブモン‐友情の絆‐",
+			"profile": "This legendary final Digivolution of Gabumon is rooted in the deep bond it shares with its partner, one that pushes the very limit of possibilities. The elegant armor that protects this Digimon and allows it to stay at your side through thick and thin is proof of the unceasing friendship and loyalty that your partnership! It is able to fly with the photon light wings that arc out from its back, but it can also transform into a motorbike that allows it to take its partner along as it revs towards its destination. Its special moves are Full-Metal Machinegun, in which a rain of iron pours from the cowl parts of both arms to overwhelm the enemy, and Cool Edge, where it purges its cowl parts to instantaneously attack. It also has Moon Phase, in which it fires laser beams in every direction, and Raddle Star, where its equipped AI-tracking weapon strikes true, no matter how far its target is.",
+			"icon_asset": "digimon/icon/digimonface1218206",
+			"attribute": "5",
+			"type": "127",
+			"start_date": "2020-10-05 12:00:00"
 		},
 		{
 			"code": "gaioumon",
