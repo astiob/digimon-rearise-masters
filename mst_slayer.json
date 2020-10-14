@@ -12402,6 +12402,16 @@
 		},
 		{
 			"slayer_id": "1001446",
+			"sequence": "79",
+			"target_type": "7",
+			"target_value": "1000370",
+			"parameter_type": "6",
+			"parameter_value": "110",
+			"parameter_target": "0",
+			"slayer_state": "1"
+		},
+		{
+			"slayer_id": "1001446",
 			"sequence": "8",
 			"target_type": "7",
 			"target_value": "1000332",
@@ -12409,6 +12419,56 @@
 			"parameter_value": "150",
 			"parameter_target": "1435",
 			"slayer_state": "3"
+		},
+		{
+			"slayer_id": "1001446",
+			"sequence": "80",
+			"target_type": "7",
+			"target_value": "1000370",
+			"parameter_type": "5",
+			"parameter_value": "110",
+			"parameter_target": "1435",
+			"slayer_state": "1"
+		},
+		{
+			"slayer_id": "1001446",
+			"sequence": "81",
+			"target_type": "7",
+			"target_value": "1000370",
+			"parameter_type": "1",
+			"parameter_value": "110",
+			"parameter_target": "0",
+			"slayer_state": "1"
+		},
+		{
+			"slayer_id": "1001446",
+			"sequence": "82",
+			"target_type": "7",
+			"target_value": "1000370",
+			"parameter_type": "2",
+			"parameter_value": "110",
+			"parameter_target": "0",
+			"slayer_state": "1"
+		},
+		{
+			"slayer_id": "1001446",
+			"sequence": "83",
+			"target_type": "7",
+			"target_value": "1000370",
+			"parameter_type": "3",
+			"parameter_value": "110",
+			"parameter_target": "0",
+			"slayer_state": "1"
+		},
+		{
+			"slayer_id": "1001446",
+			"sequence": "84",
+			"target_type": "7",
+			"target_value": "1000370",
+			"parameter_type": "4",
+			"parameter_value": "110",
+			"parameter_target": "0",
+			"slayer_state": "1"
 		},
 		{
 			"slayer_id": "1001446",
