@@ -268,7 +268,7 @@
 		},
 		{
 			"className": "DigimonGroupMaster",
-			"crc": 3281740744,
+			"crc": 717205533,
 			"hashName": "5EE7E8206840413260DDAF31EBABD875",
 			"masterName": "mst_digimon_group",
 			"size": 14852
@@ -793,7 +793,7 @@
 		},
 		{
 			"className": "SkillDetailMaster",
-			"crc": 1758362422,
+			"crc": 1746022723,
 			"hashName": "4262182BBFC16F673FD71551B2DBBA01",
 			"masterName": "mst_skill_detail",
 			"size": 314484
@@ -828,10 +828,10 @@
 		},
 		{
 			"className": "SlayerMaster",
-			"crc": 2708036171,
+			"crc": 1800390627,
 			"hashName": "1096D1CAA5B674FDDB56C4152C1CEEBA",
 			"masterName": "mst_slayer",
-			"size": 25044
+			"size": 25092
 		},
 		{
 			"className": "SlayerMessageMaster",
@@ -1093,5 +1093,5 @@
 			"size": 52
 		}
 	],
-	"version": "2020-10-09 20:24:04"
+	"version": "2020-10-14 11:16:15"
 }
