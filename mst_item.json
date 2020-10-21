@@ -1255,6 +1255,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "10164",
+			"item_name": "デュークモン(X抗体)の進化コード",
+			"sort_key": "sort",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10064",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がデュークモン(X抗体)の系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "102",
 			"item_name": "体の特訓チップⅡ",
 			"sort_key": "",
@@ -8592,6 +8603,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "139422011",
+			"item_name": "諸刃Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139422012",
+			"item_name": "諸刃Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139422013",
+			"item_name": "諸刃Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139422014",
+			"item_name": "諸刃Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139422015",
+			"item_name": "諸刃Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "139432001",
 			"item_name": "守Ⅳ(冷静 イーバモン)",
 			"sort_key": "",
@@ -8644,6 +8710,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "冷静のイーバモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139432011",
+			"item_name": "頑強Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139432012",
+			"item_name": "頑強Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139432013",
+			"item_name": "頑強Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139432014",
+			"item_name": "頑強Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139432015",
+			"item_name": "頑強Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139442011",
+			"item_name": "鈍重Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139442012",
+			"item_name": "鈍重Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139442013",
+			"item_name": "鈍重Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139442014",
+			"item_name": "鈍重Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "139442015",
+			"item_name": "鈍重Ⅳ(冷静 イーバモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment139442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静イーバモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -11320,6 +11496,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "151413011",
+			"item_name": "捨身Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151413011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151413012",
+			"item_name": "捨身Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151413011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151413013",
+			"item_name": "捨身Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151413011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151413014",
+			"item_name": "捨身Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151413011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151413015",
+			"item_name": "捨身Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151413011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "151433001",
 			"item_name": "守Ⅳ(器用 ロトスモン)",
 			"sort_key": "",
@@ -11372,6 +11603,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "器用のロトスモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151433011",
+			"item_name": "頑強Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151433012",
+			"item_name": "頑強Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151433013",
+			"item_name": "頑強Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151433014",
+			"item_name": "頑強Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151433015",
+			"item_name": "頑強Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151443011",
+			"item_name": "鈍重Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151443012",
+			"item_name": "鈍重Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151443013",
+			"item_name": "鈍重Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151443014",
+			"item_name": "鈍重Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "151443015",
+			"item_name": "鈍重Ⅳ(器用 ロトスモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment151443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用ロトスモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -13102,6 +13443,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "162422011",
+			"item_name": "諸刃Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162422012",
+			"item_name": "諸刃Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162422013",
+			"item_name": "諸刃Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162422014",
+			"item_name": "諸刃Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162422015",
+			"item_name": "諸刃Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162422011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "162432001",
 			"item_name": "守Ⅳ(冷静 ベルゼブモン)",
 			"sort_key": "",
@@ -13154,6 +13550,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "冷静のベルゼブモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162432011",
+			"item_name": "頑強Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162432012",
+			"item_name": "頑強Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162432013",
+			"item_name": "頑強Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162432014",
+			"item_name": "頑強Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162432015",
+			"item_name": "頑強Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162432011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162442011",
+			"item_name": "鈍重Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162442012",
+			"item_name": "鈍重Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162442013",
+			"item_name": "鈍重Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162442014",
+			"item_name": "鈍重Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "162442015",
+			"item_name": "鈍重Ⅳ(冷静 ベルゼブモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment162442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静ベルゼブモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -26786,6 +27292,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "23504",
+			"item_name": "ロイヤルガシャチケット2020",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_royalevent2020",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "ロイヤルチケットガシャ ～魔槍～を回すことができるチケット(使用期間 2020/10/31 12:00 ～ 2021/01/07 11:59)",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "23521",
 			"item_name": "デジモンガシャチケット vol.1",
 			"sort_key": "",
@@ -35113,6 +35630,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25286",
+			"item_name": "混沌の金属竜のデジタマ",
+			"sort_key": "コントンノキンゾクリュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama067",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体カオスドラモン(不屈)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "253414001",
 			"item_name": "攻Ⅳ(不屈 カオスドラモン)",
 			"sort_key": "",
@@ -40115,6 +40643,171 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "冷静のバンチョーゴーレモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296422001",
+			"item_name": "攻Ⅳ(冷静 デュークモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のデュークモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296422002",
+			"item_name": "攻Ⅳ(冷静 デュークモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のデュークモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296422003",
+			"item_name": "攻Ⅳ(冷静 デュークモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のデュークモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296422004",
+			"item_name": "攻Ⅳ(冷静 デュークモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のデュークモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296422005",
+			"item_name": "攻Ⅳ(冷静 デュークモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のデュークモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296432001",
+			"item_name": "守Ⅳ(冷静 デュークモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のデュークモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296432002",
+			"item_name": "守Ⅳ(冷静 デュークモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のデュークモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296432003",
+			"item_name": "守Ⅳ(冷静 デュークモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のデュークモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296432004",
+			"item_name": "守Ⅳ(冷静 デュークモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のデュークモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296432005",
+			"item_name": "守Ⅳ(冷静 デュークモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のデュークモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296442011",
+			"item_name": "縮地Ⅳ(冷静 デュークモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静デュークモン(X抗体)のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296442012",
+			"item_name": "縮地Ⅳ(冷静 デュークモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静デュークモン(X抗体)のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296442013",
+			"item_name": "縮地Ⅳ(冷静 デュークモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静デュークモン(X抗体)のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296442014",
+			"item_name": "縮地Ⅳ(冷静 デュークモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静デュークモン(X抗体)のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "296442015",
+			"item_name": "縮地Ⅳ(冷静 デュークモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment296442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静デュークモン(X抗体)のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
