@@ -3272,6 +3272,13 @@
 		{
 			"action_efficacy_type": "4",
 			"index_in_type": "0",
+			"target_type": "2",
+			"target_num": "1",
+			"text": "自分の[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]を解除"
+		},
+		{
+			"action_efficacy_type": "4",
+			"index_in_type": "0",
 			"target_type": "5",
 			"target_num": "5",
 			"text": "味方[@target_num]全体[/@target_num]への[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]を解除"
