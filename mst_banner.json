@@ -2113,6 +2113,18 @@
 			"extension_data": "{\"information_id\":1040021}"
 		},
 		{
+			"banner_id": "50040058",
+			"banner_type": "0",
+			"disp_order": "41",
+			"start_date": "2020-11-06 12:00:00",
+			"end_date": "2020-11-17 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner508",
+			"extension_type": "2",
+			"extension_id": "1010086",
+			"extension_data": "{\"information_id\":1010086}"
+		},
+		{
 			"banner_id": "50040059",
 			"banner_type": "0",
 			"disp_order": "41",
@@ -2687,6 +2699,18 @@
 			"extension_type": "1",
 			"extension_id": "23",
 			"extension_data": "{\"information_id\":1020078}"
+		},
+		{
+			"banner_id": "50060027",
+			"banner_type": "0",
+			"disp_order": "65",
+			"start_date": "2020-11-06 12:00:00",
+			"end_date": "2020-11-24 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner507",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":1020082}"
 		},
 		{
 			"banner_id": "50070001",
