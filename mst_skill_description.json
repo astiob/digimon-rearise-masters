@@ -3162,77 +3162,77 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "아군 [@target_num]1마리[/@target_num]에게 '[:digimon_group_name:] 디지몬'의 적에 대한 대미지를 [@value][:value:][/@value]배로 하는 효과 부여([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "아군 [@target_num]2마리[/@target_num]에게 '[:digimon_group_name:] 디지몬'의 적에 대한 대미지를 [@value][:value:][/@value]배로 하는 효과 부여([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "아군 [@target_num]3마리[/@target_num]에게 '[:digimon_group_name:] 디지몬'의 적에 대한 대미지를 [@value][:value:][/@value]배로 하는 효과 부여([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "아군 [@target_num]4마리[/@target_num]에게 '[:digimon_group_name:] 디지몬'의 적에 대한 대미지를 [@value][:value:][/@value]배로 하는 효과 부여([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "아군 [@target_num]전체[/@target_num]에게 '[:digimon_group_name:] 디지몬'의 적에 대한 대미지를 [@value][:value:][/@value]배로 하는 효과 부여([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "個性が「勇敢」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "개성이 '용감'인 아군에게 '[:digimon_group_name:] 디지몬'의 적에 대한 대미지를 [@value][:value:][/@value]배로 하는 효과 부여([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "個性が「冷静」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "개성이 '침착'인 아군에게 '[:digimon_group_name:] 디지몬'의 적에 대한 대미지를 [@value][:value:][/@value]배로 하는 효과 부여([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "個性が「器用」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "개성이 '능숙'인 아군에게 '[:digimon_group_name:] 디지몬'의 적에 대한 대미지를 [@value][:value:][/@value]배로 하는 효과 부여([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "個性が「不屈」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "개성이 '불굴'인 아군에게 '[:digimon_group_name:] 디지몬'의 적에 대한 대미지를 [@value][:value:][/@value]배로 하는 효과 부여([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "個性が「献身」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "개성이 '헌신'인 아군에게 '[:digimon_group_name:] 디지몬'의 적에 대한 대미지를 [@value][:value:][/@value]배로 하는 효과 부여([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "自分に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "자신에게 '[:digimon_group_name:] 디지몬'의 적에 대한 대미지를 [@value][:value:][/@value]배로 하는 효과 부여([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "4",
