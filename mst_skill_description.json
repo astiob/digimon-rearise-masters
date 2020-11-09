@@ -3162,77 +3162,77 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows a [@target_num]single[/@target_num] ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]2[/@target_num] allies to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]3[/@target_num] allies to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]4[/@target_num] allies to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows [@target_num]all[/@target_num] allies to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "個性が「勇敢」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows a Brave ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "個性が「冷静」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows a Calm ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "個性が「器用」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows a Deft ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "個性が「不屈」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows a Tenacious ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "個性が「献身」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows a Devoted ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "自分に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "Allows you to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "4",
