@@ -37,7 +37,7 @@
 			"shop_id": "12",
 			"name": "デジオーブ交換",
 			"cost_item_id": "22007",
-			"disp_order": "12",
+			"disp_order": "15",
 			"entrance_asset": "shop/entrance/shop_entrance002",
 			"tab_asset": "shop/skin/shop_skin011",
 			"start_date": "2019-01-09 16:00:00",
@@ -197,6 +197,17 @@
 			"start_date": "2020-09-30 12:00:00",
 			"new_end_date": "2020-10-31 11:59:59",
 			"end_date": "2020-11-07 11:59:59"
+		},
+		{
+			"shop_id": "26",
+			"name": "RKイベント交換",
+			"cost_item_id": "22021",
+			"disp_order": "12",
+			"entrance_asset": "shop/entrance/shopbannerbg024_02",
+			"tab_asset": "shop/skin/shop_skin024",
+			"start_date": "2020-11-16 12:00:00",
+			"new_end_date": "2020-11-30 11:59:59",
+			"end_date": "2020-12-07 11:59:59"
 		},
 		{
 			"shop_id": "4",
