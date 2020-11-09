@@ -3162,77 +3162,77 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "味方[@target_num]単体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "對友軍[@target_num]單體[/@target_num]附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "味方[@target_num]2体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "對[@target_num]2隻[/@target_num]友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "味方[@target_num]3体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "對[@target_num]3隻[/@target_num]友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "味方[@target_num]4体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "對[@target_num]4隻[/@target_num]友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "味方[@target_num]全体[/@target_num]に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "對友軍[@target_num]全體[/@target_num]附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "個性が「勇敢」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「勇敢」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "個性が「冷静」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「冷靜」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "個性が「器用」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「精明」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "個性が「不屈」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「不屈」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "個性が「献身」の味方に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「奉獻」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "自分に「[:digimon_group_name:]デジモン」の敵へのダメージを[@value][:value:][/@value]倍にする効果を付与（[@duration][:duration:][/@duration]）"
+			"text": "對自己附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "4",
