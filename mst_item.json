@@ -36719,6 +36719,17 @@
 			"max_amount": "999999999"
 		},
 		{
+			"item_id": "26019",
+			"item_name": "フィーチャーpt",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_scenario_event_point_010",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
+			"max_amount": "999999999"
+		},
+		{
 			"item_id": "260422001",
 			"item_name": "攻Ⅳ(冷静 インペリアルドラモンPM)",
 			"sort_key": "",
