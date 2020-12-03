@@ -10173,6 +10173,10 @@
 			"text": "■Warning\nThe drop rates are rounded off to the nearest thousandth.\nThe total number of the listed drop rates may not add up to 100%.\nMore than one of the same item may appear from this summon.\nOne of the following is guaranteed in the 10+1 Summon: a Champion Digimon capable of Digivolving to Ultimate;\na Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega;\nor a Rookie Digimon capable of Digivolving to Champion.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
 		},
 		{
+			"text_id": "3000018",
+			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth. The total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon: A Champion Digimon capable of Digivolving to Ultimate;\na Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega;\na Mega Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Ultra;\nor a Mega Digimon capable of Digivolving to Ultra.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
+		},
+		{
 			"text_id": "300002",
 			"text": "Salamon"
 		},
@@ -10957,8 +10961,28 @@
 			"text": "X-Program Resist"
 		},
 		{
+			"text_id": "3147",
+			"text": "Lighdramon"
+		},
+		{
+			"text_id": "3148",
+			"text": "Thanks for bringing everyone here!\nHere's some ramen as a token of my thanks."
+		},
+		{
+			"text_id": "3149",
+			"text": "Woohoo, we made some seriously delicious ramen!\nAll that's left is for everyone to gobble this up!"
+		},
+		{
 			"text_id": "315",
 			"text": "{0} Turn(s)"
+		},
+		{
+			"text_id": "3150",
+			"text": "Now I've just got to go around the Digital World\nto tell everyone about this ramen!"
+		},
+		{
+			"text_id": "3151",
+			"text": "I'm glad they came to have some ramen!\nNow on to the next target..."
 		},
 		{
 			"text_id": "3152",
@@ -10977,8 +11001,16 @@
 			"text": "Damage"
 		},
 		{
+			"text_id": "3160",
+			"text": "August Clash Battle!"
+		},
+		{
 			"text_id": "3161",
 			"text": "Sept Clash Battle!"
+		},
+		{
+			"text_id": "3164",
+			"text": "Removes Shock, Paralysis, Stun, Sleep, Poison, Burn, Error, Skill Lock, and Blind from self.\nReduces damage received by 90% when blocking (Permanent)\nPeriodically recovers own HP by 1500. (5 turns)"
 		},
 		{
 			"text_id": "3169",
@@ -12047,6 +12079,18 @@
 		{
 			"text_id": "490671",
 			"text": "• Take measures against <color=#FFE25AFF>Error</color><sprite=7>!\n• Set Plugins that can enhance <color=#FFE25AFF>DEF</color>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!"
+		},
+		{
+			"text_id": "490681",
+			"text": "• Enhance your <color=#FFE25AFF>Block Rate</color>!\n• Include Digimon that can <color=#FFE25AFF>heal HP</color> in your party!\n• Include <color=#FFE25AFF>Brave</color> and <color=#FFE25AFF>Tenacious</color> Digimon in your party!"
+		},
+		{
+			"text_id": "490682",
+			"text": "• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!\n• Include Digimon that can lower <color=#FFE25AFF>DEF</color> in your party!\n• Take measures against<color=#FFE25AFF>Error</color><sprite=7>!"
+		},
+		{
+			"text_id": "490691",
+			"text": "• Take measures against <color=#FFE25AFF>Stun</color><sprite=3>!\n• <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and <color=#FFE25AFF>Error</color><sprite=7> are effective!\n• Include Digimon with Personalities <color=#FFE25AFF>other than Deft</color> in your party!"
 		},
 		{
 			"text_id": "491",
