@@ -1,0 +1,795 @@
+{
+	"masterRows": [
+		{
+			"influence_category": "1",
+			"influence_type": "0",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/buff_category/category_damageimmune",
+			"popup_text_id": "1626"
+		},
+		{
+			"influence_category": "1",
+			"influence_type": "27",
+			"variant_id": "0",
+			"icon_asset": "icon/battlecondition/icon_battlecondition_ice",
+			"popup_text_id": "1626"
+		},
+		{
+			"influence_category": "10",
+			"influence_type": "38",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff065",
+			"popup_text_id": "1824"
+		},
+		{
+			"influence_category": "11",
+			"influence_type": "34",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff041",
+			"popup_text_id": "2167"
+		},
+		{
+			"influence_category": "12",
+			"influence_type": "40",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff066",
+			"popup_text_id": "1829"
+		},
+		{
+			"influence_category": "13",
+			"influence_type": "44",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff074",
+			"popup_text_id": "1861"
+		},
+		{
+			"influence_category": "14",
+			"influence_type": "26",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff075",
+			"popup_text_id": "1864"
+		},
+		{
+			"influence_category": "15",
+			"influence_type": "45",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff076",
+			"popup_text_id": "1865"
+		},
+		{
+			"influence_category": "16",
+			"influence_type": "49",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff089",
+			"popup_text_id": "2929"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "0",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/buff_category/category_badstatusimmune",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/buff_category/category_badstatusimmune",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "1",
+			"icon_asset": "icon/buff/icon_buff025",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "10",
+			"icon_asset": "icon/buff/icon_buff022",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "100",
+			"icon_asset": "icon/buff/buff_category/category_badstatusimmune",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "101",
+			"icon_asset": "icon/buff/buff_category/category_badstatusimmune",
+			"popup_text_id": "1808"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "102",
+			"icon_asset": "icon/buff/buff_category/category_badstatusimmune",
+			"popup_text_id": "1809"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "103",
+			"icon_asset": "icon/buff/buff_category/category_badstatusimmune",
+			"popup_text_id": "1810"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "104",
+			"icon_asset": "icon/buff/buff_category/category_badstatusimmune",
+			"popup_text_id": "1811"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "105",
+			"icon_asset": "icon/buff/buff_category/category_badstatusimmune",
+			"popup_text_id": "1812"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "106",
+			"icon_asset": "icon/buff/buff_category/category_badstatusimmune",
+			"popup_text_id": "1813"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "11",
+			"icon_asset": "icon/buff/icon_buff077",
+			"popup_text_id": "1809"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "13",
+			"icon_asset": "icon/buff/icon_buff049",
+			"popup_text_id": "1808"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "14",
+			"icon_asset": "icon/buff/icon_buff050",
+			"popup_text_id": "1808"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "15",
+			"icon_asset": "icon/buff/icon_buff051",
+			"popup_text_id": "1808"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "16",
+			"icon_asset": "icon/buff/icon_buff052",
+			"popup_text_id": "1809"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "17",
+			"icon_asset": "icon/buff/icon_buff043",
+			"popup_text_id": "1808"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "18",
+			"icon_asset": "icon/buff/icon_buff044",
+			"popup_text_id": "1808"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "19",
+			"icon_asset": "icon/buff/icon_buff045",
+			"popup_text_id": "1808"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "2",
+			"icon_asset": "icon/buff/icon_buff029",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "20",
+			"icon_asset": "icon/buff/icon_buff046",
+			"popup_text_id": "1808"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "21",
+			"icon_asset": "icon/buff/icon_buff047",
+			"popup_text_id": "1808"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "22",
+			"icon_asset": "icon/buff/icon_buff048",
+			"popup_text_id": "1808"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "3",
+			"icon_asset": "icon/buff/icon_buff020",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "4",
+			"icon_asset": "icon/buff/icon_buff024",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "5",
+			"icon_asset": "icon/buff/icon_buff023",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "6",
+			"icon_asset": "icon/buff/icon_buff021",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "7",
+			"icon_asset": "icon/buff/icon_buff010",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "8",
+			"icon_asset": "icon/buff/icon_buff027",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "28",
+			"variant_id": "9",
+			"icon_asset": "icon/buff/icon_buff026",
+			"popup_text_id": "1608"
+		},
+		{
+			"influence_category": "2",
+			"influence_type": "37",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff062",
+			"popup_text_id": "2164"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "0",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/buff_category/category_buff",
+			"popup_text_id": "0"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "1",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff013",
+			"popup_text_id": "0"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "1",
+			"variant_id": "1",
+			"icon_asset": "icon/buff/icon_buff013",
+			"popup_text_id": "1620"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "1",
+			"variant_id": "2",
+			"icon_asset": "icon/buff/icon_buff015",
+			"popup_text_id": "1621"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "11",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff018",
+			"popup_text_id": "1624"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "12",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff019",
+			"popup_text_id": "1623"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "2",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff011",
+			"popup_text_id": "1622"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "32",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff039",
+			"popup_text_id": "2136"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "33",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff040",
+			"popup_text_id": "0"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "33",
+			"variant_id": "1",
+			"icon_asset": "icon/buff/icon_buff040",
+			"popup_text_id": "2137"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "33",
+			"variant_id": "2",
+			"icon_asset": "icon/buff/icon_buff063",
+			"popup_text_id": "2138"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "39",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff064",
+			"popup_text_id": "2204"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "41",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/buff_category/category_buff",
+			"popup_text_id": "1840"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "41",
+			"variant_id": "1",
+			"icon_asset": "icon/buff/icon_buff067",
+			"popup_text_id": "1840"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "41",
+			"variant_id": "2",
+			"icon_asset": "icon/buff/icon_buff068",
+			"popup_text_id": "1841"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "41",
+			"variant_id": "3",
+			"icon_asset": "icon/buff/icon_buff069",
+			"popup_text_id": "1842"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "41",
+			"variant_id": "4",
+			"icon_asset": "icon/buff/icon_buff070",
+			"popup_text_id": "1843"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "41",
+			"variant_id": "5",
+			"icon_asset": "icon/buff/icon_buff071",
+			"popup_text_id": "1844"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "42",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff072",
+			"popup_text_id": "1845"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "43",
+			"variant_id": "200001",
+			"icon_asset": "icon/buff/icon_buff073",
+			"popup_text_id": "1860"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "46",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff078",
+			"popup_text_id": "1866"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "47",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff079",
+			"popup_text_id": "2697"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "48",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/buff_category/category_buff",
+			"popup_text_id": "2790"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "48",
+			"variant_id": "1",
+			"icon_asset": "icon/buff/icon_buff086",
+			"popup_text_id": "2790"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "48",
+			"variant_id": "10",
+			"icon_asset": "icon/buff/icon_buff081",
+			"popup_text_id": "2798"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "48",
+			"variant_id": "2",
+			"icon_asset": "icon/buff/icon_buff083",
+			"popup_text_id": "2791"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "48",
+			"variant_id": "4",
+			"icon_asset": "icon/buff/icon_buff088",
+			"popup_text_id": "2792"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "48",
+			"variant_id": "5",
+			"icon_asset": "icon/buff/icon_buff087",
+			"popup_text_id": "2793"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "48",
+			"variant_id": "6",
+			"icon_asset": "icon/buff/icon_buff084",
+			"popup_text_id": "2794"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "48",
+			"variant_id": "7",
+			"icon_asset": "icon/buff/icon_buff080",
+			"popup_text_id": "2795"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "48",
+			"variant_id": "8",
+			"icon_asset": "icon/buff/icon_buff082",
+			"popup_text_id": "2796"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "48",
+			"variant_id": "9",
+			"icon_asset": "icon/buff/icon_buff085",
+			"popup_text_id": "2797"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "5",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff034",
+			"popup_text_id": "1894"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "6",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff035",
+			"popup_text_id": "1895"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "7",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff008",
+			"popup_text_id": "1625"
+		},
+		{
+			"influence_category": "3",
+			"influence_type": "9",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff017",
+			"popup_text_id": "1627"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "0",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/buff_category/category_debuff",
+			"popup_text_id": "0"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "1",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff014",
+			"popup_text_id": "0"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "1",
+			"variant_id": "1",
+			"icon_asset": "icon/buff/icon_buff014",
+			"popup_text_id": "1620"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "1",
+			"variant_id": "2",
+			"icon_asset": "icon/buff/icon_buff016",
+			"popup_text_id": "1621"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "11",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff031",
+			"popup_text_id": "1624"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "12",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff032",
+			"popup_text_id": "1623"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "2",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff007",
+			"popup_text_id": "1622"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "46",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff078",
+			"popup_text_id": "1866"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "47",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff079",
+			"popup_text_id": "2697"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "5",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff036",
+			"popup_text_id": "1894"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "6",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff037",
+			"popup_text_id": "1895"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "7",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff009",
+			"popup_text_id": "1625"
+		},
+		{
+			"influence_category": "4",
+			"influence_type": "9",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff030",
+			"popup_text_id": "1627"
+		},
+		{
+			"influence_category": "5",
+			"influence_type": "0",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/buff_category/category_badstatus",
+			"popup_text_id": "0"
+		},
+		{
+			"influence_category": "5",
+			"influence_type": "16",
+			"variant_id": "0",
+			"icon_asset": "icon/battlecondition/icon_battlecondition_shock",
+			"popup_text_id": "1596"
+		},
+		{
+			"influence_category": "5",
+			"influence_type": "17",
+			"variant_id": "0",
+			"icon_asset": "icon/battlecondition/icon_battlecondition_paralysis",
+			"popup_text_id": "1597"
+		},
+		{
+			"influence_category": "5",
+			"influence_type": "18",
+			"variant_id": "0",
+			"icon_asset": "icon/battlecondition/icon_battlecondition_ice",
+			"popup_text_id": "1598"
+		},
+		{
+			"influence_category": "5",
+			"influence_type": "19",
+			"variant_id": "0",
+			"icon_asset": "icon/battlecondition/icon_battlecondition_stun",
+			"popup_text_id": "1599"
+		},
+		{
+			"influence_category": "5",
+			"influence_type": "20",
+			"variant_id": "0",
+			"icon_asset": "icon/battlecondition/icon_battlecondition_sleep",
+			"popup_text_id": "1600"
+		},
+		{
+			"influence_category": "5",
+			"influence_type": "21",
+			"variant_id": "0",
+			"icon_asset": "icon/battlecondition/icon_battlecondition_poison",
+			"popup_text_id": "1601"
+		},
+		{
+			"influence_category": "5",
+			"influence_type": "22",
+			"variant_id": "0",
+			"icon_asset": "icon/battlecondition/icon_battlecondition_burn",
+			"popup_text_id": "1602"
+		},
+		{
+			"influence_category": "5",
+			"influence_type": "23",
+			"variant_id": "0",
+			"icon_asset": "icon/battlecondition/icon_battlecondition_error",
+			"popup_text_id": "1603"
+		},
+		{
+			"influence_category": "5",
+			"influence_type": "24",
+			"variant_id": "0",
+			"icon_asset": "icon/battlecondition/icon_battlecondition_seal",
+			"popup_text_id": "1604"
+		},
+		{
+			"influence_category": "5",
+			"influence_type": "25",
+			"variant_id": "0",
+			"icon_asset": "icon/battlecondition/icon_battlecondition_darkness",
+			"popup_text_id": "1605"
+		},
+		{
+			"influence_category": "6",
+			"influence_type": "29",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff012",
+			"popup_text_id": "1607"
+		},
+		{
+			"influence_category": "7",
+			"influence_type": "31",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff038",
+			"popup_text_id": "2132"
+		},
+		{
+			"influence_category": "8",
+			"influence_type": "36",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff053",
+			"popup_text_id": "2184"
+		},
+		{
+			"influence_category": "8",
+			"influence_type": "36",
+			"variant_id": "1",
+			"icon_asset": "icon/buff/icon_buff053",
+			"popup_text_id": "2184"
+		},
+		{
+			"influence_category": "8",
+			"influence_type": "36",
+			"variant_id": "2",
+			"icon_asset": "icon/buff/icon_buff054",
+			"popup_text_id": "2184"
+		},
+		{
+			"influence_category": "8",
+			"influence_type": "36",
+			"variant_id": "3",
+			"icon_asset": "icon/buff/icon_buff055",
+			"popup_text_id": "2184"
+		},
+		{
+			"influence_category": "8",
+			"influence_type": "36",
+			"variant_id": "4",
+			"icon_asset": "icon/buff/icon_buff056",
+			"popup_text_id": "2184"
+		},
+		{
+			"influence_category": "8",
+			"influence_type": "36",
+			"variant_id": "5",
+			"icon_asset": "icon/buff/icon_buff057",
+			"popup_text_id": "2184"
+		},
+		{
+			"influence_category": "8",
+			"influence_type": "36",
+			"variant_id": "6",
+			"icon_asset": "icon/buff/icon_buff058",
+			"popup_text_id": "2184"
+		},
+		{
+			"influence_category": "8",
+			"influence_type": "36",
+			"variant_id": "7",
+			"icon_asset": "icon/buff/icon_buff059",
+			"popup_text_id": "2184"
+		},
+		{
+			"influence_category": "8",
+			"influence_type": "36",
+			"variant_id": "8",
+			"icon_asset": "icon/buff/icon_buff060",
+			"popup_text_id": "2184"
+		},
+		{
+			"influence_category": "8",
+			"influence_type": "36",
+			"variant_id": "9",
+			"icon_asset": "icon/buff/icon_buff061",
+			"popup_text_id": "2184"
+		},
+		{
+			"influence_category": "9",
+			"influence_type": "35",
+			"variant_id": "0",
+			"icon_asset": "icon/buff/icon_buff042",
+			"popup_text_id": "2176"
+		}
+	]
+}

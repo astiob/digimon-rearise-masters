@@ -1,69 +1,6 @@
 {
 	"masterRows": [
 		{
-			"raid_id": "30010100",
-			"start_date": "2000-01-01 00:00:00",
-			"end_date": "2018-07-04 11:59:59",
-			"opening_scenario_id": "90011",
-			"ending_scenario_id": "90012"
-		},
-		{
-			"raid_id": "30010101",
-			"start_date": "2000-01-01 00:00:00",
-			"end_date": "2018-07-04 11:59:59",
-			"opening_scenario_id": "90011",
-			"ending_scenario_id": "90012"
-		},
-		{
-			"raid_id": "30010102",
-			"start_date": "2000-01-01 00:00:00",
-			"end_date": "2018-07-04 11:59:59",
-			"opening_scenario_id": "90011",
-			"ending_scenario_id": "90012"
-		},
-		{
-			"raid_id": "30010103",
-			"start_date": "2000-01-01 00:00:00",
-			"end_date": "2018-07-04 11:59:59",
-			"opening_scenario_id": "90011",
-			"ending_scenario_id": "90012"
-		},
-		{
-			"raid_id": "30010104",
-			"start_date": "2000-01-01 00:00:00",
-			"end_date": "2018-07-04 11:59:59",
-			"opening_scenario_id": "90011",
-			"ending_scenario_id": "90012"
-		},
-		{
-			"raid_id": "30010105",
-			"start_date": "2000-01-01 00:00:00",
-			"end_date": "2018-07-04 11:59:59",
-			"opening_scenario_id": "90011",
-			"ending_scenario_id": "90012"
-		},
-		{
-			"raid_id": "30010106",
-			"start_date": "2000-01-01 00:00:00",
-			"end_date": "2018-07-04 11:59:59",
-			"opening_scenario_id": "90011",
-			"ending_scenario_id": "90012"
-		},
-		{
-			"raid_id": "30010107",
-			"start_date": "2000-01-01 00:00:00",
-			"end_date": "2018-07-04 11:59:59",
-			"opening_scenario_id": "90011",
-			"ending_scenario_id": "90012"
-		},
-		{
-			"raid_id": "30010108",
-			"start_date": "2000-01-01 00:00:00",
-			"end_date": "2018-07-04 11:59:59",
-			"opening_scenario_id": "90011",
-			"ending_scenario_id": "90012"
-		},
-		{
 			"raid_id": "30020100",
 			"start_date": "2018-08-17 12:00:00",
 			"end_date": "2018-08-24 11:59:59",
@@ -251,132 +188,6 @@
 			"end_date": "2019-10-23 11:59:59",
 			"opening_scenario_id": "90071",
 			"ending_scenario_id": "90072"
-		},
-		{
-			"raid_id": "30030100",
-			"start_date": "2018-07-11 12:00:00",
-			"end_date": "2018-07-18 11:59:59",
-			"opening_scenario_id": "90061",
-			"ending_scenario_id": "90062"
-		},
-		{
-			"raid_id": "30030101",
-			"start_date": "2018-07-11 12:00:00",
-			"end_date": "2018-07-18 11:59:59",
-			"opening_scenario_id": "90061",
-			"ending_scenario_id": "90062"
-		},
-		{
-			"raid_id": "30030102",
-			"start_date": "2018-07-11 12:00:00",
-			"end_date": "2018-07-18 11:59:59",
-			"opening_scenario_id": "90061",
-			"ending_scenario_id": "90062"
-		},
-		{
-			"raid_id": "30030103",
-			"start_date": "2018-07-11 12:00:00",
-			"end_date": "2018-07-18 11:59:59",
-			"opening_scenario_id": "90061",
-			"ending_scenario_id": "90062"
-		},
-		{
-			"raid_id": "30030104",
-			"start_date": "2018-07-11 12:00:00",
-			"end_date": "2018-07-18 11:59:59",
-			"opening_scenario_id": "90061",
-			"ending_scenario_id": "90062"
-		},
-		{
-			"raid_id": "30030105",
-			"start_date": "2018-07-11 12:00:00",
-			"end_date": "2018-07-18 11:59:59",
-			"opening_scenario_id": "90061",
-			"ending_scenario_id": "90062"
-		},
-		{
-			"raid_id": "30030106",
-			"start_date": "2018-07-11 12:00:00",
-			"end_date": "2018-07-18 11:59:59",
-			"opening_scenario_id": "90061",
-			"ending_scenario_id": "90062"
-		},
-		{
-			"raid_id": "30030107",
-			"start_date": "2018-07-11 12:00:00",
-			"end_date": "2018-07-18 11:59:59",
-			"opening_scenario_id": "90061",
-			"ending_scenario_id": "90062"
-		},
-		{
-			"raid_id": "30030108",
-			"start_date": "2018-07-11 12:00:00",
-			"end_date": "2018-07-18 11:59:59",
-			"opening_scenario_id": "90061",
-			"ending_scenario_id": "90062"
-		},
-		{
-			"raid_id": "30040100",
-			"start_date": "2018-07-25 12:00:00",
-			"end_date": "2018-08-01 11:59:59",
-			"opening_scenario_id": "90051",
-			"ending_scenario_id": "90052"
-		},
-		{
-			"raid_id": "30040101",
-			"start_date": "2018-07-25 12:00:00",
-			"end_date": "2018-08-01 11:59:59",
-			"opening_scenario_id": "90051",
-			"ending_scenario_id": "90052"
-		},
-		{
-			"raid_id": "30040102",
-			"start_date": "2018-07-25 12:00:00",
-			"end_date": "2018-08-01 11:59:59",
-			"opening_scenario_id": "90051",
-			"ending_scenario_id": "90052"
-		},
-		{
-			"raid_id": "30040103",
-			"start_date": "2018-07-25 12:00:00",
-			"end_date": "2018-08-01 11:59:59",
-			"opening_scenario_id": "90051",
-			"ending_scenario_id": "90052"
-		},
-		{
-			"raid_id": "30040104",
-			"start_date": "2018-07-25 12:00:00",
-			"end_date": "2018-08-01 11:59:59",
-			"opening_scenario_id": "90051",
-			"ending_scenario_id": "90052"
-		},
-		{
-			"raid_id": "30040105",
-			"start_date": "2018-07-25 12:00:00",
-			"end_date": "2018-08-01 11:59:59",
-			"opening_scenario_id": "90051",
-			"ending_scenario_id": "90052"
-		},
-		{
-			"raid_id": "30040106",
-			"start_date": "2018-07-25 12:00:00",
-			"end_date": "2018-08-01 11:59:59",
-			"opening_scenario_id": "90051",
-			"ending_scenario_id": "90052"
-		},
-		{
-			"raid_id": "30040107",
-			"start_date": "2018-07-25 12:00:00",
-			"end_date": "2018-08-01 11:59:59",
-			"opening_scenario_id": "90051",
-			"ending_scenario_id": "90052"
-		},
-		{
-			"raid_id": "30040108",
-			"start_date": "2018-07-25 12:00:00",
-			"end_date": "2018-08-01 11:59:59",
-			"opening_scenario_id": "90051",
-			"ending_scenario_id": "90052"
 		},
 		{
 			"raid_id": "30050100",
@@ -503,510 +314,6 @@
 			"end_date": "2019-11-08 11:59:59",
 			"opening_scenario_id": "90111",
 			"ending_scenario_id": "90112"
-		},
-		{
-			"raid_id": "30060100",
-			"start_date": "2018-08-01 12:00:00",
-			"end_date": "2018-08-03 11:59:59",
-			"opening_scenario_id": "90201",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30060100",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30060101",
-			"start_date": "2018-08-01 12:00:00",
-			"end_date": "2018-08-03 11:59:59",
-			"opening_scenario_id": "90201",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30060101",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30060102",
-			"start_date": "2018-08-01 12:00:00",
-			"end_date": "2018-08-03 11:59:59",
-			"opening_scenario_id": "90201",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30060102",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30060103",
-			"start_date": "2018-08-01 12:00:00",
-			"end_date": "2018-08-03 11:59:59",
-			"opening_scenario_id": "90201",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30060103",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30060104",
-			"start_date": "2018-08-01 12:00:00",
-			"end_date": "2018-08-03 11:59:59",
-			"opening_scenario_id": "90201",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30060104",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30060105",
-			"start_date": "2018-08-01 12:00:00",
-			"end_date": "2018-08-03 11:59:59",
-			"opening_scenario_id": "90201",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30060105",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30060106",
-			"start_date": "2018-08-01 12:00:00",
-			"end_date": "2018-08-03 11:59:59",
-			"opening_scenario_id": "90201",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30060106",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30060107",
-			"start_date": "2018-08-01 12:00:00",
-			"end_date": "2018-08-03 11:59:59",
-			"opening_scenario_id": "90201",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30060107",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30060108",
-			"start_date": "2018-08-01 12:00:00",
-			"end_date": "2018-08-03 11:59:59",
-			"opening_scenario_id": "90201",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30060108",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30070100",
-			"start_date": "2018-08-03 12:00:00",
-			"end_date": "2018-08-05 11:59:59",
-			"opening_scenario_id": "90202",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30070100",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30070101",
-			"start_date": "2018-08-03 12:00:00",
-			"end_date": "2018-08-05 11:59:59",
-			"opening_scenario_id": "90202",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30070101",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30070102",
-			"start_date": "2018-08-03 12:00:00",
-			"end_date": "2018-08-05 11:59:59",
-			"opening_scenario_id": "90202",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30070102",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30070103",
-			"start_date": "2018-08-03 12:00:00",
-			"end_date": "2018-08-05 11:59:59",
-			"opening_scenario_id": "90202",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30070103",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30070104",
-			"start_date": "2018-08-03 12:00:00",
-			"end_date": "2018-08-05 11:59:59",
-			"opening_scenario_id": "90202",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30070104",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30070105",
-			"start_date": "2018-08-03 12:00:00",
-			"end_date": "2018-08-05 11:59:59",
-			"opening_scenario_id": "90202",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30070105",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30070106",
-			"start_date": "2018-08-03 12:00:00",
-			"end_date": "2018-08-05 11:59:59",
-			"opening_scenario_id": "90202",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30070106",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30070107",
-			"start_date": "2018-08-03 12:00:00",
-			"end_date": "2018-08-05 11:59:59",
-			"opening_scenario_id": "90202",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30070107",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30070108",
-			"start_date": "2018-08-03 12:00:00",
-			"end_date": "2018-08-05 11:59:59",
-			"opening_scenario_id": "90202",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30070108",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30080100",
-			"start_date": "2018-08-05 12:00:00",
-			"end_date": "2018-08-07 11:59:59",
-			"opening_scenario_id": "90203",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30080100",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30080101",
-			"start_date": "2018-08-05 12:00:00",
-			"end_date": "2018-08-07 11:59:59",
-			"opening_scenario_id": "90203",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30080101",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30080102",
-			"start_date": "2018-08-05 12:00:00",
-			"end_date": "2018-08-07 11:59:59",
-			"opening_scenario_id": "90203",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30080102",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30080103",
-			"start_date": "2018-08-05 12:00:00",
-			"end_date": "2018-08-07 11:59:59",
-			"opening_scenario_id": "90203",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30080103",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30080104",
-			"start_date": "2018-08-05 12:00:00",
-			"end_date": "2018-08-07 11:59:59",
-			"opening_scenario_id": "90203",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30080104",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30080105",
-			"start_date": "2018-08-05 12:00:00",
-			"end_date": "2018-08-07 11:59:59",
-			"opening_scenario_id": "90203",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30080105",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30080106",
-			"start_date": "2018-08-05 12:00:00",
-			"end_date": "2018-08-07 11:59:59",
-			"opening_scenario_id": "90203",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30080106",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30080107",
-			"start_date": "2018-08-05 12:00:00",
-			"end_date": "2018-08-07 11:59:59",
-			"opening_scenario_id": "90203",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30080107",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30080108",
-			"start_date": "2018-08-05 12:00:00",
-			"end_date": "2018-08-07 11:59:59",
-			"opening_scenario_id": "90203",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30080108",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30090100",
-			"start_date": "2018-08-07 12:00:00",
-			"end_date": "2018-08-09 11:59:59",
-			"opening_scenario_id": "90204",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30090100",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30090101",
-			"start_date": "2018-08-07 12:00:00",
-			"end_date": "2018-08-09 11:59:59",
-			"opening_scenario_id": "90204",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30090101",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30090102",
-			"start_date": "2018-08-07 12:00:00",
-			"end_date": "2018-08-09 11:59:59",
-			"opening_scenario_id": "90204",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30090102",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30090103",
-			"start_date": "2018-08-07 12:00:00",
-			"end_date": "2018-08-09 11:59:59",
-			"opening_scenario_id": "90204",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30090103",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30090104",
-			"start_date": "2018-08-07 12:00:00",
-			"end_date": "2018-08-09 11:59:59",
-			"opening_scenario_id": "90204",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30090104",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30090105",
-			"start_date": "2018-08-07 12:00:00",
-			"end_date": "2018-08-09 11:59:59",
-			"opening_scenario_id": "90204",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30090105",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30090106",
-			"start_date": "2018-08-07 12:00:00",
-			"end_date": "2018-08-09 11:59:59",
-			"opening_scenario_id": "90204",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30090106",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30090107",
-			"start_date": "2018-08-07 12:00:00",
-			"end_date": "2018-08-09 11:59:59",
-			"opening_scenario_id": "90204",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30090107",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
-		},
-		{
-			"raid_id": "30090108",
-			"start_date": "2018-08-07 12:00:00",
-			"end_date": "2018-08-09 11:59:59",
-			"opening_scenario_id": "90204",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "30090108",
-			"start_date": "2018-08-09 12:00:00",
-			"end_date": "2018-08-10 11:59:59",
-			"opening_scenario_id": "90205",
-			"ending_scenario_id": "90206"
 		},
 		{
 			"raid_id": "30100100",
@@ -6672,468 +5979,6 @@
 			"ending_scenario_id": "90523"
 		},
 		{
-			"raid_id": "31600100",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31600101",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31600102",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31600103",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31600104",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31600105",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31600106",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31600107",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31600108",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31610100",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31610101",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31610102",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31610103",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31610104",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31610105",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31610106",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31610107",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31610108",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31620108",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31630108",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31640108",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31650108",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31660108",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31670108",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31680108",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31690108",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31700108",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31710108",
-			"start_date": "2020-01-31 12:00:00",
-			"end_date": "2020-02-14 11:59:59",
-			"opening_scenario_id": "90551",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31720100",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31720101",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31720102",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31720103",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31720104",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31720105",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31720106",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31720107",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31720108",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31730108",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31740108",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31750108",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31760108",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31770108",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31780108",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31790108",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31800108",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31810108",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31820108",
-			"start_date": "2020-02-14 12:00:00",
-			"end_date": "2020-02-21 11:59:59",
-			"opening_scenario_id": "90561",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31830100",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31830101",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31830102",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31830103",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31830104",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31830105",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31830106",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31830107",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31830108",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31840108",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31850108",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31860108",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31870108",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31880108",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31890108",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31900108",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31910108",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31920108",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "31930108",
-			"start_date": "2020-02-21 12:00:00",
-			"end_date": "2020-02-29 11:59:59",
-			"opening_scenario_id": "90562",
-			"ending_scenario_id": "0"
-		},
-		{
 			"raid_id": "31940100",
 			"start_date": "2020-10-07 12:00:00",
 			"end_date": "2020-10-15 11:59:59",
@@ -8451,597 +7296,268 @@
 		},
 		{
 			"raid_id": "32960100",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "32960101",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "32960102",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "32960103",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "32960104",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "32960105",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "32960106",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "32960107",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "32960108",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "32970106",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "32980106",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "32990106",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33000106",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33010106",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33020106",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33030106",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33040106",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33050106",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33060106",
-			"start_date": "2020-07-15 12:00:00",
-			"end_date": "2020-07-22 11:59:59",
+			"start_date": "2020-12-16 12:00:00",
+			"end_date": "2020-12-24 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33070100",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33070101",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33070102",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33070103",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33070104",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33070105",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33070106",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33070107",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33070108",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33080106",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33090106",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33100106",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33110106",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33120106",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33130106",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33140106",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33150106",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33160106",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
 			"ending_scenario_id": "0"
 		},
 		{
 			"raid_id": "33170106",
-			"start_date": "2020-07-22 12:00:00",
-			"end_date": "2020-07-31 11:59:59",
+			"start_date": "2020-12-24 12:00:00",
+			"end_date": "2020-12-31 11:59:59",
 			"opening_scenario_id": "90661",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33180100",
-			"start_date": "2020-07-31 12:00:00",
-			"end_date": "2020-08-17 11:59:59",
-			"opening_scenario_id": "90671",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33180101",
-			"start_date": "2020-07-31 12:00:00",
-			"end_date": "2020-08-17 11:59:59",
-			"opening_scenario_id": "90671",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33180102",
-			"start_date": "2020-07-31 12:00:00",
-			"end_date": "2020-08-17 11:59:59",
-			"opening_scenario_id": "90671",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33180103",
-			"start_date": "2020-07-31 12:00:00",
-			"end_date": "2020-08-17 11:59:59",
-			"opening_scenario_id": "90671",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33180104",
-			"start_date": "2020-07-31 12:00:00",
-			"end_date": "2020-08-17 11:59:59",
-			"opening_scenario_id": "90671",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33180105",
-			"start_date": "2020-07-31 12:00:00",
-			"end_date": "2020-08-17 11:59:59",
-			"opening_scenario_id": "90671",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33180106",
-			"start_date": "2020-07-31 12:00:00",
-			"end_date": "2020-08-17 11:59:59",
-			"opening_scenario_id": "90671",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33180107",
-			"start_date": "2020-07-31 12:00:00",
-			"end_date": "2020-08-17 11:59:59",
-			"opening_scenario_id": "90671",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33180108",
-			"start_date": "2020-07-31 12:00:00",
-			"end_date": "2020-08-17 11:59:59",
-			"opening_scenario_id": "90671",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33190100",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33190101",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33190102",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33190103",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33190104",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33190105",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33190106",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33190107",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33190108",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33200106",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33210106",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33220106",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33230106",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33240106",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33250106",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33260106",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33270106",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33280106",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33290106",
-			"start_date": "2020-08-17 12:00:00",
-			"end_date": "2020-08-31 11:59:59",
-			"opening_scenario_id": "90681",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33300100",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33300101",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33300102",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33300103",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33300104",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33300105",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33300106",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33300107",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33300108",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33310106",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33320106",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33330106",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33340106",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33350106",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33360106",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33370106",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33380106",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33390106",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
-			"ending_scenario_id": "0"
-		},
-		{
-			"raid_id": "33400106",
-			"start_date": "2020-08-31 12:00:00",
-			"end_date": "2020-09-15 11:59:59",
-			"opening_scenario_id": "90691",
 			"ending_scenario_id": "0"
 		}
 	]
