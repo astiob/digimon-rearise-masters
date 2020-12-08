@@ -4386,7 +4386,7 @@
 		},
 		{
 			"text_id": "1850",
-			"text": "Do you want to use<color=#C7221DFF>{1}</color>\n<color=#C7221DFF>{0}</color>tickets?"
+			"text": "Do you want to use\n<color=#C7221DFF>{0}</color> <color=#C7221DFF>x{1}</color>?"
 		},
 		{
 			"text_id": "1851",
@@ -5075,6 +5075,30 @@
 		{
 			"text_id": "2000011",
 			"text": "Chihiro"
+		},
+		{
+			"text_id": "2000012",
+			"text": "Beyond the 15F of the Underworld Dungeon"
+		},
+		{
+			"text_id": "2000013",
+			"text": "<color=#e75600>All-new floors and enemies have appeared</color>in the Underworld Dungeon!\nFrom the 15F and beyond, the <color=#e75600>powerful enemy X-Spiral</color> and its new skills will be waiting for you!"
+		},
+		{
+			"text_id": "2000014",
+			"text": "X-Spirals have the <color=#e75600>X-Barrier</color>, which reduces all damage.\n<color=#e75600>Defeat all the X-Spirals</color> to <color=#e75600>remove all the X-Barriers</color>!"
+		},
+		{
+			"text_id": "2000015",
+			"text": "In addition, X-Spirals also possess a unique skill called <color=#e75600>X-Charge</color>, which enables it to attack you with fixed damage!\nYour best bet is to take down the X-Spirals as fast as possible!"
+		},
+		{
+			"text_id": "2000016",
+			"text": "Digimon that possess the unique <color=#e75600>X-Antibody</color> can <color=#e75600>ignore the effects of X-Barrier</color>!\nIt can also decrease the amount of <color=#e75600>fixed damage sustained from X-Charge</color>!"
+		},
+		{
+			"text_id": "2000017",
+			"text": "Take down the X-Spirals with your team and conquer the dungeon!\n<color=#c7211d>*For more details on the Underworld Dungeon, please refer to Help.</color>"
 		},
 		{
 			"text_id": "2001",
@@ -8401,6 +8425,10 @@
 			"text": ""
 		},
 		{
+			"text_id": "2586",
+			"text": "{0} time(s)"
+		},
+		{
 			"text_id": "2587",
 			"text": "{0}"
 		},
@@ -9773,6 +9801,10 @@
 			"text": "Season {0}"
 		},
 		{
+			"text_id": "2918",
+			"text": "Passive Effect"
+		},
+		{
 			"text_id": "292",
 			"text": "Customize"
 		},
@@ -9875,6 +9907,10 @@
 		{
 			"text_id": "2945",
 			"text": "!"
+		},
+		{
+			"text_id": "2946",
+			"text": "{0} times"
 		},
 		{
 			"text_id": "2947",
@@ -10177,6 +10213,10 @@
 			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth. The total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon: A Champion Digimon capable of Digivolving to Ultimate;\na Champion Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Mega;\na Mega Digimon capable of Digivolving to Mega; an Ultimate Digimon capable of Digivolving to Ultra;\nor a Mega Digimon capable of Digivolving to Ultra.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
 		},
 		{
+			"text_id": "3000019",
+			"text": "■ご注意\n※それぞれの提供割合は、小数第4位を四捨五入して表示しているため、\n合計値が100%にならない場合があります。\n※本ガシャからは重複するアイテムが出現する可能性があります。\n※10連+1ガシャのうち、1回は「成熟期(完全体まで進化可能)」\n「成長期(究極体まで進化可能)」「成熟期(究極体まで進化可能)」\n「完全体(究極体まで進化可能)」「完全体(超究極体まで進化可能)」\n「究極体(超究極体まで進化可能)」のいずれか1体が確定で出現します。\n詳細はタブの「+1枠」よりご確認ください。\n※「+1枠」以外（10回分）の提供割合は「通常枠」の一覧に準じます。"
+		},
+		{
 			"text_id": "300002",
 			"text": "Salamon"
 		},
@@ -10319,6 +10359,22 @@
 		{
 			"text_id": "300037",
 			"text": "Kazuma Natsuyagi's Partner Digimon. It was born from a DigiEgg which Kazuma protected from Spirals.\nSince it just hatched, it is an innocent and naive Digimon that loves to play with Kazuma above all else.\nHowever, it never hesitates to boldly confront any challenges it faces as Kazuma's Partner."
+		},
+		{
+			"text_id": "300038",
+			"text": "Sara Shinkai"
+		},
+		{
+			"text_id": "300039",
+			"text": "A Tamer with an otherworldly elegance.\nVery mature for her age, Sara maintains her graceful demeanor and keeps everyone at an arm's length.\nIn direct contrast to that, she is exceedingly fond of her Partner, Tapirmon."
+		},
+		{
+			"text_id": "300040",
+			"text": "Tapirmon"
+		},
+		{
+			"text_id": "300041",
+			"text": "Sara Shinkai's Partner Digimon.\nA Digimon who seems to have been Partners with Sara for a long time, and is very in sync with her.\nGentle and devoted, Tapirmon thinks about Sara first and foremost,\nalways staying close to her side\nand adhering to her wishes."
 		},
 		{
 			"text_id": "3001",
@@ -10993,8 +11049,28 @@
 			"text": "Absent"
 		},
 		{
+			"text_id": "3154",
+			"text": "X-Antibody"
+		},
+		{
+			"text_id": "3155",
+			"text": "Floor Details"
+		},
+		{
+			"text_id": "3156",
+			"text": "Powerful X-Spirals Appear"
+		},
+		{
 			"text_id": "3157",
 			"text": "X-Antibody Boost"
+		},
+		{
+			"text_id": "3158",
+			"text": "X-Barrier"
+		},
+		{
+			"text_id": "3159",
+			"text": "X-Charge"
 		},
 		{
 			"text_id": "316",
@@ -11009,8 +11085,24 @@
 			"text": "Sept Clash Battle!"
 		},
 		{
+			"text_id": "3162",
+			"text": "Rock Dragon"
+		},
+		{
+			"text_id": "3163",
+			"text": "Level Selection"
+		},
+		{
 			"text_id": "3164",
 			"text": "Removes Shock, Paralysis, Stun, Sleep, Poison, Burn, Error, Skill Lock, and Blind from self.\nReduces damage received by 90% when blocking (Permanent)\nPeriodically recovers own HP by 1500. (5 turns)"
+		},
+		{
+			"text_id": "3167",
+			"text": "Raid Clash Battle! Volcanicdramon"
+		},
+		{
+			"text_id": "3168",
+			"text": "Total number of Clash Battles in progress and/or with unconfirmed results has reached its limit.\nYou cannot participate in any more battles or Clash Battle Searches.\n<br>\nPlease check the results of Clash Battles that have ended."
 		},
 		{
 			"text_id": "3169",
@@ -11025,12 +11117,80 @@
 			"text": "Unlock the 1st Anniversary Vortex with a key!"
 		},
 		{
+			"text_id": "3171",
+			"text": "You can participate in {0} more Clash Battles."
+		},
+		{
+			"text_id": "3172",
+			"text": "Total number of Clash Battles in progress and/or with unconfirmed results has reached its limit.\nYou cannot participate in any more battles or Clash Battle Searches.\n<br>\nPlease check the results of Clash Battles that have ended."
+		},
+		{
+			"text_id": "3173",
+			"text": "You cannot participate in any new Clash Battles."
+		},
+		{
+			"text_id": "3174",
+			"text": "Renamon"
+		},
+		{
+			"text_id": "3175",
+			"text": "約束通り、花冠を作ろう"
+		},
+		{
+			"text_id": "3176",
+			"text": "自分の力を試すのも悪くない"
+		},
+		{
+			"text_id": "3177",
+			"text": "高みは自分の力で目指すべきものだ"
+		},
+		{
+			"text_id": "3178",
+			"text": "ここまでたどり着いたか\n……まだいけるか？"
+		},
+		{
 			"text_id": "318",
 			"text": "In-Training II"
 		},
 		{
+			"text_id": "3183",
+			"text": "CLEARED"
+		},
+		{
+			"text_id": "3184",
+			"text": "{0}Lv.{1}"
+		},
+		{
+			"text_id": "3185",
+			"text": "<size=10>S-Lv.</size>{0}"
+		},
+		{
+			"text_id": "3186",
+			"text": "Lv."
+		},
+		{
+			"text_id": "3187",
+			"text": "S-Lv.{0}"
+		},
+		{
+			"text_id": "3188",
+			"text": "Lv.{0}/"
+		},
+		{
+			"text_id": "3189",
+			"text": "{0}/<size=16>{1}</size>"
+		},
+		{
 			"text_id": "319",
 			"text": "Damage"
+		},
+		{
+			"text_id": "3190",
+			"text": "<size=\"16\">Lv.</size><size=\"20\">{0}</size>"
+		},
+		{
+			"text_id": "3191",
+			"text": "Lv.{0}"
 		},
 		{
 			"text_id": "32",
@@ -11041,12 +11201,56 @@
 			"text": "Reward Details"
 		},
 		{
+			"text_id": "3200",
+			"text": "Oct Clash Battle!"
+		},
+		{
 			"text_id": "321",
 			"text": "Spotter"
 		},
 		{
 			"text_id": "322",
 			"text": "Total Damage Rank: #{0}"
+		},
+		{
+			"text_id": "3220",
+			"text": "<size=16>Lv.</size>{0}"
+		},
+		{
+			"text_id": "3221",
+			"text": "<size=16>Cost.</size>{0}"
+		},
+		{
+			"text_id": "3224",
+			"text": "<size=16>Lv.</size>{0}"
+		},
+		{
+			"text_id": "3225",
+			"text": "<size=16>Cost.</size>{0}"
+		},
+		{
+			"text_id": "3226",
+			"text": "<size=14>Lv.</size>{0}"
+		},
+		{
+			"text_id": "3227",
+			"text": "<size=14>Cost.</size>{0}"
+		},
+		{
+			"text_id": "3228",
+			"text": "<size=14>Lv.</size>{0}"
+		},
+		{
+			"text_id": "3229",
+			"text": "<size=14>Cost.</size>{0}"
+		},
+		{
+			"text_id": "3230",
+			"text": "<size=10>Lv.</size>{0}"
+		},
+		{
+			"text_id": "3231",
+			"text": "<size=10>Cost.</size>{0}"
 		},
 		{
 			"text_id": "325",
@@ -12070,7 +12274,7 @@
 		},
 		{
 			"text_id": "490661",
-			"text": "• Include Digimon that can <color=#FFE25AFF>heal HP</color> in your party!\n• Enhance your <color=#FFE25AFF>DEF</color>\n• Include Digimon that can enhance <color=#FFE25AFF>TEC Damage Resist</color> in your party!"
+			"text": "• Include Digimon that can <color=#FFE25AFF>heal HP</color> in your party!\n• Enhance your <color=#FFE25AFF>DEF</color>!\n• Include Digimon that can enhance <color=#FFE25AFF>TEC Damage Resist</color> in your party!"
 		},
 		{
 			"text_id": "490662",
@@ -12091,6 +12295,30 @@
 		{
 			"text_id": "490691",
 			"text": "• Take measures against <color=#FFE25AFF>Stun</color><sprite=3>!\n• <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and <color=#FFE25AFF>Error</color><sprite=7> are effective!\n• Include Digimon with Personalities <color=#FFE25AFF>other than Deft</color> in your party!"
+		},
+		{
+			"text_id": "490701",
+			"text": "• Take measures against <color=#FFE25AFF>Skill Lock</color><sprite=8> and <color=#FFE25AFF>Burn</color><sprite=6>!\n• Include Digimon that can <color=#FFE25AFF>heal HP</color> in your party!\n• Enhance your <color=#FFE25AFF>Block Rate</color>!"
+		},
+		{
+			"text_id": "490711",
+			"text": "・<color=#FFE25AFF>暗闇</color><sprite=9>対策をしよう！\n・個性が<color=#FFE25AFF>不屈</color>や<color=#FFE25AFF>献身</color>のデジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！"
+		},
+		{
+			"text_id": "490721",
+			"text": "・<color=#FFE25AFF>ブロック率を高めるプラグイン</color>をセットしよう！\n・<color=#FFE25AFF>HPを高めるプラグイン</color>をセットしよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+		},
+		{
+			"text_id": "490722",
+			"text": "・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
+		},
+		{
+			"text_id": "490723",
+			"text": "・<color=#FFE25AFF>状態異常</color>対策をしよう！\n・<color=#FFE25AFF>DEF</color>を高めよう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れて行こう！"
+		},
+		{
+			"text_id": "490731",
+			"text": "・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TECを下げる</color>デジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
 		},
 		{
 			"text_id": "491",

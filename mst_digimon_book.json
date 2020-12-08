@@ -64,6 +64,15 @@
 			"start_date": "2019-01-31 12:00:00"
 		},
 		{
+			"code": "aisumon",
+			"sort_key": "アイスモン",
+			"profile": "体が氷でできているデジモン。ゴツモンから進化したのか、あるいは変種なのかナゾのままで、研究が進められている。必殺技は、カチンコチンにこおった氷の爆弾を投げつける「アイスボールボム」。",
+			"icon_asset": "digimon/icon/digimonface1285203",
+			"attribute": "2",
+			"type": "43",
+			"start_date": "2020-10-15 12:00:00"
+		},
+		{
 			"code": "akatorimon",
 			"sort_key": "アカトリモン",
 			"profile": "A variety of Kokatorimon that has developed legs in lieu of the ability to fly. Since it takes a great amount of energy to move its large body, it prefers to avoid intense combat. Its special move is Scarlet Eye, in which it glares at its opponents, petrifying and destroying them.",
@@ -215,6 +224,15 @@
 			"attribute": "1",
 			"type": "34",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "bantyoogooremon",
+			"sort_key": "バンチョーゴーレモン",
+			"profile": "感情のない通常のゴーレモンと違い自分の意志で行動する鉱物型デジモンでバンチョーの１体。堂々とした佇まいで物事に動じず、誰に対しても厳しく甘えは微塵も許さない。自らもムゲンマウンテンの奥底という非常に過酷な環境に身を置き厳しい修行をしている。\n助けを求める他人の声に手を貸すことはほぼないが、拳を交えた友の窮地には何処からともなく助けに現れる謎の多いデジモンである。その圧倒的なパワーで不利な戦況を一気にひっくり返し勝利をものにする。\n必殺技は右手で掴んだ敵をハンマー投げの要領で遙か彼方へとぶっ飛ばす「天波返し」と、腹部の漢癪魂（かんしゃくだま）から放ったビームをフォーリングストーンズに反射させる広範囲攻撃の「漢癪ダスト」、そしてクロンデジゾイド合金でさえ粉々にしてしまうという左手の巨大な掘削機で敵を貫く「世堀クロードリル」だ。",
+			"icon_asset": "digimon/icon/digimonface1285205",
+			"attribute": "1",
+			"type": "54",
+			"start_date": "2020-10-15 12:00:00"
 		},
 		{
 			"code": "bantyooreomon",
@@ -370,6 +388,15 @@
 			"start_date": "2120-07-29 12:00:00"
 		},
 		{
+			"code": "boobomon",
+			"sort_key": "ヴォーボモン",
+			"profile": "A Digimon composed entirely out of solid, hot ore. It has wings on both of its arms and is able to take flight for only a few seconds before it quickly tires. The more passionate and excited it gets, the hotter its horns and claws will become.\nIts special move is Petit Flame, in which it spits a small but very hot flame out of its mouth.",
+			"icon_asset": "digimon/icon/digimonface1277402",
+			"attribute": "1",
+			"type": "3162",
+			"start_date": "2020-09-15 12:00:00"
+		},
+		{
 			"code": "boruhumon",
 			"sort_key": "ヴォルフモン",
 			"profile": "A light-wielding Digimon with the power of one of the Ten Legendary Warriors. The purple parts of its body are made of sacred amethysts that have holy light sealed within them. That holy light changes the quality of the amethysts according to the wearer's state of mind. They become highly durable if the wearer's thoughts are righteous, but turn as brittle as glass if the wearer becomes overwhelmed by negative emotions. The wearer must be chivalrous, abhor injustice, and be willing to put their life on the line to fight for what they believe in. Lobomon is the strong and silent type who associates with few people, thus giving others the impression of being standoffish despite being a warrior with a gentle heart. Its special moves are Licht Sieger, where it uses the light swords Licht Schwert to cut its opponents in half, and Zwei Zeiger, where it connects the dual swords Licht Schwert to slice its way through a wide swath of enemies.",
@@ -377,6 +404,15 @@
 			"attribute": "3",
 			"type": "75",
 			"start_date": "2019/04/30 12:00:00"
+		},
+		{
+			"code": "borukenikkudoramon",
+			"sort_key": "ヴォルケニックドラモン",
+			"profile": "A Digimon that is said to be a dragon that swims in magma. It is said to be so deep underground that even Digimon that are normally active in that environment would not be able to reach it. Some researchers stipulate that this Digimon might be Volcanicdramon, a Digimon that has existed since the birth of the Digital World and has been supporting it from below. If Volcanicdramon were to ever come up above ground, then this can be an indication of a crisis in the Digital World.\nIts special moves are Volcanic Flare, in which it unleashes a burning flame from its mouth, and Glide Blaze, where it will ram its entire body into its opponent as it spouts out incredibly hot magma. It should be noted that any land burned by Volcanicdramon can never be revived, and will forever remain a barren wasteland where living things cannot exist.",
+			"icon_asset": "digimon/icon/digimonface1277405",
+			"attribute": "1",
+			"type": "74",
+			"start_date": "2020-09-15 12:00:00"
 		},
 		{
 			"code": "borutomon",
@@ -629,6 +665,15 @@
 			"attribute": "1",
 			"type": "88",
 			"start_date": "2020-05-31 12:00:00"
+		},
+		{
+			"code": "djuukumonx",
+			"sort_key": "デュークモン(X抗体)",
+			"profile": "オメガモン、マグナモンと共に聖騎士型デジモンは“ロイヤルナイツ”と呼ばれている。“ロイヤルナイツ”とはネットワークセキュリティの最高位に位置するデジモンで、このデジモン達を前にセキュリティを破るのは絶対に不可能である。ウィルス属性でありながらネットの守護神という矛盾を内包した存在であり、万が一でもバランスが崩れると危険な存在にもなりうる。９９.９％の高純度“クロンデジゾイド”を精製して造られた聖鎧を纏い、右手は聖槍「グラム」、左手は聖盾「イージス」になっている。騎士道を重んじ、主君に対しては忠義の士である。必殺技は聖槍「グラム」から繰出す強烈な一撃『ロイヤルセーバー』と左腕の聖盾「イージス」から全てを浄化するビームを放つ『ファイナル・エリシオン』。\n■Ｘ抗体によるデュークモンのデジコアへの影響\n騎士としての忠義を貫き、聖なる戦いに身を投じるデュークモンは遂に、至高の聖鎧（せいがい）、聖槍（せいそう）、聖盾（せいじゅん）を授かるに至った。レアメタルである“レッドデジゾイド”、“ブルーデジゾイド”、“ゴールドデジゾイド”、そして現状最高純度を誇るクロンデジゾイドを組み合せた聖なるハイブリッド装具である。より聖なる力を発揮するようにフォルムが一新され、聖槍「グラム」より放たれる光の槍は聖なる力で増幅、長大化し『ジークセイバー』という新たな必殺技を身に付けている。尚、Ｘ抗体を獲得する前のデュークモンの赤いマントは、勇者レオモンに与えたと言われている。",
+			"icon_asset": "digimon/icon/digimonface1291205",
+			"attribute": "1",
+			"type": "88",
+			"start_date": "2020-10-31 12:00:00"
 		},
 		{
 			"code": "dorakomon",
@@ -1288,6 +1333,15 @@
 			"start_date": "2017/01/01 00:00:00"
 		},
 		{
+			"code": "insekimon",
+			"sort_key": "インセキモン",
+			"profile": "ゴツモンが持つ鉱石データの中にあるインセキのデータが何らかの原因で表面にあらわれた姿。宇宙にしか存在しない硬い物質でできており、強力な防御力を持つ。必殺技は、大宇宙の神秘的なエネルギー波を放射する『コズモフラッシュ』。",
+			"icon_asset": "digimon/icon/digimonface1285204",
+			"attribute": "2",
+			"type": "29",
+			"start_date": "2020-10-15 12:00:00"
+		},
+		{
 			"code": "kabuterimon",
 			"sort_key": "カブテリモン",
 			"profile": "Quite the peculiar specimen among Insect Digimon. The details of how it Digivolved are unclear, but it boasts both the raw power of an ant and the flawless defense of a beetle. Its temperament is entirely insectoid, lacking even the tiniest spark of intelligence and focusing entirely on survival. Kabuterimon mercilessly attacks Virus Type Digimon, considering them its natural enemy. Its head is made of metal, offering a solid defense. Its special move is Electro Shocker.",
@@ -1522,6 +1576,15 @@
 			"start_date": "2018/11/30 12:00:00"
 		},
 		{
+			"code": "magnamonx",
+			"sort_key": "マグナモン(X抗体)",
+			"profile": "“奇跡のデジメンタル”のパワーによって進化したアーマー体の聖騎士型デジモン。“奇跡のデジメンタル”は“メタル”の属性を持っており、超金属「クロンデジゾイド」製である。絶大な防御能力を持ち、その攻撃力は究極体と対等か、それ以上のものがある。“奇跡のデジメンタル”のパワーを得たものは、どんな窮地に陥っていても、その奇跡の力によって切りぬけることができるところから、まさにミラクルアイテムと呼ぶに相応しい。必殺技はボール状のプラズマ弾を発射する『プラズマシュート』と、空間を急速圧縮し、一気に膨張爆発させ、黄金のレーザー光で周辺の敵を一掃する『シャイニングゴールドソーラーストーム』。\n■Ｘ抗体によるマグナモンのデジコアへの影響\n鍛え上げることで強さを増すという例の無い「クロンデジゾイド」。マグナモンの仮想超金属は、マグナモンと極度に一体化し、まるで筋肉のように成長もすれば退化もするようになった。古代の技術で造られた天然の状態に近い「クロンデジゾイド」（＝奇跡のデジメンタル）が、生物と一体化するという本来の性質と、マグナモンの能力とによって、奇跡的な進化を遂げたものと考えられている。マグナモンの筋肉「クロンデジゾイド」が張りつめた時、全身が黄金に輝く『ゴールドデジゾイド』状態へ一時的に変貌し、物理的防御だけでなく、データ分解系などの攻撃すら耐えうる絶対防御状態となる。尚、『ゴールドデジゾイド』の状態は、「クロンデジゾイド」の元となった比類なき絶対硬度を誇る特殊な鉱石「ファンロン鉱」に近い性質で、絶対防御力と共に、デジモンには適さない比重の高さを持つが、マグナモンは自らの「クロンデジゾイド」を鍛え上げることで克服することが出来ている。",
+			"icon_asset": "digimon/icon/digimonface1284405",
+			"attribute": "0",
+			"type": "88",
+			"start_date": "2020-09-30 12:00:00"
+		},
+		{
 			"code": "magunagarurumon",
 			"sort_key": "マグナガルルモン",
 			"profile": "A light-wielding Transcendent Digimon that is said to have power that surpasses even that of the Ten Legendary Warriors. It is able to move at the speed of light; however, it can fly even faster if its flight unit is attached. It also has removable chest armor equipped, along with a long range attack weapon called Sniper Phantom on its right arm and a mid-range attack weapon called Strike Phantom on its left, but unequipping any of these parts will cause its firepower to fall. The Laser Sight on its chest can circle high in the sky in order to lock onto targets both in the air and on the ground, which allows it to attack them all at once. There is nowhere to run from MagnaGarurumon. One of its special moves is Machinegun Destroyer, where it fires shots at all targets it has locked onto while launching a high speed assault on its main target and destroying them. Its other special move is Starlight Velocity, in which it removes its chest armor to move beyond light speed and create a contrail light ray that turns all that touches it to ash.",
@@ -1637,6 +1700,15 @@
 			"attribute": "2",
 			"type": "12",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "merukurimon",
+			"sort_key": "メルクリモン",
+			"profile": "オリンポス十二神族の１体で、デジタルワールドで最速のスピードを誇る俊神デジモン。優れた俊足を持ち、肉眼で捕らえることは不可能であり、記録に残るメルクリモンの画像はすべて残像であるといわれている。一箇所にとどまることを嫌い、デジタルワールドを常に放浪しているため、メルクリモンと遭遇することは困難であろう。必殺技は、瞬間移動に近いスピードで敵に迫り、超連打を浴びせる『サウザンドフィスト』。また、メルクリモンは優れたシャーマンであり、愛刀「アステカ」で空間を斬りつけ、異世界の魔物を召還する『スピリチャルエンチャント』を使うこともできる。",
+			"icon_asset": "digimon/icon/digimonface1287105",
+			"attribute": "1",
+			"type": "78",
+			"start_date": "2020-10-05 12:00:00"
 		},
 		{
 			"code": "metaruetemon",
@@ -2213,6 +2285,24 @@
 			"attribute": "6",
 			"type": "9",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "rabogariitamon",
+			"sort_key": "ラボガリータモン",
+			"profile": "A Dragon Digimon that can easily take flight with its large wings regardless of its heavy body and is capable of a daunting-looking stance with its strong legs. It is said to be lurking in a layer of magma in an active volcano in the Digital World. Another legend says that it lives near a Volcdramon. Its battle style of choice is to scatter dust to cover the enemy and freely control each point of explosion, designating where each one hits. As enemies can set off explosions by themselves with even the slightest of movements, they often become overcome with the fear of combustion.\nIts special moves are Melding Blaze, in which it unleashes a laser-like heat ray from its mouth, and Wild Blast, where it stirs up dust with its wings and scatters it, causing a large-scale explosion.",
+			"icon_asset": "digimon/icon/digimonface1277404",
+			"attribute": "1",
+			"type": "3162",
+			"start_date": "2020-09-15 12:00:00"
+		},
+		{
+			"code": "raboobomon",
+			"sort_key": "ラヴォーボモン",
+			"profile": "A Digimon who is active throughout the day even though its entire body is made completely out of lava that constantly spews out dust. Although it has wings, it is not too good at flying and predominantly spends its time crawling on the ground in order to get to its destination. Despite its heavy appearance, it is capable of crawling at high speeds and can instantly close in on an enemy. It is quite friendly and has no hesitations in approaching people it trusts, but they tend to run away in fear of being caught in an explosion because the dust it spews is flammable.\nIts special moves are Mighty Flame, in which it fires the largest fireball it can muster up after taking a big deep breath, and Earth Stamp, in which it slams both of its hands together while vigorously lunging forward at its opponent.",
+			"icon_asset": "digimon/icon/digimonface1277403",
+			"attribute": "1",
+			"type": "3162",
+			"start_date": "2020-09-15 12:00:00"
 		},
 		{
 			"code": "raguerumon",
