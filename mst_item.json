@@ -1288,6 +1288,28 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "10167",
+			"item_name": "エンシェントグレイモンの進化コード",
+			"sort_key": "sort",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10067",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がエンシェントグレイモンの系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
+			"item_id": "10168",
+			"item_name": "エンシェントガルルモンの進化コード",
+			"sort_key": "sort",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10068",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がエンシェントガルルモンの系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "102",
 			"item_name": "体の特訓チップⅡ",
 			"sort_key": "",
@@ -2781,6 +2803,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "最終進化形態が完全体キメラモン[BCE](冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1023001",
+			"item_name": "エンシェントグレイモン(勇敢)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が究極体エンシェントグレイモン(勇敢)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1023011",
+			"item_name": "エンシェントガルルモン(冷静)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が究極体エンシェントガルルモン(冷静)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
 			"max_amount": "9999"
 		},
 		{
@@ -23750,6 +23794,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "22022",
+			"item_name": "エンシェントメダル",
+			"sort_key": "",
+			"item_type": "11",
+			"icon_asset": "icon/item/icon_ancient_medal",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "2020年のDec激突戦！で獲得できるメダル、色々なものと交換できる",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "2203",
 			"item_name": "俊敏性の特訓フラグメントⅢ",
 			"sort_key": "",
@@ -25826,6 +25881,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "時限の渦:2周年記念エリアを5分間だけ解放する。(開催期間 2020/06/25 12:00 ～ 2020/07/31 11:59)",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "23011",
+			"item_name": "エンシェントエリア解放キー",
+			"sort_key": "エンシェントエリアカイホウキー",
+			"item_type": "12",
+			"icon_asset": "icon/item/icon_openticket010",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "時限の渦:エンシェントエリアを5分間だけ解放する。(開催期間 2020/12/15 12:00 ～ 2021/01/07 11:59)",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "23012",
+			"item_name": "プラグインエリア解放キー",
+			"sort_key": "プラグインエリアカイホウキー",
+			"item_type": "12",
+			"icon_asset": "icon/item/icon_openticket009",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "時限の渦:プラグインエリアを一定時間解放する。",
 			"max_amount": "9999"
 		},
 		{
@@ -36169,6 +36246,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25295",
+			"item_name": "純白のテイマーのためのデジタマ(虹)",
+			"sort_key": "ジュンパクノテイマーノタメノデジタマニジ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama054",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "エンジェモン（不屈）に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25296",
+			"item_name": "純白のテイマーのためのデジタマ(金)",
+			"sort_key": "ジュンパクノテイマーノタメノデジタマキン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama055",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "エンジェモン（不屈）に育つデジモンが50％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25297",
+			"item_name": "純白のテイマーのためのデジタマ(銀)",
+			"sort_key": "ジュンパクノテイマーノタメノデジタマギン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama056",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "エンジェモン（不屈）に育つデジモンが25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25298",
+			"item_name": "純白のテイマーのためのデジタマ(青)",
+			"sort_key": "ジュンパクノテイマーノタメノデジタマアオ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama057",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "エンジェモン（不屈）に育つデジモンが10％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25299",
+			"item_name": "純白のテイマーのためのデジタマ(白)",
+			"sort_key": "ジュンパクノテイマーノタメノデジタマシロ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama058",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "エンジェモン（不屈）に育つデジモンがごくまれに産まれるかもしれないデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "25300",
 			"item_name": "ソワソワした師走のデジタマ",
 			"sort_key": "ソワソワシタシワスノデジタマ",
@@ -36177,6 +36309,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "究極体のラセンモンGM(器用)系譜、ラセンモン(冷静)系譜、カオスデュークモン(勇敢)系譜、アルフォースブイドラモン(冷静)系譜、完全体のパンジャモン(器用)系譜のいずれかが各20％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25301",
+			"item_name": "ゆかいな夜のクリスマスのデジタマ",
+			"sort_key": "ユカイナヨルノクリスマスノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama024",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体に育つデジモンが必ず産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -43228,6 +43371,446 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンのPWRとSPDを引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311411001",
+			"item_name": "攻Ⅳ(勇敢 エンシェントグレイモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエンシェントグレイモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311411002",
+			"item_name": "攻Ⅳ(勇敢 エンシェントグレイモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエンシェントグレイモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311411003",
+			"item_name": "攻Ⅳ(勇敢 エンシェントグレイモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエンシェントグレイモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311411004",
+			"item_name": "攻Ⅳ(勇敢 エンシェントグレイモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエンシェントグレイモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311411005",
+			"item_name": "攻Ⅳ(勇敢 エンシェントグレイモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエンシェントグレイモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311431001",
+			"item_name": "守Ⅳ(勇敢 エンシェントグレイモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエンシェントグレイモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311431002",
+			"item_name": "守Ⅳ(勇敢 エンシェントグレイモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエンシェントグレイモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311431003",
+			"item_name": "守Ⅳ(勇敢 エンシェントグレイモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエンシェントグレイモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311431004",
+			"item_name": "守Ⅳ(勇敢 エンシェントグレイモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエンシェントグレイモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311431005",
+			"item_name": "守Ⅳ(勇敢 エンシェントグレイモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢のエンシェントグレイモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311441011",
+			"item_name": "鈍重Ⅳ(勇敢 エンシェントグレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢エンシェントグレイモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311441012",
+			"item_name": "鈍重Ⅳ(勇敢 エンシェントグレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢エンシェントグレイモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311441013",
+			"item_name": "鈍重Ⅳ(勇敢 エンシェントグレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢エンシェントグレイモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311441014",
+			"item_name": "鈍重Ⅳ(勇敢 エンシェントグレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢エンシェントグレイモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311441015",
+			"item_name": "鈍重Ⅳ(勇敢 エンシェントグレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢エンシェントグレイモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311441021",
+			"item_name": "俊足Ⅳ(勇敢 エンシェントグレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311441021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢エンシェントグレイモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311441022",
+			"item_name": "俊足Ⅳ(勇敢 エンシェントグレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311441021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢エンシェントグレイモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311441023",
+			"item_name": "俊足Ⅳ(勇敢 エンシェントグレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311441021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢エンシェントグレイモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311441024",
+			"item_name": "俊足Ⅳ(勇敢 エンシェントグレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311441021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢エンシェントグレイモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "311441025",
+			"item_name": "俊足Ⅳ(勇敢 エンシェントグレイモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment311441021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢エンシェントグレイモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312422001",
+			"item_name": "攻Ⅳ(冷静 エンシェントガルルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のエンシェントガルルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312422002",
+			"item_name": "攻Ⅳ(冷静 エンシェントガルルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のエンシェントガルルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312422003",
+			"item_name": "攻Ⅳ(冷静 エンシェントガルルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のエンシェントガルルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312422004",
+			"item_name": "攻Ⅳ(冷静 エンシェントガルルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のエンシェントガルルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312422005",
+			"item_name": "攻Ⅳ(冷静 エンシェントガルルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312422001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のエンシェントガルルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312432001",
+			"item_name": "守Ⅳ(冷静 エンシェントガルルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のエンシェントガルルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312432002",
+			"item_name": "守Ⅳ(冷静 エンシェントガルルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のエンシェントガルルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312432003",
+			"item_name": "守Ⅳ(冷静 エンシェントガルルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のエンシェントガルルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312432004",
+			"item_name": "守Ⅳ(冷静 エンシェントガルルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のエンシェントガルルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312432005",
+			"item_name": "守Ⅳ(冷静 エンシェントガルルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312432001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静のエンシェントガルルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312442011",
+			"item_name": "鈍重Ⅳ(冷静 エンシェントガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静エンシェントガルルモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312442012",
+			"item_name": "鈍重Ⅳ(冷静 エンシェントガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静エンシェントガルルモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312442013",
+			"item_name": "鈍重Ⅳ(冷静 エンシェントガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静エンシェントガルルモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312442014",
+			"item_name": "鈍重Ⅳ(冷静 エンシェントガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静エンシェントガルルモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312442015",
+			"item_name": "鈍重Ⅳ(冷静 エンシェントガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312442011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静エンシェントガルルモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312442021",
+			"item_name": "俊足Ⅳ(冷静 エンシェントガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312442021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静エンシェントガルルモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312442022",
+			"item_name": "俊足Ⅳ(冷静 エンシェントガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312442021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静エンシェントガルルモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312442023",
+			"item_name": "俊足Ⅳ(冷静 エンシェントガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312442021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静エンシェントガルルモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312442024",
+			"item_name": "俊足Ⅳ(冷静 エンシェントガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312442021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静エンシェントガルルモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "312442025",
+			"item_name": "俊足Ⅳ(冷静 エンシェントガルルモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment312442021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静エンシェントガルルモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
