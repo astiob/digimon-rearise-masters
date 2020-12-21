@@ -1310,6 +1310,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "10169",
+			"item_name": "ファンロンモンの進化コード",
+			"sort_key": "sort",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10069",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がファンロンモンの系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "102",
 			"item_name": "体の特訓チップⅡ",
 			"sort_key": "",
@@ -27820,6 +27831,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "23505",
+			"item_name": "NEW YEARガシャチケット2021",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_newyear2021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンチケットガシャ ～NEW YEAR～を回すことができるチケット(使用期間 2020/12/31 12:00 ～ 2021/02/07 11:59)",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "23521",
 			"item_name": "デジモンガシャチケット vol.1",
 			"sort_key": "",
@@ -36323,6 +36345,28 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25304",
+			"item_name": "【新春】2021超おめでたデジタマ(金)",
+			"sort_key": "シンシュンニセンニジュウイチチョウオメデタデジタマキン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama060",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体マグナモン(X抗体)(不屈)系譜、究極体アルフォースブイドラモン(勇敢)系譜、究極体タイガーヴェスパモン(献身)系譜、超究極体カオスモン(冷静)系譜、超究極体ベルフェモンRM(器用)系譜のいずれかが等確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25305",
+			"item_name": "【新春】2021超おめでたデジタマ(赤)",
+			"sort_key": "シンシュンニセンニジュウイチチョウオメデタデジタマアカ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama025",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体のセラフィモン(献身)系譜、ミタマモン(献身)系譜、メギドラモン(勇敢)系譜、ホーリードラモン(冷静)系譜、ゴッドドラモン(冷静)系譜、ドルゴラモン(勇敢)系譜、ベルゼブモンBM(勇敢)系譜のいずれかが等確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "253414001",
 			"item_name": "攻Ⅳ(不屈 カオスドラモン)",
 			"sort_key": "",
@@ -44251,6 +44295,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンのPWRとSPDを引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314425001",
+			"item_name": "攻Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314425002",
+			"item_name": "攻Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314425003",
+			"item_name": "攻Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314425004",
+			"item_name": "攻Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314425005",
+			"item_name": "攻Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314435001",
+			"item_name": "守Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314435002",
+			"item_name": "守Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314435003",
+			"item_name": "守Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314435004",
+			"item_name": "守Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314435005",
+			"item_name": "守Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
