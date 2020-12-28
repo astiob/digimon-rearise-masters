@@ -36367,6 +36367,94 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25306",
+			"item_name": "勇気の竜戦士のデジタマ",
+			"sort_key": "ユウキノリュウセンシノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ウォーグレイモン(勇敢)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25307",
+			"item_name": "友情の金属獣のデジタマ",
+			"sort_key": "ユウジョウノキンゾクジュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama004",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体メタルガルルモン(冷静)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25308",
+			"item_name": "愛情の鳳凰のデジタマ",
+			"sort_key": "アイジョウノホウオウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama006",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ホウオウモン(献身)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25309",
+			"item_name": "知識の鋏角虫のデジタマ",
+			"sort_key": "チシキノキョウカクチュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama005",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ヘラクルカブテリモン(勇敢)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25310",
+			"item_name": "純真な薔薇妖精のデジタマ",
+			"sort_key": "ジュンシンナバラヨウセイのデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama012",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ロゼモン(献身)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25311",
+			"item_name": "誠実な冷凍獣のデジタマ",
+			"sort_key": "セイジツナレイトウジュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama009",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ヴァイクモン(不屈)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25312",
+			"item_name": "希望の熾天使のデジタマ",
+			"sort_key": "キボウノシテンシノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体セラフィモン(勇敢)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25313",
+			"item_name": "光の座天使のデジタマ",
+			"sort_key": "ヒカリノザテンシノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama023",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体オファニモン(献身)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "253414001",
 			"item_name": "攻Ⅳ(不屈 カオスドラモン)",
 			"sort_key": "",
@@ -37362,6 +37450,17 @@
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
+			"max_amount": "999999999"
+		},
+		{
+			"item_id": "26022",
+			"item_name": "フィーチャーpt",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_scenario_event_point_008",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
