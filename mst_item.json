@@ -2905,6 +2905,28 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1023151",
+			"item_name": "エアロブイドラモン[BCE](不屈)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023151",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が完全体エアロブイドラモン[BCE](不屈)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1023152",
+			"item_name": "エアロブイドラモン[BCE](不屈)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023152",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が完全体エアロブイドラモン[BCE](不屈)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "102422001",
 			"item_name": "攻Ⅳ(冷静 パンダモン)",
 			"sort_key": "",
@@ -41566,7 +41588,7 @@
 			"icon_asset": "icon/item/icon_bcevent_point_000",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "キメラモンバトルチャレンジのイベントpt",
+			"description": "バトルチャレンジのイベントpt",
 			"max_amount": "999999999"
 		},
 		{
@@ -44848,6 +44870,226 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "313424011",
+			"item_name": "強打Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313424011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313424012",
+			"item_name": "強打Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313424011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313424013",
+			"item_name": "強打Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313424011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313424014",
+			"item_name": "強打Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313424011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313424015",
+			"item_name": "強打Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313424011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313434011",
+			"item_name": "頑強Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313434012",
+			"item_name": "頑強Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313434013",
+			"item_name": "頑強Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313434014",
+			"item_name": "頑強Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313434015",
+			"item_name": "頑強Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444011",
+			"item_name": "縮地Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444012",
+			"item_name": "縮地Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444013",
+			"item_name": "縮地Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444014",
+			"item_name": "縮地Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444015",
+			"item_name": "縮地Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444021",
+			"item_name": "閃光Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444022",
+			"item_name": "閃光Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444023",
+			"item_name": "閃光Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444024",
+			"item_name": "閃光Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444025",
+			"item_name": "閃光Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "314001",
 			"item_name": "攻Ⅲ(不屈)",
 			"sort_key": "",
@@ -45175,6 +45417,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317425001",
+			"item_name": "攻Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317425002",
+			"item_name": "攻Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317425003",
+			"item_name": "攻Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317425004",
+			"item_name": "攻Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317425005",
+			"item_name": "攻Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317435001",
+			"item_name": "守Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317435002",
+			"item_name": "守Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317435003",
+			"item_name": "守Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317435004",
+			"item_name": "守Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317435005",
+			"item_name": "守Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
