@@ -1051,6 +1051,12 @@
 			"detail_text": "Decorations are items that you can use to furnish DigiTown.\n<br>\n[img width=844 height=325]tutorial/deco_2[/img]\nThe News board and Incubator that you start off with cannot be moved, but you can place other Decorations around the town however you like.\n<br><color=#e75600>Some Decorations can affect the behavior of Digimon within their vicinity.</color>\nTry playing around with Decorations when you first buy them."
 		},
 		{
+			"help_id": "510",
+			"help_category_id": "3",
+			"title_text": "Passive Effect",
+			"detail_text": "There is a special Plugin that grants the holder effects that are usually limited to Digimon Passive Skills.\nSetting such a Plugin to a Digimon adds an additional Passive Effect.\n<br>Plugins with a Passive Effect will have a Passive Skill icon displayed in its stats.\nThe Passive Effect of a Plugin functions in essentially the same way as a Digimon's Passive Skill.\nPassive Skill/Effects do not stack. In a case where there are two of the same Passive Skill/Effect, the one with the higher effect will take precedence.\nPassive Effects are permanent rather than turn-based.\n<br>You can check the Passive Effect of a Plugin by checking the Digimon Stats screen or Equip Plugin screen."
+		},
+		{
 			"help_id": "52",
 			"help_category_id": "4",
 			"title_text": "Placing Decorations",
