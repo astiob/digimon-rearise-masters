@@ -757,6 +757,42 @@
 			"description": "ランキングメダルで交換できる、<color=#e75600>ランキングに参加した証のトロフィー</color>です。(6x6)"
 		},
 		{
+			"deco_id": "85",
+			"name": "Mリーグトロフィー金",
+			"size_x": "2",
+			"size_y": "2",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco085",
+			"model_asset": "deco/deco0085",
+			"emotion_icon_asset": "",
+			"description": "バトルパークマスターリーグで高成績を残した証。金色に輝くトロフィーはバトルパークトップテイマーの証。"
+		},
+		{
+			"deco_id": "86",
+			"name": "Mリーグトロフィー銀",
+			"size_x": "2",
+			"size_y": "2",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco086",
+			"model_asset": "deco/deco0086",
+			"emotion_icon_asset": "",
+			"description": "バトルパークマスターリーグで高成績を残した証。銀色に輝くトロフィーはバトルパークでの優秀なテイマーの証。"
+		},
+		{
+			"deco_id": "87",
+			"name": "Mリーグトロフィー銅",
+			"size_x": "2",
+			"size_y": "2",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco087",
+			"model_asset": "deco/deco0087",
+			"emotion_icon_asset": "",
+			"description": "バトルパークマスターリーグで高成績を残した証。銅色に輝くトロフィーはバトルパークでの強きテイマーの証。"
+		},
+		{
 			"deco_id": "9",
 			"name": "モアイ像",
 			"size_x": "6",
