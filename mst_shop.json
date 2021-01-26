@@ -37,7 +37,7 @@
 			"shop_id": "12",
 			"name": "디지구슬 교환",
 			"cost_item_id": "22007",
-			"disp_order": "12",
+			"disp_order": "15",
 			"entrance_asset": "shop/entrance/shop_entrance002",
 			"tab_asset": "shop/skin/shop_skin011",
 			"start_date": "",
@@ -120,6 +120,17 @@
 			"start_date": "2020-10-07 12:00:00",
 			"new_end_date": "2020-10-31 11:59:59",
 			"end_date": "2020-11-07 11:59:59"
+		},
+		{
+			"shop_id": "28",
+			"name": "X 메달 교환",
+			"cost_item_id": "22024",
+			"disp_order": "12",
+			"entrance_asset": "shop/entrance/shopbannerbg027_02",
+			"tab_asset": "shop/skin/shop_skin027",
+			"start_date": "2021-01-31 12:00:00",
+			"new_end_date": "2021-02-28 12:00:00",
+			"end_date": "2021-03-08 11:59:59"
 		},
 		{
 			"shop_id": "4",
