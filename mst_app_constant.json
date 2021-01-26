@@ -219,13 +219,13 @@
 		{
 			"category": "DIGIMON",
 			"name": "XANTIBODY_RELEASE_DATE",
-			"value": "2120/08/17 12:00:00",
-			"description": ""
+			"value": "2021/01/31 12:00:00",
+			"description": "X抗体を解放する日時"
 		},
 		{
 			"category": "EC",
 			"name": "HARD_FLOOR_RELEASE_DATE",
-			"value": "2120/09/08 14:00:00",
+			"value": "2021/01/31 12:00:00",
 			"description": "16階層以降の処理が有効となる日時。\nこの日時前は1~15階層の表示となる。"
 		},
 		{
@@ -256,7 +256,7 @@
 			"category": "EC",
 			"name": "XANTIBODY_SLAYER_ID",
 			"value": "[46550]",
-			"description": ""
+			"description": "UWDでX抗体に適応するSlayerMasterのslayer_idの配列"
 		},
 		{
 			"category": "EC",
