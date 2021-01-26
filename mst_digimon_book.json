@@ -676,6 +676,15 @@
 			"start_date": "2020-10-31 12:00:00"
 		},
 		{
+			"code": "dodomon",
+			"sort_key": "ドドモン",
+			"profile": "A Slime Digimon whose entire body is enveloped in tough fur known as \"Mithril Hair\". Its aggressive nature can be seen immediately after birth when it threatens its enemies by opening its mouth wide, as if attempting to chomp down on them, even though it still has not grown any fangs. For this reason, it is a rare Digimon, which is often taken down by other Digimon early on in its life. When an enemy approaches, it will spit out small iron grains from its mouth in an attack called Tiny Iron Bullets.",
+			"icon_asset": "digimon/icon/digimonface1306200",
+			"attribute": "6",
+			"type": "0",
+			"start_date": "2021-01-31 12:00:00"
+		},
+		{
 			"code": "dorakomon",
 			"sort_key": "ドラコモン",
 			"profile": "A pure Dragon Digimon believed to be the progenitor of all Dramon-type Digimon. With physical prowess unimaginable for its small size, its power and agility are among the best out of the Rookie Digimon. Though ferocious by nature, it shows loyalty to those it deems worthy. Dracomon has wings, but it cannot fly until they are further developed. It has an obsession with collecting shiny things, especially jewels and precious metals, and is compelled to eat those it likes the most. Its special move, Baby's Breath, belches super-heated breath at the enemy. Dracomon is also known to spin at high speeds and strike with its tail in its other special move, Tail Smash. Among the scales that cover its body, Dracomon has one particular scale called the Gekirin, which causes Dracomon to go berserk if touched. Dracomon's horns glow brightly in this state, and it fires a beam known as G Shurunen from its mouth in a fit of indiscriminate rage.",
@@ -683,6 +692,15 @@
 			"attribute": "2",
 			"type": "35",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "dorimon",
+			"sort_key": "ドリモン",
+			"profile": "A Lesser Digimon that can run very fast, but only in a straight line forward. It often remains a wild Digimon because it dislikes being tamed. This Digimon can be dangerous since it will recklessly rush towards you and attempt to slam its entire body against you when you approach it. Its sharp, stiff ears also act as horns, so getting hit by this Digimon can do substantial damage. That being said, it cannot turn or change directions when running at high speeds. Its special move is Metal Drop, where it spits out iron grains from its mouth as it rushes at its enemy.",
+			"icon_asset": "digimon/icon/digimonface1306201",
+			"attribute": "6",
+			"type": "8",
+			"start_date": "2021-01-31 12:00:00"
 		},
 		{
 			"code": "dorugamon",
@@ -1578,7 +1596,7 @@
 		{
 			"code": "magnamonx",
 			"sort_key": "マグナモン(X抗体)",
-			"profile": "“奇跡のデジメンタル”のパワーによって進化したアーマー体の聖騎士型デジモン。“奇跡のデジメンタル”は“メタル”の属性を持っており、超金属「クロンデジゾイド」製である。絶大な防御能力を持ち、その攻撃力は究極体と対等か、それ以上のものがある。“奇跡のデジメンタル”のパワーを得たものは、どんな窮地に陥っていても、その奇跡の力によって切りぬけることができるところから、まさにミラクルアイテムと呼ぶに相応しい。必殺技はボール状のプラズマ弾を発射する『プラズマシュート』と、空間を急速圧縮し、一気に膨張爆発させ、黄金のレーザー光で周辺の敵を一掃する『シャイニングゴールドソーラーストーム』。\n■Ｘ抗体によるマグナモンのデジコアへの影響\n鍛え上げることで強さを増すという例の無い「クロンデジゾイド」。マグナモンの仮想超金属は、マグナモンと極度に一体化し、まるで筋肉のように成長もすれば退化もするようになった。古代の技術で造られた天然の状態に近い「クロンデジゾイド」（＝奇跡のデジメンタル）が、生物と一体化するという本来の性質と、マグナモンの能力とによって、奇跡的な進化を遂げたものと考えられている。マグナモンの筋肉「クロンデジゾイド」が張りつめた時、全身が黄金に輝く『ゴールドデジゾイド』状態へ一時的に変貌し、物理的防御だけでなく、データ分解系などの攻撃すら耐えうる絶対防御状態となる。尚、『ゴールドデジゾイド』の状態は、「クロンデジゾイド」の元となった比類なき絶対硬度を誇る特殊な鉱石「ファンロン鉱」に近い性質で、絶対防御力と共に、デジモンには適さない比重の高さを持つが、マグナモンは自らの「クロンデジゾイド」を鍛え上げることで克服することが出来ている。",
+			"profile": "A Holy Knight Digimon that Armor Digivolved with the power of the Digi-Egg of Miracles. The Digi-Egg of Miracles’ element is Metal and it is made of the super-metal Chrome Digizoid. This Digimon possesses incredibly powerful defensive and offensive abilities, equivalent to a Mega Digimon or even greater. No matter the predicament, the Digi-Egg of Miracles gives its wielder the power to overcome it, true to its name. Magnamon’s special moves are Plasma Shot, which fires ball-shaped plasma at the opponent, and Shining Gold Solar Storm, which rapidly compresses space and then expands it explosively, creating a ray of golden light which consumes enemies in the surrounding area with a single swoop.\n• Effects of the X-Antibody on Magnamon's DigiCore\nThe one-of-a-kind Chrome Digizoid is said to amplify one's strength after a Digimon has mastered it. Magnamon's virtual super-metal has completely merged with its Chrome Digizoid, allowing the metal to grow and decline like muscle tissue. It is thought that the inherent nature of Chrome Digizoid (Digi-Egg of Miracles) is to fuse with lifeforms, and this miraculous evolution of Magnamon’s was only made possible due to its unique ability to harness that nature in an almost pure Chrome Digizoid, created through the use of ancient technology. When Magnamon strains its Chrome Digizoid muscles, its entire body glows gold temporarily, granting the Digimon an impenetrable defense able to repel physical attacks and even data destruction. This Gold Digizoid mode offers characteristics similar to Chrome Digizoid in its raw form—Huanglong Ore—which boasts a degree of hardness that is unparalleled. The metal's relative density normally makes it impossible for Digimon to use, but Magnamon's meticulous training has enabled it to overcome this limitation.",
 			"icon_asset": "digimon/icon/digimonface1284405",
 			"attribute": "0",
 			"type": "88",
@@ -1704,7 +1722,7 @@
 		{
 			"code": "merukurimon",
 			"sort_key": "メルクリモン",
-			"profile": "オリンポス十二神族の１体で、デジタルワールドで最速のスピードを誇る俊神デジモン。優れた俊足を持ち、肉眼で捕らえることは不可能であり、記録に残るメルクリモンの画像はすべて残像であるといわれている。一箇所にとどまることを嫌い、デジタルワールドを常に放浪しているため、メルクリモンと遭遇することは困難であろう。必殺技は、瞬間移動に近いスピードで敵に迫り、超連打を浴びせる『サウザンドフィスト』。また、メルクリモンは優れたシャーマンであり、愛刀「アステカ」で空間を斬りつけ、異世界の魔物を召還する『スピリチャルエンチャント』を使うこともできる。",
+			"profile": "The fastest Digimon in the Digital World and one of the Olympos XII. Its lightning speed makes it impossible to catch with the naked eye; said to be so fast that any images that currently exist of Merukimon are, in fact, afterimages of the Digimon. Not one to stay in a single spot, Merukimon can be found constantly roaming the Digital World, making the Digimon incredibly difficult to track down. Its special move is Thousand Fists, where it closes in on a target at the speed of light and showers them with a flurry of punches. In addition, Merukimon is a skilled shaman that can use Spiritual Enchant, by slicing through space with its sword Aztec to summon monsters from another dimension.",
 			"icon_asset": "digimon/icon/digimonface1287105",
 			"attribute": "1",
 			"type": "78",
@@ -1740,7 +1758,7 @@
 		{
 			"code": "metarugarurumonx",
 			"sort_key": "メタルガルルモンX抗体",
-			"profile": "ほぼ全身をメタル化することでパワーアップした、ガルルモンの最終形態。メタル化をしても持ち前の俊敏さは失っておらず、全身に隠されている無数の武器で敵を粉砕する。鼻先にある４つのレーザーサイトからは不可視のレーザーを照射しており、赤外線、Ｘ線などあらゆるセンサーを使って前方の対象物を分析することができるため、視界の届かない暗闇のなかでもメタルガルルモンから逃げることは不可能である。また、背部から伸びたアームからビーム状のウィングを放出して超高速でネット空間を飛び回ることができる。必殺技は全ての物を氷結させてしまう絶対零度の冷気を吐出す『コキュートスブレス』。この攻撃を受けたものは瞬時に生命活動を停止してしまう。\n■Ｘ抗体によるメタルガルルモンのデジコアへの影響\n追加武装とセンサーの強化が確認されている。遠距離から近距離まで対応した全身武装化の為、二足歩行形態をとっており、遠距離への狙撃、中距離への広範囲の砲撃、近距離においても超高速連射能力を持つガトリング砲「メタルストーム」が装備されており圧倒的な火力を誇る。全砲撃の能力はマグナガルルモンの１.２倍以上にも及び、まさに俊敏に移動可能な獣火器である。",
+			"profile": "The fully metallic final form of the Garurumon species of Digimon. Not only has it kept its agility after metallization, but it can pulverize its enemies with the countless weapons concealed within its body. Invisible lasers are projected from the 4 laser sights on its snout, allowing x-ray, infrared, and other sensors to detect and analyze objects before it, making it impossible to escape MetalGarurumon even in absolute darkness. It can also release beam-like wings from the arms on its back, allowing high-speed flight through the net space. Its special move is a blast of absolute zero breath, Freezing Breath, that brings its victim's vital functions to a halt.\n• Effects of the X-Antibody on MetalGarurumon's DigiCore\nEnhancements have been made to MetalGarurumon's exo-armor and sensors. Bipedal movement became a necessity for the Digimon once it was outfitted with new weaponry to deal with all modes of combat. Its gatling gun Metal Storm has incredible firepower, capable of long-range precision firing and mid-range area bombardment as well as unleashing a rapid-fire barrage at close quarters. Its combined arsenal packs even more power than that of MagnaGarurumon—a feat that has earned the Digimon the moniker Beast of Weapons.",
 			"icon_asset": "digimon/icon/digimonface1267205",
 			"attribute": "2",
 			"type": "23",
@@ -2316,7 +2334,7 @@
 		{
 			"code": "raidoramon",
 			"sort_key": "ライドラモン",
-			"profile": "“友情のデジメンタル”のパワーによって進化したアーマー体の獣型デジモン。“友情のデジメンタル”は“雷”の属性を持っており、このデジメンタルを身に付けたものは大地を貫く稲妻のような素早い動きで敵に立ち向かい、電撃を利用した技で敵を倒す。必殺技は稲妻を宿した頭のブレードから電撃の刃を放つ『ライトニングブレード』と、背中の３本の突起から強烈な電撃を放つ『ブルーサンダー』。",
+			"profile": "An Armor Beast Digimon that has Digivolved using the power of the Digi-Egg of Friendship. This particular Digi-Egg is imbued with lightning, granting users lightning-quick movements and lightning-based attacks. Its special moves are Lightning Blade, where it shoots electric blades from the sword-like protrusion atop its head, and Blue Thunder, where it shoots a powerful electric shock from the three spines on its back.",
 			"icon_asset": "digimon/icon/digimonface1271103",
 			"attribute": "4",
 			"type": "21",
