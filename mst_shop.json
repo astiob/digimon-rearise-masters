@@ -252,6 +252,17 @@
 			"start_date": "",
 			"new_end_date": "",
 			"end_date": ""
+		},
+		{
+			"shop_id": "7",
+			"name": "マスターメダル交換",
+			"cost_item_id": "22023",
+			"disp_order": "21",
+			"entrance_asset": "shop/entrance/shopbannerbg025_02",
+			"tab_asset": "shop/skin/shop_skin025",
+			"start_date": "2021-02-01 06:00:00",
+			"new_end_date": "2021-03-01 05:59:59",
+			"end_date": "2100-03-01 05:59:59"
 		}
 	]
 }

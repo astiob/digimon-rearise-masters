@@ -44329,6 +44329,116 @@
 			"challenge_condition": "59",
 			"json_value": "{\"value\":150000,\"itemId\":26022}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1134010",
+			"challenge_group_id": "11340",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "1134011",
+			"challenge_group_id": "11340",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1988",
+			"description": "バトルパークに20回参加しよう",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":20}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1134012",
+			"challenge_group_id": "11340",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1988",
+			"description": "バトルパークで20回勝利しよう",
+			"challenge_condition": "15",
+			"json_value": "{\"count\":20}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1134013",
+			"challenge_group_id": "11340",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1988",
+			"description": "バトルパークに50回参加しよう",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":50}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1134014",
+			"challenge_group_id": "11340",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1988",
+			"description": "バトルパークで50回勝利しよう",
+			"challenge_condition": "15",
+			"json_value": "{\"count\":50}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1134015",
+			"challenge_group_id": "11340",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1988",
+			"description": "バトルパークに95回参加しよう",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":95}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1134016",
+			"challenge_group_id": "11340",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1988",
+			"description": "バトルパークで100回勝利しよう",
+			"challenge_condition": "15",
+			"json_value": "{\"count\":100}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1134017",
+			"challenge_group_id": "11340",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1988",
+			"description": "バトルパークに145回参加しよう",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":145}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1134018",
+			"challenge_group_id": "11340",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1988",
+			"description": "バトルパークで150回勝利しよう",
+			"challenge_condition": "15",
+			"json_value": "{\"count\":150}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1134019",
+			"challenge_group_id": "11340",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1988",
+			"description": "バトルパークに200回参加しよう",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":200}",
+			"receive_asset": ""
 		}
 	]
 }
