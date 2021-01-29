@@ -2376,6 +2376,41 @@
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
+			"target_type": "10",
+			"target_num": "5",
+			"text": "[:accumulate_type:]に個性が「勇敢」の味方の[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇（永続）"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "11",
+			"target_num": "5",
+			"text": "[:accumulate_type:]に個性が「冷静」の味方の[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇（永続）"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "12",
+			"target_num": "5",
+			"text": "[:accumulate_type:]に個性が「器用」の味方の[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇（永続）"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "13",
+			"target_num": "5",
+			"text": "[:accumulate_type:]に個性が「不屈」の味方の[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇（永続）"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "14",
+			"target_num": "5",
+			"text": "[:accumulate_type:]に個性が「献身」の味方の[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇（永続）"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
 			"text": "[:accumulate_type:]に自分の[:attack_type:]が[@value][:value:]%[/@value]上昇し、最大[:accumulate_attack_max:]%まで上昇（永続）"
