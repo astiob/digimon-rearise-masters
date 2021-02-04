@@ -221,6 +221,17 @@
 			"end_date": "2021-01-07 11:59:59"
 		},
 		{
+			"shop_id": "28",
+			"name": "Xメダル交換",
+			"cost_item_id": "22024",
+			"disp_order": "12",
+			"entrance_asset": "shop/entrance/shopbannerbg027_02",
+			"tab_asset": "shop/skin/shop_skin027",
+			"start_date": "2021-02-15 12:00:00",
+			"new_end_date": "2021-03-23 11:59:59",
+			"end_date": "2021-03-29 11:59:59"
+		},
+		{
 			"shop_id": "4",
 			"name": "コミュpt交換",
 			"cost_item_id": "22004",

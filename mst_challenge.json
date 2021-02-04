@@ -44769,6 +44769,94 @@
 			"challenge_condition": "18",
 			"json_value": "{\"count\":200}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1135010",
+			"challenge_group_id": "11350",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "1135011",
+			"challenge_group_id": "11350",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1991",
+			"description": "時限の渦:進化コードエリア初級を3回クリアしよう",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":3,\"questId\":290801}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1135012",
+			"challenge_group_id": "11350",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1991",
+			"description": "時限の渦:進化コードエリア初級を10回クリアしよう",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":10,\"questId\":290801}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1135013",
+			"challenge_group_id": "11350",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1991",
+			"description": "時限の渦:進化コードエリア中級を3回クリアしよう",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":3,\"questId\":290802}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1135014",
+			"challenge_group_id": "11350",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1991",
+			"description": "時限の渦:進化コードエリア中級を10回クリアしよう",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":10,\"questId\":290802}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1135015",
+			"challenge_group_id": "11350",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1991",
+			"description": "時限の渦:進化コードエリア上級を3回クリアしよう",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":3,\"questId\":290803}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1135016",
+			"challenge_group_id": "11350",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1991",
+			"description": "時限の渦:進化コードエリア上級を10回クリアしよう",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":10,\"questId\":290803}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1135017",
+			"challenge_group_id": "11350",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1991",
+			"description": "時限の渦:進化コードエリア上級を20回クリアしよう",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":20,\"questId\":290803}",
+			"receive_asset": ""
 		}
 	]
 }
