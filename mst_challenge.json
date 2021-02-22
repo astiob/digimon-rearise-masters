@@ -44857,6 +44857,116 @@
 			"challenge_condition": "11",
 			"json_value": "{\"count\":20,\"questId\":290803}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1136010",
+			"challenge_group_id": "11360",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "1136011",
+			"challenge_group_id": "11360",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1987",
+			"description": "アンダーワールドの階層(フロア)を5回クリアしよう※アビス、ダンジョンどちらも対象",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":5}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1136012",
+			"challenge_group_id": "11360",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1987",
+			"description": "アンダーワールドに10回挑戦しよう※アビス、ダンジョンどちらも対象",
+			"challenge_condition": "9",
+			"json_value": "{\"count\":10}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1136013",
+			"challenge_group_id": "11360",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1987",
+			"description": "アンダーワールドの階層(フロア)を10回クリアしよう※アビス、ダンジョンどちらも対象",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":10}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1136014",
+			"challenge_group_id": "11360",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1987",
+			"description": "アンダーワールドに20回挑戦しよう※アビス、ダンジョンどちらも対象",
+			"challenge_condition": "9",
+			"json_value": "{\"count\":20}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1136015",
+			"challenge_group_id": "11360",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1987",
+			"description": "アンダーワールドの階層(フロア)を15回クリアしよう※アビス、ダンジョンどちらも対象",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":15}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1136016",
+			"challenge_group_id": "11360",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1987",
+			"description": "アンダーワールドに35回挑戦しよう※アビス、ダンジョンどちらも対象",
+			"challenge_condition": "9",
+			"json_value": "{\"count\":35}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1136017",
+			"challenge_group_id": "11360",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1987",
+			"description": "アンダーワールドの階層(フロア)を20回クリアしよう※アビス、ダンジョンどちらも対象",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":20}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1136018",
+			"challenge_group_id": "11360",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1987",
+			"description": "アンダーワールドに50回挑戦しよう※アビス、ダンジョンどちらも対象",
+			"challenge_condition": "9",
+			"json_value": "{\"count\":50}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1136019",
+			"challenge_group_id": "11360",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1987",
+			"description": "アンダーワールドの階層(フロア)を30回クリアしよう※アビス、ダンジョンどちらも対象",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":30}",
+			"receive_asset": ""
 		}
 	]
 }
