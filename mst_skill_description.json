@@ -12,35 +12,35 @@
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "[if)is_multiple_attack]적 전체에게 랜덤으로[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]1마리[/@target_num]에게[/elif)is_multiple_attack][if)fixed_damage][@strength][:strength:][/@strength]의 고정 대미지[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]의 대미지[/elif)fixed_damage][if)is_multiple_attack](대상 [@target_num]1마리[/@target_num])[/if)is_multiple_attack]"
+			"text": "[if)is_multiple_attack]적 전체에게 랜덤으로[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]1마리[/@target_num]에게[/elif)is_multiple_attack][if)fixed_damage] [@strength][:strength:][/@strength]의 고정 대미지[/if)fixed_damage][elif)fixed_damage] [@strength][:strength:]%[/@strength]의 대미지[/elif)fixed_damage][if)is_multiple_attack](대상 [@target_num]1마리[/@target_num])[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "[if)is_multiple_attack]적 전체에게 랜덤으로[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]2마리[/@target_num]에게[/elif)is_multiple_attack][if)fixed_damage][@strength][:strength:][/@strength]의 고정 대미지[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]의 대미지[/elif)fixed_damage][if)is_multiple_attack](대상 [@target_num]2마리[/@target_num] 동시)[/if)is_multiple_attack]"
+			"text": "[if)is_multiple_attack]적 전체에게 랜덤으로[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]2마리[/@target_num]에게[/elif)is_multiple_attack][if)fixed_damage] [@strength][:strength:][/@strength]의 고정 대미지[/if)fixed_damage][elif)fixed_damage] [@strength][:strength:]%[/@strength]의 대미지[/elif)fixed_damage][if)is_multiple_attack](대상 [@target_num]2마리[/@target_num] 동시)[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "[if)is_multiple_attack]적 전체에게 랜덤으로[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]3마리[/@target_num]에게[/elif)is_multiple_attack][if)fixed_damage][@strength][:strength:][/@strength]의 고정 대미지[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]의 대미지[/elif)fixed_damage][if)is_multiple_attack](대상 [@target_num]3마리[/@target_num] 동시)[/if)is_multiple_attack]"
+			"text": "[if)is_multiple_attack]적 전체에게 랜덤으로[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]3마리[/@target_num]에게[/elif)is_multiple_attack][if)fixed_damage] [@strength][:strength:][/@strength]의 고정 대미지[/if)fixed_damage][elif)fixed_damage] [@strength][:strength:]%[/@strength]의 대미지[/elif)fixed_damage][if)is_multiple_attack](대상 [@target_num]3마리[/@target_num] 동시)[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "[if)is_multiple_attack]적 전체에게 랜덤으로[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]4마리[/@target_num]에게[/elif)is_multiple_attack][if)fixed_damage][@strength][:strength:][/@strength]의 고정 대미지[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]의 대미지[/elif)fixed_damage][if)is_multiple_attack](대상 [@target_num]4마리[/@target_num] 동시)[/if)is_multiple_attack]"
+			"text": "[if)is_multiple_attack]적 전체에게 랜덤으로[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]4마리[/@target_num]에게[/elif)is_multiple_attack][if)fixed_damage] [@strength][:strength:][/@strength]의 고정 대미지[/if)fixed_damage][elif)fixed_damage] [@strength][:strength:]%[/@strength]의 대미지[/elif)fixed_damage][if)is_multiple_attack](대상 [@target_num]4마리[/@target_num] 동시)[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "[if)is_multiple_attack]적 전체에게 랜덤으로[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]전체[/@target_num]에게[/elif)is_multiple_attack][if)fixed_damage][@strength][:strength:][/@strength]의 고정 대미지[/if)fixed_damage][elif)fixed_damage][@strength][:strength:]%[/@strength]의 대미지[/elif)fixed_damage][if)is_multiple_attack](대상 [@target_num]전체[/@target_num] 동시)[/if)is_multiple_attack]"
+			"text": "[if)is_multiple_attack]적 전체에게 랜덤으로[:multiple_count_ex:][/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]전체[/@target_num]에게[/elif)is_multiple_attack][if)fixed_damage] [@strength][:strength:][/@strength]의 고정 대미지[/if)fixed_damage][elif)fixed_damage] [@strength][:strength:]%[/@strength]의 대미지[/elif)fixed_damage][if)is_multiple_attack](대상 [@target_num]전체[/@target_num] 동시)[/if)is_multiple_attack]"
 		},
 		{
 			"action_efficacy_type": "0",
@@ -82,35 +82,35 @@
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "[if)is_multiple_attack]공격 대상의[/if)is_multiple_attack][elif)is_multiple_attack] 적 [@target_num]1마리[/@target_num]의 [/elif)is_multiple_attack]버프 [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]턴 감소"
+			"text": "[if)is_multiple_attack]공격 대상의[/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]1마리[/@target_num]의 [/elif)is_multiple_attack]버프 [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]턴 감소"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "[if)is_multiple_attack]공격 대상의[/if)is_multiple_attack][elif)is_multiple_attack] 적 [@target_num]2마리[/@target_num]의 [/elif)is_multiple_attack]버프 [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]턴 감소"
+			"text": "[if)is_multiple_attack]공격 대상의[/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]2마리[/@target_num]의 [/elif)is_multiple_attack]버프 [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]턴 감소"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "[if)is_multiple_attack]공격 대상의[/if)is_multiple_attack][elif)is_multiple_attack] 적 [@target_num]3마리[/@target_num]의 [/elif)is_multiple_attack]버프 [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]턴 감소"
+			"text": "[if)is_multiple_attack]공격 대상의[/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]3마리[/@target_num]의 [/elif)is_multiple_attack]버프 [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]턴 감소"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "[if)is_multiple_attack]공격 대상의[/if)is_multiple_attack][elif)is_multiple_attack] 적 [@target_num]4마리[/@target_num]의 [/elif)is_multiple_attack]버프 [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]턴 감소"
+			"text": "[if)is_multiple_attack]공격 대상의[/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]4마리[/@target_num]의 [/elif)is_multiple_attack]버프 [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]턴 감소"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "[if)is_multiple_attack]공격 대상의[/if)is_multiple_attack][elif)is_multiple_attack] 적 [@target_num]전체[/@target_num]의 [/elif)is_multiple_attack]버프 [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]턴 감소"
+			"text": "[if)is_multiple_attack]공격 대상의[/if)is_multiple_attack][elif)is_multiple_attack]적 [@target_num]전체[/@target_num]의 [/elif)is_multiple_attack]버프 [@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]턴 감소"
 		},
 		{
 			"action_efficacy_type": "0",
@@ -3268,6 +3268,13 @@
 			"target_type": "14",
 			"target_num": "5",
 			"text": "개성이 '헌신'인 아군이 받는 [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] 해제"
+		},
+		{
+			"action_efficacy_type": "4",
+			"index_in_type": "0",
+			"target_type": "2",
+			"target_num": "1",
+			"text": "자신의 [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] 해제"
 		},
 		{
 			"action_efficacy_type": "4",
