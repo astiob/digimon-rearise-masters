@@ -3272,6 +3272,13 @@
 		{
 			"action_efficacy_type": "4",
 			"index_in_type": "0",
+			"target_type": "2",
+			"target_num": "1",
+			"text": "Remove one's own [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]."
+		},
+		{
+			"action_efficacy_type": "4",
+			"index_in_type": "0",
 			"target_type": "5",
 			"target_num": "5",
 			"text": "Remove [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] targeting [@target_num]all[/@target_num] allies."

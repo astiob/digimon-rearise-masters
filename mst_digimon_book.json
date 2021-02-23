@@ -361,6 +361,15 @@
 			"start_date": "2020-02-29 12:00:00"
 		},
 		{
+			"code": "beruzebumonX",
+			"sort_key": "ベルゼブモン(X抗体)",
+			"profile": "多くの悪魔型デジモンを統べる能力持ちながら、あえて孤高の存在を守る魔王型デジモン。“七大魔王デジモン”の一人で、その気になれば闇の軍団「ナイトメアソルジャーズ」の頂点に立てると言われているが、そのベルゼブモンでさえも凌駕する程の魔王型デジモンも存在すると言われている。愛用のショットガン「ベレンヘーナ」を持ち、巨大なバイク型マシーン「ベヒーモス」を乗りこなす。性格は冷酷にして無慈悲であり、非常にプライドが高いが、決して群れたり弱者を攻撃することはない。得意技は鋭い鉤爪を振り上げて敵を切り裂く『ダークネスクロウ』。必殺技は二丁のショットガンを連射する『ダブルインパクト』。\n■Ｘ抗体によるベルゼブモンのデジコアへの影響\nベルゼブモンのデータがX抗体により書き換えられた結果、冥界「ダークエリア」から自在に形を変える紅蓮の炎「エル：エヴァンヘーリオ」を召喚する能力を手に入れた。エル：エヴァンヘーリオとは、ダークエリアに墜ちた罪人の魂を裁き、救済するために用いられる意思を宿した炎である。本来であれば魔王型であるベルゼブモンはデジコアごと消滅させられてしまう。しかし、X抗体を身に宿したベルゼブモンはその身を灼かれることなく、エル：エヴァンヘーリオの意思を抑え付け自分の力として操ることが出来るという。ベレンヘーナからエル：エヴァンヘーリオを魔弾として放つ『グラトニーフレア』は、まるで炎が敵を喰らうかのように跡形もなくデータを灼き尽くす。さらにグラトニーフレアを暴食の冠で威力を凝縮して放つ一撃『セブンス・フルクラスター』を身につけた。",
+			"icon_asset": "digimon/icon/digimonface1299305",
+			"attribute": "1",
+			"type": "86",
+			"start_date": "2020-11-30 12:00:00"
+		},
+		{
 			"code": "betamon",
 			"sort_key": "ベタモン",
 			"profile": "An Amphibian Digimon that walks on four legs. It's a docile Digimon with a mild temperament, but unleashes its special move Electric Shock when angered, attacking its enemies with over a million volts of electric current.",
@@ -739,6 +748,15 @@
 			"start_date": "2019-01-01 00:00:00"
 		},
 		{
+			"code": "doufutomoneruemu",
+			"sort_key": "ドゥフトモンLM",
+			"profile": "In Leopard Mode, this Digimon can use Vulcan Crusher, to summon towering pillars of bedrock from the ground to smash into the opponent, and Aerial Barrage, where it dashes into the air, viciously striking the target from every angle. The round ball at the end of Leopardmon's tail functions as a weapon called Eroberung, capable of generating spherical energy mines that allow Leopardmon to strategically corner its enemies.",
+			"icon_asset": "digimon/icon/digimonface1294105",
+			"attribute": "2",
+			"type": "88",
+			"start_date": "2020-11-05 14:00:00"
+		},
+		{
 			"code": "dvuhutomon",
 			"sort_key": "ドゥフトモン",
 			"profile": "A Holy Knight Digimon that the other Royal Knights will easily identify as their best strategist. It has the unusual ability to lead the other Royal Knights, even despite their, sometimes, wildly differing ideas of what is right. When it personally participates in battle, it transforms into its Leopard Mode to navigate the battlefield swiftly. Its special moves are: Extinction Wave, in which it swings a beam of annihilation in the shape of a sword in a great arc downwards from over its head, and Black Aura Blast, in which it fires a great destructive blade of energy at its opponents.",
@@ -782,6 +800,24 @@
 			"attribute": "4",
 			"type": "49",
 			"start_date": "2019/04/15 12:00:00"
+		},
+		{
+			"code": "ensyentogarurumon",
+			"sort_key": "エンシェントガルルモン",
+			"profile": "“光”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体で、「光り輝く至高の獣」と呼ばれていた。エンシェントガルルモンの能力は、その後“獣型デジモン”に引き継がれていった。先の聖戦ではエンシェントグレイモンと共に最後まで生き残り、ルーチェモンを封印したと言われている。必殺技は２本の大剣で眩い輝きと共に一閃し敵を切り裂く『シャープネスクレイモア』と、絶対零度の超凍気と超光で完全に電子の動きを停止させてしまう『アブソリュート・ゼロ』。",
+			"icon_asset": "digimon/icon/digimonface1301205",
+			"attribute": "2",
+			"type": "84",
+			"start_date": "2020-12-15 12:00:00"
+		},
+		{
+			"code": "ensyentogureimon",
+			"sort_key": "エンシェントグレイモン",
+			"profile": "“火”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体で、その強さは現在の究極体をも凌駕すると伝えられており、正に“究極”の存在である。エンシェントグレイモンの能力は、その後グレイモン種等の“竜型デジモン”に引き継がれていった。先の聖戦ではエンシェントガルルモンと共に最後まで生き残り、ルーチェモンを封印したと言われている。必殺技は大地の気を集め竜巻にして敵を巻き込み吹き飛ばす『ガイアトルネード』と、強烈な閃光とともに周囲数キロにわたって超爆発を引き起こす『オメガバースト』。",
+			"icon_asset": "digimon/icon/digimonface1300105",
+			"attribute": "0",
+			"type": "90",
+			"start_date": "2020-12-15 12:00:00"
 		},
 		{
 			"code": "enzyemon",
@@ -1079,6 +1115,15 @@
 			"attribute": "6",
 			"type": "8",
 			"start_date": "2019-01-01 00:00:00"
+		},
+		{
+			"code": "gurandorakumon",
+			"sort_key": "グランドラクモン",
+			"profile": "吸血鬼デジモンの王とされる魔獣デジモン。古くからダークエリアに城を構え、かの七大魔王といえども手出しすることができないほどの強さを誇るといわれる。物腰は紳士的であり、グランドラクモンの発する声には「魅了」の効果もある為、討伐に出た天使デジモンを何体もフォールダウン（堕天）させたこともある逸話を持つ。死なない体を持っていると伝承されており、デジタルワールドにダークエリアが生まれる経緯に関係しているとか、謎の進化「Death-X（デクス）」の真相を知っていると言われているが、彼の城まで辿りつくこと自体困難であるため、この謎を彼に問いただすのは非常に困難であると言うしかない。必殺技はあらゆる敵を瞬時に氷の結晶体へと変える『クリスタルレボリューション』と、見据えた相手の心を闇のとりこにしてしまう邪眼『アイオブザゴーゴン』。",
+			"icon_asset": "digimon/icon/digimonface1308205",
+			"attribute": "1",
+			"type": "37",
+			"start_date": "2120-11-21 12:00:00"
 		},
 		{
 			"code": "gurankuwagaamon",
@@ -1648,6 +1693,15 @@
 			"start_date": "2019-11-14 12:00:00"
 		},
 		{
+			"code": "matadvurumon",
+			"sort_key": "マタドゥルモン",
+			"profile": "華麗な舞を踊る、吸血武闘家デジモン。とある博物館の民族舞踊データベースから生まれたといわれ、舞の動きを独自にアレンジした「武舞独繰（ブルドック）」を極めているといわれる。ヒラヒラした衣装は敵を欺くために使われ、一見すると柔らかな布に油断した敵に両腕に仕込んだ無数のレイピアが襲い掛かる。吸血鬼なのでデジモンの血を吸わなければ生きていくことは出来ないが、誰でも良いわけではなく、強いデジモンの血のみ求めて各地を転々としているらしい。必殺技は、腕に仕込んだレイピアから繰り出される『サウザンドアロー』と、「武舞独繰」独自の体術から繰り出される強烈な蹴り技『蝶絶喇叭蹴（ちょうぜつらっぱしゅう）』。",
+			"icon_asset": "digimon/icon/digimonface1318205",
+			"attribute": "1",
+			"type": "34",
+			"start_date": "2120-11-21 12:00:00"
+		},
+		{
 			"code": "megadoramon",
 			"sort_key": "メガドラモン",
 			"profile": "A Dark Dragon Digimon said to be the most powerful of all the Ultimate Dragon-type Cyborg Digimon. It was artificially remodeled by someone and programmed to destroy everything. Megadramon is the epitome of a computer virus, easily forcing its way into secured computer networks to destroy or reshape its host computer. Its special move, Genocide Attack, fires innumerable organic missiles from both of its arms. Megadramon can also slice through any material with its other special move, Ultimate Slicer.",
@@ -1835,6 +1889,15 @@
 			"attribute": "2",
 			"type": "114",
 			"start_date": "2020-07-15 12:00:00"
+		},
+		{
+			"code": "mireniamon",
+			"sort_key": "ミレニアモン",
+			"profile": "The Ultimate Composite Digimon, combining the overwhelming power of Machinedramon with the utility of Kimeramon's expansive Digimon database. Taking down this Digimon is said to be virtually impossible, but finding the reason behind its fusion may be the first step in defeating it. Its special move is Time Unlimited, where it creates another dimension by compressing time and locks its target in the new subspace forever.",
+			"icon_asset": "digimon/icon/digimonface1292206",
+			"attribute": "1",
+			"type": "61",
+			"start_date": "2020-11-16 12:00:00"
 		},
 		{
 			"code": "mitamamon",

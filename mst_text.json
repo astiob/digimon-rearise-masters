@@ -9777,6 +9777,10 @@
 			"text": "Royal Clash Battle!"
 		},
 		{
+			"text_id": "2899",
+			"text": "Digimon, DigiRubies, and Plugins will be sent to Present Box if they exceed the maximum limit."
+		},
+		{
 			"text_id": "29",
 			"text": "Bond"
 		},
@@ -11157,6 +11161,18 @@
 			"text": "In-Training II"
 		},
 		{
+			"text_id": "3180",
+			"text": "Battle Challenge Team"
+		},
+		{
+			"text_id": "3181",
+			"text": "Battle Challenge Team"
+		},
+		{
+			"text_id": "3182",
+			"text": "Battle Challenge Cumulative Event Pt. Rewards"
+		},
+		{
 			"text_id": "3183",
 			"text": "CLEARED"
 		},
@@ -11197,6 +11213,10 @@
 			"text": "Lv.{0}"
 		},
 		{
+			"text_id": "3192",
+			"text": "BCE"
+		},
+		{
 			"text_id": "32",
 			"text": "In-Training I"
 		},
@@ -11209,8 +11229,84 @@
 			"text": "Oct Clash Battle!"
 		},
 		{
+			"text_id": "3201",
+			"text": "Battle Challenge"
+		},
+		{
+			"text_id": "3202",
+			"text": "Event Period: <color=#ffea3c>{0} - {1}</color>"
+		},
+		{
+			"text_id": "3203",
+			"text": "Reward Claim Period: Until <color=#ffea3c>{0} - {1}</color>"
+		},
+		{
+			"text_id": "3204",
+			"text": "{0} {1} Raids"
+		},
+		{
+			"text_id": "3205",
+			"text": "Select Difficulty"
+		},
+		{
+			"text_id": "3206",
+			"text": "Event Period"
+		},
+		{
+			"text_id": "3207",
+			"text": "{0} left"
+		},
+		{
+			"text_id": "3208",
+			"text": "Total"
+		},
+		{
+			"text_id": "3209",
+			"text": "Next Reward in <color=#ffea3c>{0} pts.</color>"
+		},
+		{
 			"text_id": "321",
 			"text": "Spotter"
+		},
+		{
+			"text_id": "3210",
+			"text": "All conditions have been met!"
+		},
+		{
+			"text_id": "3211",
+			"text": "Progress"
+		},
+		{
+			"text_id": "3212",
+			"text": "Rewards"
+		},
+		{
+			"text_id": "3213",
+			"text": "Total"
+		},
+		{
+			"text_id": "3214",
+			"text": "{0}pt"
+		},
+		{
+			"text_id": "3215",
+			"text": "Next Reward in"
+		},
+		{
+			"text_id": "3216",
+			"text": "Last one!"
+		},
+		{
+			"text_id": "3217",
+			"text": "All conditions have been met!"
+		},
+		{
+			"text_id": "3218",
+			"text": "Your battle was interrupted.\nReturn to the battle?\nDigiRubies and Stamina consumed will be\ndiscarded if the battle is not resumed."
+		},
+		{
+			"text_id": "3219",
+			"text": "Clear Rewards"
 		},
 		{
 			"text_id": "322",
@@ -11223,6 +11319,14 @@
 		{
 			"text_id": "3221",
 			"text": "<size=22>Cost.</size>{0}"
+		},
+		{
+			"text_id": "3222",
+			"text": "Stamina consumed will be discarded.\nWould you like to leave the Battle Challenge?"
+		},
+		{
+			"text_id": "3223",
+			"text": "Digimon, DigiRubies, and Plugins will be sent to\nPresent Box if they exceed the maximum limit."
 		},
 		{
 			"text_id": "3224",
@@ -11257,6 +11361,34 @@
 			"text": "<size=10>Cost.</size>{0}"
 		},
 		{
+			"text_id": "3232",
+			"text": "Claim Clear Reward"
+		},
+		{
+			"text_id": "3233",
+			"text": "Current {0}: {1} pts."
+		},
+		{
+			"text_id": "3234",
+			"text": "vs. Kimeramon"
+		},
+		{
+			"text_id": "3235",
+			"text": "Battle Challenge"
+		},
+		{
+			"text_id": "3236",
+			"text": "Mar Clash Battle!"
+		},
+		{
+			"text_id": "3238",
+			"text": "Royal Knights Event"
+		},
+		{
+			"text_id": "3239",
+			"text": "自分への感電,マヒ,眠り,毒,ヤケド,エラー,スキル封じ,暗闇を解除\n自分のPWRを80％アップ（永続）\n自分のDEFを120％アップ（永続）"
+		},
+		{
 			"text_id": "3240",
 			"text": "Flamedramon"
 		},
@@ -11277,12 +11409,48 @@
 			"text": "I managed to get the best ingredients thanks to you!\nLooking forward to working with you more from now on!"
 		},
 		{
+			"text_id": "3245",
+			"text": "Bearmon"
+		},
+		{
+			"text_id": "3246",
+			"text": "今日もいっぱい特訓するぞ！"
+		},
+		{
+			"text_id": "3247",
+			"text": "やったるぞー！"
+		},
+		{
+			"text_id": "3248",
+			"text": "すごいな！　ジブンも負けてられない！"
+		},
+		{
+			"text_id": "3249",
+			"text": "なんだか強くなれた気がするぞ！\nこれからもいっしょに頑張ろうな！"
+		},
+		{
 			"text_id": "325",
 			"text": "Clash Result"
 		},
 		{
+			"text_id": "3250",
+			"text": "Dec激突戦！"
+		},
+		{
+			"text_id": "3258",
+			"text": "キーで解放！エンシェントエリア！"
+		},
+		{
+			"text_id": "3259",
+			"text": "エンシェントエリア登場"
+		},
+		{
 			"text_id": "326",
 			"text": "Place"
+		},
+		{
+			"text_id": "3262",
+			"text": "エンシェント\nメダル"
 		},
 		{
 			"text_id": "327",
@@ -12351,6 +12519,30 @@
 		{
 			"text_id": "490731",
 			"text": "• Include Digimon with Personalities <color=#FFE25AFF>other than Brave</color> in your party!\n• Include Digimon that can <color=#FFE25AFF>lower TEC</color> in your party!\n• Enhance your <color=#FFE25AFF>DEF</color>!"
+		},
+		{
+			"text_id": "490741",
+			"text": "• Take measures against <color=#FFE25AFF>Status Abnormalities</color>!\n• Include <color=#FFE25AFF>Calm</color> Digimon in your party!\n• Enhance your <color=#FFE25AFF>TEC</color>!"
+		},
+		{
+			"text_id": "490742",
+			"text": "• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!\n• Set Plugins that enhance <color=#FFE25AFF>Block Rate</color>!\n• Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!"
+		},
+		{
+			"text_id": "490751",
+			"text": "・<color=#FFE25AFF>暗闇</color><sprite=9>対策をしよう！\n・<color=#FFE25AFF>DEFを高めるプラグイン</color>をセットしよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+		},
+		{
+			"text_id": "490761",
+			"text": "・個性が<color=#FFE25AFF>勇敢</color>や<color=#FFE25AFF>不屈</color>のデジモンと挑もう！\n・<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！"
+		},
+		{
+			"text_id": "490762",
+			"text": "・<color=#FFE25AFF>DEF</color>や<color=#FFE25AFF>TECダメージ耐性</color>を高めよう！\n・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！\n・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！"
+		},
+		{
+			"text_id": "490763",
+			"text": "・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！\n・<color=#FFE25AFF>DEFを下げる</color>デジモンと挑もう！\n・<color=#FFE25AFF>エラー</color><sprite=7>対策をしよう！"
 		},
 		{
 			"text_id": "491",
