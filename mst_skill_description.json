@@ -3272,6 +3272,13 @@
 		{
 			"action_efficacy_type": "4",
 			"index_in_type": "0",
+			"target_type": "2",
+			"target_num": "1",
+			"text": "解除自己的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]"
+		},
+		{
+			"action_efficacy_type": "4",
+			"index_in_type": "0",
 			"target_type": "5",
 			"target_num": "5",
 			"text": "解除對我方[@target_num]全體[/@target_num]的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]。"
