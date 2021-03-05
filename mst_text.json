@@ -11437,6 +11437,10 @@
 			"text": "Dec激突戦！"
 		},
 		{
+			"text_id": "3251",
+			"text": "ヴァジラモン出現中！"
+		},
+		{
 			"text_id": "3258",
 			"text": "キーで解放！エンシェントエリア！"
 		},
@@ -11449,8 +11453,20 @@
 			"text": "Place"
 		},
 		{
+			"text_id": "3261",
+			"text": "自分への感電,マヒ,気絶,眠り,毒,ヤケド,エラー,スキル封じ,暗闇を解除\n自分のPWRを120％アップ（永続）\n自分のHPを定期的に3000回復する（7ターン）"
+		},
+		{
 			"text_id": "3262",
 			"text": "エンシェント\nメダル"
+		},
+		{
+			"text_id": "3264",
+			"text": "Jan激突戦！"
+		},
+		{
+			"text_id": "3265",
+			"text": "自分への感電,マヒ,気絶,眠り,毒,ヤケド,エラー,スキル封じ,暗闇を解除\n自分のTECを150％アップ（永続）\n自分に3回だけ敵からのダメージを最大500までに抑える（7ターン）"
 		},
 		{
 			"text_id": "327",
@@ -11487,6 +11503,10 @@
 		{
 			"text_id": "333",
 			"text": "Pedometer not enabled on your device.\nCheck device settings."
+		},
+		{
+			"text_id": "3331",
+			"text": "vs.エアロブイドラモン"
 		},
 		{
 			"text_id": "334",
@@ -12543,6 +12563,18 @@
 		{
 			"text_id": "490763",
 			"text": "・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！\n・<color=#FFE25AFF>DEFを下げる</color>デジモンと挑もう！\n・<color=#FFE25AFF>エラー</color><sprite=7>対策をしよう！"
+		},
+		{
+			"text_id": "490771",
+			"text": "・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！\n・<color=#FFE25AFF>ブロック率を高めるプラグイン</color>をセットしよう！\n・個性が<color=#FFE25AFF>不屈</color>や<color=#FFE25AFF>献身</color>のデジモンと挑もう！"
+		},
+		{
+			"text_id": "490781",
+			"text": "・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れて行こう！\n・<color=#FFE25AFF>PWR</color>や<color=#FFE25AFF>TECを高めるプラグイン</color>をセットしよう！\n・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！"
+		},
+		{
+			"text_id": "490782",
+			"text": "・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！\n・<color=#FFE25AFF>DEF</color>を高めよう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
 		},
 		{
 			"text_id": "491",
@@ -14507,6 +14539,10 @@
 		{
 			"text_id": "900005",
 			"text": "Unidentified"
+		},
+		{
+			"text_id": "900007",
+			"text": "No Data"
 		},
 		{
 			"text_id": "901",

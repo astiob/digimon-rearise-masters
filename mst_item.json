@@ -1310,6 +1310,28 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "10169",
+			"item_name": "ファンロンモンの進化コード",
+			"sort_key": "sort",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10069",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がファンロンモンの系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
+			"item_id": "10170",
+			"item_name": "アルフォースブイドラモン(X抗体)の進化コード",
+			"sort_key": "sort",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10070",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がアルフォースブイドラモン(X抗体)の系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "102",
 			"item_name": "Physique Chip II",
 			"sort_key": "",
@@ -2880,6 +2902,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "最終進化形態が成長期ベアモン[DFQ](器用)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1023151",
+			"item_name": "エアロブイドラモン[BCE](不屈)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023151",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が完全体エアロブイドラモン[BCE](不屈)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1023152",
+			"item_name": "エアロブイドラモン[BCE](不屈)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023152",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が完全体エアロブイドラモン[BCE](不屈)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
 			"max_amount": "9999"
 		},
 		{
@@ -12728,6 +12772,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "156414011",
+			"item_name": "捨身Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156414012",
+			"item_name": "捨身Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156414013",
+			"item_name": "捨身Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156414014",
+			"item_name": "捨身Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156414015",
+			"item_name": "捨身Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "156434001",
 			"item_name": "守Ⅳ(不屈 ヴァイクモン)",
 			"sort_key": "",
@@ -12780,6 +12879,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "不屈のヴァイクモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156434011",
+			"item_name": "頑強Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156434012",
+			"item_name": "頑強Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156434013",
+			"item_name": "頑強Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156434014",
+			"item_name": "頑強Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156434015",
+			"item_name": "頑強Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156444011",
+			"item_name": "鈍重Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156444012",
+			"item_name": "鈍重Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156444013",
+			"item_name": "鈍重Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156444014",
+			"item_name": "鈍重Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "156444015",
+			"item_name": "鈍重Ⅳ(不屈 ヴァイクモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment156444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァイクモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -18217,6 +18426,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "190423011",
+			"item_name": "諸刃Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190423011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190423012",
+			"item_name": "諸刃Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190423011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190423013",
+			"item_name": "諸刃Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190423011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190423014",
+			"item_name": "諸刃Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190423011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190423015",
+			"item_name": "諸刃Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190423011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、DEFの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "190433001",
 			"item_name": "守Ⅳ(器用 プラチナヌメモン)",
 			"sort_key": "",
@@ -18269,6 +18533,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "器用のプラチナヌメモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190433011",
+			"item_name": "頑強Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190433012",
+			"item_name": "頑強Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190433013",
+			"item_name": "頑強Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190433014",
+			"item_name": "頑強Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190433015",
+			"item_name": "頑強Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190443011",
+			"item_name": "鈍重Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190443012",
+			"item_name": "鈍重Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190443013",
+			"item_name": "鈍重Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190443014",
+			"item_name": "鈍重Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "190443015",
+			"item_name": "鈍重Ⅳ(器用 プラチナヌメモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment190443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用プラチナヌメモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -22904,7 +23278,7 @@
 		},
 		{
 			"item_id": "216425001",
-			"item_name": "Attack-Ⅳ (Devoted - Mastemon)",
+			"item_name": "Attack-IV (Devoted - Mastemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment216425001",
@@ -22915,7 +23289,7 @@
 		},
 		{
 			"item_id": "216425002",
-			"item_name": "Attack-Ⅳ (Devoted - Mastemon)",
+			"item_name": "Attack-IV (Devoted - Mastemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment216425001",
@@ -22926,7 +23300,7 @@
 		},
 		{
 			"item_id": "216425003",
-			"item_name": "Attack-Ⅳ (Devoted - Mastemon)",
+			"item_name": "Attack-IV (Devoted - Mastemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment216425001",
@@ -22937,7 +23311,7 @@
 		},
 		{
 			"item_id": "216425004",
-			"item_name": "Attack-Ⅳ (Devoted - Mastemon)",
+			"item_name": "Attack-IV (Devoted - Mastemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment216425001",
@@ -22948,7 +23322,7 @@
 		},
 		{
 			"item_id": "216425005",
-			"item_name": "Attack-Ⅳ (Devoted - Mastemon)",
+			"item_name": "Attack-IV (Devoted - Mastemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment216425001",
@@ -22959,7 +23333,7 @@
 		},
 		{
 			"item_id": "216435001",
-			"item_name": "Protection-Ⅳ (Devoted - Mastemon)",
+			"item_name": "Protection-IV (Devoted - Mastemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment216435001",
@@ -22970,7 +23344,7 @@
 		},
 		{
 			"item_id": "216435002",
-			"item_name": "Protection-Ⅳ (Devoted - Mastemon)",
+			"item_name": "Protection-IV (Devoted - Mastemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment216435001",
@@ -22981,7 +23355,7 @@
 		},
 		{
 			"item_id": "216435003",
-			"item_name": "Protection-Ⅳ (Devoted - Mastemon)",
+			"item_name": "Protection-IV (Devoted - Mastemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment216435001",
@@ -22992,7 +23366,7 @@
 		},
 		{
 			"item_id": "216435004",
-			"item_name": "Protection-Ⅳ (Devoted - Mastemon)",
+			"item_name": "Protection-IV (Devoted - Mastemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment216435001",
@@ -23003,7 +23377,7 @@
 		},
 		{
 			"item_id": "216435005",
-			"item_name": "Protection-Ⅳ (Devoted - Mastemon)",
+			"item_name": "Protection-IV (Devoted - Mastemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment216435001",
@@ -25929,7 +26303,7 @@
 		},
 		{
 			"item_id": "230413001",
-			"item_name": "Attack-Ⅳ (Deft - WarGreymon)",
+			"item_name": "Attack-IV (Deft - WarGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment230413001",
@@ -25940,7 +26314,7 @@
 		},
 		{
 			"item_id": "230413002",
-			"item_name": "Attack-Ⅳ (Deft - WarGreymon)",
+			"item_name": "Attack-IV (Deft - WarGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment230413001",
@@ -25951,7 +26325,7 @@
 		},
 		{
 			"item_id": "230413003",
-			"item_name": "Attack-Ⅳ (Deft - WarGreymon)",
+			"item_name": "Attack-IV (Deft - WarGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment230413001",
@@ -25962,7 +26336,7 @@
 		},
 		{
 			"item_id": "230413004",
-			"item_name": "Attack-Ⅳ (Deft - WarGreymon)",
+			"item_name": "Attack-IV (Deft - WarGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment230413001",
@@ -25973,7 +26347,7 @@
 		},
 		{
 			"item_id": "230413005",
-			"item_name": "Attack-Ⅳ (Deft - WarGreymon)",
+			"item_name": "Attack-IV (Deft - WarGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment230413001",
@@ -25984,7 +26358,7 @@
 		},
 		{
 			"item_id": "230433001",
-			"item_name": "Protection-Ⅳ (Deft - WarGreymon)",
+			"item_name": "Protection-IV (Deft - WarGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment230433001",
@@ -25995,7 +26369,7 @@
 		},
 		{
 			"item_id": "230433002",
-			"item_name": "Protection-Ⅳ (Deft - WarGreymon)",
+			"item_name": "Protection-IV (Deft - WarGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment230433001",
@@ -26006,7 +26380,7 @@
 		},
 		{
 			"item_id": "230433003",
-			"item_name": "Protection-Ⅳ (Deft - WarGreymon)",
+			"item_name": "Protection-IV (Deft - WarGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment230433001",
@@ -26017,7 +26391,7 @@
 		},
 		{
 			"item_id": "230433004",
-			"item_name": "Protection-Ⅳ (Deft - WarGreymon)",
+			"item_name": "Protection-IV (Deft - WarGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment230433001",
@@ -26028,7 +26402,7 @@
 		},
 		{
 			"item_id": "230433005",
-			"item_name": "Protection-Ⅳ (Deft - WarGreymon)",
+			"item_name": "Protection-IV (Deft - WarGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment230433001",
@@ -27949,6 +28323,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "Use this ticket for the Royal Ticket Summon: The Magic Spear\nExpires: 2021/04/07 11:59 (JST)",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "23505",
+			"item_name": "NEW YEARガシャチケット2021",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_newyear2021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンチケットガシャ ～NEW YEAR～を回すことができるチケット(使用期間 2020/12/31 12:00 ～ 2021/02/07 11:59)",
 			"max_amount": "9999"
 		},
 		{
@@ -30989,7 +31374,7 @@
 		},
 		{
 			"item_id": "242413011",
-			"item_name": "Forsake-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Forsake-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242413011",
@@ -31000,7 +31385,7 @@
 		},
 		{
 			"item_id": "242413012",
-			"item_name": "Forsake-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Forsake-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242413011",
@@ -31011,7 +31396,7 @@
 		},
 		{
 			"item_id": "242413013",
-			"item_name": "Forsake-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Forsake-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242413011",
@@ -31022,7 +31407,7 @@
 		},
 		{
 			"item_id": "242413014",
-			"item_name": "Forsake-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Forsake-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242413011",
@@ -31033,7 +31418,7 @@
 		},
 		{
 			"item_id": "242413015",
-			"item_name": "Forsake-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Forsake-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242413011",
@@ -31099,7 +31484,7 @@
 		},
 		{
 			"item_id": "242433011",
-			"item_name": "Stubborn-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Stubborn-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242433011",
@@ -31110,7 +31495,7 @@
 		},
 		{
 			"item_id": "242433012",
-			"item_name": "Stubborn-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Stubborn-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242433011",
@@ -31121,7 +31506,7 @@
 		},
 		{
 			"item_id": "242433013",
-			"item_name": "Stubborn-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Stubborn-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242433011",
@@ -31132,7 +31517,7 @@
 		},
 		{
 			"item_id": "242433014",
-			"item_name": "Stubborn-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Stubborn-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242433011",
@@ -31143,7 +31528,7 @@
 		},
 		{
 			"item_id": "242433015",
-			"item_name": "Stubborn-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Stubborn-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242433011",
@@ -31154,7 +31539,7 @@
 		},
 		{
 			"item_id": "242443011",
-			"item_name": "Dense-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Dense-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242443011",
@@ -31165,7 +31550,7 @@
 		},
 		{
 			"item_id": "242443012",
-			"item_name": "Dense-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Dense-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242443011",
@@ -31176,7 +31561,7 @@
 		},
 		{
 			"item_id": "242443013",
-			"item_name": "Dense-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Dense-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242443011",
@@ -31187,7 +31572,7 @@
 		},
 		{
 			"item_id": "242443014",
-			"item_name": "Dense-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Dense-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242443011",
@@ -31198,7 +31583,7 @@
 		},
 		{
 			"item_id": "242443015",
-			"item_name": "Dense-Ⅳ (Exclusive: Deft - MirageGaogamon)",
+			"item_name": "Dense-IV (Exclusive: Deft - MirageGaogamon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment242443011",
@@ -36935,7 +37320,7 @@
 			"icon_asset": "icon/digitama/icondigitama024",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体に育つデジモンが必ず産まれるデジタマ",
+			"description": "A Digimon that will definitely grow into a Mega Digimon will hatch.",
 			"max_amount": "9999"
 		},
 		{
@@ -36958,6 +37343,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A Digimon that will definitely grow into either an Ultra or Mega Digimon will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25304",
+			"item_name": "【新春】2021超おめでたデジタマ(金)",
+			"sort_key": "シンシュンニセンニジュウイチチョウオメデタデジタマキン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama060",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体マグナモン(X抗体)(不屈)系譜、究極体アルフォースブイドラモン(勇敢)系譜、究極体タイガーヴェスパモン(献身)系譜、超究極体カオスモン(冷静)系譜、超究極体ベルフェモンRM(器用)系譜のいずれかが等確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25305",
+			"item_name": "【新春】2021超おめでたデジタマ(赤)",
+			"sort_key": "シンシュンニセンニジュウイチチョウオメデタデジタマアカ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama025",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体のセラフィモン(献身)系譜、ミタマモン(献身)系譜、メギドラモン(勇敢)系譜、ホーリードラモン(冷静)系譜、ゴッドドラモン(冷静)系譜、ドルゴラモン(勇敢)系譜、ベルゼブモンBM(勇敢)系譜のいずれかが等確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25306",
+			"item_name": "勇気の竜戦士のデジタマ",
+			"sort_key": "ユウキノリュウセンシノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ウォーグレイモン(勇敢)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25307",
+			"item_name": "友情の金属獣のデジタマ",
+			"sort_key": "ユウジョウノキンゾクジュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama004",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体メタルガルルモン(冷静)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25308",
+			"item_name": "愛情の鳳凰のデジタマ",
+			"sort_key": "アイジョウノホウオウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama006",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ホウオウモン(献身)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25309",
+			"item_name": "知識の鋏角虫のデジタマ",
+			"sort_key": "チシキノキョウカクチュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama005",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ヘラクルカブテリモン(勇敢)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25310",
+			"item_name": "純真な薔薇妖精のデジタマ",
+			"sort_key": "ジュンシンナバラヨウセイのデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama012",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ロゼモン(献身)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25311",
+			"item_name": "誠実な冷凍獣のデジタマ",
+			"sort_key": "セイジツナレイトウジュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama009",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ヴァイクモン(不屈)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25312",
+			"item_name": "希望の熾天使のデジタマ",
+			"sort_key": "キボウノシテンシノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体セラフィモン(勇敢)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25313",
+			"item_name": "光の座天使のデジタマ",
+			"sort_key": "ヒカリノザテンシノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama023",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体オファニモン(献身)に育つデジモンが必ず産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -38044,6 +38539,17 @@
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "Points that can be obtained through Spotlight Digimon Quests.",
+			"max_amount": "999999999"
+		},
+		{
+			"item_id": "26022",
+			"item_name": "Spotlight Pts.",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_scenario_event_point_008",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "Points that can be obtained through Spotlight Digimon Quests.",
@@ -39778,7 +40284,7 @@
 		},
 		{
 			"item_id": "275423001",
-			"item_name": "Attack-Ⅳ (Deft - MirageGaogamon BM)",
+			"item_name": "Attack-IV (Deft - MirageGaogamon BM)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment275423001",
@@ -39789,7 +40295,7 @@
 		},
 		{
 			"item_id": "275423002",
-			"item_name": "Attack-Ⅳ (Deft - MirageGaogamon BM)",
+			"item_name": "Attack-IV (Deft - MirageGaogamon BM)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment275423001",
@@ -39800,7 +40306,7 @@
 		},
 		{
 			"item_id": "275423003",
-			"item_name": "Attack-Ⅳ (Deft - MirageGaogamon BM)",
+			"item_name": "Attack-IV (Deft - MirageGaogamon BM)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment275423001",
@@ -39811,7 +40317,7 @@
 		},
 		{
 			"item_id": "275423004",
-			"item_name": "Attack-Ⅳ (Deft - MirageGaogamon BM)",
+			"item_name": "Attack-IV (Deft - MirageGaogamon BM)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment275423001",
@@ -39822,7 +40328,7 @@
 		},
 		{
 			"item_id": "275423005",
-			"item_name": "Attack-Ⅳ (Deft - MirageGaogamon BM)",
+			"item_name": "Attack-IV (Deft - MirageGaogamon BM)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment275423001",
@@ -39833,7 +40339,7 @@
 		},
 		{
 			"item_id": "275433001",
-			"item_name": "Protection-Ⅳ (Deft - MirageGaogamon BM)",
+			"item_name": "Protection-IV (Deft - MirageGaogamon BM)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment275433001",
@@ -39844,7 +40350,7 @@
 		},
 		{
 			"item_id": "275433002",
-			"item_name": "Protection-Ⅳ (Deft - MirageGaogamon BM)",
+			"item_name": "Protection-IV (Deft - MirageGaogamon BM)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment275433001",
@@ -39855,7 +40361,7 @@
 		},
 		{
 			"item_id": "275433003",
-			"item_name": "Protection-Ⅳ (Deft - MirageGaogamon BM)",
+			"item_name": "Protection-IV (Deft - MirageGaogamon BM)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment275433001",
@@ -39866,7 +40372,7 @@
 		},
 		{
 			"item_id": "275433004",
-			"item_name": "Protection-Ⅳ (Deft - MirageGaogamon BM)",
+			"item_name": "Protection-IV (Deft - MirageGaogamon BM)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment275433001",
@@ -39877,7 +40383,7 @@
 		},
 		{
 			"item_id": "275433005",
-			"item_name": "Protection-Ⅳ (Deft - MirageGaogamon BM)",
+			"item_name": "Protection-IV (Deft - MirageGaogamon BM)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment275433001",
@@ -41571,7 +42077,7 @@
 		},
 		{
 			"item_id": "287423001",
-			"item_name": "Attack-Ⅳ (Deft - MarineAngemon)",
+			"item_name": "Attack-IV (Deft - MarineAngemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment287423001",
@@ -41582,7 +42088,7 @@
 		},
 		{
 			"item_id": "287423002",
-			"item_name": "Attack-Ⅳ (Deft - MarineAngemon)",
+			"item_name": "Attack-IV (Deft - MarineAngemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment287423001",
@@ -41593,7 +42099,7 @@
 		},
 		{
 			"item_id": "287423003",
-			"item_name": "Attack-Ⅳ (Deft - MarineAngemon)",
+			"item_name": "Attack-IV (Deft - MarineAngemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment287423001",
@@ -41604,7 +42110,7 @@
 		},
 		{
 			"item_id": "287423004",
-			"item_name": "Attack-Ⅳ (Deft - MarineAngemon)",
+			"item_name": "Attack-IV (Deft - MarineAngemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment287423001",
@@ -41615,7 +42121,7 @@
 		},
 		{
 			"item_id": "287423005",
-			"item_name": "Attack-Ⅳ (Deft - MarineAngemon)",
+			"item_name": "Attack-IV (Deft - MarineAngemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment287423001",
@@ -41626,7 +42132,7 @@
 		},
 		{
 			"item_id": "287433001",
-			"item_name": "Protection-Ⅳ (Deft - MarineAngemon)",
+			"item_name": "Protection-IV (Deft - MarineAngemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment287433001",
@@ -41637,7 +42143,7 @@
 		},
 		{
 			"item_id": "287433002",
-			"item_name": "Protection-Ⅳ (Deft - MarineAngemon)",
+			"item_name": "Protection-IV (Deft - MarineAngemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment287433001",
@@ -41648,7 +42154,7 @@
 		},
 		{
 			"item_id": "287433003",
-			"item_name": "Protection-Ⅳ (Deft - MarineAngemon)",
+			"item_name": "Protection-IV (Deft - MarineAngemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment287433001",
@@ -41659,7 +42165,7 @@
 		},
 		{
 			"item_id": "287433004",
-			"item_name": "Protection-Ⅳ (Deft - MarineAngemon)",
+			"item_name": "Protection-IV (Deft - MarineAngemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment287433001",
@@ -41670,7 +42176,7 @@
 		},
 		{
 			"item_id": "287433005",
-			"item_name": "Protection-Ⅳ (Deft - MarineAngemon)",
+			"item_name": "Protection-IV (Deft - MarineAngemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment287433001",
@@ -42308,112 +42814,112 @@
 		},
 		{
 			"item_id": "293422001",
-			"item_name": "攻Ⅳ(冷静 バンチョーゴーレモン)",
+			"item_name": "Attack-IV (Calm - BanchoGolemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment293422001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "冷静のバンチョーゴーレモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Calm BanchoGolemon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "293422002",
-			"item_name": "攻Ⅳ(冷静 バンチョーゴーレモン)",
+			"item_name": "Attack-IV (Calm - BanchoGolemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment293422001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "冷静のバンチョーゴーレモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Calm BanchoGolemon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "293422003",
-			"item_name": "攻Ⅳ(冷静 バンチョーゴーレモン)",
+			"item_name": "Attack-IV (Calm - BanchoGolemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment293422001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "冷静のバンチョーゴーレモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Calm BanchoGolemon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "293422004",
-			"item_name": "攻Ⅳ(冷静 バンチョーゴーレモン)",
+			"item_name": "Attack-IV (Calm - BanchoGolemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment293422001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "冷静のバンチョーゴーレモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Calm BanchoGolemon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "293422005",
-			"item_name": "攻Ⅳ(冷静 バンチョーゴーレモン)",
+			"item_name": "Attack-IV (Calm - BanchoGolemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment293422001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "冷静のバンチョーゴーレモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Calm BanchoGolemon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "293432001",
-			"item_name": "守Ⅳ(冷静 バンチョーゴーレモン)",
+			"item_name": "Protection-IV (Calm - BanchoGolemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment293432001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "冷静のバンチョーゴーレモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Calm BanchoGolemon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "293432002",
-			"item_name": "守Ⅳ(冷静 バンチョーゴーレモン)",
+			"item_name": "Protection-IV (Calm - BanchoGolemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment293432001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "冷静のバンチョーゴーレモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Calm BanchoGolemon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "293432003",
-			"item_name": "守Ⅳ(冷静 バンチョーゴーレモン)",
+			"item_name": "Protection-IV (Calm - BanchoGolemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment293432001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "冷静のバンチョーゴーレモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Calm BanchoGolemon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "293432004",
-			"item_name": "守Ⅳ(冷静 バンチョーゴーレモン)",
+			"item_name": "Protection-IV (Calm - BanchoGolemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment293432001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "冷静のバンチョーゴーレモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Calm BanchoGolemon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "293432005",
-			"item_name": "守Ⅳ(冷静 バンチョーゴーレモン)",
+			"item_name": "Protection-IV (Calm - BanchoGolemon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment293432001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "冷静のバンチョーゴーレモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Calm BanchoGolemon.",
 			"max_amount": "9999"
 		},
 		{
@@ -43485,7 +43991,7 @@
 		},
 		{
 			"item_id": "302422001",
-			"item_name": "Attack-Ⅳ (Calm - Millenniummon)",
+			"item_name": "Attack-IV (Calm - Millenniummon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment302422001",
@@ -43496,7 +44002,7 @@
 		},
 		{
 			"item_id": "302422002",
-			"item_name": "Attack-Ⅳ (Calm - Millenniummon)",
+			"item_name": "Attack-IV (Calm - Millenniummon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment302422001",
@@ -43507,7 +44013,7 @@
 		},
 		{
 			"item_id": "302422003",
-			"item_name": "Attack-Ⅳ (Calm - Millenniummon)",
+			"item_name": "Attack-IV (Calm - Millenniummon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment302422001",
@@ -43518,7 +44024,7 @@
 		},
 		{
 			"item_id": "302422004",
-			"item_name": "Attack-Ⅳ (Calm - Millenniummon)",
+			"item_name": "Attack-IV (Calm - Millenniummon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment302422001",
@@ -43529,7 +44035,7 @@
 		},
 		{
 			"item_id": "302422005",
-			"item_name": "Attack-Ⅳ (Calm - Millenniummon)",
+			"item_name": "Attack-IV (Calm - Millenniummon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment302422001",
@@ -43540,7 +44046,7 @@
 		},
 		{
 			"item_id": "302432001",
-			"item_name": "Protection-Ⅳ (Calm - Millenniummon)",
+			"item_name": "Protection-IV (Calm - Millenniummon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment302432001",
@@ -43551,7 +44057,7 @@
 		},
 		{
 			"item_id": "302432002",
-			"item_name": "Protection-Ⅳ (Calm - Millenniummon)",
+			"item_name": "Protection-IV (Calm - Millenniummon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment302432001",
@@ -43562,7 +44068,7 @@
 		},
 		{
 			"item_id": "302432003",
-			"item_name": "Protection-Ⅳ (Calm - Millenniummon)",
+			"item_name": "Protection-IV (Calm - Millenniummon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment302432001",
@@ -43573,7 +44079,7 @@
 		},
 		{
 			"item_id": "302432004",
-			"item_name": "Protection-Ⅳ (Calm - Millenniummon)",
+			"item_name": "Protection-IV (Calm - Millenniummon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment302432001",
@@ -43584,7 +44090,7 @@
 		},
 		{
 			"item_id": "302432005",
-			"item_name": "Protection-Ⅳ (Calm - Millenniummon)",
+			"item_name": "Protection-IV (Calm - Millenniummon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment302432001",
@@ -43595,7 +44101,7 @@
 		},
 		{
 			"item_id": "303414001",
-			"item_name": "Attack-Ⅳ (Tenacious - Examon)",
+			"item_name": "Attack-IV (Tenacious - Examon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment303414001",
@@ -43606,7 +44112,7 @@
 		},
 		{
 			"item_id": "303414002",
-			"item_name": "Attack-Ⅳ (Tenacious - Examon)",
+			"item_name": "Attack-IV (Tenacious - Examon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment303414001",
@@ -43617,7 +44123,7 @@
 		},
 		{
 			"item_id": "303414003",
-			"item_name": "Attack-Ⅳ (Tenacious - Examon)",
+			"item_name": "Attack-IV (Tenacious - Examon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment303414001",
@@ -43628,7 +44134,7 @@
 		},
 		{
 			"item_id": "303414004",
-			"item_name": "Attack-Ⅳ (Tenacious - Examon)",
+			"item_name": "Attack-IV (Tenacious - Examon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment303414001",
@@ -43639,7 +44145,7 @@
 		},
 		{
 			"item_id": "303414005",
-			"item_name": "Attack-Ⅳ (Tenacious - Examon)",
+			"item_name": "Attack-IV (Tenacious - Examon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment303414001",
@@ -43650,7 +44156,7 @@
 		},
 		{
 			"item_id": "303434001",
-			"item_name": "Protection-Ⅳ (Tenacious - Examon)",
+			"item_name": "Protection-IV (Tenacious - Examon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment303434001",
@@ -43661,7 +44167,7 @@
 		},
 		{
 			"item_id": "303434002",
-			"item_name": "Protection-Ⅳ (Tenacious - Examon)",
+			"item_name": "Protection-IV (Tenacious - Examon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment303434001",
@@ -43672,7 +44178,7 @@
 		},
 		{
 			"item_id": "303434003",
-			"item_name": "Protection-Ⅳ (Tenacious - Examon)",
+			"item_name": "Protection-IV (Tenacious - Examon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment303434001",
@@ -43683,7 +44189,7 @@
 		},
 		{
 			"item_id": "303434004",
-			"item_name": "Protection-Ⅳ (Tenacious - Examon)",
+			"item_name": "Protection-IV (Tenacious - Examon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment303434001",
@@ -43694,7 +44200,7 @@
 		},
 		{
 			"item_id": "303434005",
-			"item_name": "Protection-Ⅳ (Tenacious - Examon)",
+			"item_name": "Protection-IV (Tenacious - Examon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment303434001",
@@ -43921,6 +44427,336 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "器用のバンチョーレオモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306425001",
+			"item_name": "攻Ⅳ(献身 アルフォースブイドラモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のアルフォースブイドラモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306425002",
+			"item_name": "攻Ⅳ(献身 アルフォースブイドラモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のアルフォースブイドラモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306425003",
+			"item_name": "攻Ⅳ(献身 アルフォースブイドラモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のアルフォースブイドラモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306425004",
+			"item_name": "攻Ⅳ(献身 アルフォースブイドラモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のアルフォースブイドラモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306425005",
+			"item_name": "攻Ⅳ(献身 アルフォースブイドラモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のアルフォースブイドラモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306435001",
+			"item_name": "守Ⅳ(献身 アルフォースブイドラモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のアルフォースブイドラモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306435002",
+			"item_name": "守Ⅳ(献身 アルフォースブイドラモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のアルフォースブイドラモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306435003",
+			"item_name": "守Ⅳ(献身 アルフォースブイドラモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のアルフォースブイドラモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306435004",
+			"item_name": "守Ⅳ(献身 アルフォースブイドラモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のアルフォースブイドラモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306435005",
+			"item_name": "守Ⅳ(献身 アルフォースブイドラモン(X抗体))",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のアルフォースブイドラモン(X抗体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306445011",
+			"item_name": "縮地Ⅳ(献身 アルフォースブイドラモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身アルフォースブイドラモン(X抗体)のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306445012",
+			"item_name": "縮地Ⅳ(献身 アルフォースブイドラモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身アルフォースブイドラモン(X抗体)のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306445013",
+			"item_name": "縮地Ⅳ(献身 アルフォースブイドラモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身アルフォースブイドラモン(X抗体)のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306445014",
+			"item_name": "縮地Ⅳ(献身 アルフォースブイドラモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身アルフォースブイドラモン(X抗体)のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "306445015",
+			"item_name": "縮地Ⅳ(献身 アルフォースブイドラモン(X抗体)専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment306445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身アルフォースブイドラモン(X抗体)のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307411011",
+			"item_name": "捨身Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307411011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307411012",
+			"item_name": "捨身Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307411011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307411013",
+			"item_name": "捨身Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307411011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307411014",
+			"item_name": "捨身Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307411011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307411015",
+			"item_name": "捨身Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307411011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、DEFの値は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307431011",
+			"item_name": "頑強Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307431011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307431012",
+			"item_name": "頑強Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307431011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307431013",
+			"item_name": "頑強Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307431011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307431014",
+			"item_name": "頑強Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307431011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307431015",
+			"item_name": "頑強Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307431011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307441011",
+			"item_name": "鈍重Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307441012",
+			"item_name": "鈍重Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307441013",
+			"item_name": "鈍重Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307441014",
+			"item_name": "鈍重Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "307441015",
+			"item_name": "鈍重Ⅳ(勇敢 サーベルレオモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment307441011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢サーベルレオモンのみがセットでき、SPDの値は下がるが、よりHPの値をプラスにする古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -45200,6 +46036,226 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "313424011",
+			"item_name": "強打Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313424011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313424012",
+			"item_name": "強打Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313424011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313424013",
+			"item_name": "強打Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313424011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313424014",
+			"item_name": "強打Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313424011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313424015",
+			"item_name": "強打Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313424011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313434011",
+			"item_name": "頑強Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313434012",
+			"item_name": "頑強Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313434013",
+			"item_name": "頑強Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313434014",
+			"item_name": "頑強Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313434015",
+			"item_name": "頑強Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444011",
+			"item_name": "縮地Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444012",
+			"item_name": "縮地Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444013",
+			"item_name": "縮地Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444014",
+			"item_name": "縮地Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444015",
+			"item_name": "縮地Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444021",
+			"item_name": "閃光Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444022",
+			"item_name": "閃光Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444023",
+			"item_name": "閃光Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444024",
+			"item_name": "閃光Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "313444025",
+			"item_name": "閃光Ⅳ(不屈 エアロブイドラモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment313444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈エアロブイドラモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "314001",
 			"item_name": "Attack-III (Tenacious)",
 			"sort_key": "",
@@ -45420,6 +46476,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "314425001",
+			"item_name": "攻Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314425002",
+			"item_name": "攻Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314425003",
+			"item_name": "攻Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314425004",
+			"item_name": "攻Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314425005",
+			"item_name": "攻Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314435001",
+			"item_name": "守Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314435002",
+			"item_name": "守Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314435003",
+			"item_name": "守Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314435004",
+			"item_name": "守Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "314435005",
+			"item_name": "守Ⅳ(献身 ファンロンモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment314435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のファンロンモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "315422001",
 			"item_name": "Attack-IV (Calm - Orochimon)",
 			"sort_key": "",
@@ -45637,6 +46803,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A plugin that exhibits its true value when set to a Deft Neptunemon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317425001",
+			"item_name": "攻Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317425002",
+			"item_name": "攻Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317425003",
+			"item_name": "攻Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317425004",
+			"item_name": "攻Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317425005",
+			"item_name": "攻Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317435001",
+			"item_name": "守Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317435002",
+			"item_name": "守Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317435003",
+			"item_name": "守Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317435004",
+			"item_name": "守Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "317435005",
+			"item_name": "守Ⅳ(献身 ヴァロドゥルモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment317435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身のヴァロドゥルモンがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -46583,6 +47859,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A Plugin that enhances a Digimon's TEC and SPD.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "327411001",
+			"item_name": "Attack-IV (Brave - Gaiomon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment327411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Gaiomon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "327411002",
+			"item_name": "Attack-IV (Brave - Gaiomon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment327411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Gaiomon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "327411003",
+			"item_name": "Attack-IV (Brave - Gaiomon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment327411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Gaiomon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "327411004",
+			"item_name": "Attack-IV (Brave - Gaiomon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment327411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Gaiomon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "327411005",
+			"item_name": "Attack-IV (Brave - Gaiomon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment327411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Gaiomon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "327431001",
+			"item_name": "Protection-IV (Brave - Gaiomon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment327431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Gaiomon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "327431002",
+			"item_name": "Protection-IV (Brave - Gaiomon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment327431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Gaiomon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "327431003",
+			"item_name": "Protection-IV (Brave - Gaiomon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment327431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Gaiomon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "327431004",
+			"item_name": "Protection-IV (Brave - Gaiomon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment327431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Gaiomon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "327431005",
+			"item_name": "Protection-IV (Brave - Gaiomon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment327431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Gaiomon.",
 			"max_amount": "9999"
 		},
 		{
