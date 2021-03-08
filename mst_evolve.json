@@ -9769,6 +9769,54 @@
 			"add_max_friendship_level": "39"
 		},
 		{
+			"digimon_id": "1345502",
+			"next_digimon_id": "1345503",
+			"stage": "2",
+			"demo_type": "3",
+			"level": "1",
+			"bit": "30000",
+			"evolve_use_item_id": "11",
+			"friendship_level": "1",
+			"add_max_level": "0",
+			"add_max_friendship_level": "0"
+		},
+		{
+			"digimon_id": "1345503",
+			"next_digimon_id": "1345504",
+			"stage": "3",
+			"demo_type": "4",
+			"level": "1",
+			"bit": "60000",
+			"evolve_use_item_id": "42",
+			"friendship_level": "1",
+			"add_max_level": "0",
+			"add_max_friendship_level": "0"
+		},
+		{
+			"digimon_id": "1345504",
+			"next_digimon_id": "1345505",
+			"stage": "4",
+			"demo_type": "5",
+			"level": "20",
+			"bit": "100000",
+			"evolve_use_item_id": "23",
+			"friendship_level": "20",
+			"add_max_level": "20",
+			"add_max_friendship_level": "40"
+		},
+		{
+			"digimon_id": "1345505",
+			"next_digimon_id": "1345506",
+			"stage": "5",
+			"demo_type": "1345506",
+			"level": "60",
+			"bit": "200000",
+			"evolve_use_item_id": "1345506",
+			"friendship_level": "60",
+			"add_max_level": "20",
+			"add_max_friendship_level": "39"
+		},
+		{
 			"digimon_id": "1347102",
 			"next_digimon_id": "1347103",
 			"stage": "2",
