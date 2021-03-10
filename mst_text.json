@@ -11386,7 +11386,7 @@
 		},
 		{
 			"text_id": "3239",
-			"text": "自分への感電,マヒ,眠り,毒,ヤケド,エラー,スキル封じ,暗闇を解除\n自分のPWRを80％アップ（永続）\n自分のDEFを120％アップ（永続）"
+			"text": "Removes Shock, Paralysis, Sleep, Poison, Burn, Error, Skill Lock, and Blind from self.\nIncreases own PWR by 80%. (Permanent)\nIncreases own DEF by 120%. (Permanent)"
 		},
 		{
 			"text_id": "3240",
@@ -11414,19 +11414,19 @@
 		},
 		{
 			"text_id": "3246",
-			"text": "今日もいっぱい特訓するぞ！"
+			"text": "We've got a lot of training to do today!"
 		},
 		{
 			"text_id": "3247",
-			"text": "やったるぞー！"
+			"text": "Let's get it done!"
 		},
 		{
 			"text_id": "3248",
-			"text": "すごいな！　ジブンも負けてられない！"
+			"text": "That's awesome! I'll have you know, I won't lose either!"
 		},
 		{
 			"text_id": "3249",
-			"text": "なんだか強くなれた気がするぞ！\nこれからもいっしょに頑張ろうな！"
+			"text": "I feel like I'm getting stronger!\nLet's keep trying our best!"
 		},
 		{
 			"text_id": "325",
@@ -11434,19 +11434,19 @@
 		},
 		{
 			"text_id": "3250",
-			"text": "Dec激突戦！"
+			"text": "Dec Clash Battle!"
 		},
 		{
 			"text_id": "3251",
-			"text": "ヴァジラモン出現中！"
+			"text": "The appearance of Vajramon!"
 		},
 		{
 			"text_id": "3258",
-			"text": "キーで解放！エンシェントエリア！"
+			"text": "Unlock the Ancient Vortex with a key!"
 		},
 		{
 			"text_id": "3259",
-			"text": "エンシェントエリア登場"
+			"text": "Ancient Vortex Now Available"
 		},
 		{
 			"text_id": "326",
@@ -11454,19 +11454,19 @@
 		},
 		{
 			"text_id": "3261",
-			"text": "自分への感電,マヒ,気絶,眠り,毒,ヤケド,エラー,スキル封じ,暗闇を解除\n自分のPWRを120％アップ（永続）\n自分のHPを定期的に3000回復する（7ターン）"
+			"text": "Removes Shock, Paralysis, Stun, Sleep, Poison, Burn, Error, Skill Lock, and Blind from self.\nIncreases own PWR by 120%. (Permanent)\nPeriodically recovers own HP by 3000. (7 turns)"
 		},
 		{
 			"text_id": "3262",
-			"text": "エンシェント\nメダル"
+			"text": "Ancient\nMedal"
 		},
 		{
 			"text_id": "3264",
-			"text": "Jan激突戦！"
+			"text": "Jan Clash Battle!"
 		},
 		{
 			"text_id": "3265",
-			"text": "自分への感電,マヒ,気絶,眠り,毒,ヤケド,エラー,スキル封じ,暗闇を解除\n自分のTECを150％アップ（永続）\n自分に3回だけ敵からのダメージを最大500までに抑える（7ターン）"
+			"text": "Removes Shock, Paralysis, Stun, Sleep, Poison, Burn, Error, Skill Lock, and Blind from self.\nIncreases own TEC by 150%. (Permanent)\nRestricts the maximum damage taken from an enemy to 500 up to three times. (7 turns)"
 		},
 		{
 			"text_id": "327",
@@ -11506,7 +11506,7 @@
 		},
 		{
 			"text_id": "3331",
-			"text": "vs.エアロブイドラモン"
+			"text": "vs. AeroVeedramon"
 		},
 		{
 			"text_id": "334",
@@ -12550,31 +12550,31 @@
 		},
 		{
 			"text_id": "490751",
-			"text": "・<color=#FFE25AFF>暗闇</color><sprite=9>対策をしよう！\n・<color=#FFE25AFF>DEFを高めるプラグイン</color>をセットしよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+			"text": "• Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!\n• Set Plugins that <color=#FFE25AFF>enhance DEF</color>!\n• Include Digimon that can <color=#FFE25AFF>heal HP</color> in your party!"
 		},
 		{
 			"text_id": "490761",
-			"text": "・個性が<color=#FFE25AFF>勇敢</color>や<color=#FFE25AFF>不屈</color>のデジモンと挑もう！\n・<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！"
+			"text": "• Include <color=#FFE25AFF>Brave</color> and <color=#FFE25AFF>Tenacious</color> Digimon in your party!\n• Enhance your <color=#FFE25AFF>Block Rate</color>!\n• Take measures against <color=#FFE25AFF>Poison</color><sprite=5>!"
 		},
 		{
 			"text_id": "490762",
-			"text": "・<color=#FFE25AFF>DEF</color>や<color=#FFE25AFF>TECダメージ耐性</color>を高めよう！\n・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！\n・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！"
+			"text": "• Enhance your <color=#FFE25AFF>DEF</color> and <color=#FFE25AFF>TEC Damage Resist</color>!\n• Take measures against <color=#FFE25AFF>Skill Lock</color><sprite=8>!\n• Include Digimon with Personalities <color=#FFE25AFF>other than Brave</color> in your party!"
 		},
 		{
 			"text_id": "490763",
-			"text": "・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！\n・<color=#FFE25AFF>DEFを下げる</color>デジモンと挑もう！\n・<color=#FFE25AFF>エラー</color><sprite=7>対策をしよう！"
+			"text": "• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!\n• Include Digimon that can <color=#FFE25AFF>lower DEF</color> in your party!\n• Take measures against<color=#FFE25AFF>Error</color><sprite=7>!"
 		},
 		{
 			"text_id": "490771",
-			"text": "・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！\n・<color=#FFE25AFF>ブロック率を高めるプラグイン</color>をセットしよう！\n・個性が<color=#FFE25AFF>不屈</color>や<color=#FFE25AFF>献身</color>のデジモンと挑もう！"
+			"text": "• Take measures against <color=#FFE25AFF>Poison</color><sprite=5>!\n• Set Plugins that enhance <color=#FFE25AFF>Block Rate</color>!\n• Include <color=#FFE25AFF>Tenacious</color> and <color=#FFE25AFF>Devoted</color> Digimon in your party!"
 		},
 		{
 			"text_id": "490781",
-			"text": "・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れて行こう！\n・<color=#FFE25AFF>PWR</color>や<color=#FFE25AFF>TECを高めるプラグイン</color>をセットしよう！\n・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！"
+			"text": "• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!\n• Set Plugins that enhance <color=#FFE25AFF>PWR</color> and <color=#FFE25AFF>TEC</color>!\n• Take measures against <color=#FFE25AFF>Poison</color><sprite=5>!"
 		},
 		{
 			"text_id": "490782",
-			"text": "・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！\n・<color=#FFE25AFF>DEF</color>を高めよう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
+			"text": "• Take measures against <color=#FFE25AFF>Poison</color><sprite=5>!\n• Enhance your <color=#FFE25AFF>DEF</color>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!"
 		},
 		{
 			"text_id": "491",
