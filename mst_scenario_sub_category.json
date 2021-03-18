@@ -8,6 +8,13 @@
 			"resource": ""
 		},
 		{
+			"sub_category_id": "1000",
+			"main_category_id": "7",
+			"order": "1",
+			"title": "超個性登場！",
+			"resource": ""
+		},
+		{
 			"sub_category_id": "101",
 			"main_category_id": "1",
 			"order": "1",
@@ -419,6 +426,13 @@
 			"order": "100",
 			"title": "サイドストーリー\nがむしゃらカズマとあの頃の先輩",
 			"resource": "quest/panel/ss_panel_section4_g4959"
+		},
+		{
+			"sub_category_id": "705",
+			"main_category_id": "4",
+			"order": "100",
+			"title": "サイドストーリー\n英司のデジモンフィールドワーク",
+			"resource": "quest/panel/ss_panel_section5_g5054"
 		}
 	]
 }

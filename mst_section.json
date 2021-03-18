@@ -327,7 +327,7 @@
 		{
 			"section_id": "7001",
 			"number": "1",
-			"title": "サイドストーリー",
+			"title": "",
 			"description": "対決！ノーブル系？デジモン",
 			"panel_asset": "section/ss_section_skin001_g3858",
 			"map_asset": "quest/map/map_section_sidestory001_g3858",
@@ -336,7 +336,7 @@
 		{
 			"section_id": "7002",
 			"number": "2",
-			"title": "サイドストーリー",
+			"title": "",
 			"description": "デジタマが見る夢",
 			"panel_asset": "section/ss_section_skin002_g3940",
 			"map_asset": "quest/map/map_section_sidestory002_g3940",
@@ -345,7 +345,7 @@
 		{
 			"section_id": "7003",
 			"number": "3",
-			"title": "サイドストーリー",
+			"title": "",
 			"description": "エリスモンの記念日",
 			"panel_asset": "section/ss_section_skin003_g4514",
 			"map_asset": "quest/map/map_section_sidestory003_g4514",
@@ -354,11 +354,20 @@
 		{
 			"section_id": "7004",
 			"number": "4",
-			"title": "サイドストーリー",
+			"title": "",
 			"description": "がむしゃらカズマとあの頃の先輩",
 			"panel_asset": "section/ss_section_skin004_g4959",
 			"map_asset": "quest/map/map_section_sidestory004_g4959",
 			"start_date": "2021-02-25 12:00:00"
+		},
+		{
+			"section_id": "7005",
+			"number": "5",
+			"title": "",
+			"description": "英司のデジモンフィールドワーク",
+			"panel_asset": "section/ss_section_skin005_g5054",
+			"map_asset": "quest/map/map_section_sidestory005_g5054",
+			"start_date": "2021-03-23 12:00:00"
 		}
 	]
 }

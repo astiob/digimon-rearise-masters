@@ -21431,6 +21431,102 @@
 			"evaluation_type": "7",
 			"text_id": "800001",
 			"json_value": "{\"enemyType\":2}"
+		},
+		{
+			"evaluation_id": "70050301",
+			"quest_id": "7005030",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70050302",
+			"quest_id": "7005030",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70050303",
+			"quest_id": "7005030",
+			"disp_order": "3",
+			"evaluation_type": "12",
+			"text_id": "850001",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70050401",
+			"quest_id": "7005040",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70050402",
+			"quest_id": "7005040",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70050403",
+			"quest_id": "7005040",
+			"disp_order": "3",
+			"evaluation_type": "8",
+			"text_id": "800004",
+			"json_value": "{\"enemyType\":1}"
+		},
+		{
+			"evaluation_id": "70050501",
+			"quest_id": "7005050",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70050502",
+			"quest_id": "7005050",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70050503",
+			"quest_id": "7005050",
+			"disp_order": "3",
+			"evaluation_type": "7",
+			"text_id": "800003",
+			"json_value": "{\"enemyType\":1}"
+		},
+		{
+			"evaluation_id": "70050601",
+			"quest_id": "7005060",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70050602",
+			"quest_id": "7005060",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70050603",
+			"quest_id": "7005060",
+			"disp_order": "3",
+			"evaluation_type": "7",
+			"text_id": "800001",
+			"json_value": "{\"enemyType\":2}"
 		}
 	]
 }

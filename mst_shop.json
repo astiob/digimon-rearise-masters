@@ -37,7 +37,7 @@
 			"shop_id": "12",
 			"name": "デジオーブ交換",
 			"cost_item_id": "22007",
-			"disp_order": "15",
+			"disp_order": "34",
 			"entrance_asset": "shop/entrance/shop_entrance002",
 			"tab_asset": "shop/skin/shop_skin011",
 			"start_date": "2019-01-09 16:00:00",
@@ -274,6 +274,17 @@
 			"start_date": "2021-02-01 06:00:00",
 			"new_end_date": "2021-03-01 05:59:59",
 			"end_date": "2100-03-01 05:59:59"
+		},
+		{
+			"shop_id": "8",
+			"name": "デジダイヤ交換",
+			"cost_item_id": "21001",
+			"disp_order": "19",
+			"entrance_asset": "shop/entrance/shopbannerbg028_02",
+			"tab_asset": "shop/skin/shop_skin028",
+			"start_date": "2021-03-23 12:00:00",
+			"new_end_date": "2021-04-23 11:59:59",
+			"end_date": ""
 		}
 	]
 }
