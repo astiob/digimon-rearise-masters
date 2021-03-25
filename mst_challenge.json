@@ -39676,6 +39676,105 @@
 			"challenge_condition": "30",
 			"json_value": "{\"count\":15,\"raidGroupId\":334201}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108010",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "Clear all challenges.",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "50108011",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1991",
+			"description": "Clear Season 1 Act 3 Scene 1.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1003010}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108012",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1991",
+			"description": "Clear Season 1 Act 5 Scene 1.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1005010}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108013",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1991",
+			"description": "Clear Season 1 Act 7 Scene 1.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1007010}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108014",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1991",
+			"description": "Clear Season 1 Act 10 Scene 1.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1010010}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108015",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1991",
+			"description": "Clear Season 1 Act 13 Scene 3.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1013030}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108016",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1991",
+			"description": "Clear Season 1 Act 16 Scene 10.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1016090}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108017",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1991",
+			"description": "Clear Season 1 Act 22 Part Two Scene 17.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1024080}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108018",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1986",
+			"description": "Challenge Rasenmon GM 3 times through Clash Battle Search to obtain a Rasenmon DGV-Code.",
+			"challenge_condition": "30",
+			"json_value": "{\"count\":3,\"raidGroupId\":305501}",
+			"receive_asset": ""
 		}
 	]
 }
