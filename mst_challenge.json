@@ -39676,6 +39676,105 @@
 			"challenge_condition": "30",
 			"json_value": "{\"count\":15,\"raidGroupId\":334201}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108010",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "모든 챌린지를 클리어하자",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "50108011",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1991",
+			"description": "시즌 1-3장 1화를 1회 클리어하자",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1003010}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108012",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1991",
+			"description": "시즌 1-5장 1화를 1회 클리어하자",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1005010}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108013",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1991",
+			"description": "시즌 1-7장 1화를 1회 클리어하자",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1007010}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108014",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1991",
+			"description": "시즌 1-10장 1화를 1회 클리어하자",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1010010}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108015",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1991",
+			"description": "시즌 1-13장 3화를 1회 클리어하자",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1013030}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108016",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1991",
+			"description": "시즌 1-16장 10화를 1회 클리어하자",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1016090}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108017",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1991",
+			"description": "시즌 1-22장 후편 17화를 1회 클리어하자",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1024080}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50108018",
+			"challenge_group_id": "501080",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1986",
+			"description": "라센몬의 진화 코드를 획득하기 위해 격돌전 서치에서 라센몬GM과 3회 싸우자",
+			"challenge_condition": "30",
+			"json_value": "{\"count\":3,\"raidGroupId\":305501}",
+			"receive_asset": ""
 		}
 	]
 }
