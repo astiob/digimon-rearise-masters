@@ -430,6 +430,13 @@
 		{
 			"action_efficacy_type": "1",
 			"index_in_type": "0",
+			"target_type": "2",
+			"target_num": "1",
+			"text": "自分のHPを[@strength][:strength:]%[/@strength]回復"
+		},
+		{
+			"action_efficacy_type": "1",
+			"index_in_type": "0",
 			"target_type": "3",
 			"target_num": "1",
 			"text": "味方[@target_num]単体[/@target_num]のHPを[@strength][:strength:]%[/@strength]回復"

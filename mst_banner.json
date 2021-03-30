@@ -1949,7 +1949,7 @@
 			"banner_type": "2",
 			"disp_order": "10",
 			"start_date": "2021-03-24 12:00:00",
-			"end_date": "2021-04-01 15:59:59",
+			"end_date": "2021-04-23 11:59:59",
 			"event_id": "0",
 			"banner_asset": "banner/banner465",
 			"extension_type": "1",
@@ -6529,6 +6529,18 @@
 			"extension_data": "{\"information_id\":50091}"
 		},
 		{
+			"banner_id": "40150",
+			"banner_type": "0",
+			"disp_order": "42",
+			"start_date": "2021-04-01 16:00:00",
+			"end_date": "2021-04-12 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner687",
+			"extension_type": "1",
+			"extension_id": "31",
+			"extension_data": "{\"shopId\":29,\"information_id\":50391}"
+		},
+		{
 			"banner_id": "40151",
 			"banner_type": "0",
 			"disp_order": "41",
@@ -6539,6 +6551,42 @@
 			"extension_type": "2",
 			"extension_id": "50331",
 			"extension_data": "{\"information_id\":50331}"
+		},
+		{
+			"banner_id": "40152",
+			"banner_type": "0",
+			"disp_order": "42",
+			"start_date": "2021-04-12 12:00:00",
+			"end_date": "2021-04-30 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner688",
+			"extension_type": "1",
+			"extension_id": "31",
+			"extension_data": "{\"shopId\":29,\"information_id\":50392}"
+		},
+		{
+			"banner_id": "40153",
+			"banner_type": "0",
+			"disp_order": "41",
+			"start_date": "2021-04-01 16:00:00",
+			"end_date": "2021-04-12 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner684",
+			"extension_type": "2",
+			"extension_id": "50351",
+			"extension_data": "{\"information_id\":50351}"
+		},
+		{
+			"banner_id": "40154",
+			"banner_type": "0",
+			"disp_order": "41",
+			"start_date": "2021-04-12 12:00:00",
+			"end_date": "2021-04-23 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner685",
+			"extension_type": "2",
+			"extension_id": "50591",
+			"extension_data": "{\"information_id\":50591}"
 		},
 		{
 			"banner_id": "50000",
@@ -8687,6 +8735,18 @@
 			"extension_type": "1",
 			"extension_id": "23",
 			"extension_data": "{\"information_id\":49801}"
+		},
+		{
+			"banner_id": "60072",
+			"banner_type": "0",
+			"disp_order": "61",
+			"start_date": "2021-04-01 16:00:00",
+			"end_date": "2021-04-30 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner686",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":50361}"
 		},
 		{
 			"banner_id": "70000",
