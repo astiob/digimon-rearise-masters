@@ -2872,6 +2872,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1023023",
+			"item_name": "반쵸레오몬(능숙) 스킬 스톤",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023023",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "최종 진화 형태가 궁극체 반쵸레오몬(능숙) 계통의 스킬 레벨을 반드시 올릴 수 있는 귀중한 석판",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "1023031",
 			"item_name": "반쵸릴리몬(헌신) 스킬 스톤 조각(소)",
 			"sort_key": "",
@@ -2891,6 +2902,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "최종 진화 형태가 궁극체 반쵸릴리몬(헌신) 계통의 스킬 레벨을 올릴 수 있을…가능성이 높은 큰 석판 조각",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1023033",
+			"item_name": "반쵸릴리몬(헌신) 스킬 스톤",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023033",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "최종 진화 형태가 궁극체 반쵸릴리몬(헌신) 계통의 스킬 레벨을 반드시 올릴 수 있는 귀중한 석판",
 			"max_amount": "9999"
 		},
 		{
@@ -37717,6 +37739,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "초궁극체, 아머체, 궁극체 중 하나로 성장하는 디지몬이 반드시 태어나는 디지몬알",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25323",
+			"item_name": "[1.5주년]애니버서리 디지몬알(금)",
+			"sort_key": "イッテンゴシュウネンアニバーサリーデジタマキン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama060",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초궁극체 또는 궁극체로 성장하는 디지몬이 반드시 태어나는 디지몬알",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25324",
+			"item_name": "[1.5주년]애니버서리 디지몬알(빨강)",
+			"sort_key": "イッテンゴシュウネンアニバーサリーデジタマアカ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama025",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초궁극체, 궁극체, 완전체 중 하나로 성장하는 디지몬이 반드시 태어나는 디지몬알",
 			"max_amount": "9999"
 		},
 		{
