@@ -2872,6 +2872,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1023023",
+			"item_name": "番長獅子獸（精明）技能石",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023023",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "可確實提升最終進化型態為究極體番長獅子獸（精明）系譜技能等級的貴重石板",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "1023031",
 			"item_name": "番長花仙獸（奉獻）技能石碎片（小）",
 			"sort_key": "",
@@ -2891,6 +2902,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "可提升最終進化型態為究極體番長花仙獸（奉獻）系譜技能等級的石板大碎片……極有可能成功",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1023033",
+			"item_name": "番長花仙獸（奉獻）技能石",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023033",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "可確實提升最終進化型態為究極體番長花仙獸（奉獻）系譜技能等級的貴重石板",
 			"max_amount": "9999"
 		},
 		{
@@ -37717,6 +37739,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "此數碼蛋必定會誕生出可進化成超究極體、裝甲體、究極體其中之一的數碼寶貝",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25323",
+			"item_name": "【1.5週年】週年紀念數碼蛋（金）",
+			"sort_key": "イッテンゴシュウネンアニバーサリーデジタマキン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama060",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "此數碼蛋必定會誕生出可進化成超究極體或究極體的數碼寶貝",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25324",
+			"item_name": "【1.5週年】週年紀念數碼蛋（紅）",
+			"sort_key": "イッテンゴシュウネンアニバーサリーデジタマアカ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama025",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "此數碼蛋必定會誕生出可進化成超究極體、究極體、完全體其中之一的數碼寶貝",
 			"max_amount": "9999"
 		},
 		{
