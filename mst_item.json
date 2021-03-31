@@ -2872,6 +2872,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1023023",
+			"item_name": "BanchoLeomon (Deft) Skill Stone",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023023",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega BanchoLeomon (Deft) Chain's Skill Level.",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "1023031",
 			"item_name": "BanchoLillymon (Devoted) Skill Stone Shard (S)",
 			"sort_key": "",
@@ -2891,6 +2902,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A large stone shard that has a high chance of upgrading Mega BanchoLillymon (Devoted) Chain's Skill Level.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1023033",
+			"item_name": "BanchoLillymon (Devoted) Skill Stone",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023033",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A precious stone slab that guarantees a chance of upgrading Mega BanchoLillymon (Devoted) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -37717,6 +37739,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A Digimon that will definitely grow into an Ultra, Armor, or a Mega Digimon will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25323",
+			"item_name": "[1.5 Year Anniversary] Anniversary DigiEgg (Gold)",
+			"sort_key": "イッテンゴシュウネンアニバーサリーデジタマキン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama060",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Digimon that will definitely grow into either an Ultra or Mega Digimon will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25324",
+			"item_name": "[1.5 Year Anniversary] Anniversary DigiEgg (Red)",
+			"sort_key": "イッテンゴシュウネンアニバーサリーデジタマアカ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama025",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Digimon that will definitely grow into an Ultra, Mega, or a Ultimate Digimon will hatch.",
 			"max_amount": "9999"
 		},
 		{
