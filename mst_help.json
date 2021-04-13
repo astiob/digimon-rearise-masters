@@ -154,7 +154,7 @@
 			"help_id": "102",
 			"help_category_id": "7",
 			"title_text": "Friends",
-			"detail_text": "Friends are fellow Tamers that you can connect with in the game.\nFriends can provide invaluable support as you play through the game.\n<br>The limit on your number of Friends will increase as your Tamer Level increases."
+			"detail_text": "Friends are fellow Tamers that you can connect within the game.\nFriends can provide invaluable support as you play through the game.\n<br>The limit on your number of Friends will increase as your Tamer Level increases.\n<br>Once you become Friends, you will be able to participate in Rival Battles where you can battle against each other's Battle Park teams.\n*Users must be able to participate in the Battle Park in order to engage in Rival Battles."
 		},
 		{
 			"help_id": "1020",
@@ -226,7 +226,7 @@
 			"help_id": "1030",
 			"help_category_id": "-1",
 			"title_text": "Visiting Other DigiTowns",
-			"detail_text": "Members of your DigiGuild can assist you by caring for your DigiEgg and Digimon through the Help function.\nHelp is a function of your DigiGuild, and can be used among DigiGuild Members.\nThe Help function cannot be used if you do not belong to a DigiGuild.\nYou can provide assistance yourself when you receive Requests from other members of your DigiGuild.\n<br>A <color=#e75600>!</color> mark appears on the <color=#e75600>Visit</color> button next to a member on the DigiGuild info screen when they ask for Help.\nIf somebody has provided assistance to you, there will be an <color=#e75600>Egg</color> next to their Partner icon.\n<br>Different effects occur depending on the DigiEgg or Digimon's status.\n- <color=#e75600>DigiEgg</color>\nReduces required bit or incubation time.\n- <color=#e75600>In-Training I or In-Training II Digimon</color>\nItems can be given to the Digimon\nsimilar to normal Care Items.\nYour Care Items will not be consumed,\nand you will receive Social Pts.\n<br>For DigiEggs, you can reduce required bit or reduce incubation time, but not both.\nDigiGuild members that provided assistance cannot Help with the same DigiEgg again until the DigiEgg's status changes.\n\n<br>For DigiEggs, you can reduce required bit or reduce incubation time, but not both.\nDigiGuild members that provided assistance cannot Help with the same DigiEgg again until the DigiEgg's status changes."
+			"detail_text": "Members of your DigiGuild can assist you by caring for your DigiEgg and Digimon through the Help function.\nHelp is a function of your DigiGuild, and can be used among DigiGuild Members.\nThe Help function cannot be used if you do not belong to a DigiGuild.\nYou can provide assistance yourself when you receive Requests from other members of your DigiGuild.\n<br>A <color=#e75600>!</color> mark appears on the <color=#e75600>Visit</color> button next to a member on the DigiGuild info screen when they ask for Help.\n<br>Different effects occur depending on the DigiEgg or Digimon's status.\n• <color=#e75600>DigiEgg</color>\nReduces required bit or incubation time.\n• <color=#e75600>In-Training I or In-Training II Digimon</color>\nItems can be given to the Digimon\nsimilar to normal Care Items.\nYour Care Items will not be consumed,\nand you will receive Social Pts.\n<br>For DigiEggs, you can reduce required bit or reduce incubation time, but not both. DigiGuild members that provided assistance cannot Help with the same DigiEgg again until the DigiEgg's status changes."
 		},
 		{
 			"help_id": "1031",
@@ -448,7 +448,13 @@
 			"help_id": "1068",
 			"help_category_id": "-1",
 			"title_text": "Workout / Awakening / Super Awakening",
-			"detail_text": "Workout\n Use Workout Chips to train and strengthen your Digimon.\n There are 6 types of training exercises available to strengthen your Digimon, each of which requires a certain type of Chip.\n Workouts increase a Digimon's Stats.\n The type of Chip consumed differs according to the Digimon's Personality and Stage.\n <br>Awakening\n You can awaken your Digimon once you've cleared all six workout exercises, increasing their Stats and level cap.\n Awakening consumes bit, the amount of which varies depending on the Stage of your Digimon.\n <br>Super Awakening\n Super Awaken Digimon with the required items to raise a Digimon's level cap to 100 and above.\nThe type and number of items required for Super Awakening differs according to the Digimon's Personality and Stage."
+			"detail_text": "<Workout>\n Use Workout Chips to train and strengthen your Digimon.\n There are 6 types of training exercises available to strengthen your Digimon, each of which requires a certain type of Chip.\n Workouts increase a Digimon's Stats.\n The type of Chip consumed differs according to the Digimon's Personality and Stage.\n <br><Awakening>\n You can awaken your Digimon once you've cleared all six workout exercises, increasing their Stats and level cap.\n Awakening consumes bit, the amount of which varies depending on the Stage of your Digimon.\n <br><Super Awakening>\n Super Awaken Digimon with the required items to raise a Digimon's level cap to 100 and above.\nThe type and number of items required for Super Awakening differs according to the Digimon's Personality and Stage."
+		},
+		{
+			"help_id": "1069",
+			"help_category_id": "-1",
+			"title_text": "Rival Battle",
+			"detail_text": "You can have a mock battle with your friends and DigiGuild members.\n<br>Choose one of your Battle Park teams to battle against the last team your opponent used in the Battle Park.\n<br>*Both users must be able to participate in the Battle Park in order to have a Rival Battle.\n*Results of the battle will not affect your Battle Achievements."
 		},
 		{
 			"help_id": "107",
@@ -472,7 +478,7 @@
 			"help_id": "108",
 			"help_category_id": "7",
 			"title_text": "DigiGuilds",
-			"detail_text": "A DigiGuild is a community composed of Tamers.\nAll members of the DigiGuild can enjoy benefits through cooperation.\n<br>Each DigiGuild has a single Leader, \nand all other Tamers within the DigiGuild are Members.\nOne Subleader can be appointed from among the Members.\nA DigiGuild can have a maximum of 40 members, including a Leader.\n<br>To be associated with a DigiGuild, either create one yourself as a Leader, or join another Tamer's DigiGuild.\n<br>You must reach a certain point in the Story to be associated with a DigiGuild."
+			"detail_text": "A DigiGuild is a community composed of Tamers.\nAll members of the DigiGuild can enjoy benefits through cooperation.\n<br>Each DigiGuild has a single Leader, \nand all other Tamers within the DigiGuild are Members.\nOne Subleader can be appointed from among the Members.\nA DigiGuild can have a maximum of 40 members, including a Leader.\n<br>To be associated with a DigiGuild, either create one yourself as a Leader, or join another Tamer's DigiGuild.\n<br>Once you are a member of a DigiGuild, you will be able to participate in Rival Battles where you can battle against other members' Battle Park teams.\n*Users must be able to participate in the Battle Park in order to engage in Rival Battles.\n<br>You must reach a certain point in the Story to be associated with a DigiGuild."
 		},
 		{
 			"help_id": "1080",
@@ -550,7 +556,7 @@
 			"help_id": "116",
 			"help_category_id": "7",
 			"title_text": "Helping",
-			"detail_text": "Members of your DigiGuild can assist you by caring for your DigiEgg and Digimon through the Help function.\nYou can provide assistance yourself when you receive Requests from other members of your DigiGuild.\n<br>A <color=#e75600>!</color> mark appears on the <color=#e75600>Visit</color> button next to a member on the DigiGuild info screen when they ask for Help.\nIf somebody has provided assistance to you, there will be an <color=#e75600>Egg</color> next to their Partner icon.\n<br>Different effects occur depending on the DigiEgg or Digimon's status.\n- <color=#e75600>DigiEgg</color>\nReduces required bit or incubation time.\n- <color=#e75600>In-Training I or In-Training II Digimon</color>\nItems can be given to the Digimon similar to normal Care Items.\nYour Care Items will not be consumed, and you will receive Social Pts.\n\n<br>For DigiEggs, you can reduce required bit or reduce incubation time, but not both.\nDigiGuild members that provided assistance cannot Help with the same DigiEgg again until the DigiEgg's status changes."
+			"detail_text": "Members of your DigiGuild can assist you by caring for your DigiEgg and Digimon through the Help function.\nYou can provide assistance yourself when you receive Requests from other members of your DigiGuild.\n<br>A <color=#e75600>!</color> mark appears on the <color=#e75600>Visit</color> button next to a member on the DigiGuild info screen when they ask for Help.<br>Different effects occur depending on the DigiEgg or Digimon's status.\n• <color=#e75600>DigiEgg</color>\nReduces required bit or incubation time.\n• <color=#e75600>In-Training I or In-Training II Digimon</color>\nItems can be given to the Digimon similar to normal Care Items.\nYour Care Items will not be consumed, and you will receive Social Pts.\n\n<br>For DigiEggs, you can reduce required bit or reduce incubation time, but not both.\nDigiGuild members that provided assistance cannot Help with the same DigiEgg again until the DigiEgg's status changes."
 		},
 		{
 			"help_id": "117",
@@ -832,7 +838,7 @@
 			"help_id": "25",
 			"help_category_id": "2",
 			"title_text": "Workout",
-			"detail_text": "Use Chips to train and strengthen your Digimon. Workout\nconsists of 6 exercises, each of which requires a certain\ntype of Chip.\n<br>\nWorkout increases a Digimon's stats. The type of Chip\nconsumed differs according to the Digimon's Personality\nand Stage."
+			"detail_text": "Use Workout Chips to train and strengthen your Digimon.\nWorkouts consist of 6 exercises, each of which requires a certain type of Chip.\n<br>\nWorkouts increase a Digimon's stats. The type of Chip consumed differs according to the Digimon's Personality and Stage.\n<br>\nEven if you don't have enough Workout Chips, the materials required to synthesize the required Workout Chips (Workout Data and Workout Fragments) can be used to train instead."
 		},
 		{
 			"help_id": "26",

@@ -133,6 +133,17 @@
 			"end_date": "2021-04-07 11:59:59"
 		},
 		{
+			"shop_id": "27",
+			"name": "Ancient Medal Exchange",
+			"cost_item_id": "22022",
+			"disp_order": "12",
+			"entrance_asset": "shop/entrance/shopbannerbg026_02",
+			"tab_asset": "shop/skin/shop_skin026",
+			"start_date": "2021-04-15 12:00:00",
+			"new_end_date": "2021-04-30 11:59:59",
+			"end_date": "2021-05-07 11:59:59"
+		},
+		{
 			"shop_id": "28",
 			"name": "X-Medal Exchange",
 			"cost_item_id": "22024",
@@ -175,6 +186,17 @@
 			"start_date": "",
 			"new_end_date": "",
 			"end_date": ""
+		},
+		{
+			"shop_id": "7",
+			"name": "Master Medal Exchange",
+			"cost_item_id": "22023",
+			"disp_order": "21",
+			"entrance_asset": "shop/entrance/shopbannerbg025_02",
+			"tab_asset": "shop/skin/shop_skin025",
+			"start_date": "2021-04-18 22:00:00",
+			"new_end_date": "2021-05-16 11:59:59",
+			"end_date": "2100-03-01 05:59:59"
 		}
 	]
 }

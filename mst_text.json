@@ -2350,15 +2350,15 @@
 		},
 		{
 			"text_id": "1391",
-			"text": "Facebook authentication complete.\nRecover data with this\nFacebook account?"
+			"text": "Preexisting backup data on this Facebook account can be transferred if available.\nRecover data?"
 		},
 		{
 			"text_id": "1392",
-			"text": "Authentication failed.\nPlease try restarting the app before\nattempting authentication again."
+			"text": "Operation failed.\nPlease try restarting the app before\nattempting authentication again."
 		},
 		{
 			"text_id": "1393",
-			"text": "Facebook Authentication Failed."
+			"text": "Operation failed.\nPlease try restarting the app before\nattempting authentication again."
 		},
 		{
 			"text_id": "1394",
@@ -2622,7 +2622,7 @@
 		},
 		{
 			"text_id": "1452",
-			"text": "Facebook authentication complete.\nBackup data with this\nFacebook account?"
+			"text": "Backup with this Facebook\naccount?"
 		},
 		{
 			"text_id": "1453",
@@ -4106,7 +4106,7 @@
 		},
 		{
 			"text_id": "1788",
-			"text": "Updated when exiting and re-entering."
+			"text": "Updated when exiting and re-entering the Battle Park."
 		},
 		{
 			"text_id": "1789",
@@ -5099,6 +5099,50 @@
 		{
 			"text_id": "2000017",
 			"text": "Take down the X-Spirals with your team and conquer the dungeon!\n<color=#c7211d>*For more details on the Underworld Dungeon, please refer to Help.</color>"
+		},
+		{
+			"text_id": "2000018",
+			"text": "Battle Park Revamp"
+		},
+		{
+			"text_id": "2000019",
+			"text": "Battlegrounds for Tamers will be divided based on their ranking in Battle Park Season 1!\nThe Master League is for the most elite Tamers!"
+		},
+		{
+			"text_id": "2000020",
+			"text": "The Normal League is a battleground for Tamers to prove themselves\nas ready to move up to the Master League!"
+		},
+		{
+			"text_id": "2000021",
+			"text": "Only Rank S Tamers in the top 300 of the Normal League\nwill be able to move up to the Master League!\nThey will participate in the Master League starting next season!"
+		},
+		{
+			"text_id": "2000022",
+			"text": "Only the top 200 Tamers\nwill be able to remain in the\nMaster League for the next season!"
+		},
+		{
+			"text_id": "2000023",
+			"text": "Tamers ranked 201 and below will move to the Normal League in the next season,\nand will have to earn their place in the Master League again!"
+		},
+		{
+			"text_id": "2000024",
+			"text": "Once your Battle Park Tamer Rank reaches S, you can choose opponents to fight!\nChoosing the right opponents will be crucial for success!"
+		},
+		{
+			"text_id": "2000025",
+			"text": "Each candidate has a rate that can increase or decrease the amount of BP Points you get.\nBP Points increase or decrease depending on your opponent's strength!"
+		},
+		{
+			"text_id": "2000026",
+			"text": "In the Master League, losing a match will result in BP Points being deducted,\nso make sure to be strategic when choosing your opponents!"
+		},
+		{
+			"text_id": "2000027",
+			"text": "New rewards have been added to the Master League Ranking Rewards!\nYou can earn Master Medals according to your ranking,\nand exchange them for BP Digimon and Plugins available in the Shop!"
+		},
+		{
+			"text_id": "2000028",
+			"text": "Wait, there's more! The Tamer who wins the Master League\nwill have a trophy mark on their name as proof of their strength!\nWin battles and aim for the top of the Master League!"
 		},
 		{
 			"text_id": "2001",
@@ -9777,6 +9821,14 @@
 			"text": "Royal Clash Battle!"
 		},
 		{
+			"text_id": "2897",
+			"text": "Choose a Team."
+		},
+		{
+			"text_id": "2898",
+			"text": "Opponent"
+		},
+		{
 			"text_id": "2899",
 			"text": "Digimon, DigiRubies, and Plugins will be sent to Present Box if they exceed the maximum limit."
 		},
@@ -9789,8 +9841,44 @@
 			"text": "Claim\nItem"
 		},
 		{
+			"text_id": "2900",
+			"text": "The back key cannot currently be used."
+		},
+		{
+			"text_id": "2901",
+			"text": "Remove Evasion"
+		},
+		{
+			"text_id": "2902",
+			"text": "Battle!"
+		},
+		{
+			"text_id": "2903",
+			"text": "Battle Park Team"
+		},
+		{
+			"text_id": "2905",
+			"text": "You will lose the match if you quit now.\nAre you sure you want to quit?"
+		},
+		{
+			"text_id": "2906",
+			"text": "Unlocked after clearing\nMain Story Season 1 Act 3 Scene 6."
+		},
+		{
+			"text_id": "2908",
+			"text": "Tamer Info"
+		},
+		{
 			"text_id": "291",
 			"text": "Encounter\nReward"
+		},
+		{
+			"text_id": "2912",
+			"text": "You cannot battle this Tamer."
+		},
+		{
+			"text_id": "2913",
+			"text": "OK"
 		},
 		{
 			"text_id": "2915",
@@ -9919,6 +10007,10 @@
 		{
 			"text_id": "2947",
 			"text": "No challenges available."
+		},
+		{
+			"text_id": "2948",
+			"text": "Rank {0} - Rank {1}"
 		},
 		{
 			"text_id": "295",
@@ -10229,6 +10321,10 @@
 			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth.\nThe total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon:\na Champion Digimon capable of Digivolving to Ultimate; a Rookie Digimon capable of Digivolving to Mega; a Champion Digimon capable of Digivolving to Mega;\nor an Ultimate Digimon capable of Digivolving to Mega.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
 		},
 		{
+			"text_id": "3000021",
+			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth.\nThe total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon:\na Rookie Digimon capable of Digivolving to Ultimate; a Champion Digimon capable of Digivolving to Ultimate; a Champion Digimon capable of Digivolving to Mega;\nor an Ultimate Digimon capable of Digivolving to Mega.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
+		},
+		{
 			"text_id": "300003",
 			"text": "Michi's Partner Digimon. Just as bright\nand chatty as Michi, together they've\ngot all the bite to back up their bark.\nUsually very optimistic, you know things\nare looking bad when Salamon's feeling\nflustered."
 		},
@@ -10518,7 +10614,7 @@
 		},
 		{
 			"text_id": "3031",
-			"text": "Authentication complete.\nBackup with this Apple ID?"
+			"text": "Backup with this Apple ID?"
 		},
 		{
 			"text_id": "3032",
@@ -10542,7 +10638,7 @@
 		},
 		{
 			"text_id": "3037",
-			"text": "Authentication complete.\nRecover data with Apple ID?"
+			"text": "Preexisting backup data on this Apple ID\ncan be transferred if available.\nRecover data?"
 		},
 		{
 			"text_id": "3038",
@@ -10610,11 +10706,11 @@
 		},
 		{
 			"text_id": "3052",
-			"text": "Authentication complete. \nBackup with this Twitter account?"
+			"text": "Backup with this Twitter\naccount?"
 		},
 		{
 			"text_id": "3053",
-			"text": "Authentication complete. \nRecover data with this Twitter account?"
+			"text": "Preexisting backup data on this Twitter account can be transferred if available.\nRecover data?"
 		},
 		{
 			"text_id": "3054",
@@ -11105,6 +11201,10 @@
 			"text": "Removes Shock, Paralysis, Stun, Sleep, Poison, Burn, Error, Skill Lock, and Blind from self.\nReduces damage received by 90% when blocking (Permanent)\nPeriodically recovers own HP by 1500. (5 turns)"
 		},
 		{
+			"text_id": "3165",
+			"text": "Top Picks"
+		},
+		{
 			"text_id": "3167",
 			"text": "Raid CB! Volcanicdramon"
 		},
@@ -11381,6 +11481,10 @@
 			"text": "Mar Clash Battle!"
 		},
 		{
+			"text_id": "3237",
+			"text": "Would you like to Work Out and synthesize Workout Chips?"
+		},
+		{
 			"text_id": "3238",
 			"text": "Royal Knights Event"
 		},
@@ -11441,6 +11545,30 @@
 			"text": "The appearance of Vajramon!"
 		},
 		{
+			"text_id": "3252",
+			"text": "Normal\nLeague"
+		},
+		{
+			"text_id": "3253",
+			"text": "Master\nLeague"
+		},
+		{
+			"text_id": "3254",
+			"text": "Battle Park - Normal League"
+		},
+		{
+			"text_id": "3255",
+			"text": "Opponent Selection"
+		},
+		{
+			"text_id": "3256",
+			"text": "BP Points"
+		},
+		{
+			"text_id": "3257",
+			"text": "{0} times"
+		},
+		{
 			"text_id": "3258",
 			"text": "Unlock the Ancient Vortex with a key!"
 		},
@@ -11453,12 +11581,20 @@
 			"text": "Place"
 		},
 		{
+			"text_id": "3260",
+			"text": "Battle Park - Master League"
+		},
+		{
 			"text_id": "3261",
 			"text": "Removes Shock, Paralysis, Stun, Sleep, Poison, Burn, Error, Skill Lock, and Blind from self.\nIncreases own PWR by 120%. (Permanent)\nPeriodically recovers own HP by 3000. (7 turns)"
 		},
 		{
 			"text_id": "3262",
 			"text": "Ancient\nMedal"
+		},
+		{
+			"text_id": "3263",
+			"text": "<size=16>x</size><size=20>{0}</size> <size=16>times</size>"
 		},
 		{
 			"text_id": "3264",
@@ -11469,8 +11605,48 @@
 			"text": "Removes Shock, Paralysis, Stun, Sleep, Poison, Burn, Error, Skill Lock, and Blind from self.\nIncreases own TEC by 150%. (Permanent)\nRestricts the maximum damage taken from an enemy to 500 up to three times. (7 turns)"
 		},
 		{
+			"text_id": "3266",
+			"text": "{0}+"
+		},
+		{
+			"text_id": "3267",
+			"text": "Normal League Ranking"
+		},
+		{
+			"text_id": "3268",
+			"text": "Master League Ranking"
+		},
+		{
+			"text_id": "3269",
+			"text": "Normal League Season Rewards"
+		},
+		{
 			"text_id": "327",
 			"text": "Total Damage"
+		},
+		{
+			"text_id": "3270",
+			"text": "Master League Season Rewards"
+		},
+		{
+			"text_id": "3271",
+			"text": "Normal League"
+		},
+		{
+			"text_id": "3272",
+			"text": "Master League"
+		},
+		{
+			"text_id": "3273",
+			"text": "Aim for the top of the Master League!"
+		},
+		{
+			"text_id": "3274",
+			"text": "Aim for the top of the Normal League!"
+		},
+		{
+			"text_id": "3275",
+			"text": "No friends available."
 		},
 		{
 			"text_id": "328",
@@ -11481,6 +11657,42 @@
 			"text": "{0}/{1}"
 		},
 		{
+			"text_id": "3290",
+			"text": "League"
+		},
+		{
+			"text_id": "3291",
+			"text": "Normal League"
+		},
+		{
+			"text_id": "3292",
+			"text": "Master League"
+		},
+		{
+			"text_id": "3293",
+			"text": "Claim Season Rewards"
+		},
+		{
+			"text_id": "3294",
+			"text": "No DigiGuild members available."
+		},
+		{
+			"text_id": "3295",
+			"text": "Rank {0} to enter the ML!"
+		},
+		{
+			"text_id": "3296",
+			"text": "Until Master League:"
+		},
+		{
+			"text_id": "3297",
+			"text": "To remain in Master League:"
+		},
+		{
+			"text_id": "3298",
+			"text": "Rank {0} to remain in the ML!"
+		},
+		{
 			"text_id": "33",
 			"text": "Rookie"
 		},
@@ -11489,8 +11701,44 @@
 			"text": "Placement Reward"
 		},
 		{
+			"text_id": "3300",
+			"text": "You have an incomplete team.\nYou will not be able to modify your team\nonce you begin Opponent Selection.\nAre you sure you want to begin Opponent Selection?"
+		},
+		{
+			"text_id": "3301",
+			"text": "No Team has been assembled."
+		},
+		{
+			"text_id": "3302",
+			"text": "This team cannot be used for battle.\nPlease select another team."
+		},
+		{
 			"text_id": "3303",
 			"text": "X-Medal"
+		},
+		{
+			"text_id": "3304",
+			"text": "Shoutmon"
+		},
+		{
+			"text_id": "3305",
+			"text": "That was an awesome song!\nLet's continue to make the world a better place together!"
+		},
+		{
+			"text_id": "3306",
+			"text": "Woohoo! Let the new adventures begin!"
+		},
+		{
+			"text_id": "3307",
+			"text": "Behold! My blazing Fiery Fastball!"
+		},
+		{
+			"text_id": "3308",
+			"text": "Hehe, I see that everyone's smiling.\nBut wait, there's more! Get excited!"
+		},
+		{
+			"text_id": "3309",
+			"text": "{0} left"
 		},
 		{
 			"text_id": "331",
@@ -11509,6 +11757,22 @@
 			"text": "vs. AeroVeedramon"
 		},
 		{
+			"text_id": "3332",
+			"text": "BP Revamp Release Challenge"
+		},
+		{
+			"text_id": "3333",
+			"text": "Aim for the Master League!"
+		},
+		{
+			"text_id": "3334",
+			"text": "Aim for the Master League!"
+		},
+		{
+			"text_id": "3335",
+			"text": "Master Medal"
+		},
+		{
 			"text_id": "334",
 			"text": "Reward Earned"
 		},
@@ -11525,8 +11789,28 @@
 			"text": "Battle Ended"
 		},
 		{
+			"text_id": "3376",
+			"text": "February Clash Battle!"
+		},
+		{
+			"text_id": "3378",
+			"text": "X-Medal"
+		},
+		{
 			"text_id": "338",
 			"text": "Update"
+		},
+		{
+			"text_id": "3381",
+			"text": "DGV-Code Vortex Debut Celebration Challenge"
+		},
+		{
+			"text_id": "3382",
+			"text": "A new Vortex is now available!"
+		},
+		{
+			"text_id": "3383",
+			"text": "A new Vortex is now available!"
 		},
 		{
 			"text_id": "339",
@@ -11559,6 +11843,18 @@
 		{
 			"text_id": "341",
 			"text": "Ended"
+		},
+		{
+			"text_id": "3415",
+			"text": "BP Revamp Release Challenge"
+		},
+		{
+			"text_id": "3416",
+			"text": "Aim for the Master League!"
+		},
+		{
+			"text_id": "3417",
+			"text": "Aim for the Master League!"
 		},
 		{
 			"text_id": "342",
@@ -12382,7 +12678,7 @@
 		},
 		{
 			"text_id": "490471",
-			"text": "- <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and <color=#FFE25AFF>Error</color><sprite=7> are effective!\n- Take measures against <color=#FFE25AFF>Sleep</color><sprite=4>!\n- Include Digimon that can enhance <color=#FFE25AFF>ATK</color> in your party!"
+			"text": "• <color=#FFE25AFF>Poison</color><sprite=5>, <color=#FFE25AFF>Burn</color><sprite=6>, and <color=#FFE25AFF>Error</color><sprite=7> are effective!\n• Take measures against <color=#FFE25AFF>Sleep</color><sprite=4>!\n• Include Digimon that can enhance <color=#FFE25AFF>PWR</color> and <color=#FFE25AFF>TEC</color> in your party!"
 		},
 		{
 			"text_id": "490481",
@@ -12414,7 +12710,7 @@
 		},
 		{
 			"text_id": "490522",
-			"text": "- Include Digimon that can <color=#FFE25AFF>heal HP </color>in your party!\n- Set Plugins that <color=#FFE25AFF>enhance DEF</color>!\n- Take measures against <color=#FFE25AFF>Status Abnormalities</color>!"
+			"text": "• Include Digimon that can <color=#FFE25AFF>heal HP </color>in your party!\n• Set Plugins that <color=#FFE25AFF>enhance DEF</color>!\n• Take measures against <color=#FFE25AFF>Status Abnormalities</color>!"
 		},
 		{
 			"text_id": "490531",
@@ -12458,7 +12754,7 @@
 		},
 		{
 			"text_id": "490591",
-			"text": "- Include Digimon that can lower <color=#FFE25AFF>DEF</color> in your party!\n- Include Digimon that can <color=#FFE25AFF>heal HP </color>in your party!\n- Take measures against <color=#FFE25AFF>Burn</color><sprite=6>!"
+			"text": "• Include Digimon that can <color=#FFE25AFF>lower DEF</color> in your party!\n• Include Digimon that can <color=#FFE25AFF>heal HP </color>in your party!\n• Take measures against <color=#FFE25AFF>Burn</color><sprite=6>!"
 		},
 		{
 			"text_id": "490592",
@@ -12502,7 +12798,7 @@
 		},
 		{
 			"text_id": "490651",
-			"text": "• Take measures against <color=#FFE25AFF>Sleep</color><sprite=4>!\n• Include Digimon that can enhance <color=#FFE25AFF>ATK</color> in your party!\n• Set Plugins that can enhance <color=#FFE25AFF>DEF</color>!"
+			"text": "• Take measures against <color=#FFE25AFF>Sleep</color><sprite=4>!\n• Include Digimon that can enhance <color=#FFE25AFF>PWR</color> and <color=#FFE25AFF>TEC</color> in your party!\n• Set Plugins that can <color=#FFE25AFF>enhance DEF</color>!"
 		},
 		{
 			"text_id": "490661",
@@ -12587,6 +12883,18 @@
 		{
 			"text_id": "490782",
 			"text": "• Take measures against <color=#FFE25AFF>Poison</color><sprite=5>!\n• Enhance your <color=#FFE25AFF>DEF</color>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!"
+		},
+		{
+			"text_id": "490791",
+			"text": "• Enhance your <color=#FFE25AFF>DEF</color> and <color=#FFE25AFF>PWR Damage Resist</color>!\n• Include Digimon that can enhance <color=#FFE25AFF>PWR</color> in your party!\n• Include Digimon with Personalities <color=#FFE25AFF>other than Devoted</color> and <color=#FFE25AFF>Deft</color> in your party!"
+		},
+		{
+			"text_id": "490801",
+			"text": "• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!\n• Take measures against <color=#FFE25AFF>Error</color><sprite=7>!\n• Include <color=#FFE25AFF>Tenacious</color> and <color=#FFE25AFF>Devoted</color> Digimon in your party!"
+		},
+		{
+			"text_id": "490802",
+			"text": "• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!\n• Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!\n• Set Plugins that <color=#FFE25AFF>enhance Critical Rate</color>!"
 		},
 		{
 			"text_id": "491",

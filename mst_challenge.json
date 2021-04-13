@@ -40105,6 +40105,116 @@
 			"challenge_condition": "30",
 			"json_value": "{\"count\":3,\"raidGroupId\":305501}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109010",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "Clear all challenges.",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "50109011",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1988",
+			"description": "Participate in the Battle Park 20 times.",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":20}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109012",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1988",
+			"description": "Win in Battle Park 20 times.",
+			"challenge_condition": "15",
+			"json_value": "{\"count\":20}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109013",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1988",
+			"description": "Participate in the Battle Park 50 times.",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":50}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109014",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1988",
+			"description": "Win in Battle Park 50 times.",
+			"challenge_condition": "15",
+			"json_value": "{\"count\":50}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109015",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1988",
+			"description": "Participate in the Battle Park 95 times.",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":95}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109016",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1988",
+			"description": "Win in Battle Park 100 times.",
+			"challenge_condition": "15",
+			"json_value": "{\"count\":100}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109017",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1988",
+			"description": "Participate in the Battle Park 145 times.",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":145}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109018",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1988",
+			"description": "Win in Battle Park 150 times.",
+			"challenge_condition": "15",
+			"json_value": "{\"count\":150}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109019",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1988",
+			"description": "Participate in the Battle Park 200 times.",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":200}",
+			"receive_asset": ""
 		}
 	]
 }

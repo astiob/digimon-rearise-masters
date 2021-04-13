@@ -757,6 +757,42 @@
 			"description": "A <color=#e75600>trophy which serves as proof of participating in the Rankings</color>. Exchange Ranking Medals to receive this. (6x6)"
 		},
 		{
+			"deco_id": "85",
+			"name": "M League Trophy (Gold)",
+			"size_x": "2",
+			"size_y": "2",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco085",
+			"model_asset": "deco/deco0085",
+			"emotion_icon_asset": "",
+			"description": "Certification of one's excellent performance in the Battle Park Master League. This shiny golden trophy is given to top Tamers in the Battle Park."
+		},
+		{
+			"deco_id": "86",
+			"name": "M League Trophy (Silver)",
+			"size_x": "2",
+			"size_y": "2",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco086",
+			"model_asset": "deco/deco0086",
+			"emotion_icon_asset": "",
+			"description": "Certification of one's excellent performance in the Battle Park Master League. This shiny silver trophy is given to Tamers who excelled in the Battle Park."
+		},
+		{
+			"deco_id": "87",
+			"name": "M League Trophy (Bronze)",
+			"size_x": "2",
+			"size_y": "2",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco087",
+			"model_asset": "deco/deco0087",
+			"emotion_icon_asset": "",
+			"description": "Certification of one's excellent performance in the Battle Park Master League. This shiny bronze trophy is given to Tamers who made a strong showing in the Battle Park."
+		},
+		{
 			"deco_id": "9",
 			"name": "Moai Statue",
 			"size_x": "6",
