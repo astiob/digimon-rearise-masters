@@ -260,6 +260,13 @@
 			"resource": "quest/panel/panel_s2_section11"
 		},
 		{
+			"sub_category_id": "512",
+			"main_category_id": "5",
+			"order": "12",
+			"title": "12장\n빛을 밝혀라, 무지개색 이정표",
+			"resource": "quest/panel/panel_s2_section12"
+		},
+		{
 			"sub_category_id": "601",
 			"main_category_id": "3",
 			"order": "40",
@@ -386,6 +393,13 @@
 			"resource": "quest/panel/dfq_panel_section8"
 		},
 		{
+			"sub_category_id": "623",
+			"main_category_id": "3",
+			"order": "23",
+			"title": "불타올라라! 록 혼",
+			"resource": "quest/panel/dfq_panel_section22"
+		},
+		{
 			"sub_category_id": "701",
 			"main_category_id": "4",
 			"order": "110",
@@ -405,6 +419,13 @@
 			"order": "100",
 			"title": "サイドストーリー\nエリスモンの記念日",
 			"resource": "quest/panel/ss_panel_section3_g4514"
+		},
+		{
+			"sub_category_id": "704",
+			"main_category_id": "4",
+			"order": "100",
+			"title": "サイドストーリー\nがむしゃらカズマとあの頃の先輩",
+			"resource": "quest/panel/ss_panel_section4_g4959"
 		}
 	]
 }

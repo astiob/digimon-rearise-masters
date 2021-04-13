@@ -40105,6 +40105,116 @@
 			"challenge_condition": "30",
 			"json_value": "{\"count\":3,\"raidGroupId\":305501}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109010",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "모든 챌린지를 클리어하자",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "50109011",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1988",
+			"description": "배틀 파크에 20번 참가하자",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":20}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109012",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1988",
+			"description": "배틀 파크에서 20회 승리하자",
+			"challenge_condition": "15",
+			"json_value": "{\"count\":20}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109013",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1988",
+			"description": "배틀 파크에 50번 참가하자",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":50}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109014",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1988",
+			"description": "배틀 파크에서 50회 승리하자",
+			"challenge_condition": "15",
+			"json_value": "{\"count\":50}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109015",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1988",
+			"description": "배틀 파크에 95번 참가하자",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":95}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109016",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1988",
+			"description": "배틀 파크에서 100회 승리하자",
+			"challenge_condition": "15",
+			"json_value": "{\"count\":100}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109017",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1988",
+			"description": "배틀 파크에 145번 참가하자",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":145}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109018",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1988",
+			"description": "배틀 파크에서 150회 승리하자",
+			"challenge_condition": "15",
+			"json_value": "{\"count\":150}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50109019",
+			"challenge_group_id": "501090",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1988",
+			"description": "배틀 파크에 200번 참가하자",
+			"challenge_condition": "18",
+			"json_value": "{\"count\":200}",
+			"receive_asset": ""
 		}
 	]
 }

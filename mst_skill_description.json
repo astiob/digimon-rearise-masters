@@ -79,6 +79,41 @@
 		},
 		{
 			"action_efficacy_type": "0",
+			"index_in_type": "10",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "공격 대상의 회피 효과를 해제한다"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "10",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "공격 대상의 회피 효과를 해제한다"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "10",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "공격 대상의 회피 효과를 해제한다"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "10",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "공격 대상의 회피 효과를 해제한다"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "10",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "공격 대상의 회피 효과를 해제한다"
+		},
+		{
+			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "1",
@@ -2337,6 +2372,41 @@
 			"target_type": "1",
 			"target_num": "5",
 			"text": "[:accumulate_type:] 아군 [@target_num]전체[/@target_num]의 [:attack_type:](이)가 [@value][:value:]%[/@value] 상승하고, 최대 [:accumulate_attack_max:]%까지 상승(지속)"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "10",
+			"target_num": "5",
+			"text": "[:accumulate_type:]에 개성이 '용감'인 아군의 [:attack_type:](이)가 [@value][:value:]%[/@value] 상승하고, 최대 [:accumulate_attack_max:]%까지 상승(지속)"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "11",
+			"target_num": "5",
+			"text": "[:accumulate_type:]에 개성이 '침착'인 아군의 [:attack_type:](이)가 [@value][:value:]%[/@value] 상승하고, 최대 [:accumulate_attack_max:]%까지 상승(지속)"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "12",
+			"target_num": "5",
+			"text": "[:accumulate_type:]에 개성이 '능숙'인 아군의 [:attack_type:](이)가 [@value][:value:]%[/@value] 상승하고, 최대 [:accumulate_attack_max:]%까지 상승(지속)"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "13",
+			"target_num": "5",
+			"text": "[:accumulate_type:]에 개성이 '불굴'인 아군의 [:attack_type:](이)가 [@value][:value:]%[/@value] 상승하고, 최대 [:accumulate_attack_max:]%까지 상승(지속)"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "14",
+			"target_num": "5",
+			"text": "[:accumulate_type:]에 개성이 '헌신'인 아군의 [:attack_type:](이)가 [@value][:value:]%[/@value] 상승하고, 최대 [:accumulate_attack_max:]%까지 상승(지속)"
 		},
 		{
 			"action_efficacy_type": "28",

@@ -757,6 +757,42 @@
 			"description": "랭킹 메달로 교환할 수 있는, <color=#e75600>랭킹에 참가했음을 증명하는 트로피</color>입니다.(6x6)"
 		},
 		{
+			"deco_id": "85",
+			"name": "M 리그 골드 트로피",
+			"size_x": "2",
+			"size_y": "2",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco085",
+			"model_asset": "deco/deco0085",
+			"emotion_icon_asset": "",
+			"description": "배틀 파크 마스터 리그에서 높은 성적을 올렸다는 증거. 금색으로 빛나는 트로피는 배틀 파크 톱 테이머라는 증표."
+		},
+		{
+			"deco_id": "86",
+			"name": "M 리그 실버 트로피",
+			"size_x": "2",
+			"size_y": "2",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco086",
+			"model_asset": "deco/deco0086",
+			"emotion_icon_asset": "",
+			"description": "배틀 파크 마스터 리그에서 높은 성적을 올렸다는 증거. 은색으로 빛나는 트로피는 배틀 파크에서 우수한 테이머라는 증표."
+		},
+		{
+			"deco_id": "87",
+			"name": "M 리그 브론즈 트로피",
+			"size_x": "2",
+			"size_y": "2",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco087",
+			"model_asset": "deco/deco0087",
+			"emotion_icon_asset": "",
+			"description": "배틀 파크 마스터 리그에서 높은 성적을 올렸다는 증거. 동색으로 빛나는 트로피는 배틀 파크에서 강한 테이머라는 증표."
+		},
+		{
 			"deco_id": "9",
 			"name": "모아이상",
 			"size_x": "6",
