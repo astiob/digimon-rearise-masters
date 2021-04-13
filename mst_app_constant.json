@@ -80,6 +80,36 @@
 		},
 		{
 			"category": "BP2",
+			"name": "2ua4x3JFwU",
+			"value": "300",
+			"description": ""
+		},
+		{
+			"category": "BP2",
+			"name": "7pb9WfubS2",
+			"value": "200",
+			"description": ""
+		},
+		{
+			"category": "BP2",
+			"name": "AaeDfdyKsu",
+			"value": "20210419",
+			"description": ""
+		},
+		{
+			"category": "BP2",
+			"name": "fx5ciK7usR",
+			"value": "500",
+			"description": ""
+		},
+		{
+			"category": "BP2",
+			"name": "kHdCG6f8Yb",
+			"value": "-16",
+			"description": ""
+		},
+		{
+			"category": "BP2",
 			"name": "LESS_THAN_RANKING",
 			"value": "15001",
 			"description": "ランキング表記を曖昧にする順位（以下なら曖昧）"
@@ -101,6 +131,12 @@
 			"name": "UNLOCK_QUEST_ID",
 			"value": "1003040",
 			"description": "BP2の機能解放クエストID（3章6話）（TutorialType:309）"
+		},
+		{
+			"category": "BP2",
+			"name": "vwikRC4iBz",
+			"value": "2021/04/14 06:00:00",
+			"description": ""
 		},
 		{
 			"category": "CLAN",
@@ -224,6 +260,18 @@
 		},
 		{
 			"category": "EC",
+			"name": "ADD_NEW_FLOOR_NODE_ID",
+			"value": "111",
+			"description": ""
+		},
+		{
+			"category": "EC",
+			"name": "ADD_NEW_FLOOR_RELEASE_DATE",
+			"value": "2121-02-15 12:00:00",
+			"description": ""
+		},
+		{
+			"category": "EC",
 			"name": "HARD_FLOOR_RELEASE_DATE",
 			"value": "2021/01/31 12:00:00",
 			"description": "16階層以降の処理が有効となる日時。\nこの日時前は1~15階層の表示となる。"
@@ -317,6 +365,12 @@
 			"name": "PLUGIN_SLOT_MAX",
 			"value": "800",
 			"description": "プラグイン枠の最大値"
+		},
+		{
+			"category": "FkQy2WHBwy",
+			"name": "2c7AardVjE",
+			"value": "2021/04/14 06:00:00",
+			"description": ""
 		},
 		{
 			"category": "FOOTPRINT",

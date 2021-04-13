@@ -757,6 +757,42 @@
 			"description": "可藉由排名獎牌交換獲得，<color=#e75600>用來證明參加過排名的獎盃</color>。(6x6)"
 		},
 		{
+			"deco_id": "85",
+			"name": "M聯盟獎盃金",
+			"size_x": "2",
+			"size_y": "2",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco085",
+			"model_asset": "deco/deco0085",
+			"emotion_icon_asset": "",
+			"description": "在戰鬥公園大師聯盟留下卓越成績的證明。\n閃耀金色光芒的獎盃證明持有者是戰鬥公園\n頂尖馴獸師。"
+		},
+		{
+			"deco_id": "86",
+			"name": "M聯盟獎盃銀",
+			"size_x": "2",
+			"size_y": "2",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco086",
+			"model_asset": "deco/deco0086",
+			"emotion_icon_asset": "",
+			"description": "在戰鬥公園大師聯盟留下卓越成績的證明。\n閃耀銀色光芒的獎盃證明持有者是戰鬥公園中\n優秀的馴獸師。"
+		},
+		{
+			"deco_id": "87",
+			"name": "M聯盟獎盃銅",
+			"size_x": "2",
+			"size_y": "2",
+			"is_limited": "0",
+			"selling_price": "50000",
+			"icon_asset": "deco/icon/icondeco087",
+			"model_asset": "deco/deco0087",
+			"emotion_icon_asset": "",
+			"description": "在戰鬥公園大師聯盟留下卓越成績的證明。\n閃耀銅色光芒的獎盃證明持有者是戰鬥公園中\n厲害的馴獸師。"
+		},
+		{
 			"deco_id": "9",
 			"name": "摩艾像",
 			"size_x": "6",

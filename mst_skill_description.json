@@ -79,6 +79,41 @@
 		},
 		{
 			"action_efficacy_type": "0",
+			"index_in_type": "10",
+			"target_type": "9",
+			"target_num": "1",
+			"text": "解除攻擊對象的迴避效果"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "10",
+			"target_type": "9",
+			"target_num": "2",
+			"text": "解除攻擊對象的迴避效果"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "10",
+			"target_type": "9",
+			"target_num": "3",
+			"text": "解除攻擊對象的迴避效果"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "10",
+			"target_type": "9",
+			"target_num": "4",
+			"text": "解除攻擊對象的迴避效果"
+		},
+		{
+			"action_efficacy_type": "0",
+			"index_in_type": "10",
+			"target_type": "9",
+			"target_num": "5",
+			"text": "解除攻擊對象的迴避效果"
+		},
+		{
+			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "1",
@@ -2337,6 +2372,41 @@
 			"target_type": "1",
 			"target_num": "5",
 			"text": "[:accumulate_type:]時使友軍[@target_num]全體[/@target_num]的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%（永續）"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "10",
+			"target_num": "5",
+			"text": "[:accumulate_type:]時使個性為「勇敢」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，\n最多上升至[:accumulate_attack_max:]%（永續）"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "11",
+			"target_num": "5",
+			"text": "[:accumulate_type:]時使個性為「冷靜」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，\n最多上升至[:accumulate_attack_max:]%（永續）"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "12",
+			"target_num": "5",
+			"text": "[:accumulate_type:]時使個性為「精明」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，\n最多上升至[:accumulate_attack_max:]%（永續）"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "13",
+			"target_num": "5",
+			"text": "[:accumulate_type:]時使個性為「不屈」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，\n最多上升至[:accumulate_attack_max:]%（永續）"
+		},
+		{
+			"action_efficacy_type": "28",
+			"index_in_type": "0",
+			"target_type": "14",
+			"target_num": "5",
+			"text": "[:accumulate_type:]時使個性為「奉獻」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，\n最多上升至[:accumulate_attack_max:]%（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
