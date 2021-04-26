@@ -29492,6 +29492,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "23807",
+			"item_name": "디지몬 뽑기 티켓 vol.5",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no005",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "디지몬 티켓 뽑기 vol.5를 이용할 수 있는 티켓\n(사용 기간: 2021/06/29 11:59(JST)까지)",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "238425001",
 			"item_name": "攻Ⅳ(献身 ロゼモン)",
 			"sort_key": "",
@@ -37959,6 +37970,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "초궁극체, 궁극체, 완전체 중 하나로 성장하는 디지몬이 반드시 태어나는 디지몬알",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25328",
+			"item_name": "댄디하고 완고한 아버지의 디지몬알",
+			"sort_key": "ダンディナガンコオヤジノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama009",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "궁극체 간쿠몬(침착)으로 성장하는 디지몬이 반드시 태어나는 디지몬알",
 			"max_amount": "9999"
 		},
 		{
@@ -56087,6 +56109,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "디지몬의 추가 공격 확률을 이끌어내는 데이터가 담긴 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "346425001",
+			"item_name": "공격Ⅳ(헌신 디아블로몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment346425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 디아블로몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "346425002",
+			"item_name": "공격Ⅳ(헌신 디아블로몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment346425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 디아블로몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "346425003",
+			"item_name": "공격Ⅳ(헌신 디아블로몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment346425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 디아블로몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "346425004",
+			"item_name": "공격Ⅳ(헌신 디아블로몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment346425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 디아블로몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "346425005",
+			"item_name": "공격Ⅳ(헌신 디아블로몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment346425001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 디아블로몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "346435001",
+			"item_name": "수호Ⅳ(헌신 디아블로몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment346435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 디아블로몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "346435002",
+			"item_name": "수호Ⅳ(헌신 디아블로몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment346435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 디아블로몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "346435003",
+			"item_name": "수호Ⅳ(헌신 디아블로몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment346435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 디아블로몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "346435004",
+			"item_name": "수호Ⅳ(헌신 디아블로몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment346435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 디아블로몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "346435005",
+			"item_name": "수호Ⅳ(헌신 디아블로몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment346435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 디아블로몬이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
