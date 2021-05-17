@@ -10325,6 +10325,10 @@
 			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth.\nThe total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon:\na Rookie Digimon capable of Digivolving to Ultimate; a Champion Digimon capable of Digivolving to Ultimate; a Champion Digimon capable of Digivolving to Mega;\nor an Ultimate Digimon capable of Digivolving to Mega.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
 		},
 		{
+			"text_id": "3000022",
+			"text": "■Warning\n*The drop rates are rounded off to the nearest thousandth.\nThe total number of the listed drop rates may not add up to 100%.\n*More than one of the same item may appear from this summon.\n*One of the following is guaranteed in the 10+1 Summon:\na Champion Digimon capable of Digivolving to Ultimate; a Rookie Digimon capable of Digivolving to Mega; a Champion Digimon capable of Digivolving to Mega;\nor an Ultimate Digimon capable of Digivolving to Mega.\nThe drop rates for the items other than the guaranteed Digimon are as follows:"
+		},
+		{
 			"text_id": "300003",
 			"text": "Michi's Partner Digimon. Just as bright\nand chatty as Michi, together they've\ngot all the bite to back up their bark.\nUsually very optimistic, you know things\nare looking bad when Salamon's feeling\nflustered."
 		},
@@ -11813,8 +11817,24 @@
 			"text": "A new Vortex is now available!"
 		},
 		{
+			"text_id": "3384",
+			"text": "vs. Matadormon & GranDracmon"
+		},
+		{
 			"text_id": "339",
 			"text": "Result"
+		},
+		{
+			"text_id": "3391",
+			"text": "Underworld Milestone Challenge"
+		},
+		{
+			"text_id": "3392",
+			"text": "Challenge the Underworld!"
+		},
+		{
+			"text_id": "3393",
+			"text": "Challenge the Underworld!"
 		},
 		{
 			"text_id": "34",
@@ -12895,6 +12915,10 @@
 		{
 			"text_id": "490802",
 			"text": "• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!\n• Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!\n• Set Plugins that <color=#FFE25AFF>enhance Critical Rate</color>!"
+		},
+		{
+			"text_id": "490811",
+			"text": "• Take measures against <color=#FFE25AFF>Error</color><sprite=7>!\n• Include Digimon that can <color=#FFE25AFF>lower PWR</color>in your party!\n• Set Plugins that <color=#FFE25AFF>enhance DEF</color> and <color=#FFE25AFF>Block Rate</color>!"
 		},
 		{
 			"text_id": "491",
