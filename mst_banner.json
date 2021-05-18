@@ -1369,6 +1369,30 @@
 			"extension_data": "{\"shopId\":2,\"information_id\":50901}"
 		},
 		{
+			"banner_id": "10073",
+			"banner_type": "0",
+			"disp_order": "10",
+			"start_date": "2021-05-21 12:00:00",
+			"end_date": "2021-05-24 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner698",
+			"extension_type": "1",
+			"extension_id": "31",
+			"extension_data": "{\"shopId\":2,\"information_id\":50961}"
+		},
+		{
+			"banner_id": "10074",
+			"banner_type": "0",
+			"disp_order": "11",
+			"start_date": "2021-05-24 12:00:00",
+			"end_date": "2021-05-26 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner439",
+			"extension_type": "1",
+			"extension_id": "31",
+			"extension_data": "{\"shopId\":2,\"information_id\":50981}"
+		},
+		{
 			"banner_id": "110000",
 			"banner_type": "2",
 			"disp_order": "99",
@@ -6865,6 +6889,18 @@
 			"extension_data": "{\"information_id\":49840}"
 		},
 		{
+			"banner_id": "40158",
+			"banner_type": "0",
+			"disp_order": "41",
+			"start_date": "2021-05-21 12:00:00",
+			"end_date": "2021-06-01 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner712",
+			"extension_type": "2",
+			"extension_id": "50920",
+			"extension_data": "{\"information_id\":50920}"
+		},
+		{
 			"banner_id": "40159",
 			"banner_type": "0",
 			"disp_order": "41",
@@ -6875,6 +6911,18 @@
 			"extension_type": "2",
 			"extension_id": "50861",
 			"extension_data": "{\"information_id\":50861}"
+		},
+		{
+			"banner_id": "40160",
+			"banner_type": "0",
+			"disp_order": "41",
+			"start_date": "2021-05-24 12:00:00",
+			"end_date": "2021-05-31 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner717",
+			"extension_type": "2",
+			"extension_id": "50970",
+			"extension_data": "{\"information_id\":50970}"
 		},
 		{
 			"banner_id": "50000",
@@ -9083,6 +9131,18 @@
 			"extension_type": "1",
 			"extension_id": "23",
 			"extension_data": "{\"information_id\":50841}"
+		},
+		{
+			"banner_id": "60077",
+			"banner_type": "0",
+			"disp_order": "61",
+			"start_date": "2021-05-21 12:00:00",
+			"end_date": "2021-06-08 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner716",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":50931}"
 		},
 		{
 			"banner_id": "70000",
