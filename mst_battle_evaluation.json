@@ -22681,6 +22681,414 @@
 			"json_value": ""
 		},
 		{
+			"evaluation_id": "602800201",
+			"quest_id": "60280020",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602800202",
+			"quest_id": "60280020",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602800203",
+			"quest_id": "60280020",
+			"disp_order": "3",
+			"evaluation_type": "3",
+			"text_id": "830001",
+			"json_value": "{\"time\":180}"
+		},
+		{
+			"evaluation_id": "602800301",
+			"quest_id": "60280030",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602800302",
+			"quest_id": "60280030",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602800303",
+			"quest_id": "60280030",
+			"disp_order": "3",
+			"evaluation_type": "7",
+			"text_id": "800003",
+			"json_value": "{\"enemyType\":1}"
+		},
+		{
+			"evaluation_id": "602800401",
+			"quest_id": "60280040",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602800402",
+			"quest_id": "60280040",
+			"disp_order": "2",
+			"evaluation_type": "10",
+			"text_id": "840001",
+			"json_value": "{\"personalityType\":[1]}"
+		},
+		{
+			"evaluation_id": "602800403",
+			"quest_id": "60280040",
+			"disp_order": "3",
+			"evaluation_type": "12",
+			"text_id": "850001",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602810101",
+			"quest_id": "60281010",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602810102",
+			"quest_id": "60281010",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602810103",
+			"quest_id": "60281010",
+			"disp_order": "3",
+			"evaluation_type": "8",
+			"text_id": "800004",
+			"json_value": "{\"enemyType\":1}"
+		},
+		{
+			"evaluation_id": "602810201",
+			"quest_id": "60281020",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602810202",
+			"quest_id": "60281020",
+			"disp_order": "2",
+			"evaluation_type": "7",
+			"text_id": "800003",
+			"json_value": "{\"enemyType\":1}"
+		},
+		{
+			"evaluation_id": "602810203",
+			"quest_id": "60281020",
+			"disp_order": "3",
+			"evaluation_type": "3",
+			"text_id": "830001",
+			"json_value": "{\"time\":180}"
+		},
+		{
+			"evaluation_id": "602810301",
+			"quest_id": "60281030",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602810302",
+			"quest_id": "60281030",
+			"disp_order": "2",
+			"evaluation_type": "11",
+			"text_id": "840007",
+			"json_value": "{\"generation\":[3]}"
+		},
+		{
+			"evaluation_id": "602810303",
+			"quest_id": "60281030",
+			"disp_order": "3",
+			"evaluation_type": "12",
+			"text_id": "850001",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602810401",
+			"quest_id": "60281040",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602810402",
+			"quest_id": "60281040",
+			"disp_order": "2",
+			"evaluation_type": "10",
+			"text_id": "840003",
+			"json_value": "{\"personalityType\":[4]}"
+		},
+		{
+			"evaluation_id": "602810403",
+			"quest_id": "60281040",
+			"disp_order": "3",
+			"evaluation_type": "8",
+			"text_id": "800004",
+			"json_value": "{\"enemyType\":1}"
+		},
+		{
+			"evaluation_id": "602820101",
+			"quest_id": "60282010",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602820102",
+			"quest_id": "60282010",
+			"disp_order": "2",
+			"evaluation_type": "11",
+			"text_id": "840007",
+			"json_value": "{\"generation\":[3]}"
+		},
+		{
+			"evaluation_id": "602820103",
+			"quest_id": "60282010",
+			"disp_order": "3",
+			"evaluation_type": "3",
+			"text_id": "830001",
+			"json_value": "{\"time\":180}"
+		},
+		{
+			"evaluation_id": "602820201",
+			"quest_id": "60282020",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602820202",
+			"quest_id": "60282020",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602820203",
+			"quest_id": "60282020",
+			"disp_order": "3",
+			"evaluation_type": "11",
+			"text_id": "840008",
+			"json_value": "{\"generation\":[4]}"
+		},
+		{
+			"evaluation_id": "602820301",
+			"quest_id": "60282030",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602820302",
+			"quest_id": "60282030",
+			"disp_order": "2",
+			"evaluation_type": "8",
+			"text_id": "800004",
+			"json_value": "{\"enemyType\":1}"
+		},
+		{
+			"evaluation_id": "602820303",
+			"quest_id": "60282030",
+			"disp_order": "3",
+			"evaluation_type": "3",
+			"text_id": "830001",
+			"json_value": "{\"time\":180}"
+		},
+		{
+			"evaluation_id": "602820401",
+			"quest_id": "60282040",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602820402",
+			"quest_id": "60282040",
+			"disp_order": "2",
+			"evaluation_type": "10",
+			"text_id": "840002",
+			"json_value": "{\"personalityType\":[2]}"
+		},
+		{
+			"evaluation_id": "602820403",
+			"quest_id": "60282040",
+			"disp_order": "3",
+			"evaluation_type": "12",
+			"text_id": "850001",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602820501",
+			"quest_id": "60282050",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602820502",
+			"quest_id": "60282050",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602820503",
+			"quest_id": "60282050",
+			"disp_order": "3",
+			"evaluation_type": "3",
+			"text_id": "830001",
+			"json_value": "{\"time\":180}"
+		},
+		{
+			"evaluation_id": "602830101",
+			"quest_id": "60283010",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602830102",
+			"quest_id": "60283010",
+			"disp_order": "2",
+			"evaluation_type": "7",
+			"text_id": "800003",
+			"json_value": "{\"enemyType\":1}"
+		},
+		{
+			"evaluation_id": "602830103",
+			"quest_id": "60283010",
+			"disp_order": "3",
+			"evaluation_type": "10",
+			"text_id": "840005",
+			"json_value": "{\"personalityType\":[5]}"
+		},
+		{
+			"evaluation_id": "602830201",
+			"quest_id": "60283020",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602830202",
+			"quest_id": "60283020",
+			"disp_order": "2",
+			"evaluation_type": "8",
+			"text_id": "800002",
+			"json_value": "{\"enemyType\":2}"
+		},
+		{
+			"evaluation_id": "602830203",
+			"quest_id": "60283020",
+			"disp_order": "3",
+			"evaluation_type": "11",
+			"text_id": "840009",
+			"json_value": "{\"generation\":[5]}"
+		},
+		{
+			"evaluation_id": "602840101",
+			"quest_id": "60284010",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602840102",
+			"quest_id": "60284010",
+			"disp_order": "2",
+			"evaluation_type": "10",
+			"text_id": "840005",
+			"json_value": "{\"personalityType\":[5]}"
+		},
+		{
+			"evaluation_id": "602840103",
+			"quest_id": "60284010",
+			"disp_order": "3",
+			"evaluation_type": "3",
+			"text_id": "830001",
+			"json_value": "{\"time\":180}"
+		},
+		{
+			"evaluation_id": "602850101",
+			"quest_id": "60285010",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602850102",
+			"quest_id": "60285010",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602850103",
+			"quest_id": "60285010",
+			"disp_order": "3",
+			"evaluation_type": "3",
+			"text_id": "830004",
+			"json_value": "{\"time\":240}"
+		},
+		{
+			"evaluation_id": "602860101",
+			"quest_id": "60286010",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602860102",
+			"quest_id": "60286010",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "602860103",
+			"quest_id": "60286010",
+			"disp_order": "3",
+			"evaluation_type": "3",
+			"text_id": "830006",
+			"json_value": "{\"time\":270}"
+		},
+		{
 			"evaluation_id": "70010101",
 			"quest_id": "7001010",
 			"disp_order": "1",

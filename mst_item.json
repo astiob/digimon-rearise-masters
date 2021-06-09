@@ -38512,6 +38512,39 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25334",
+			"item_name": "策略の寅のデジタマ",
+			"sort_key": "サクリャクノトラノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama079",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体ミヒラモン(器用)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25335",
+			"item_name": "優心の兎のデジタマ",
+			"sort_key": "ユウシンノウサギノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama080",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体アンティラモン(献身)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25336",
+			"item_name": "打算の辰のデジタマ",
+			"sort_key": "ダサンノタツのデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama081",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体マジラモン(冷静)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "253414001",
 			"item_name": "攻Ⅳ(不屈 カオスドラモン)",
 			"sort_key": "",
@@ -39562,6 +39595,17 @@
 			"sort_key": "",
 			"item_type": "18",
 			"icon_asset": "icon/item/icon_scenario_event_point_024",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
+			"max_amount": "999999999"
+		},
+		{
+			"item_id": "26028",
+			"item_name": "フィーチャーpt",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_scenario_event_point_012",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンフィーチャークエストで入手できる専用ポイント",
@@ -59783,6 +59827,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "超献身のアルゴモン(究極体)がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "361513001",
+			"item_name": "攻Ⅴ(超器用 ミラージュガオガモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment361513001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のミラージュガオガモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "361513002",
+			"item_name": "攻Ⅴ(超器用 ミラージュガオガモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment361513001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のミラージュガオガモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "361513003",
+			"item_name": "攻Ⅴ(超器用 ミラージュガオガモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment361513001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のミラージュガオガモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "361513004",
+			"item_name": "攻Ⅴ(超器用 ミラージュガオガモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment361513001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のミラージュガオガモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "361513005",
+			"item_name": "攻Ⅴ(超器用 ミラージュガオガモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment361513001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のミラージュガオガモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "361533001",
+			"item_name": "守Ⅴ(超器用 ミラージュガオガモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment361533001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のミラージュガオガモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "361533002",
+			"item_name": "守Ⅴ(超器用 ミラージュガオガモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment361533001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のミラージュガオガモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "361533003",
+			"item_name": "守Ⅴ(超器用 ミラージュガオガモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment361533001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のミラージュガオガモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "361533004",
+			"item_name": "守Ⅴ(超器用 ミラージュガオガモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment361533001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のミラージュガオガモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "361533005",
+			"item_name": "守Ⅴ(超器用 ミラージュガオガモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment361533001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のミラージュガオガモンがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
