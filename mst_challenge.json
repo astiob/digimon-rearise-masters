@@ -40875,6 +40875,116 @@
 			"challenge_condition": "59",
 			"json_value": "{\"value\":150000,\"itemId\":26023}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50112010",
+			"challenge_group_id": "501120",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "完成所有挑戰吧",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "50112011",
+			"challenge_group_id": "501120",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1987",
+			"description": "過關1次地底世界的階層（樓層）吧 ※深淵或地城皆可",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50112012",
+			"challenge_group_id": "501120",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1987",
+			"description": "挑戰3次地底世界吧 ※深淵或地城皆可",
+			"challenge_condition": "9",
+			"json_value": "{\"count\":3}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50112013",
+			"challenge_group_id": "501120",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1987",
+			"description": "過關3次地底世界的階層（樓層）吧 ※深淵或地城皆可",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":3}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50112014",
+			"challenge_group_id": "501120",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1987",
+			"description": "挑戰6次地底世界吧 ※深淵或地城皆可",
+			"challenge_condition": "9",
+			"json_value": "{\"count\":6}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50112015",
+			"challenge_group_id": "501120",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1987",
+			"description": "過關5次地底世界的階層（樓層）吧 ※深淵或地城皆可",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":5}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50112016",
+			"challenge_group_id": "501120",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1987",
+			"description": "挑戰10次地底世界吧 ※深淵或地城皆可",
+			"challenge_condition": "9",
+			"json_value": "{\"count\":10}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50112017",
+			"challenge_group_id": "501120",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1987",
+			"description": "過關8次地底世界的階層（樓層）吧 ※深淵或地城皆可",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":8}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50112018",
+			"challenge_group_id": "501120",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1987",
+			"description": "挑戰15次地底世界吧 ※深淵或地城皆可",
+			"challenge_condition": "9",
+			"json_value": "{\"count\":15}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50112019",
+			"challenge_group_id": "501120",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1987",
+			"description": "過關12次地底世界的階層（樓層）吧 ※深淵或地城皆可",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":12}",
+			"receive_asset": ""
 		}
 	]
 }
