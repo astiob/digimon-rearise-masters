@@ -24751,6 +24751,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "22026",
+			"item_name": "X-Medal",
+			"sort_key": "",
+			"item_type": "11",
+			"icon_asset": "icon/item/icon_x_medal",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "Medals that can be exchanged for various items. Acquired in June and July Clash Battles (2021).",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "2203",
 			"item_name": "Agility Fragment III",
 			"sort_key": "",
@@ -29863,6 +29874,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "Use this ticket for the Digimon Ticket Summon Vol. 5\nExpires: 2021/06/29 11:59 (JST)",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "23808",
+			"item_name": "Digimon Summon Ticket Vol. 6",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no006",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "Use this ticket for the Digimon Ticket Summon Vol. 6\nExpires: 2021/09/07 11:59 (JST)",
 			"max_amount": "9999"
 		},
 		{
@@ -57825,6 +57847,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A Plugin that enhances a Digimon's TEC and SPD.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358411001",
+			"item_name": "Attack-IV (Brave - Triceramon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Triceramon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358411002",
+			"item_name": "Attack-IV (Brave - Triceramon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Triceramon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358411003",
+			"item_name": "Attack-IV (Brave - Triceramon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Triceramon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358411004",
+			"item_name": "Attack-IV (Brave - Triceramon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Triceramon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358411005",
+			"item_name": "Attack-IV (Brave - Triceramon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Triceramon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358431001",
+			"item_name": "Protection-IV (Brave - Triceramon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Triceramon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358431002",
+			"item_name": "Protection-IV (Brave - Triceramon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Triceramon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358431003",
+			"item_name": "Protection-IV (Brave - Triceramon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Triceramon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358431004",
+			"item_name": "Protection-IV (Brave - Triceramon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Triceramon.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358431005",
+			"item_name": "Protection-IV (Brave - Triceramon)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Brave Triceramon.",
 			"max_amount": "9999"
 		},
 		{
