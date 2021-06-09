@@ -24751,6 +24751,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "22026",
+			"item_name": "X 메달",
+			"sort_key": "",
+			"item_type": "11",
+			"icon_asset": "icon/item/icon_x_medal",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "2021년 6, 7월의 격돌전에서 획득할 수 있는 메달, 여러 아이템으로 교환할 수 있다.",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "2203",
 			"item_name": "민첩성 특훈 플래그먼트Ⅲ",
 			"sort_key": "",
@@ -29863,6 +29874,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "디지몬 티켓 뽑기 vol.5를 이용할 수 있는 티켓\n(사용 기간: 2021/06/29 11:59(JST)까지)",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "23808",
+			"item_name": "디지몬 뽑기 티켓 vol.6",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no006",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "디지몬 티켓 뽑기 vol.6를 이용할 수 있는 티켓\n(사용 기간: 2021/09/07 11:59(JST)까지)",
 			"max_amount": "9999"
 		},
 		{
@@ -57825,6 +57847,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "디지몬의 TEC과 SPD를 이끌어내는 데이터가 담긴 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358411001",
+			"item_name": "공격Ⅳ(용감 트리케라몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "용감 트리케라몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358411002",
+			"item_name": "공격Ⅳ(용감 트리케라몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "용감 트리케라몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358411003",
+			"item_name": "공격Ⅳ(용감 트리케라몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "용감 트리케라몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358411004",
+			"item_name": "공격Ⅳ(용감 트리케라몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "용감 트리케라몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358411005",
+			"item_name": "공격Ⅳ(용감 트리케라몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358411001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "용감 트리케라몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358431001",
+			"item_name": "수호Ⅳ(용감 트리케라몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "용감 트리케라몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358431002",
+			"item_name": "수호Ⅳ(용감 트리케라몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "용감 트리케라몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358431003",
+			"item_name": "수호Ⅳ(용감 트리케라몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "용감 트리케라몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358431004",
+			"item_name": "수호Ⅳ(용감 트리케라몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "용감 트리케라몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "358431005",
+			"item_name": "수호Ⅳ(용감 트리케라몬)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment358431001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "용감 트리케라몬이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
