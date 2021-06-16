@@ -327,7 +327,7 @@
 		{
 			"section_id": "7001",
 			"number": "10",
-			"title": "Side Story",
+			"title": "",
 			"description": "Showdown! A Noble(?) Digimon",
 			"panel_asset": "section/ss_section_skin001_g3858",
 			"map_asset": "quest/map/map_section_sidestory001_g3858",
@@ -336,7 +336,7 @@
 		{
 			"section_id": "7002",
 			"number": "2",
-			"title": "Side Story",
+			"title": "",
 			"description": "A DigiEgg's Dream",
 			"panel_asset": "section/ss_section_skin002_g3940",
 			"map_asset": "quest/map/map_section_sidestory002_g3940",
@@ -345,11 +345,20 @@
 		{
 			"section_id": "7003",
 			"number": "3",
-			"title": "Side Story",
+			"title": "",
 			"description": "エリスモンの記念日",
 			"panel_asset": "section/ss_section_skin003_g4514",
 			"map_asset": "quest/map/map_section_sidestory003_g4514",
 			"start_date": "2120-06-22 12:00:00"
+		},
+		{
+			"section_id": "7004",
+			"number": "20",
+			"title": "",
+			"description": "Kazuma & The Upperclassman",
+			"panel_asset": "section/ss_section_skin004_g4959",
+			"map_asset": "quest/map/map_section_sidestory004_g4959",
+			"start_date": "2021-06-28 12:00:00"
 		}
 	]
 }
