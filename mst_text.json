@@ -3970,7 +3970,7 @@
 		},
 		{
 			"text_id": "1779",
-			"text": "アイテム購入"
+			"text": "定番"
 		},
 		{
 			"text_id": "178",
@@ -11101,6 +11101,10 @@
 			"text": "おすすめ"
 		},
 		{
+			"text_id": "3166",
+			"text": "まとめてお世話"
+		},
+		{
 			"text_id": "3167",
 			"text": "大激突戦！ヴォルケニックドラモン"
 		},
@@ -11143,6 +11147,10 @@
 		{
 			"text_id": "3178",
 			"text": "ここまでたどり着いたか\n……まだいけるか？"
+		},
+		{
+			"text_id": "3179",
+			"text": "まとめてお世話しました。"
 		},
 		{
 			"text_id": "318",
@@ -11203,6 +11211,34 @@
 		{
 			"text_id": "3192",
 			"text": "BCE"
+		},
+		{
+			"text_id": "3193",
+			"text": "まとめてお世話"
+		},
+		{
+			"text_id": "3194",
+			"text": "まとめてお世話を行いますか？"
+		},
+		{
+			"text_id": "3195",
+			"text": "消費お世話アイテム"
+		},
+		{
+			"text_id": "3196",
+			"text": "調子"
+		},
+		{
+			"text_id": "3197",
+			"text": "必要なお世話アイテムがありません。"
+		},
+		{
+			"text_id": "3198",
+			"text": "編成されているデジモンの調子は最大です。"
+		},
+		{
+			"text_id": "3199",
+			"text": "デジモンが編成されていません。"
 		},
 		{
 			"text_id": "32",
@@ -12137,6 +12173,10 @@
 			"text": "超個性デジモンはスキルストーンでのみ\nスキルレベルアップ可能です"
 		},
 		{
+			"text_id": "3424",
+			"text": "アイテムが不足しているため、チーム全員の調子を最大にできません。"
+		},
+		{
 			"text_id": "3425",
 			"text": "鳥竜型"
 		},
@@ -12163,6 +12203,10 @@
 		{
 			"text_id": "3430",
 			"text": "討伐ボス"
+		},
+		{
+			"text_id": "3431",
+			"text": "時間経過でデジモンの<br>調子が変化したためリロードします。"
 		},
 		{
 			"text_id": "3432",
@@ -12257,12 +12301,96 @@
 			"text": "高難易度 献身時限の渦に挑むのじゃ！"
 		},
 		{
+			"text_id": "3453",
+			"text": "冒険チームに編成しているため\n選択できません。"
+		},
+		{
+			"text_id": "3454",
+			"text": "バトルパークチームに編成しているため\n選択できません。"
+		},
+		{
+			"text_id": "3455",
+			"text": "激突戦チームに編成しているため\n選択できません。"
+		},
+		{
+			"text_id": "3456",
+			"text": "バトルチャレンジチームに\n編成しているため選択できません。"
+		},
+		{
+			"text_id": "3457",
+			"text": "イベントチームに編成しているため\n選択できません。"
+		},
+		{
+			"text_id": "3458",
+			"text": "UWダンジョンチームに\n編成しているため選択できません。"
+		},
+		{
+			"text_id": "3459",
+			"text": "お世話デジモンに設定しているため\n選択できません。"
+		},
+		{
 			"text_id": "346",
 			"text": "まだ何も変化はない"
 		},
 		{
+			"text_id": "3460",
+			"text": "パートナーデジモンに設定しているため\n選択できません。"
+		},
+		{
+			"text_id": "3461",
+			"text": "ロックしているため\n選択できません。"
+		},
+		{
+			"text_id": "3462",
+			"text": "レベルが不足しているため\n選択できません。"
+		},
+		{
+			"text_id": "3463",
+			"text": "冒険チームに編成しているため\n選択できません。"
+		},
+		{
+			"text_id": "3464",
+			"text": "バトルパークチームに編成しているため\n選択できません。"
+		},
+		{
+			"text_id": "3465",
+			"text": "激突戦チームに編成しているため\n選択できません。"
+		},
+		{
+			"text_id": "3466",
+			"text": "バトルチャレンジチームに\n編成しているため選択できません。"
+		},
+		{
+			"text_id": "3467",
+			"text": "イベントチームに編成しているため\n選択できません。"
+		},
+		{
+			"text_id": "3468",
+			"text": "UWダンジョンチームに\n編成しているため選択できません。"
+		},
+		{
+			"text_id": "3469",
+			"text": "お世話デジモンに設定しているため\n選択できません。"
+		},
+		{
 			"text_id": "347",
 			"text": "何やら鼓動が感じられる"
+		},
+		{
+			"text_id": "3470",
+			"text": "パートナーデジモンに設定しているため\n選択できません。"
+		},
+		{
+			"text_id": "3471",
+			"text": "ロックしているため\n選択できません。"
+		},
+		{
+			"text_id": "3472",
+			"text": "レベルが不足しているため\n選択できません。"
+		},
+		{
+			"text_id": "3473",
+			"text": "レベル、スキルレベル、友情度が \n上昇しないため選択できません。"
 		},
 		{
 			"text_id": "3474",
@@ -12317,8 +12445,16 @@
 			"text": "UWDで献身/超献身の証\nドロップ率アップ中！"
 		},
 		{
+			"text_id": "3491",
+			"text": "超個性エフェクト"
+		},
+		{
 			"text_id": "3493",
 			"text": "オートリバイブ効果"
+		},
+		{
+			"text_id": "3495",
+			"text": "3周年記念"
 		},
 		{
 			"text_id": "35",
@@ -12327,6 +12463,10 @@
 		{
 			"text_id": "350",
 			"text": "あとちょっとで孵化しそう"
+		},
+		{
+			"text_id": "3501",
+			"text": "育成セット"
 		},
 		{
 			"text_id": "351",
@@ -12974,7 +13114,7 @@
 		},
 		{
 			"text_id": "490131",
-			"text": "・個性が<color=#FFE25AFF>器用</color>のデジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5>や<color=#FFE25AFF>ヤケド</color><sprite=6>が有効だぞ！\n・<color=#FFE25AFF>DEFを高めるプラグイン</color>をセットしよう！"
+			"text": "・個性が<color=#FFE25AFF>器用/超器用</color>のデジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5>や<color=#FFE25AFF>ヤケド</color><sprite=6>が有効だぞ！\n・<color=#FFE25AFF>DEFを高めるプラグイン</color>をセットしよう！"
 		},
 		{
 			"text_id": "490141",
@@ -13010,7 +13150,7 @@
 		},
 		{
 			"text_id": "490221",
-			"text": "・個性が<color=#FFE25AFF>冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！"
+			"text": "・個性が<color=#FFE25AFF>冷静/超冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！"
 		},
 		{
 			"text_id": "490231",
@@ -13022,11 +13162,11 @@
 		},
 		{
 			"text_id": "490251",
-			"text": "・個性が<color=#FFE25AFF>不屈</color>のデジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5>や<color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！\n・<color=#FFE25AFF>ブロック率</color>を高めよう！"
+			"text": "・個性が<color=#FFE25AFF>不屈/超不屈</color>のデジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5>や<color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！\n・<color=#FFE25AFF>ブロック率</color>を高めよう！"
 		},
 		{
 			"text_id": "490261",
-			"text": "・個性が<color=#FFE25AFF>冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
+			"text": "・個性が<color=#FFE25AFF>冷静/超冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
 		},
 		{
 			"text_id": "490271",
@@ -13034,11 +13174,11 @@
 		},
 		{
 			"text_id": "490281",
-			"text": "・個性が<color=#FFE25AFF>勇敢</color>のデジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>や<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！"
+			"text": "・個性が<color=#FFE25AFF>勇敢/超勇敢</color>のデジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>や<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！"
 		},
 		{
 			"text_id": "490291",
-			"text": "・個性が<color=#FFE25AFF>不屈</color>のデジモンと挑もう！\n・<color=#FFE25AFF>HPを高めるプラグイン</color>をセットしよう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
+			"text": "・個性が<color=#FFE25AFF>不屈/超不屈</color>のデジモンと挑もう！\n・<color=#FFE25AFF>HPを高めるプラグイン</color>をセットしよう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
 		},
 		{
 			"text_id": "490301",
@@ -13066,7 +13206,7 @@
 		},
 		{
 			"text_id": "490361",
-			"text": "・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+			"text": "・個性が<color=#FFE25AFF>勇敢/超勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
 		},
 		{
 			"text_id": "490371",
@@ -13074,7 +13214,7 @@
 		},
 		{
 			"text_id": "490381",
-			"text": "・個性が<color=#FFE25AFF>冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>クリティカル率</color>を高めよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+			"text": "・個性が<color=#FFE25AFF>冷静/超冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>クリティカル率</color>を高めよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
 		},
 		{
 			"text_id": "490391",
@@ -13086,7 +13226,7 @@
 		},
 		{
 			"text_id": "490411",
-			"text": "・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
+			"text": "・個性が<color=#FFE25AFF>勇敢/超勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
 		},
 		{
 			"text_id": "490421",
@@ -13094,7 +13234,7 @@
 		},
 		{
 			"text_id": "490431",
-			"text": "・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！\n・<color=#FFE25AFF>TEC</color>や<color=#FFE25AFF>DEF</color>を高めよう！"
+			"text": "・個性が<color=#FFE25AFF>勇敢/超勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！\n・<color=#FFE25AFF>TEC</color>や<color=#FFE25AFF>DEF</color>を高めよう！"
 		},
 		{
 			"text_id": "490441",
@@ -13102,7 +13242,7 @@
 		},
 		{
 			"text_id": "490451",
-			"text": "・個性が<color=#FFE25AFF>冷静以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を高めよう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
+			"text": "・個性が<color=#FFE25AFF>冷静/超冷静以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を高めよう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！"
 		},
 		{
 			"text_id": "490461",
@@ -13194,11 +13334,11 @@
 		},
 		{
 			"text_id": "490601",
-			"text": "・個性が<color=#FFE25AFF>冷静以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5><color=#FFE25AFF>ヤケド</color><sprite=6><color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！\n・<color=#FFE25AFF>PWR</color>を高めよう！"
+			"text": "・個性が<color=#FFE25AFF>冷静/超冷静以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！\n・<color=#FFE25AFF>PWR</color>を高めよう！"
 		},
 		{
 			"text_id": "490602",
-			"text": "・個性が<color=#FFE25AFF>冷静以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
+			"text": "・個性が<color=#FFE25AFF>冷静/超冷静以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だぞ！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！"
 		},
 		{
 			"text_id": "490611",
@@ -13218,7 +13358,7 @@
 		},
 		{
 			"text_id": "490631",
-			"text": "・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・個性が<color=#FFE25AFF>勇敢/超勇敢以外</color>のデジモンと挑もう！"
 		},
 		{
 			"text_id": "490641",
@@ -13246,7 +13386,7 @@
 		},
 		{
 			"text_id": "490681",
-			"text": "・<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・個性が<color=#FFE25AFF>勇敢</color>や<color=#FFE25AFF>不屈</color>のデジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・個性が<color=#FFE25AFF>勇敢/超勇敢</color>や<color=#FFE25AFF>不屈/超不屈</color>のデジモンと挑もう！"
 		},
 		{
 			"text_id": "490682",
@@ -13254,7 +13394,7 @@
 		},
 		{
 			"text_id": "490691",
-			"text": "・<color=#FFE25AFF>気絶</color><sprite=3>対策をしよう！\n・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！\n・個性が<color=#FFE25AFF>器用以外</color>のデジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>気絶</color><sprite=3>対策をしよう！\n・<color=#FFE25AFF>毒</color><sprite=5>、<color=#FFE25AFF>ヤケド</color><sprite=6>、<color=#FFE25AFF>エラー</color><sprite=7>が有効だ！\n・個性が<color=#FFE25AFF>器用/超器用以外</color>のデジモンと挑もう！"
 		},
 		{
 			"text_id": "490701",
@@ -13262,7 +13402,7 @@
 		},
 		{
 			"text_id": "490711",
-			"text": "・<color=#FFE25AFF>暗闇</color><sprite=9>対策をしよう！\n・個性が<color=#FFE25AFF>不屈</color>や<color=#FFE25AFF>献身</color>のデジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>暗闇</color><sprite=9>対策をしよう！\n・個性が<color=#FFE25AFF>不屈/超不屈</color>や<color=#FFE25AFF>献身/超献身</color>のデジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を上げるデジモンと挑もう！"
 		},
 		{
 			"text_id": "490721",
@@ -13278,11 +13418,11 @@
 		},
 		{
 			"text_id": "490731",
-			"text": "・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TECを下げる</color>デジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
+			"text": "・個性が<color=#FFE25AFF>勇敢/超勇敢以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TECを下げる</color>デジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
 		},
 		{
 			"text_id": "490741",
-			"text": "・<color=#FFE25AFF>状態異常</color>対策をしよう！\n・個性が<color=#FFE25AFF>冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を高めよう！"
+			"text": "・<color=#FFE25AFF>状態異常</color>対策をしよう！\n・個性が<color=#FFE25AFF>冷静/超冷静</color>のデジモンと挑もう！\n・<color=#FFE25AFF>TEC</color>を高めよう！"
 		},
 		{
 			"text_id": "490742",
@@ -13294,11 +13434,11 @@
 		},
 		{
 			"text_id": "490761",
-			"text": "・個性が<color=#FFE25AFF>勇敢</color>や<color=#FFE25AFF>不屈</color>のデジモンと挑もう！\n・<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！"
+			"text": "・個性が<color=#FFE25AFF>勇敢/超勇敢</color>や<color=#FFE25AFF>不屈/超不屈</color>のデジモンと挑もう！\n・<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！"
 		},
 		{
 			"text_id": "490762",
-			"text": "・<color=#FFE25AFF>DEF</color>や<color=#FFE25AFF>TECダメージ耐性</color>を高めよう！\n・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！\n・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>DEF</color>や<color=#FFE25AFF>TECダメージ耐性</color>を高めよう！\n・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！\n・個性が<color=#FFE25AFF>勇敢/超勇敢以外</color>のデジモンと挑もう！"
 		},
 		{
 			"text_id": "490763",
@@ -13306,7 +13446,7 @@
 		},
 		{
 			"text_id": "490771",
-			"text": "・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！\n・<color=#FFE25AFF>ブロック率を高めるプラグイン</color>をセットしよう！\n・個性が<color=#FFE25AFF>不屈</color>や<color=#FFE25AFF>献身</color>のデジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>毒</color><sprite=5>対策をしよう！\n・<color=#FFE25AFF>ブロック率を高めるプラグイン</color>をセットしよう！\n・個性が<color=#FFE25AFF>不屈/超不屈</color>や<color=#FFE25AFF>献身/超献身</color>のデジモンと挑もう！"
 		},
 		{
 			"text_id": "490781",
@@ -13318,11 +13458,11 @@
 		},
 		{
 			"text_id": "490791",
-			"text": "・<color=#FFE25AFF>DEF</color>や<color=#FFE25AFF>PWRダメージ耐性</color>を高めよう！\n・<color=#FFE25AFF>PWR</color>を上げるデジモンと挑もう！\n・個性が<color=#FFE25AFF>器用</color>と<color=#FFE25AFF>献身以外</color>のデジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>DEF</color>や<color=#FFE25AFF>PWRダメージ耐性</color>を高めよう！\n・<color=#FFE25AFF>PWR</color>を上げるデジモンと挑もう！\n・個性が<color=#FFE25AFF>器用/超器用</color>と<color=#FFE25AFF>献身/超献身以外</color>のデジモンと挑もう！"
 		},
 		{
 			"text_id": "490801",
-			"text": "・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！\n・<color=#FFE25AFF>エラー</color><sprite=7>対策をしよう！\n・個性が<color=#FFE25AFF>不屈</color>や<color=#FFE25AFF>献身</color>のデジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れていこう！\n・<color=#FFE25AFF>エラー</color><sprite=7>対策をしよう！\n・個性が<color=#FFE25AFF>不屈/超不屈</color>や<color=#FFE25AFF>献身/超献身</color>のデジモンと挑もう！"
 		},
 		{
 			"text_id": "490802",
@@ -13362,7 +13502,7 @@
 		},
 		{
 			"text_id": "490842",
-			"text": "・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>TECダメージ耐性</color>を上げるデジモンと挑もう！\n・個性が<color=#FFE25AFF>勇敢以外</color>のデジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>TECダメージ耐性</color>を上げるデジモンと挑もう！\n・個性が<color=#FFE25AFF>勇敢/超勇敢以外</color>のデジモンと挑もう！"
 		},
 		{
 			"text_id": "490843",
@@ -13370,7 +13510,7 @@
 		},
 		{
 			"text_id": "490851",
-			"text": "・<color=#FFE25AFF>ブロック率を下げる</color>デジモンと挑もう！\n・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！\n・個性が<color=#FFE25AFF>不屈以外</color>のデジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>ブロック率を下げる</color>デジモンと挑もう！\n・<color=#FFE25AFF>スキル封じ</color><sprite=8>対策をしよう！\n・個性が<color=#FFE25AFF>不屈/超不屈以外</color>のデジモンと挑もう！"
 		},
 		{
 			"text_id": "490861",
@@ -13382,7 +13522,7 @@
 		},
 		{
 			"text_id": "490871",
-			"text": "・<color=#FFE25AFF>DEFを高めるプラグイン</color>をセットしよう！\n・<color=#FFE25AFF>暗闇</color><sprite=9>対策をしよう！\n・個性が<color=#FFE25AFF>献身以外</color>のデジモンと挑もう！"
+			"text": "・<color=#FFE25AFF>DEFを高めるプラグイン</color>をセットしよう！\n・<color=#FFE25AFF>暗闇</color><sprite=9>対策をしよう！\n・個性が<color=#FFE25AFF>献身/超献身以外</color>のデジモンと挑もう！"
 		},
 		{
 			"text_id": "490881",
@@ -13399,6 +13539,10 @@
 		{
 			"text_id": "490901",
 			"text": "・<color=#FFE25AFF>ヤケド</color><sprite=6>対策をしよう！\n・<color=#FFE25AFF>ブロック率</color>を高めよう！\n・<color=#FFE25AFF>一撃が大きい</color>デジモンを連れて行こう！"
+		},
+		{
+			"text_id": "490921",
+			"text": "・個性が<color=#FFE25AFF>冷静/超冷静以外</color>のデジモンと挑もう！\n・<color=#FFE25AFF>HPを回復する</color>デジモンと挑もう！\n・<color=#FFE25AFF>DEF</color>を高めよう！"
 		},
 		{
 			"text_id": "491",

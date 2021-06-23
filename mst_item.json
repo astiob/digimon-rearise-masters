@@ -2729,6 +2729,50 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1022552",
+			"item_name": "ラセンモンGM[Anniv.](不屈)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022552",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が究極体ラセンモンGM[Anniv.](不屈)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1022553",
+			"item_name": "ラセンモンGM[Anniv.](不屈)スキルストーン",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022553",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が究極体ラセンモンGM[Anniv.](不屈)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1022582",
+			"item_name": "ラセンモン[Anniv.](器用)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022582",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が究極体ラセンモン[Anniv.](器用)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1022583",
+			"item_name": "ラセンモン[Anniv.](器用)スキルストーン",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1022583",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が究極体ラセンモン[Anniv.](器用)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "1022671",
 			"item_name": "メタルガルルモン(X抗体)(冷静)スキルストーンの欠片(小)",
 			"sort_key": "",
@@ -24957,7 +25001,7 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "テイマーやデジモンの心の成長や経験から生まれるエネルギーのようなもの",
-			"max_amount": "99999999"
+			"max_amount": "2000000000"
 		},
 		{
 			"item_id": "22001",
@@ -25243,6 +25287,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "専用ショップで色々なアイテムと交換ができる交換券",
+			"max_amount": "99999"
+		},
+		{
+			"item_id": "22027",
+			"item_name": "3周年記念交換券",
+			"sort_key": "サンシュウネンキネンコウカンケン",
+			"item_type": "11",
+			"icon_asset": "icon/item/icon_trade_3rdanniversary",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "3周年記念交換券！専用のショップで色々なものと交換できる",
 			"max_amount": "99999"
 		},
 		{
@@ -29335,6 +29390,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンチケットガシャ vol.6を回すことができるチケット(使用期間 2021/04/30 12:00 ～ 2021/07/07 11:59)",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "23527",
+			"item_name": "デジモンガシャチケット vol.7",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no007",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンチケットガシャ vol.7を回すことができるチケット(使用期間 2021/06/25 12:00 ～ 2021/09/07 11:59)",
 			"max_amount": "9999"
 		},
 		{
@@ -38545,6 +38611,39 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25339",
+			"item_name": "3周年ありがとうデジタマ(赤)",
+			"sort_key": "サンシュウネンアリガトウデジタマアカ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama082",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢の究極体に育つデジモンが必ず産まれる3周年記念のデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25340",
+			"item_name": "3周年ありがとうデジタマ(青)",
+			"sort_key": "サンシュウネンアリガトウデジタマアオ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama083",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静の超究極体または究極体に育つデジモンが必ず産まれる3周年記念のデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25341",
+			"item_name": "【3周年】螺旋の棘獣人のデジタマ",
+			"sort_key": "サンシュウネンラセンノトゲジュウジンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama084",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ラセンモン[Anniv.](器用)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "253414001",
 			"item_name": "攻Ⅳ(不屈 カオスドラモン)",
 			"sort_key": "",
@@ -38597,6 +38696,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "不屈のカオスドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25342",
+			"item_name": "【3周年】激昂の棘妖獣のデジタマ",
+			"sort_key": "サンシュウネンゲキコウノトゲヨウジュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama085",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ラセンモンGM[Anniv.](不屈)に育つデジモンが必ず産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -59937,6 +60047,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "超器用のミラージュガオガモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "363511001",
+			"item_name": "攻Ⅴ(超勇敢 ジエスモン[Anniv.])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment363511001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超勇敢のジエスモン[Anniv.]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "363511002",
+			"item_name": "攻Ⅴ(超勇敢 ジエスモン[Anniv.])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment363511001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超勇敢のジエスモン[Anniv.]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "363511003",
+			"item_name": "攻Ⅴ(超勇敢 ジエスモン[Anniv.])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment363511001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超勇敢のジエスモン[Anniv.]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "363511004",
+			"item_name": "攻Ⅴ(超勇敢 ジエスモン[Anniv.])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment363511001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超勇敢のジエスモン[Anniv.]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "363511005",
+			"item_name": "攻Ⅴ(超勇敢 ジエスモン[Anniv.])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment363511001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超勇敢のジエスモン[Anniv.]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "363531001",
+			"item_name": "守Ⅴ(超勇敢 ジエスモン[Anniv.])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment363531001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超勇敢のジエスモン[Anniv.]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "363531002",
+			"item_name": "守Ⅴ(超勇敢 ジエスモン[Anniv.])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment363531001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超勇敢のジエスモン[Anniv.]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "363531003",
+			"item_name": "守Ⅴ(超勇敢 ジエスモン[Anniv.])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment363531001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超勇敢のジエスモン[Anniv.]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "363531004",
+			"item_name": "守Ⅴ(超勇敢 ジエスモン[Anniv.])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment363531001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超勇敢のジエスモン[Anniv.]がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "363531005",
+			"item_name": "守Ⅴ(超勇敢 ジエスモン[Anniv.])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment363531001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超勇敢のジエスモン[Anniv.]がセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{

@@ -4194,6 +4194,48 @@
 			"text": "攻撃対象に[@rate][:rate:]%[/@rate]の確率でヤケドの付与（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "10",
+			"target_num": "5",
+			"text": "個性が「[:personality_target_ex:]」の味方の[:text_id_ex:]を解除する"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "11",
+			"target_num": "5",
+			"text": "個性が「[:personality_target_ex:]」の味方の[:text_id_ex:]を解除する"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "12",
+			"target_num": "5",
+			"text": "個性が「[:personality_target_ex:]」の味方の[:text_id_ex:]を解除する"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "13",
+			"target_num": "5",
+			"text": "個性が「[:personality_target_ex:]」の味方の[:text_id_ex:]を解除する"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "14",
+			"target_num": "5",
+			"text": "個性が「[:personality_target_ex:]」の味方の[:text_id_ex:]を解除する"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "5",
+			"target_num": "5",
+			"text": "味方[@target_num]全体[/@target_num]の[:text_id_ex:]を解除する"
+		},
+		{
 			"action_efficacy_type": "6",
 			"index_in_type": "0",
 			"target_type": "1",
