@@ -40987,6 +40987,116 @@
 			"receive_asset": ""
 		},
 		{
+			"challenge_id": "50113010",
+			"challenge_group_id": "501130",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "Clear all challenges.",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "50113011",
+			"challenge_group_id": "501130",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1987",
+			"description": "Clear a floor in the Underworld 1 time. (Applies to both Abyss and Dungeon)",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50113012",
+			"challenge_group_id": "501130",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1987",
+			"description": "Challenge the Underworld 3 times. (Applies to both Abyss and Dungeon)",
+			"challenge_condition": "9",
+			"json_value": "{\"count\":3}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50113013",
+			"challenge_group_id": "501130",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1987",
+			"description": "Clear a floor in the Underworld 3 times. (Applies to both Abyss and Dungeon)",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":3}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50113014",
+			"challenge_group_id": "501130",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1987",
+			"description": "Challenge the Underworld 6 times. (Applies to both Abyss and Dungeon)",
+			"challenge_condition": "9",
+			"json_value": "{\"count\":6}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50113015",
+			"challenge_group_id": "501130",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1987",
+			"description": "Clear a floor in the Underworld 5 times. (Applies to both Abyss and Dungeon)",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":5}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50113016",
+			"challenge_group_id": "501130",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1987",
+			"description": "Challenge the Underworld 10 times. (Applies to both Abyss and Dungeon)",
+			"challenge_condition": "9",
+			"json_value": "{\"count\":10}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50113017",
+			"challenge_group_id": "501130",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1987",
+			"description": "Clear a floor in the Underworld 8 times. (Applies to both Abyss and Dungeon)",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":8}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50113018",
+			"challenge_group_id": "501130",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1987",
+			"description": "Challenge the Underworld 15 times. (Applies to both Abyss and Dungeon)",
+			"challenge_condition": "9",
+			"json_value": "{\"count\":15}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50113019",
+			"challenge_group_id": "501130",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1987",
+			"description": "Clear a floor in the Underworld 12 times. (Applies to both Abyss and Dungeon)",
+			"challenge_condition": "8",
+			"json_value": "{\"count\":12}",
+			"receive_asset": ""
+		},
+		{
 			"challenge_id": "50114010",
 			"challenge_group_id": "501140",
 			"rank": "1",
