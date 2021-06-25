@@ -47717,6 +47717,116 @@
 			"challenge_condition": "59",
 			"json_value": "{\"value\":150000,\"itemId\":26028}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150110",
+			"challenge_group_id": "11501",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "1150111",
+			"challenge_group_id": "11501",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1990",
+			"description": "高難易度 勇敢時限の渦の初級をクリアしよう！",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400301}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150112",
+			"challenge_group_id": "11501",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1990",
+			"description": "高難易度 勇敢時限の渦の中級をクリアしよう！",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400302}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150113",
+			"challenge_group_id": "11501",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1990",
+			"description": "高難易度 勇敢時限の渦の上級をクリアしよう！",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400303}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150114",
+			"challenge_group_id": "11501",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1990",
+			"description": "勇敢/超勇敢のみで高難易度 勇敢時限の渦初級をクリアしよう",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400301,\"personality_group\":1,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150115",
+			"challenge_group_id": "11501",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1990",
+			"description": "勇敢/超勇敢のみで高難易度 勇敢時限の渦中級をクリアしよう",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400302,\"personality_group\":1,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150116",
+			"challenge_group_id": "11501",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1990",
+			"description": "勇敢/超勇敢のみで高難易度 勇敢時限の渦上級をクリアしよう",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400303,\"personality_group\":1,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150117",
+			"challenge_group_id": "11501",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1990",
+			"description": "勇敢/超勇敢のみで高難易度 勇敢時限の渦初級を\n誰も倒れずにクリアしよう",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400301,\"personality_group\":1,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150118",
+			"challenge_group_id": "11501",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1990",
+			"description": "勇敢/超勇敢のみで高難易度 勇敢時限の渦中級を\n誰も倒れずにクリアしよう",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400302,\"personality_group\":1,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150119",
+			"challenge_group_id": "11501",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1990",
+			"description": "勇敢/超勇敢のみで高難易度 勇敢時限の渦上級を\n誰も倒れずにクリアしよう",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400303,\"personality_group\":1,\"count\":1}",
+			"receive_asset": ""
 		}
 	]
 }

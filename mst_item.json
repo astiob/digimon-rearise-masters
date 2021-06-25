@@ -1387,6 +1387,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "10176",
+			"item_name": "ガイオウモン厳刀ノ型の進化コード",
+			"sort_key": "sort",
+			"item_type": "3",
+			"icon_asset": "icon/item/evolution/iconevolutionitem10076",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態がガイオウモン厳刀ノ型の系譜の進化を導くアイテム",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "102",
 			"item_name": "体の特訓チップⅡ",
 			"sort_key": "",
@@ -38611,6 +38622,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25337",
+			"item_name": "勇ましき闘志漂う勇敢のデジタマ",
+			"sort_key": "イサマシキトウシタダヨウユウカンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama013",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢時限の渦にて低確率でドロップする勇敢デジモンが産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "25339",
 			"item_name": "3周年ありがとうデジタマ(赤)",
 			"sort_key": "サンシュウネンアリガトウデジタマアカ",
@@ -38710,6 +38732,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25343",
+			"item_name": "弾力装甲の竜人のデジタマ",
+			"sort_key": "ダンリョクソウコウノリュウジンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama071",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体サイバードラモン(不屈)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "253434001",
 			"item_name": "守Ⅳ(不屈 カオスドラモン)",
 			"sort_key": "",
@@ -38762,6 +38795,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "不屈のカオスドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25344",
+			"item_name": "剣を極めし竜人のデジタマ",
+			"sort_key": "ケンヲキワメシリュウジンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama037",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体スレイヤードラモン(冷静)に育つデジモンが必ず産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -60160,6 +60204,116 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "364522001",
+			"item_name": "攻Ⅴ(超冷静 ガイオウモン厳刀ノ型)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment364522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のガイオウモン厳刀ノ型がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "364522002",
+			"item_name": "攻Ⅴ(超冷静 ガイオウモン厳刀ノ型)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment364522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のガイオウモン厳刀ノ型がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "364522003",
+			"item_name": "攻Ⅴ(超冷静 ガイオウモン厳刀ノ型)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment364522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のガイオウモン厳刀ノ型がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "364522004",
+			"item_name": "攻Ⅴ(超冷静 ガイオウモン厳刀ノ型)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment364522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のガイオウモン厳刀ノ型がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "364522005",
+			"item_name": "攻Ⅴ(超冷静 ガイオウモン厳刀ノ型)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment364522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のガイオウモン厳刀ノ型がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "364532001",
+			"item_name": "守Ⅴ(超冷静 ガイオウモン厳刀ノ型)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment364532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のガイオウモン厳刀ノ型がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "364532002",
+			"item_name": "守Ⅴ(超冷静 ガイオウモン厳刀ノ型)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment364532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のガイオウモン厳刀ノ型がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "364532003",
+			"item_name": "守Ⅴ(超冷静 ガイオウモン厳刀ノ型)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment364532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のガイオウモン厳刀ノ型がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "364532004",
+			"item_name": "守Ⅴ(超冷静 ガイオウモン厳刀ノ型)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment364532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のガイオウモン厳刀ノ型がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "364532005",
+			"item_name": "守Ⅴ(超冷静 ガイオウモン厳刀ノ型)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment364532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のガイオウモン厳刀ノ型がセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "37",
 			"item_name": "シンプルなスイーツ",
 			"sort_key": "",
@@ -70189,6 +70343,61 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンのSPDとHPを引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "541881",
+			"item_name": "対器Ⅴ(勇敢/超勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment541881",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのHPの値は下がるが、器用/超器用キラーを付与するデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "541882",
+			"item_name": "対器Ⅴ(勇敢/超勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment541881",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのHPの値は下がるが、器用/超器用キラーを付与するデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "541883",
+			"item_name": "対器Ⅴ(勇敢/超勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment541881",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのHPの値は下がるが、器用/超器用キラーを付与するデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "541884",
+			"item_name": "対器Ⅴ(勇敢/超勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment541881",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのHPの値は下がるが、器用/超器用キラーを付与するデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "541885",
+			"item_name": "対器Ⅴ(勇敢/超勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment541881",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのHPの値は下がるが、器用/超器用キラーを付与するデータが格納された古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
