@@ -47827,6 +47827,116 @@
 			"challenge_condition": "63",
 			"json_value": "{\"weekly_quest_id\":400303,\"personality_group\":1,\"count\":1}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150210",
+			"challenge_group_id": "11502",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "1150211",
+			"challenge_group_id": "11502",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1990",
+			"description": "高難易度 冷静時限の渦の初級をクリアしよう！",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400401}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150212",
+			"challenge_group_id": "11502",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1990",
+			"description": "高難易度 冷静時限の渦の中級をクリアしよう！",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400402}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150213",
+			"challenge_group_id": "11502",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1990",
+			"description": "高難易度 冷静時限の渦の上級をクリアしよう！",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400403}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150214",
+			"challenge_group_id": "11502",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1990",
+			"description": "冷静/超冷静のみで高難易度 冷静時限の渦初級をクリアしよう",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400401,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150215",
+			"challenge_group_id": "11502",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1990",
+			"description": "冷静/超冷静のみで高難易度 冷静時限の渦中級をクリアしよう",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400402,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150216",
+			"challenge_group_id": "11502",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1990",
+			"description": "冷静/超冷静のみで高難易度 冷静時限の渦上級をクリアしよう",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400403,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150217",
+			"challenge_group_id": "11502",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1990",
+			"description": "冷静/超冷静のみで高難易度 冷静時限の渦初級を\n誰も倒れずにクリアしよう",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400401,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150218",
+			"challenge_group_id": "11502",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1990",
+			"description": "冷静/超冷静のみで高難易度 冷静時限の渦中級を\n誰も倒れずにクリアしよう",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400402,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1150219",
+			"challenge_group_id": "11502",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1990",
+			"description": "冷静/超冷静のみで高難易度 冷静時限の渦上級を\n誰も倒れずにクリアしよう",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400403,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
 		}
 	]
 }
