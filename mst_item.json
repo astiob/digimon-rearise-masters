@@ -38563,7 +38563,7 @@
 			"icon_asset": "icon/digitama/icondigitama020",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "献身時限の渦にて低確率でドロップする献身デジモンが生まれるデジタマ",
+			"description": "献身時限の渦にて低確率でドロップする献身デジモンが産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -38574,7 +38574,7 @@
 			"icon_asset": "icon/digitama/icondigitama019",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "不屈時限の渦にて低確率でドロップする不屈デジモンが生まれるデジタマ",
+			"description": "不屈時限の渦にて低確率でドロップする不屈デジモンが産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -38839,6 +38839,61 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "究極体スレイヤードラモン(冷静)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25345",
+			"item_name": "お転婆なテイマーのためのデジタマ(虹)",
+			"sort_key": "オテンバナテイマーノタメノデジタマニジ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama054",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体リリモン(冷静)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25346",
+			"item_name": "お転婆なテイマーのためのデジタマ(金)",
+			"sort_key": "オテンバナテイマーノタメノデジタマキン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama055",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体リリモン(冷静)に育つデジモンが50％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25347",
+			"item_name": "お転婆なテイマーのためのデジタマ(銀)",
+			"sort_key": "オテンバナテイマーノタメノデジタマギン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama056",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体リリモン(冷静)に育つデジモンが25％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25348",
+			"item_name": "お転婆なテイマーのためのデジタマ(青)",
+			"sort_key": "オテンバナテイマーノタメノデジタマアオ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama057",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体リリモン(冷静)に育つデジモンが10％の確率で産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25349",
+			"item_name": "お転婆なテイマーのためのデジタマ(白)",
+			"sort_key": "オテンバナテイマーノタメノデジタマシロ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama058",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体リリモン(冷静)に育つデジモンがごくまれに産まれるかもしれないデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -60795,6 +60850,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "超不屈のオメガモンAlter-Sがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "367522001",
+			"item_name": "攻Ⅴ(超冷静 アルフォースブイドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment367522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のアルフォースブイドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "367522002",
+			"item_name": "攻Ⅴ(超冷静 アルフォースブイドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment367522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のアルフォースブイドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "367522003",
+			"item_name": "攻Ⅴ(超冷静 アルフォースブイドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment367522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のアルフォースブイドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "367522004",
+			"item_name": "攻Ⅴ(超冷静 アルフォースブイドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment367522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のアルフォースブイドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "367522005",
+			"item_name": "攻Ⅴ(超冷静 アルフォースブイドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment367522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のアルフォースブイドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "367532001",
+			"item_name": "守Ⅴ(超冷静 アルフォースブイドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment367532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のアルフォースブイドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "367532002",
+			"item_name": "守Ⅴ(超冷静 アルフォースブイドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment367532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のアルフォースブイドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "367532003",
+			"item_name": "守Ⅴ(超冷静 アルフォースブイドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment367532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のアルフォースブイドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "367532004",
+			"item_name": "守Ⅴ(超冷静 アルフォースブイドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment367532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のアルフォースブイドラモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "367532005",
+			"item_name": "守Ⅴ(超冷静 アルフォースブイドラモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment367532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のアルフォースブイドラモンがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
