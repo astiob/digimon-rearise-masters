@@ -129,22 +129,6 @@
 			"end_date": ""
 		},
 		{
-			"shop_digimon_id": "26",
-			"cost_item_id": "22021",
-			"messsage": "Only available\nfor the event!",
-			"weight": "1",
-			"start_date": "",
-			"end_date": ""
-		},
-		{
-			"shop_digimon_id": "27",
-			"cost_item_id": "22022",
-			"messsage": "Only available\nfor the event!",
-			"weight": "1",
-			"start_date": "",
-			"end_date": ""
-		},
-		{
 			"shop_digimon_id": "27",
 			"cost_item_id": "22022",
 			"messsage": "Only available\nfor the event!",
@@ -161,9 +145,17 @@
 			"end_date": ""
 		},
 		{
-			"shop_digimon_id": "28",
-			"cost_item_id": "22024",
-			"messsage": "Only available\nfor the event!",
+			"shop_digimon_id": "3",
+			"cost_item_id": "21000",
+			"messsage": "What a steal!",
+			"weight": "1",
+			"start_date": "",
+			"end_date": ""
+		},
+		{
+			"shop_digimon_id": "30",
+			"cost_item_id": "21000",
+			"messsage": "Let's get stronger!",
 			"weight": "1",
 			"start_date": "",
 			"end_date": ""
@@ -171,6 +163,14 @@
 		{
 			"shop_digimon_id": "31",
 			"cost_item_id": "22026",
+			"messsage": "Only available\nfor the event!",
+			"weight": "1",
+			"start_date": "",
+			"end_date": ""
+		},
+		{
+			"shop_digimon_id": "33",
+			"cost_item_id": "22028",
 			"messsage": "Only available\nfor the event!",
 			"weight": "1",
 			"start_date": "",
@@ -204,6 +204,14 @@
 			"shop_digimon_id": "7",
 			"cost_item_id": "22023",
 			"messsage": "There are lots of\nlimited items!",
+			"weight": "1",
+			"start_date": "",
+			"end_date": ""
+		},
+		{
+			"shop_digimon_id": "8",
+			"cost_item_id": "21001",
+			"messsage": "Have you gathered up\nsome DigiDiamonds?",
 			"weight": "1",
 			"start_date": "",
 			"end_date": ""

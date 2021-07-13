@@ -292,35 +292,35 @@
 			"index_in_type": "7",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "Ignores Damage Limit of Digimon such as Omegamon when dealing damage to enemies."
+			"text": "Ignores Damage Limit and deals damage to enemies."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "7",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "Ignores Damage Limit of Digimon such as Omegamon when dealing damage to enemies."
+			"text": "Ignores Damage Limit and deals damage to enemies."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "7",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "Ignores Damage Limit of Digimon such as Omegamon when dealing damage to enemies."
+			"text": "Ignores Damage Limit and deals damage to enemies."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "7",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "Ignores Damage Limit of Digimon such as Omegamon when dealing damage to enemies."
+			"text": "Ignores Damage Limit and deals damage to enemies."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "7",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "Ignores Damage Limit of Digimon such as Omegamon when dealing damage to enemies."
+			"text": "Ignores Damage Limit and deals damage to enemies."
 		},
 		{
 			"action_efficacy_type": "0",
@@ -397,35 +397,42 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Recover [@target_num][/@target_num]HP for Brave allies by [@strength][:strength:]%[/@strength]."
+			"text": "Recover [@target_num][/@target_num] HP for [:personality_target_ex:] allies by [@strength][:strength:]%[/@strength]."
 		},
 		{
 			"action_efficacy_type": "1",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Recover [@target_num][/@target_num]HP for Calm allies by [@strength][:strength:]%[/@strength]."
+			"text": "Recover [@target_num][/@target_num] HP for [:personality_target_ex:] allies by [@strength][:strength:]%[/@strength]."
 		},
 		{
 			"action_efficacy_type": "1",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Recover [@target_num][/@target_num]HP for Deft allies by [@strength][:strength:]%[/@strength]."
+			"text": "Recover [@target_num][/@target_num] HP for [:personality_target_ex:] allies by [@strength][:strength:]%[/@strength]."
 		},
 		{
 			"action_efficacy_type": "1",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Recover [@target_num][/@target_num]HP for Tenacious allies by [@strength][:strength:]%[/@strength]."
+			"text": "Recover [@target_num][/@target_num] HP for [:personality_target_ex:] allies by [@strength][:strength:]%[/@strength]."
 		},
 		{
 			"action_efficacy_type": "1",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Recover [@target_num][/@target_num]HP for Devoted allies by [@strength][:strength:]%[/@strength]."
+			"text": "Recover [@target_num][/@target_num] HP for [:personality_target_ex:] allies by [@strength][:strength:]%[/@strength]."
+		},
+		{
+			"action_efficacy_type": "1",
+			"index_in_type": "0",
+			"target_type": "2",
+			"target_num": "1",
+			"text": "Recover own HP by [@strength][:strength:]%[/@strength]."
 		},
 		{
 			"action_efficacy_type": "1",
@@ -754,35 +761,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "[:updown:] the [:attack_type:] of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "[:updown:] the [:attack_type:] of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "[:updown:] the [:attack_type:] of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "[:updown:] the [:attack_type:] of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "[:updown:] the [:attack_type:] of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "14",
@@ -901,35 +908,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "[:updown:] the Pinpoint Rate of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Pinpoint Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "[:updown:] the Pinpoint Rate of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Pinpoint Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "[:updown:] the Pinpoint Rate of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Pinpoint Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "[:updown:] the Pinpoint Rate of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Pinpoint Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "[:updown:] the Pinpoint Rate of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Pinpoint Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "15",
@@ -1048,35 +1055,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "[:updown:] the Counter Rate of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Counter Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "[:updown:] the Counter Rate of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Counter Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "[:updown:] the Counter Rate of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Counter Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "[:updown:] the Counter Rate of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Counter Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "[:updown:] the Counter Rate of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Counter Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "16",
@@ -1195,35 +1202,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "[:updown:] the Block Rate of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Block Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "[:updown:] the Block Rate of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Block Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "[:updown:] the Block Rate of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Block Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "[:updown:] the Block Rate of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Block Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "[:updown:] the Block Rate of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Block Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "17",
@@ -2077,35 +2084,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "[:updown:] Brave allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] Damage Resist of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "[:updown:] Calm allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] Damage Resist of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "[:updown:] Deft allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] Damage Resist of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "[:updown:] Tenacious allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] Damage Resist of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "[:updown:] Devoted allies' [:attack_type:] damage resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the [:attack_type:] Damage Resist of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "25",
@@ -2224,35 +2231,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Restores HP of a Brave ally periodically by [@strength][:strength:][/@strength] ([@duration][:duration:][/@duration])"
+			"text": "Restores HP of a [:personality_target_ex:] ally periodically by [@strength][:strength:][/@strength]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "26",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Restores HP of a Calm ally periodically by [@strength][:strength:][/@strength] ([@duration][:duration:][/@duration])"
+			"text": "Restores HP of a [:personality_target_ex:] ally periodically by [@strength][:strength:][/@strength]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "26",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Restores HP of a Deft ally periodically by [@strength][:strength:][/@strength] ([@duration][:duration:][/@duration])"
+			"text": "Restores HP of a [:personality_target_ex:] ally periodically by [@strength][:strength:][/@strength]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "26",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Restores HP of a Tenacious ally periodically by [@strength][:strength:][/@strength] ([@duration][:duration:][/@duration])"
+			"text": "Restores HP of a [:personality_target_ex:] ally periodically by [@strength][:strength:][/@strength]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "26",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Restores HP of a Devoted ally periodically by [@strength][:strength:][/@strength] ([@duration][:duration:][/@duration])"
+			"text": "Restores HP of a [:personality_target_ex:] ally periodically by [@strength][:strength:][/@strength]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "26",
@@ -2301,35 +2308,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Increases a Brave ally's maximum HP by [@value][:value:]%[/@value](Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's maximum HP by [@value][:value:]%[/@value]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Increases a Calm ally's maximum HP by [@value][:value:]%[/@value](Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's maximum HP by [@value][:value:]%[/@value]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Increases a Deft ally's maximum HP by [@value][:value:]%[/@value](Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's maximum HP by [@value][:value:]%[/@value]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Increases a Tenacious ally's maximum HP by [@value][:value:]%[/@value](Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's maximum HP by [@value][:value:]%[/@value]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Increases a Devoted ally's maximum HP by [@value][:value:]%[/@value](Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's maximum HP by [@value][:value:]%[/@value]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "27",
@@ -2378,35 +2385,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Increases a Brave ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:]% [:accumulate_type:] (Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Increases a Calm ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:]% [:accumulate_type:] (Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Increases a Deft ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:]% [:accumulate_type:] (Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Increases a Tenacious ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:]% [:accumulate_type:] (Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Increases a Devoted ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:]% [:accumulate_type:] (Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
@@ -2455,35 +2462,35 @@
 			"index_in_type": "1",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Increases a Brave ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:] (Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Increases a Calm ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:] (Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Increases a Deft ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:] (Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Increases a Tenacious ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:] (Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Increases a Devoted ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:] (Permanent)"
+			"text": "Increases a [:personality_target_ex:] ally's [:attack_type:] by [@value][:value:]%[/@value], up to a maximum of [:accumulate_attack_max:] % [:accumulate_type:]. (Permanent)"
 		},
 		{
 			"action_efficacy_type": "28",
@@ -2532,35 +2539,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows a Brave ally to evade attacks [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to evade attacks [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows a Calm ally to evade attacks [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to evade attacks [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows a Deft ally to evade attacks [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to evade attacks [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows a Tenacious ally to evade attacks [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to evade attacks [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows a Devoted ally to evade attacks [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to evade attacks [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "29",
@@ -2651,35 +2658,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows a Brave ally to reduce CT after using a skill by [@value][:value:][/@value]% [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce CT after using a skill by [@value][:value:]%[/@value] [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows a Calm ally to reduce CT after using a skill by [@value][:value:][/@value]% [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce CT after using a skill by [@value][:value:]%[/@value] [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows a Deft ally to reduce CT after using a skill by [@value][:value:][/@value]%  [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce CT after using a skill by [@value][:value:]%[/@value] [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows a Tenacious ally to reduce CT after using a skill by [@value][:value:][/@value]% [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce CT after using a skill by [@value][:value:]%[/@value] [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows a Devoted ally to reduce CT after using a skill by [@value][:value:][/@value]% [@count][:count:][/@count] times ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce CT after using a skill by [@value][:value:]%[/@value] [@count][:count:][/@count] times. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "31",
@@ -2770,35 +2777,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows a Brave ally to nullify additional Critical damage received from an enemy's attack ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to nullify additional Critical damage received from an enemy's attack. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "33",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows a Calm ally to nullify additional Critical damage received from an enemy's attack ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to nullify additional Critical damage received from an enemy's attack. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "33",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows a Deft ally to nullify additional Critical damage received from an enemy's attack ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to nullify additional Critical damage received from an enemy's attack. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "33",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows a Tenacious ally to nullify additional Critical damage received from an enemy's attack ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to nullify additional Critical damage received from an enemy's attack. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "33",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows a Devoted ally to nullify additional Critical damage received from an enemy's attack ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to nullify additional Critical damage received from an enemy's attack. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "33",
@@ -2847,35 +2854,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows a Brave ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows a Calm ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows a Deft ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows a Tenacious ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows a Devoted ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "34",
@@ -2924,35 +2931,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows a Brave ally to reduce damage by [@value][:value:][/@value]% when blocking ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage by [@value][:value:][/@value]% when blocking. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows a Calm ally to reduce damage by [@value][:value:][/@value]% when blocking ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage by [@value][:value:][/@value]% when blocking. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows a Deft ally to reduce damage by [@value][:value:][/@value]% when blocking ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage by [@value][:value:][/@value]% when blocking. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows a Tenacious ally to reduce damage by [@value][:value:][/@value]% when blocking ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage by [@value][:value:][/@value]% when blocking. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows a Devoted ally to reduce damage by [@value][:value:][/@value]% when blocking ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage by [@value][:value:][/@value]% when blocking. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "35",
@@ -3036,35 +3043,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows a Brave ally to shield up to [@shield_hp][:shield_hp:][/@shield_hp] damage received from an enemy's attack ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to shield up to [@shield_hp][:shield_hp:][/@shield_hp] damage received from an enemy's attack. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "36",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows a Calm ally to shield up to [@shield_hp][:shield_hp:][/@shield_hp] damage received from an enemy's attack ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to shield up to [@shield_hp][:shield_hp:][/@shield_hp] damage received from an enemy's attack. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "36",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows a Deft ally to shield up to [@shield_hp][:shield_hp:][/@shield_hp] damage received from an enemy's attack ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to shield up to [@shield_hp][:shield_hp:][/@shield_hp] damage received from an enemy's attack. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "36",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows a Tenacious ally to shield up to [@shield_hp][:shield_hp:][/@shield_hp] damage received from an enemy's attack ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to shield up to [@shield_hp][:shield_hp:][/@shield_hp] damage received from an enemy's attack. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "36",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows a Devoted ally to shield up to [@shield_hp][:shield_hp:][/@shield_hp] damage received from an enemy's attack ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to shield up to [@shield_hp][:shield_hp:][/@shield_hp] damage received from an enemy's attack. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "36",
@@ -3113,35 +3120,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows a Brave ally to deal [@value][:value:][/@value] times the damage to a [:personality_killer:] enemy ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to a [:personality_killer:] enemy. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "37",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows a Calm ally to deal [@value][:value:][/@value] times the damage to a [:personality_killer:] enemy ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to a [:personality_killer:] enemy. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "37",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows a Deft ally to deal [@value][:value:][/@value] times the damage to a [:personality_killer:] enemy ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to a [:personality_killer:] enemy. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "37",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows a Tenacious ally to deal [@value][:value:][/@value] times the damage to a [:personality_killer:] enemy ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to a [:personality_killer:] enemy. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "37",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows a Devoted ally to deal [@value][:value:][/@value] times the damage to a [:personality_killer:] enemy ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to a [:personality_killer:] enemy. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "37",
@@ -3190,35 +3197,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows a Brave ally to deal [@value][:value:][/@value] times the damage when countering ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage when countering. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "38",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows a Calm ally to deal [@value][:value:][/@value] times the damage when countering ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage when countering. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "38",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows a Deft ally to deal [@value][:value:][/@value] times the damage when countering ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage when countering. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "38",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows a Tenacious ally to deal [@value][:value:][/@value] times the damage when countering ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage when countering. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "38",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows a Devoted ally to deal [@value][:value:][/@value] times the damage when countering ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage when countering. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "38",
@@ -3267,35 +3274,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows a Brave ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows a Calm ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows a Deft ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows a Tenacious ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows a Devoted ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon ([@duration][:duration:][/@duration])."
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to an enemy [:digimon_group_name:] Digimon. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "39",
@@ -3309,35 +3316,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Removes [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] from a Brave ally"
+			"text": "Removes [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] from a [:personality_target_ex:] ally."
 		},
 		{
 			"action_efficacy_type": "4",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Removes [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] from a Calm ally"
+			"text": "Removes [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] from a [:personality_target_ex:] ally."
 		},
 		{
 			"action_efficacy_type": "4",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Removes [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] from a Deft ally"
+			"text": "Removes [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] from a [:personality_target_ex:] ally."
 		},
 		{
 			"action_efficacy_type": "4",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Removes [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] from a Tenacious ally"
+			"text": "Removes [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] from a [:personality_target_ex:] ally."
 		},
 		{
 			"action_efficacy_type": "4",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Removes [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] from a Devoted ally"
+			"text": "Removes [@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask] from a [:personality_target_ex:] ally."
 		},
 		{
 			"action_efficacy_type": "4",
@@ -3393,35 +3400,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows Brave K.O.'d ally Digimon to automatically revive with [@strength][:strength:][/@strength]% HP one time."
+			"text": "Allows K.O.'d [:personality_target_ex:] ally Digimon to automatically revive with [@strength][:strength:][/@strength]% HP one time."
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows Calm K.O.'d ally Digimon to automatically revive with [@strength][:strength:][/@strength]% HP one time."
+			"text": "Allows K.O.'d [:personality_target_ex:] ally Digimon to automatically revive with [@strength][:strength:][/@strength]% HP one time."
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows Deft K.O.'d ally Digimon to automatically revive with [@strength][:strength:][/@strength]% HP one time."
+			"text": "Allows K.O.'d [:personality_target_ex:] ally Digimon to automatically revive with [@strength][:strength:][/@strength]% HP one time."
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows Tenacious K.O.'d ally Digimon to automatically revive with [@strength][:strength:][/@strength]% HP one time."
+			"text": "Allows K.O.'d [:personality_target_ex:] ally Digimon to automatically revive with [@strength][:strength:][/@strength]% HP one time."
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows Devoted K.O.'d ally Digimon to automatically revive with [@strength][:strength:][/@strength]% HP one time."
+			"text": "Allows K.O.'d [:personality_target_ex:] ally Digimon to automatically revive with [@strength][:strength:][/@strength]% HP one time."
 		},
 		{
 			"action_efficacy_type": "40",
@@ -3435,35 +3442,35 @@
 			"index_in_type": "0",
 			"target_type": "15",
 			"target_num": "5",
-			"text": "Negate a Brave enemy's [:text_id_ex:]."
+			"text": "Negate a [:personality_target_ex:] enemy's [:text_id_ex:]."
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "16",
 			"target_num": "5",
-			"text": "Negate a Calm enemy's [:text_id_ex:]."
+			"text": "Negate a [:personality_target_ex:] enemy's [:text_id_ex:]."
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "17",
 			"target_num": "5",
-			"text": "Negate a Deft enemy's [:text_id_ex:]."
+			"text": "Negate a [:personality_target_ex:] enemy's [:text_id_ex:]."
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "18",
 			"target_num": "5",
-			"text": "Negate a Tenacious enemy's [:text_id_ex:]."
+			"text": "Negate a [:personality_target_ex:] enemy's [:text_id_ex:]."
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "19",
 			"target_num": "5",
-			"text": "Negate a Devoted enemy's [:text_id_ex:]."
+			"text": "Negate a [:personality_target_ex:] enemy's [:text_id_ex:]."
 		},
 		{
 			"action_efficacy_type": "41",
@@ -3645,35 +3652,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to Brave allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to [:personality_target_ex:] allies [@count][:count:][/@count] time(s). ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to Calm allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to [:personality_target_ex:] allies [@count][:count:][/@count] time(s). ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to Deft allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to [:personality_target_ex:] allies [@count][:count:][/@count] time(s). ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to Tenacious allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to [:personality_target_ex:] allies [@count][:count:][/@count] time(s). ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to Devoted allies [@count][:count:][/@count] time(s) ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
+			"text": "Allows you to direct a certain amount of damage from an attack meant for an ally to [:personality_target_ex:] allies [@count][:count:][/@count] time(s). ([@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate] damage reduced)"
 		},
 		{
 			"action_efficacy_type": "43",
@@ -3722,35 +3729,35 @@
 			"index_in_type": "0",
 			"target_type": "15",
 			"target_num": "5",
-			"text": "Reduces the amount of HP recovered by a Brave enemy by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Reduces the amount of HP recovered by a [:personality_target_ex:] enemy by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "44",
 			"index_in_type": "0",
 			"target_type": "16",
 			"target_num": "5",
-			"text": "Reduces the amount of HP recovered by a Calm enemy by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Reduces the amount of HP recovered by a [:personality_target_ex:] enemy by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "44",
 			"index_in_type": "0",
 			"target_type": "17",
 			"target_num": "5",
-			"text": "Reduces the amount of HP recovered by a Deft enemy by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Reduces the amount of HP recovered by a [:personality_target_ex:] enemy by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "44",
 			"index_in_type": "0",
 			"target_type": "18",
 			"target_num": "5",
-			"text": "Reduces the amount of HP recovered by a Tenacious enemy by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Reduces the amount of HP recovered by a [:personality_target_ex:] enemy by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "44",
 			"index_in_type": "0",
 			"target_type": "19",
 			"target_num": "5",
-			"text": "Reduces the amount of HP recovered by a Devoted enemy by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Reduces the amount of HP recovered by a [:personality_target_ex:] enemy by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "44",
@@ -3825,37 +3832,37 @@
 		{
 			"action_efficacy_type": "45",
 			"index_in_type": "0",
-			"target_type": "15",
+			"target_type": "10",
 			"target_num": "5",
-			"text": "Decrease a Brave enemy's status abnormality resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Decrease a [:personality_target_ex:] enemy's Status Abnormality Resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "45",
 			"index_in_type": "0",
-			"target_type": "16",
+			"target_type": "11",
 			"target_num": "5",
-			"text": "Decrease a Calm enemy's status abnormality resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Decrease a [:personality_target_ex:] enemy's Status Abnormality Resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "45",
 			"index_in_type": "0",
-			"target_type": "17",
+			"target_type": "12",
 			"target_num": "5",
-			"text": "Decrease a Deft enemy's status abnormality resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Decrease a [:personality_target_ex:] enemy's Status Abnormality Resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "45",
 			"index_in_type": "0",
-			"target_type": "18",
+			"target_type": "13",
 			"target_num": "5",
-			"text": "Decrease a Tenacious enemy's status abnormality resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Decrease a [:personality_target_ex:] enemy's Status Abnormality Resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "45",
 			"index_in_type": "0",
-			"target_type": "19",
+			"target_type": "14",
 			"target_num": "5",
-			"text": "Decrease a Devoted enemy's status abnormality resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Decrease a [:personality_target_ex:] enemy's Status Abnormality Resistance by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "45",
@@ -4037,35 +4044,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows a Brave ally to deal [@value][:value:][/@value] times the damage to an enemy inflicted with [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to an enemy inflicted with [@bad_status_mask][:bad_status_mask:][/@bad_status_mask]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "47",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows a Calm ally to deal [@value][:value:][/@value] times the damage to an enemy inflicted with [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to an enemy inflicted with [@bad_status_mask][:bad_status_mask:][/@bad_status_mask]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "47",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows a Deft ally to deal [@value][:value:][/@value] times the damage to an enemy inflicted with [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to an enemy inflicted with [@bad_status_mask][:bad_status_mask:][/@bad_status_mask]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "47",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows a Tenacious ally to deal [@value][:value:][/@value] times the damage to an enemy inflicted with [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to an enemy inflicted with [@bad_status_mask][:bad_status_mask:][/@bad_status_mask]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "47",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows a Devoted ally to deal [@value][:value:][/@value] times the damage to an enemy inflicted with [@bad_status_mask][:bad_status_mask:][/@bad_status_mask] ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to deal [@value][:value:][/@value] times the damage to an enemy inflicted with [@bad_status_mask][:bad_status_mask:][/@bad_status_mask]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "47",
@@ -4226,35 +4233,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Nullify [@immune_mask][:immune_mask:][/@immune_mask] effects targeting Brave allies. ([@duration][:duration:][/@duration])"
+			"text": "Nullify [@immune_mask][:immune_mask:][/@immune_mask] effects targeting [:personality_target_ex:] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "6",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Nullify [@immune_mask][:immune_mask:][/@immune_mask] effects targeting Calm allies. ([@duration][:duration:][/@duration])"
+			"text": "Nullify [@immune_mask][:immune_mask:][/@immune_mask] effects targeting [:personality_target_ex:] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "6",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Nullify [@immune_mask][:immune_mask:][/@immune_mask] effects targeting Deft allies. ([@duration][:duration:][/@duration])"
+			"text": "Nullify [@immune_mask][:immune_mask:][/@immune_mask] effects targeting [:personality_target_ex:] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "6",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Nullify [@immune_mask][:immune_mask:][/@immune_mask] effects targeting Tenacious allies. ([@duration][:duration:][/@duration])"
+			"text": "Nullify [@immune_mask][:immune_mask:][/@immune_mask] effects targeting [:personality_target_ex:] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "6",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Nullify [@immune_mask][:immune_mask:][/@immune_mask] effects targeting Devoted allies. ([@duration][:duration:][/@duration])"
+			"text": "Nullify [@immune_mask][:immune_mask:][/@immune_mask] effects targeting [:personality_target_ex:] allies. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "6",
@@ -4303,35 +4310,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "[:updown:] the DEF of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "[:updown:] the DEF of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "[:updown:] the DEF of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "[:updown:] the DEF of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "[:updown:] the DEF of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
@@ -4450,35 +4457,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "[:updown:] the Critical Rate of Brave allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Critical Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "[:updown:] the Critical Rate of Calm allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Critical Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "[:updown:] the Critical Rate of Deft allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Critical Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "[:updown:] the Critical Rate of Tenacious allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Critical Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "[:updown:] the Critical Rate of Devoted allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the Critical Rate of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "9",

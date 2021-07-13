@@ -109,14 +109,26 @@
 			"dot_icon_asset": "digimon/doticon/doticonchr634"
 		},
 		{
-			"shop_digimon_id": "28",
-			"shop_id": "28",
+			"shop_digimon_id": "3",
+			"shop_id": "3",
 			"msg_asset": "shop/message/shop_digimon_message",
-			"dot_icon_asset": "digimon/doticon/doticonchr634"
+			"dot_icon_asset": "digimon/doticon/doticonchr322"
+		},
+		{
+			"shop_digimon_id": "30",
+			"shop_id": "30",
+			"msg_asset": "shop/message/shop_digimon_message",
+			"dot_icon_asset": "digimon/doticon/doticonchr322"
 		},
 		{
 			"shop_digimon_id": "31",
 			"shop_id": "31",
+			"msg_asset": "shop/message/shop_digimon_message",
+			"dot_icon_asset": "digimon/doticon/doticonchr634"
+		},
+		{
+			"shop_digimon_id": "33",
+			"shop_id": "33",
 			"msg_asset": "shop/message/shop_digimon_message",
 			"dot_icon_asset": "digimon/doticon/doticonchr634"
 		},
@@ -143,6 +155,12 @@
 			"shop_id": "7",
 			"msg_asset": "shop/message/shop_digimon_message",
 			"dot_icon_asset": "digimon/doticon/doticonchr317"
+		},
+		{
+			"shop_digimon_id": "8",
+			"shop_id": "8",
+			"msg_asset": "shop/message/shop_digimon_message",
+			"dot_icon_asset": "digimon/doticon/doticonchr088"
 		}
 	]
 }

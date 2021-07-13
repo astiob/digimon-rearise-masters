@@ -37,7 +37,7 @@
 			"shop_id": "12",
 			"name": "DigiOrb Exchange",
 			"cost_item_id": "22007",
-			"disp_order": "15",
+			"disp_order": "34",
 			"entrance_asset": "shop/entrance/shop_entrance002",
 			"tab_asset": "shop/skin/shop_skin011",
 			"start_date": "",
@@ -79,9 +79,9 @@
 		},
 		{
 			"shop_id": "2",
-			"name": "Item Shop",
+			"name": "Standard",
 			"cost_item_id": "21000",
-			"disp_order": "10",
+			"disp_order": "12",
 			"entrance_asset": "shop/entrance/shop_entrance006",
 			"tab_asset": "shop/skin/shop_skin006",
 			"start_date": "",
@@ -155,6 +155,28 @@
 			"end_date": "2021-03-08 11:59:59"
 		},
 		{
+			"shop_id": "3",
+			"name": "Sale",
+			"cost_item_id": "21000",
+			"disp_order": "10",
+			"entrance_asset": "shop/entrance/shop_entrance030",
+			"tab_asset": "shop/skin/shop_skin030",
+			"start_date": "",
+			"new_end_date": "",
+			"end_date": ""
+		},
+		{
+			"shop_id": "30",
+			"name": "Training Set",
+			"cost_item_id": "21000",
+			"disp_order": "11",
+			"entrance_asset": "shop/entrance/shop_entrance031",
+			"tab_asset": "shop/skin/shop_skin031",
+			"start_date": "",
+			"new_end_date": "",
+			"end_date": ""
+		},
+		{
 			"shop_id": "31",
 			"name": "X-Medal Exchange",
 			"cost_item_id": "22026",
@@ -164,6 +186,17 @@
 			"start_date": "2021-06-15 12:00:00",
 			"new_end_date": "2021-07-15 11:05:59",
 			"end_date": "2021-07-22 11:59:59"
+		},
+		{
+			"shop_id": "33",
+			"name": "Supercharged Celebration Medal",
+			"cost_item_id": "22028",
+			"disp_order": "18",
+			"entrance_asset": "shop/entrance/shopbannerbg033_02",
+			"tab_asset": "shop/skin/shop_skin033",
+			"start_date": "2021-07-15 12:00:00",
+			"new_end_date": "",
+			"end_date": "2021-08-23 11:59:59"
 		},
 		{
 			"shop_id": "4",
@@ -208,6 +241,17 @@
 			"start_date": "2021-04-18 22:00:00",
 			"new_end_date": "2021-05-16 11:59:59",
 			"end_date": "2100-03-01 05:59:59"
+		},
+		{
+			"shop_id": "8",
+			"name": "DigiDiamond Exchange",
+			"cost_item_id": "21001",
+			"disp_order": "19",
+			"entrance_asset": "shop/entrance/shopbannerbg028_02",
+			"tab_asset": "shop/skin/shop_skin028",
+			"start_date": "2021-07-15 12:00:00",
+			"new_end_date": "",
+			"end_date": ""
 		}
 	]
 }

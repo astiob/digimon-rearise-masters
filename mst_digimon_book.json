@@ -229,10 +229,10 @@
 			"code": "bakumon",
 			"sort_key": "バクモン",
 			"profile": "A Digimon that looks like a mythical beast reminiscent of a tapir that is said to eat dreams. It is believed to be a Digimon generated from a computer used for medical purposes to detect brain waves, and is said to get its nourishment from data about humans' REM sleep state. Recent studies have shown that this Digimon has the power to erase nightmares and malicious computer viruses. Due to its ability to transform nightmares and viruses it has absorbed into something unthreatening and normal, it is thought of as a Holy Digimon. Its unique holy abilities likely have something to do with the Holy Ring it dons on its forelimb. Its special move is Nightmare Syndrome, in which it unleashes all nightmares it has taken in at once to terrorize its opponent. This is the same move that Digitamamon uses, but it is a mystery why Tapirmon is able to use it as well.",
-			"icon_asset": "digimon/icon/digimonface1319202",
+			"icon_asset": "digimon/icon/digimonface1357502",
 			"attribute": "0",
 			"type": "26",
-			"start_date": "2121-01-29 12:00:00"
+			"start_date": "2021-04-30 12:00:00"
 		},
 		{
 			"code": "bandemon",
@@ -314,6 +314,15 @@
 			"attribute": "0",
 			"type": "26",
 			"start_date": "2120-04-16 12:00:00"
+		},
+		{
+			"code": "bazirmon",
+			"sort_key": "ヴァジラモン",
+			"profile": "One of the twelve Deva Digimon, this Ultimate Digimon's appearance resembles a cow. It serves Xuanwumon, one of the Four Holy Beasts. A truth-seeker who aims to reach the pinnacle of physical and mental fortitude. Unwilling to resort to cowardice and cheap tricks, it carries itself with honor and grace, like a samurai of old. Able to wield Bao Jian—two massive swords—at its waist, Vajramon’s physical prowess tops all other Deva Digimon. Its special move is Rodha, in which Vajramon puts the full weight of its body into its dual swords before striking the ground and creating a 50-meter rift. The shockwaves from the attack send debris hurtling in all directions, damaging foes nearby.",
+			"icon_asset": "digimon/icon/digimonface1326114",
+			"attribute": "0",
+			"type": "26",
+			"start_date": "2021-04-12 12:00:00"
 		},
 		{
 			"code": "beamon",
@@ -418,10 +427,19 @@
 			"code": "bikaraaramon",
 			"sort_key": "ヴィカラーラモン",
 			"profile": "One of the twelve Deva Digimon, this Ultimate Digimon's appearance resembles a wild boar. It serves Xuanwumon, one of the Four Holy Beasts. Often seen laughing away at another's predicament, Vikaralamon prefers being a spectator over getting involved. Though it has the ability to sleep with its eyes wide open, the facade is always broken by the sounds of its snores and grinding teeth. Bao Lun, the ring of light that Vikaralamon discharges from its mouth has different effects based on its color: blue rings capture targets; yellow rings are able to carry items by taking on the shape of a disc; green rings heal anything that pass through them. Its special move is Fusion Ball, where it strikes enemies with a red ring.",
-			"icon_asset": "digimon/icon/digimonface1275204",
+			"icon_asset": "digimon/icon/digimonface1336414",
 			"attribute": "0",
 			"type": "26",
-			"start_date": "2120-07-29 12:00:00"
+			"start_date": "2021-04-12 12:00:00"
+		},
+		{
+			"code": "boamon",
+			"sort_key": "ボアモン",
+			"profile": "An Armor Mammal Digimon that has Digivolved using the power of the Digi-Egg of Bravery. This Digimon seems to be the embodiment of the phrase \"diving into something head first.\" Its legs, tail, mane, and other parts of its body are covered in flames. No one can stop Boarmon from dashing forward, and some even say that the program that controls Boarmon's thoughts has no concept of yielding or changing tactic. Since its forehead is covered with a metal assault headband made of Chrome Digizoid, it is able to smash through any obstacles in its path. Its special move is Nose Blaster, in which it inhales a large amount of air from the atmosphere and releases a breath of incredibly hot air from its snout.",
+			"icon_asset": "digimon/icon/digimonface1336404",
+			"attribute": "4",
+			"type": "18",
+			"start_date": "2021-04-12 12:00:00"
 		},
 		{
 			"code": "boobomon",
@@ -557,6 +575,15 @@
 			"attribute": "1",
 			"type": "23",
 			"start_date": "2020-03-01 12:00:00"
+		},
+		{
+			"code": "burumon",
+			"sort_key": "ブルモン",
+			"profile": "An Armor Mammal Digimon that has Digivolved using the power of the Digi-Egg of Hope. It has the appearance of a fighting bull as well as the impressive destructive power and stampeding power. However, it can only move forwards when moving at full speed, unable to turn or move backwards. It also has a rather impatient personality and its weakness is that it gets easily agitated when it sees something red. Its special move is Matador Dash, in which it rushes at its enemies at an incredibly high speed with its two horns at the ready.",
+			"icon_asset": "digimon/icon/digimonface1326104",
+			"attribute": "4",
+			"type": "18",
+			"start_date": "2021-04-12 12:00:00"
 		},
 		{
 			"code": "buruumeramon",
@@ -1579,10 +1606,10 @@
 			"code": "kunbiramon",
 			"sort_key": "クンビラモン",
 			"profile": "One of the twelve Deva Digimon, this Ultimate Digimon's appearance resembles a mouse. It serves Xuanwumon, one of the Four Holy Beasts. In fact, the Digimon's vast intellect has awarded it the privilege of being Xuanwumon's partner in scholarly discourse. Kumbhiramon is also capable of reading the minds of other Digimon, with the exception of Xuanwumon, and has a habit of telling its opponents their next move, causing them a great deal of confusion. Though it likes to spew sarcasm, its words always carry less of a sting as they come out as high-pitched squeaks. Kumbhiramon lacks the muscle needed for hand-to-hand combat, but makes up for it with its powerful psychokinesis, which even lets it control Bao Chu—a giant steel pestle the size of its body—at will. Its special move is Krimisa, where it splits itself into six duplicates who, together, create a hexagram-shaped barrier to trap a foe which it then smashes with Bao Chu and deletes.",
-			"icon_asset": "digimon/icon/digimonface1249304",
+			"icon_asset": "digimon/icon/digimonface1325314",
 			"attribute": "0",
 			"type": "26",
-			"start_date": "2120-05-26 12:00:00"
+			"start_date": "2021-04-12 12:00:00"
 		},
 		{
 			"code": "kuramon",
@@ -1828,6 +1855,15 @@
 			"start_date": "2020-10-05 12:00:00"
 		},
 		{
+			"code": "metarikkudoramon",
+			"sort_key": "メタリックドラモン",
+			"profile": "This Digimon flies at the speed of light up in the skies of the Digital World, too fast even for other Digimon that can fly. There is a theory that when Metallicdramon flaps its wings high in the sky, it releases mysterious particles that help maintain harmony throughout the Digital World. When Metallicdramon descends in altitude enough to be seen, it is said to be an omen that something is coming.\nIts special move is Laser Cannon, in which it uses the powerful beam of light stored inside the laser gun on its tail to annihilate enemies in a straight line. The light emitted once the technique is activated can be seen from 10 kilometers away, and those who witness it at close range will be blinded by its glare.\nIn addition, it can also change its Laser Cannon into a Laser Saber that can cut down enemies at high speeds.",
+			"icon_asset": "digimon/icon/digimonface1355505",
+			"attribute": "2",
+			"type": "68",
+			"start_date": "2021-04-30 12:00:00"
+		},
+		{
 			"code": "metaruetemon",
 			"sort_key": "メタルエテモン",
 			"profile": "There once was a powerful Digimon known as the \"King of Digimon.\" It embarked on a journey in search for powerful rivals. It fought countless harsh battles, gaining valuable combat data but injuring itself in the process. It studied its own weak points using the data it acquired in battle and transformed its whole body into metal, reinventing itself as the ultimate fighting machine. The surface of its body is fully coated in Chrome Digizoid. Its special move, Banana Slip, boosts its combat abilities to immeasurable heights to topple the enemy. This is the birth of an invincible fighter, master of both strong and dirty combat styles.",
@@ -1961,6 +1997,15 @@
 			"attribute": "0",
 			"type": "36",
 			"start_date": "2019/07/01 12:00:00"
+		},
+		{
+			"code": "monokuromon",
+			"sort_key": "モノクロモン",
+			"profile": "An Ankylosaur Digimon with a rhinoceros-like horn on the tip of its nose. Its huge horn can become large enough to account for half of its body length. The material covering its horn and half of its body is as hard as a diamond, and it is said that its horn can pierce through anything. Monochromon can be said to be a Digimon that excels in both defense and offense. They are herbivorous and relatively docile, but if angered their heavy tank-like bodies are capable of unleashing a terrifying counterattack. Its special move is Volcanic Strike, in which it unleashes a powerful flaming bullet.",
+			"icon_asset": "digimon/icon/digimonface1357503",
+			"attribute": "2",
+			"type": "46",
+			"start_date": "2021-04-30 12:00:00"
 		},
 		{
 			"code": "monzaemon",
@@ -2375,6 +2420,15 @@
 			"attribute": "1",
 			"type": "40",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "pureirimon",
+			"sort_key": "プレイリモン",
+			"profile": "An Armor Beast Digimon that has Digivolved using the power of the Digi-Egg of Kindness. They live by digging holes in the dry earth and are capable of digging through the ground with the large claws of both arms at speeds of up to 100 kilometers per hour. It has been confirmed that they are timid and have a tendency to move in groups, so they rarely appear above ground. Since they have a habit of sunbathing in groups on sunny, windless days, it is possible for those researching about Prairiemon to track them down if they are able to read weather maps. When it is attacked by an enemy and finds itself in a pinch, it will sometimes fight back with its Sonic Ears, in which the blades on its ears accelerate to the speed of sound to cut down its enemies. However, more often than not, it will simply quickly dig a hole in the ground to run away.",
+			"icon_asset": "digimon/icon/digimonface1325304",
+			"attribute": "4",
+			"type": "21",
+			"start_date": "2021-04-12 12:00:00"
 		},
 		{
 			"code": "puresiomon",
@@ -3500,6 +3554,33 @@
 			"attribute": "0",
 			"type": "23",
 			"start_date": "2019/07/01 12:00:00"
+		},
+		{
+			"code": "zyazaadomon",
+			"sort_key": "ジャザードモン",
+			"profile": "A Digimon with the appearance of both a dragon and a fighter jet, a result of two forms of data being mixed together. It is capable of flying at high speeds, as well as hovering, landing, and vertical take off due to its legs. It is somewhat of an eccentric Digimon that is constantly vigilant because it enjoys reconnaissance as a hobby. This Digimon has night vision, heat sensors, and ultrasonic sensors, making it impossible to approach them unnoticed.\nIts special moves are Laser Eye, in which it shoots lasers from both of its eyes, and Sonic Vulcan, in which it fires a high-speed machine gun from its shoulders.",
+			"icon_asset": "digimon/icon/digimonface1355503",
+			"attribute": "2",
+			"type": "113",
+			"start_date": "2021-04-30 12:00:00"
+		},
+		{
+			"code": "zyazamon",
+			"sort_key": "ジャザモン",
+			"profile": "A Machine Digimon with the appearance of a bird. It can use its wings to glide down from high places, but is incapable of flapping its wings to fly in the air. It is overly cautious and gets nervous about moving objects in its surroundings, regardless of whether it is day or night.\nIts special move is Knock Knock Peck, where it pecks at the enemy with its hard beak.",
+			"icon_asset": "digimon/icon/digimonface1355502",
+			"attribute": "2",
+			"type": "3425",
+			"start_date": "2021-04-30 12:00:00"
+		},
+		{
+			"code": "zyazarihhimon",
+			"sort_key": "ジャザリッヒモン",
+			"profile": "A Digimon that specializes in aerial combat and flies at the speed of sound. An expert at dogfights, the number of enemies this Digimon has defeated is far too many to count. This Digimon ranks at the top when it comes to aerial combat in the Digital World, rivaling that of Wingdramon. Since it has legs, neither the surface of the ground nor areas with many obstacles can interfere with its supersonic flight.\nIts special moves are Messer Spiral, in which it spins at high speeds as it charges at the enemy, and N.S.B.M., in which it fires lasers from its tail even if it is attacked from behind.",
+			"icon_asset": "digimon/icon/digimonface1355504",
+			"attribute": "2",
+			"type": "113",
+			"start_date": "2021-04-30 12:00:00"
 		},
 		{
 			"code": "zyureimon",
