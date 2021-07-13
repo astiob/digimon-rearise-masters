@@ -117,70 +117,70 @@
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "[if)is_multiple_attack]使攻擊對象的[/if)is_multiple_attack][elif)is_multiple_attack]使敵人[@target_num]單體[/@target_num]的[/elif)is_multiple_attack]Buff減少[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]回合"
+			"text": "[if)is_multiple_attack]使攻擊對象的[/if)is_multiple_attack][elif)is_multiple_attack]使敵人[@target_num]單體[/@target_num]的[/elif)is_multiple_attack]Buff減少[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]回合。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "[if)is_multiple_attack]使攻擊對象的[/if)is_multiple_attack][elif)is_multiple_attack]使[@target_num]2隻[/@target_num]敵人的[/elif)is_multiple_attack]Buff減少[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]回合"
+			"text": "[if)is_multiple_attack]使攻擊對象的[/if)is_multiple_attack][elif)is_multiple_attack]使[@target_num]2隻[/@target_num]敵人的[/elif)is_multiple_attack]Buff減少[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]回合。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "[if)is_multiple_attack]使攻擊對象的[/if)is_multiple_attack][elif)is_multiple_attack]使[@target_num]3隻[/@target_num]敵人的[/elif)is_multiple_attack]Buff減少[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]回合"
+			"text": "[if)is_multiple_attack]使攻擊對象的[/if)is_multiple_attack][elif)is_multiple_attack]使[@target_num]3隻[/@target_num]敵人的[/elif)is_multiple_attack]Buff減少[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]回合。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "[if)is_multiple_attack]使攻擊對象的[/if)is_multiple_attack][elif)is_multiple_attack]使[@target_num]4隻[/@target_num]敵人的[/elif)is_multiple_attack]Buff減少[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]回合"
+			"text": "[if)is_multiple_attack]使攻擊對象的[/if)is_multiple_attack][elif)is_multiple_attack]使[@target_num]4隻[/@target_num]敵人的[/elif)is_multiple_attack]Buff減少[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]回合。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "2",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "[if)is_multiple_attack]使攻擊對象的[/if)is_multiple_attack][elif)is_multiple_attack]使敵人[@target_num]全體[/@target_num]的[/elif)is_multiple_attack]Buff減少[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]回合"
+			"text": "[if)is_multiple_attack]使攻擊對象的[/if)is_multiple_attack][elif)is_multiple_attack]使敵人[@target_num]全體[/@target_num]的[/elif)is_multiple_attack]Buff減少[@buff_turn_reduce][:buff_turn_reduce:][/@buff_turn_reduce]回合。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "3",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "無視敵人的DEF"
+			"text": "無視敵人的DEF。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "3",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "無視敵人的DEF"
+			"text": "無視敵人的DEF。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "3",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "無視敵人的DEF"
+			"text": "無視敵人的DEF。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "3",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "無視敵人的DEF"
+			"text": "無視敵人的DEF。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "3",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "無視敵人的DEF"
+			"text": "無視敵人的DEF。"
 		},
 		{
 			"action_efficacy_type": "0",
@@ -292,140 +292,147 @@
 			"index_in_type": "7",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "會無視奧米加獸等數碼寶貝的傷害限制，給予傷害。"
+			"text": "無視傷害限制效果給予傷害。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "7",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "會無視奧米加獸等數碼寶貝的傷害限制，給予傷害。"
+			"text": "無視傷害限制效果給予傷害。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "7",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "會無視奧米加獸等數碼寶貝的傷害限制，給予傷害。"
+			"text": "無視傷害限制效果給予傷害。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "7",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "會無視奧米加獸等數碼寶貝的傷害限制，給予傷害。"
+			"text": "無視傷害限制效果給予傷害。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "7",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "會無視奧米加獸等數碼寶貝的傷害限制，給予傷害。"
+			"text": "無視傷害限制效果給予傷害。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "8",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "將自身HP回復給予傷害的[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]"
+			"text": "將自身HP回復給予傷害的[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "8",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "將自身HP回復給予傷害的[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]"
+			"text": "將自身HP回復給予傷害的[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "8",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "將自身HP回復給予傷害的[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]"
+			"text": "將自身HP回復給予傷害的[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "8",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "將自身HP回復給予傷害的[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]"
+			"text": "將自身HP回復給予傷害的[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "8",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "將自身HP回復給予傷害的[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]"
+			"text": "將自身HP回復給予傷害的[@hp_drain_rate][:hp_drain_rate:]%[/@hp_drain_rate]。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "9",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "傷害有極低機率會變成[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]"
+			"text": "傷害有極低機率會變成[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "9",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "傷害有極低機率會變成[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]"
+			"text": "傷害有極低機率會變成[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "9",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "傷害有極低機率會變成[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]"
+			"text": "傷害有極低機率會變成[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "9",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "傷害有極低機率會變成[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]"
+			"text": "傷害有極低機率會變成[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]。"
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "9",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "傷害有極低機率會變成[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]"
+			"text": "傷害有極低機率會變成[@super_critical_damage][:super_critical_damage:]倍[/@super_critical_damage]。"
 		},
 		{
 			"action_efficacy_type": "1",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "回復個性為「勇敢」的我方[@target_num][/@target_num]HP[@strength][:strength:]%[/@strength]。"
+			"text": "回復個性為「[:personality_target_ex:]」的友軍[@target_num][/@target_num]HP[@strength][:strength:][/@strength]%。"
 		},
 		{
 			"action_efficacy_type": "1",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "回復個性為「冷靜」的我方[@target_num][/@target_num]HP[@strength][:strength:]%[/@strength]。"
+			"text": "回復個性為「[:personality_target_ex:]」的友軍[@target_num][/@target_num]HP[@strength][:strength:][/@strength]%。"
 		},
 		{
 			"action_efficacy_type": "1",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "回復個性為「精明」的我方[@target_num][/@target_num]HP[@strength][:strength:]%[/@strength]。"
+			"text": "回復個性為「[:personality_target_ex:]」的友軍[@target_num][/@target_num]HP[@strength][:strength:][/@strength]%。"
 		},
 		{
 			"action_efficacy_type": "1",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "回復個性為「不屈」的我方[@target_num][/@target_num]HP[@strength][:strength:]%[/@strength]。"
+			"text": "回復個性為「[:personality_target_ex:]」的友軍[@target_num][/@target_num]HP[@strength][:strength:][/@strength]%。"
 		},
 		{
 			"action_efficacy_type": "1",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "回復個性為「奉獻」的我方[@target_num][/@target_num]HP[@strength][:strength:]%[/@strength]。"
+			"text": "回復個性為「[:personality_target_ex:]」的友軍[@target_num][/@target_num]HP[@strength][:strength:][/@strength]%。"
+		},
+		{
+			"action_efficacy_type": "1",
+			"index_in_type": "0",
+			"target_type": "2",
+			"target_num": "1",
+			"text": "回復自身HP[@strength][:strength:]%[/@strength]。"
 		},
 		{
 			"action_efficacy_type": "1",
@@ -754,35 +761,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "使個性為「勇敢」的友軍[:attack_type:][:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍[:attack_type:][:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "使個性為「冷靜」的友軍[:attack_type:][:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍[:attack_type:][:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "使個性為「精明」的友軍[:attack_type:][:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍[:attack_type:][:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "使個性為「不屈」的友軍[:attack_type:][:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍[:attack_type:][:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "使個性為「奉獻」的友軍[:attack_type:][:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍[:attack_type:][:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "14",
@@ -901,35 +908,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "使個性為「勇敢」的友軍狙擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍狙擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "使個性為「冷靜」的友軍狙擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍狙擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "使個性為「精明」的友軍狙擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍狙擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "使個性為「不屈」的友軍狙擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍狙擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "使個性為「奉獻」的友軍狙擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍狙擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "15",
@@ -1048,35 +1055,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "使個性為「勇敢」的友軍反擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍反擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "使個性為「冷靜」的友軍反擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍反擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "使個性為「精明」的友軍反擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍反擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "使個性為「不屈」的友軍反擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍反擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "使個性為「奉獻」的友軍反擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍反擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "16",
@@ -1195,35 +1202,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "使個性為「勇敢」的友軍格擋率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍格擋率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "使個性為「冷靜」的友軍格擋率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍格擋率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "使個性為「精明」的友軍格擋率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍格擋率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "使個性為「不屈」的友軍格擋率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍格擋率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "使個性為「奉獻」的友軍格擋率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍格擋率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "17",
@@ -2077,35 +2084,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "使個性為「勇敢」的友軍[:attack_type:]傷害抗性[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍[:attack_type:]傷害抗性[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "使個性為「冷靜」的友軍[:attack_type:]傷害抗性[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍[:attack_type:]傷害抗性[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "使個性為「精明」的友軍[:attack_type:]傷害抗性[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍[:attack_type:]傷害抗性[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "使個性為「不屈」的友軍[:attack_type:]傷害抗性[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍[:attack_type:]傷害抗性[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "使個性為「奉獻」的友軍[:attack_type:]傷害抗性[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍[:attack_type:]傷害抗性[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "25",
@@ -2224,273 +2231,273 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "定時回復個性為「勇敢」的友軍HP[@strength][:strength:][/@strength]。（[@duration][:duration:][/@duration]）"
+			"text": "定時回復個性為「[:personality_target_ex:]」的友軍HP[@strength][:strength:][/@strength]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "26",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "定時回復個性為「冷靜」的友軍HP[@strength][:strength:][/@strength]。（[@duration][:duration:][/@duration]）"
+			"text": "定時回復個性為「[:personality_target_ex:]」的友軍HP[@strength][:strength:][/@strength]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "26",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "定時回復個性為「精明」的友軍HP[@strength][:strength:][/@strength]。（[@duration][:duration:][/@duration]）"
+			"text": "定時回復個性為「[:personality_target_ex:]」的友軍HP[@strength][:strength:][/@strength]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "26",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "定時回復個性為「不屈」的友軍HP[@strength][:strength:][/@strength]。（[@duration][:duration:][/@duration]）"
+			"text": "定時回復個性為「[:personality_target_ex:]」的友軍HP[@strength][:strength:][/@strength]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "26",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "定時回復個性為「奉獻」的友軍HP[@strength][:strength:][/@strength]。（[@duration][:duration:][/@duration]）"
+			"text": "定時回復個性為「[:personality_target_ex:]」的友軍HP[@strength][:strength:][/@strength]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "26",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "定時回復自身HP[@strength][:strength:][/@strength]（[@duration][:duration:][/@duration]）"
+			"text": "定時回復自身HP[@strength][:strength:][/@strength]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "使友軍[@target_num]單體[/@target_num]的最大HP提升[@value][:value:]%[/@value]（永續）"
+			"text": "使友軍[@target_num]單體[/@target_num]的最大HP提升[@value][:value:]%[/@value]。（永續）"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "使[@target_num]2隻[/@target_num]友軍的最大HP提升[@value][:value:]%[/@value]（永續）"
+			"text": "使[@target_num]2隻[/@target_num]友軍的最大HP提升[@value][:value:]%[/@value]。（永續）"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "使[@target_num]3隻[/@target_num]友軍的最大HP提升[@value][:value:]%[/@value]（永續）"
+			"text": "使[@target_num]3隻[/@target_num]友軍的最大HP提升[@value][:value:]%[/@value]。（永續）"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "使[@target_num]4隻[/@target_num]友軍的最大HP提升[@value][:value:]%[/@value]（永續）"
+			"text": "使[@target_num]4隻[/@target_num]友軍的最大HP提升[@value][:value:]%[/@value]。（永續）"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "使友軍[@target_num]全體[/@target_num]的最大HP提升[@value][:value:]%[/@value]（永續）"
+			"text": "使友軍[@target_num]全體[/@target_num]的最大HP提升[@value][:value:]%[/@value]。（永續）"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "使個性為「勇敢」的友軍的最大HP提升[@value][:value:]%[/@value]（永續）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍的最大HP提升[@value][:value:]%[/@value]。（永續）"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "使個性為「冷靜」的友軍的最大HP提升[@value][:value:]%[/@value]（永續）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍的最大HP提升[@value][:value:]%[/@value]。（永續）"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "使個性為「精明」的友軍的最大HP提升[@value][:value:]%[/@value]（永續）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍的最大HP提升[@value][:value:]%[/@value]。（永續）"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "使個性為「不屈」的友軍的最大HP提升[@value][:value:]%[/@value]（永續）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍的最大HP提升[@value][:value:]%[/@value]。（永續）"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "使個性為「奉獻」的友軍的最大HP提升[@value][:value:]%[/@value]（永續）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍的最大HP提升[@value][:value:]%[/@value]。（永續）"
 		},
 		{
 			"action_efficacy_type": "27",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "使自己的最大HP提升[@value][:value:]%[/@value]（永續）"
+			"text": "使自己的最大HP提升[@value][:value:]%[/@value]。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "[:accumulate_type:]時使友軍[@target_num]單體[/@target_num]的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%（永續）"
+			"text": "[:accumulate_type:]時使友軍[@target_num]單體[/@target_num]的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "[:accumulate_type:]時使[@target_num]2隻[/@target_num]友軍的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%（永續）"
+			"text": "[:accumulate_type:]時使[@target_num]2隻[/@target_num]友軍的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "[:accumulate_type:]時使[@target_num]3隻[/@target_num]友軍的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%（永續）"
+			"text": "[:accumulate_type:]時使[@target_num]3隻[/@target_num]友軍的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "[:accumulate_type:]時使[@target_num]4隻[/@target_num]友軍的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%（永續）"
+			"text": "[:accumulate_type:]時使[@target_num]4隻[/@target_num]友軍的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "[:accumulate_type:]時使友軍[@target_num]全體[/@target_num]的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%（永續）"
+			"text": "[:accumulate_type:]時使友軍[@target_num]全體[/@target_num]的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "[:accumulate_type:]時使個性為「勇敢」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，\n最多上升至[:accumulate_attack_max:]%（永續）"
+			"text": "[:accumulate_type:]時使個性為「[:personality_target_ex:]」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "[:accumulate_type:]時使個性為「冷靜」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，\n最多上升至[:accumulate_attack_max:]%（永續）"
+			"text": "[:accumulate_type:]時使個性為「[:personality_target_ex:]」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "[:accumulate_type:]時使個性為「精明」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，\n最多上升至[:accumulate_attack_max:]%（永續）"
+			"text": "[:accumulate_type:]時使個性為「[:personality_target_ex:]」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "[:accumulate_type:]時使個性為「不屈」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，\n最多上升至[:accumulate_attack_max:]%（永續）"
+			"text": "[:accumulate_type:]時使個性為「[:personality_target_ex:]」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "[:accumulate_type:]時使個性為「奉獻」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，\n最多上升至[:accumulate_attack_max:]%（永續）"
+			"text": "[:accumulate_type:]時使個性為「[:personality_target_ex:]」的友軍的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "[:accumulate_type:]時使自己的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%（永續）"
+			"text": "[:accumulate_type:]時使自己的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "對友軍[@target_num]單體[/@target_num]附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果（永續）"
+			"text": "對友軍[@target_num]單體[/@target_num]附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "對[@target_num]2隻[/@target_num]友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果（永續）"
+			"text": "對[@target_num]2隻[/@target_num]友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "對[@target_num]3隻[/@target_num]友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果（永續）"
+			"text": "對[@target_num]3隻[/@target_num]友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "對[@target_num]4隻[/@target_num]友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果（永續）"
+			"text": "對[@target_num]4隻[/@target_num]友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "對友軍[@target_num]全體[/@target_num]附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果（永續）"
+			"text": "對友軍[@target_num]全體[/@target_num]附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果（永續）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果（永續）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果（永續）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果（永續）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果（永續）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[:accumulate_type:]時[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%的效果。（永續）"
 		},
 		{
 			"action_efficacy_type": "28",
 			"index_in_type": "1",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "[:accumulate_type:]時使自己的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%（永續）"
+			"text": "[:accumulate_type:]時使自己的[:attack_type:]上升[@value][:value:]%[/@value]，最多上升至[:accumulate_attack_max:]%。（永續）"
 		},
 		{
 			"action_efficacy_type": "29",
@@ -2532,35 +2539,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加[@count][:count:][/@count]次迴避攻擊效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次迴避攻擊效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加[@count][:count:][/@count]次迴避攻擊效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次迴避攻擊效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加[@count][:count:][/@count]次迴避攻擊效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次迴避攻擊效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加[@count][:count:][/@count]次迴避攻擊效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次迴避攻擊效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "29",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加[@count][:count:][/@count]次迴避攻擊效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次迴避攻擊效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "29",
@@ -2609,7 +2616,7 @@
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "戰鬥開始時不論為先攻或後攻，皆先行發動主要技能"
+			"text": "戰鬥開始時不論為先攻或後攻，皆先行發動主要技能。"
 		},
 		{
 			"action_efficacy_type": "31",
@@ -2651,35 +2658,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加[@count][:count:][/@count]次使用技能後，CT減少[@value][:value:][/@value]％的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次使用技能後，CT減少[@value][:value:][/@value]%的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加[@count][:count:][/@count]次使用技能後，CT減少[@value][:value:][/@value]％的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次使用技能後，CT減少[@value][:value:][/@value]%的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加[@count][:count:][/@count]次使用技能後，CT減少[@value][:value:][/@value]％的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次使用技能後，CT減少[@value][:value:][/@value]%的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加[@count][:count:][/@count]次使用技能後，CT減少[@value][:value:][/@value]％的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次使用技能後，CT減少[@value][:value:][/@value]%的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "31",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加[@count][:count:][/@count]次使用技能後，CT減少[@value][:value:][/@value]％的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次使用技能後，CT減少[@value][:value:][/@value]%的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "31",
@@ -2728,7 +2735,7 @@
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "附加「九龍之力」（永續）\n※「九龍之力」……只要進行攻擊就累積一次力量，當力量累積到「九」時，技能可造成[@value][:value:][/@value]倍傷害一次"
+			"text": "附加「九龍之力」。（永續）\n※「九龍之力」……只要進行攻擊就累積一次力量，當力量累積到「九」時，技能可造成[@value][:value:][/@value]倍傷害一次。"
 		},
 		{
 			"action_efficacy_type": "33",
@@ -2770,35 +2777,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加使敵人攻擊的爆擊補正無效的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加使敵人攻擊的爆擊補正無效的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "33",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加使敵人攻擊的爆擊補正無效的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加使敵人攻擊的爆擊補正無效的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "33",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加使敵人攻擊的爆擊補正無效的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加使敵人攻擊的爆擊補正無效的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "33",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加使敵人攻擊的爆擊補正無效的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加使敵人攻擊的爆擊補正無效的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "33",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加使敵人攻擊的爆擊補正無效的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加使敵人攻擊的爆擊補正無效的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "33",
@@ -2847,35 +2854,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加[:count_ex:]抑制敵人傷害最多至[@value][:value:][/@value]的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[:count_ex:]抑制敵人傷害最多至[@value][:value:][/@value]的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加[:count_ex:]抑制敵人傷害最多至[@value][:value:][/@value]的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[:count_ex:]抑制敵人傷害最多至[@value][:value:][/@value]的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加[:count_ex:]抑制敵人傷害最多至[@value][:value:][/@value]的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[:count_ex:]抑制敵人傷害最多至[@value][:value:][/@value]的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加[:count_ex:]抑制敵人傷害最多至[@value][:value:][/@value]的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[:count_ex:]抑制敵人傷害最多至[@value][:value:][/@value]的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加[:count_ex:]抑制敵人傷害最多至[@value][:value:][/@value]的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[:count_ex:]抑制敵人傷害最多至[@value][:value:][/@value]的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "34",
@@ -2924,35 +2931,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加格擋時[@value][:value:][/@value]%的減傷效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加格擋時[@value][:value:][/@value]%的減傷效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加格擋時[@value][:value:][/@value]%的減傷效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加格擋時[@value][:value:][/@value]%的減傷效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加格擋時[@value][:value:][/@value]%的減傷效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加格擋時[@value][:value:][/@value]%的減傷效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加格擋時[@value][:value:][/@value]%的減傷效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加格擋時[@value][:value:][/@value]%的減傷效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "35",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加格擋時[@value][:value:][/@value]%的減傷效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加格擋時[@value][:value:][/@value]%的減傷效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "35",
@@ -3036,35 +3043,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加承受敵人攻擊至多[@shield_hp][:shield_hp:][/@shield_hp]傷害的護盾效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加承受敵人攻擊至多[@shield_hp][:shield_hp:][/@shield_hp]傷害的護盾效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "36",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加承受敵人攻擊至多[@shield_hp][:shield_hp:][/@shield_hp]傷害的護盾效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加承受敵人攻擊至多[@shield_hp][:shield_hp:][/@shield_hp]傷害的護盾效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "36",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加承受敵人攻擊至多[@shield_hp][:shield_hp:][/@shield_hp]傷害的護盾效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加承受敵人攻擊至多[@shield_hp][:shield_hp:][/@shield_hp]傷害的護盾效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "36",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加承受敵人攻擊至多[@shield_hp][:shield_hp:][/@shield_hp]傷害的護盾效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加承受敵人攻擊至多[@shield_hp][:shield_hp:][/@shield_hp]傷害的護盾效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "36",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加承受敵人攻擊至多[@shield_hp][:shield_hp:][/@shield_hp]傷害的護盾效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加承受敵人攻擊至多[@shield_hp][:shield_hp:][/@shield_hp]傷害的護盾效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "36",
@@ -3113,35 +3120,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加對個性為「[:personality_killer:]」的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對個性為「[:personality_killer:]」的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "37",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加對個性為「[:personality_killer:]」的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對個性為「[:personality_killer:]」的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "37",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加對個性為「[:personality_killer:]」的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對個性為「[:personality_killer:]」的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "37",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加對個性為「[:personality_killer:]」的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對個性為「[:personality_killer:]」的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "37",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加對個性為「[:personality_killer:]」的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對個性為「[:personality_killer:]」的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "37",
@@ -3190,35 +3197,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加反擊時造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加反擊時造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "38",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加反擊時造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加反擊時造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "38",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加反擊時造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加反擊時造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "38",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加反擊時造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加反擊時造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "38",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加反擊時造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加反擊時造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "38",
@@ -3267,35 +3274,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對「[:digimon_group_name:]數碼寶貝」敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "39",
@@ -3309,42 +3316,42 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "解除對個性為「勇敢」的友軍的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]。"
+			"text": "解除對個性為「[:personality_target_ex:]」的友軍的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]。"
 		},
 		{
 			"action_efficacy_type": "4",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "解除對個性為「冷靜」的友軍的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]。"
+			"text": "解除對個性為「[:personality_target_ex:]」的友軍的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]。"
 		},
 		{
 			"action_efficacy_type": "4",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "解除對個性為「精明」的友軍的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]。"
+			"text": "解除對個性為「[:personality_target_ex:]」的友軍的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]。"
 		},
 		{
 			"action_efficacy_type": "4",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "解除對個性為「不屈」的友軍的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]。"
+			"text": "解除對個性為「[:personality_target_ex:]」的友軍的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]。"
 		},
 		{
 			"action_efficacy_type": "4",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "解除對個性為「奉獻」的友軍的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]。"
+			"text": "解除對個性為「[:personality_target_ex:]」的友軍的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]。"
 		},
 		{
 			"action_efficacy_type": "4",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "解除自己的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]"
+			"text": "解除自己的[@remove_influence_mask][:remove_influence_mask:][/@remove_influence_mask]。"
 		},
 		{
 			"action_efficacy_type": "4",
@@ -3358,252 +3365,252 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "對友軍[@target_num]單體[/@target_num]附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果"
+			"text": "對友軍[@target_num]單體[/@target_num]附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果。"
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "對[@target_num]2隻[/@target_num]友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果"
+			"text": "對[@target_num]2隻[/@target_num]友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果。"
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "對[@target_num]3隻[/@target_num]友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果"
+			"text": "對[@target_num]3隻[/@target_num]友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果。"
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "對[@target_num]4隻[/@target_num]友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果"
+			"text": "對[@target_num]4隻[/@target_num]友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果。"
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "對友軍[@target_num]全體[/@target_num]附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果"
+			"text": "對友軍[@target_num]全體[/@target_num]附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果。"
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果。"
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果。"
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果。"
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果。"
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果。"
 		},
 		{
 			"action_efficacy_type": "40",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "對自己附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果"
+			"text": "對自己附加無法戰鬥時，自動以[@strength][:strength:][/@strength]%HP復活1次的效果。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "15",
 			"target_num": "5",
-			"text": "抵消個性為「勇敢」的敵人的[:text_id_ex:]"
+			"text": "抵消個性為「[:personality_target_ex:]」的敵人的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "16",
 			"target_num": "5",
-			"text": "抵消個性為「冷靜」的敵人的[:text_id_ex:]"
+			"text": "抵消個性為「[:personality_target_ex:]」的敵人的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "17",
 			"target_num": "5",
-			"text": "抵消個性為「精明」的敵人的[:text_id_ex:]"
+			"text": "抵消個性為「[:personality_target_ex:]」的敵人的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "18",
 			"target_num": "5",
-			"text": "抵消個性為「不屈」的敵人的[:text_id_ex:]"
+			"text": "抵消個性為「[:personality_target_ex:]」的敵人的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "19",
 			"target_num": "5",
-			"text": "抵消個性為「奉獻」的敵人的[:text_id_ex:]"
+			"text": "抵消個性為「[:personality_target_ex:]」的敵人的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "抵消[@target_num]單體[/@target_num]敵人的[:text_id_ex:]"
+			"text": "抵消[@target_num]單體[/@target_num]敵人的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "抵消[@target_num]2隻[/@target_num]敵人的[:text_id_ex:]"
+			"text": "抵消[@target_num]2隻[/@target_num]敵人的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "抵消[@target_num]3隻[/@target_num]敵人的[:text_id_ex:]"
+			"text": "抵消[@target_num]3隻[/@target_num]敵人的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "抵消[@target_num]4隻[/@target_num]敵人的[:text_id_ex:]"
+			"text": "抵消[@target_num]4隻[/@target_num]敵人的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "抵消[@target_num]全體[/@target_num]敵人的[:text_id_ex:]"
+			"text": "抵消[@target_num]全體[/@target_num]敵人的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "100",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "抵消攻擊對象的[:text_id_ex:]"
+			"text": "抵消攻擊對象的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "100",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "抵消攻擊對象的[:text_id_ex:]"
+			"text": "抵消攻擊對象的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "100",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "抵消攻擊對象的[:text_id_ex:]"
+			"text": "抵消攻擊對象的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "100",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "抵消攻擊對象的[:text_id_ex:]"
+			"text": "抵消攻擊對象的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "100",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "抵消攻擊對象的[:text_id_ex:]"
+			"text": "抵消攻擊對象的[:text_id_ex:]。"
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "對敵人[@target_num]單體[/@target_num]以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果"
+			"text": "對敵人[@target_num]單體[/@target_num]以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果。"
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "對[@target_num]2隻[/@target_num]敵人以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果"
+			"text": "對[@target_num]2隻[/@target_num]敵人以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果。"
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "對[@target_num]3隻[/@target_num]敵人以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果"
+			"text": "對[@target_num]3隻[/@target_num]敵人以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果。"
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "對[@target_num]4隻[/@target_num]敵人以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果"
+			"text": "對[@target_num]4隻[/@target_num]敵人以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果。"
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "對敵人[@target_num]全體[/@target_num]以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果"
+			"text": "對敵人[@target_num]全體[/@target_num]以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果。"
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "100",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "對攻擊對象以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果"
+			"text": "對攻擊對象以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果。"
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "100",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "對攻擊對象以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果"
+			"text": "對攻擊對象以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果。"
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "100",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "對攻擊對象以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果"
+			"text": "對攻擊對象以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果。"
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "100",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "對攻擊對象以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果"
+			"text": "對攻擊對象以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果。"
 		},
 		{
 			"action_efficacy_type": "42",
 			"index_in_type": "100",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "對攻擊對象以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果"
+			"text": "對攻擊對象以[@rate][:rate:]%[/@rate]的機率附加行動[@limit_count][:limit_count:]次[/@limit_count]後會陷入迷失狀態的效果。"
 		},
 		{
 			"action_efficacy_type": "43",
@@ -3645,35 +3652,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加[@count][:count:][/@count]次代替友軍承受攻擊的效果。（減傷[@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次代替友軍承受攻擊的效果。（減傷[@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate]）"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加[@count][:count:][/@count]次代替友軍承受攻擊的效果。（減傷[@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次代替友軍承受攻擊的效果。（減傷[@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate]）"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加[@count][:count:][/@count]次代替友軍承受攻擊的效果。（減傷[@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次代替友軍承受攻擊的效果。（減傷[@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate]）"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加[@count][:count:][/@count]次代替友軍承受攻擊的效果。（減傷[@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次代替友軍承受攻擊的效果。（減傷[@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate]）"
 		},
 		{
 			"action_efficacy_type": "43",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加[@count][:count:][/@count]次代替友軍承受攻擊的效果。（減傷[@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加[@count][:count:][/@count]次代替友軍承受攻擊的效果。（減傷[@damage_cut_rate][:damage_cut_rate:]%[/@damage_cut_rate]）"
 		},
 		{
 			"action_efficacy_type": "43",
@@ -3722,35 +3729,35 @@
 			"index_in_type": "0",
 			"target_type": "15",
 			"target_num": "5",
-			"text": "使個性為「勇敢」的敵人的HP回復量降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的敵人的HP回復量降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "44",
 			"index_in_type": "0",
 			"target_type": "16",
 			"target_num": "5",
-			"text": "使個性為「冷靜」的敵人的HP回復量降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的敵人的HP回復量降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "44",
 			"index_in_type": "0",
 			"target_type": "17",
 			"target_num": "5",
-			"text": "使個性為「精明」的敵人的HP回復量降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的敵人的HP回復量降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "44",
 			"index_in_type": "0",
 			"target_type": "18",
 			"target_num": "5",
-			"text": "使個性為「不屈」的敵人的HP回復量降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的敵人的HP回復量降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "44",
 			"index_in_type": "0",
 			"target_type": "19",
 			"target_num": "5",
-			"text": "使個性為「奉獻」的敵人的HP回復量降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的敵人的HP回復量降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "44",
@@ -3825,37 +3832,37 @@
 		{
 			"action_efficacy_type": "45",
 			"index_in_type": "0",
-			"target_type": "15",
+			"target_type": "10",
 			"target_num": "5",
-			"text": "使個性為「勇敢」的敵人的異常狀態抗性降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的敵人的異常狀態抗性降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "45",
 			"index_in_type": "0",
-			"target_type": "16",
+			"target_type": "11",
 			"target_num": "5",
-			"text": "使個性為「冷靜」的敵人的異常狀態抗性降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的敵人的異常狀態抗性降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "45",
 			"index_in_type": "0",
-			"target_type": "17",
+			"target_type": "12",
 			"target_num": "5",
-			"text": "使個性為「精明」的敵人的異常狀態抗性降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的敵人的異常狀態抗性降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "45",
 			"index_in_type": "0",
-			"target_type": "18",
+			"target_type": "13",
 			"target_num": "5",
-			"text": "使個性為「不屈」的敵人的異常狀態抗性降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的敵人的異常狀態抗性降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "45",
 			"index_in_type": "0",
-			"target_type": "19",
+			"target_type": "14",
 			"target_num": "5",
-			"text": "使個性為「奉獻」的敵人的異常狀態抗性降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的敵人的異常狀態抗性降低[@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "45",
@@ -4037,35 +4044,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "對個性為「勇敢」的友軍附加對「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」狀態的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」狀態的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "47",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "對個性為「冷靜」的友軍附加對「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」狀態的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」狀態的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "47",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "對個性為「精明」的友軍附加對「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」狀態的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」狀態的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "47",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "對個性為「不屈」的友軍附加對「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」狀態的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」狀態的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "47",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "對個性為「奉獻」的友軍附加對「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」狀態的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
+			"text": "對個性為「[:personality_target_ex:]」的友軍附加對「[@bad_status_mask][:bad_status_mask:][/@bad_status_mask]」狀態的敵人造成[@value][:value:][/@value]倍傷害的效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "47",
@@ -4079,7 +4086,7 @@
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "自己的剩餘HP在[@affect_hp_rate][:affect_hp_rate:]%[/@affect_hp_rate]以下時，附加1次[:text_id_ex:]的效果"
+			"text": "自己的剩餘HP在[@affect_hp_rate][:affect_hp_rate:]%[/@affect_hp_rate]以下時，附加1次[:text_id_ex:]的效果。"
 		},
 		{
 			"action_efficacy_type": "5",
@@ -4226,35 +4233,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "使對個性為「勇敢」的我方的[@immune_mask][:immune_mask:][/@immune_mask]無效。\n（[@duration][:duration:][/@duration]）"
+			"text": "使對個性為「[:personality_target_ex:]」的友軍的[@immune_mask][:immune_mask:][/@immune_mask]無效。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "6",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "使對個性為「冷靜」的我方的[@immune_mask][:immune_mask:][/@immune_mask]無效。\n（[@duration][:duration:][/@duration]）"
+			"text": "使對個性為「[:personality_target_ex:]」的友軍的[@immune_mask][:immune_mask:][/@immune_mask]無效。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "6",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "使對個性為「精明」的我方的[@immune_mask][:immune_mask:][/@immune_mask]無效。\n（[@duration][:duration:][/@duration]）"
+			"text": "使對個性為「[:personality_target_ex:]」的友軍的[@immune_mask][:immune_mask:][/@immune_mask]無效。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "6",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "使對個性為「不屈」的我方的[@immune_mask][:immune_mask:][/@immune_mask]無效。\n（[@duration][:duration:][/@duration]）"
+			"text": "使對個性為「[:personality_target_ex:]」的友軍的[@immune_mask][:immune_mask:][/@immune_mask]無效。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "6",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "使對個性為「奉獻」的我方的[@immune_mask][:immune_mask:][/@immune_mask]無效。\n（[@duration][:duration:][/@duration]）"
+			"text": "使對個性為「[:personality_target_ex:]」的友軍的[@immune_mask][:immune_mask:][/@immune_mask]無效。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "6",
@@ -4303,35 +4310,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "使個性為「勇敢」的友軍DEF[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍DEF[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "使個性為「冷靜」的友軍DEF[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍DEF[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "使個性為「精明」的友軍DEF[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍DEF[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "使個性為「不屈」的友軍DEF[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍DEF[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "使個性為「奉獻」的友軍DEF[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍DEF[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "7",
@@ -4450,35 +4457,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "使個性為「勇敢」的友軍爆擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍爆擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "使個性為「冷靜」的友軍爆擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍爆擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "使個性為「精明」的友軍爆擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍爆擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "使個性為「不屈」的友軍爆擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍爆擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "使個性為「奉獻」的友軍爆擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+			"text": "使個性為「[:personality_target_ex:]」的友軍爆擊率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "9",

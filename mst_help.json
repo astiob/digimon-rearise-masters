@@ -28,7 +28,7 @@
 			"help_id": "1000",
 			"help_category_id": "-1",
 			"title_text": "關於各種效果",
-			"detail_text": "【異常狀態系】<br>\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_shock[/img]\n<color=#e75600>觸電</color>\n電流引起的麻木導致無法發動普通攻擊及技能，\n一定回合數內無法行動。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_paralysis[/img]\n<color=#e75600>麻痺</color>\n植物系引起的麻木導致無法發動普通攻擊及技能，\n一定回合數內無法行動。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_ice[/img]\n<color=#e75600>結凍</color>\n全身凍結導致無法發動普通攻擊及技能，\n一定回合數內無法行動。\n此外結凍狀態中，不會受到敵我雙方的\n（回復結凍以外的）行動影響。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_stun[/img]\n<color=#e75600>昏厥</color>\n失去意識導致無法發動普通攻擊及技能，\n一定回合數內無法行動。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_sleep[/img]\n<color=#e75600>睡眠</color>\n陷入昏睡導致無法發動普通攻擊及技能，\n一定回合數內無法行動。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_poison[/img]\n<color=#e75600>中毒</color>\n陷入中毒的狀態，\n會定期持續受到一定量的傷害。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_burn[/img]\n<color=#e75600>灼傷</color>\n陷入灼傷的狀態，\n會定期持續受到一定量的傷害。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_error[/img]\n<color=#e75600>錯誤</color>\n陷入身體產生雜訊的狀態，\n會定期持續受到一定量的傷害。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_seal[/img]\n<color=#e75600>封印技能</color>\n變得無法使用主要技能和副技能。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_darkness[/img]\n<color=#e75600>黑暗</color>\n陷入眼前有黑霧籠罩的狀態，\n變得無法進行普通攻擊或反擊。\n此外，技能的命中率會顯著降低。\n<br>\n<br>\n【無效系】<br>\n[img width=48 height=48]icon/buff/icon_buff025[/img]\n<color=#e75600>觸電無效</color>\n可100%防止觸電。\n[img width=48 height=48]icon/buff/icon_buff029[/img]\n<color=#e75600>麻痺無效</color>\n可100%防止麻痺。\n[img width=48 height=48]icon/buff/icon_buff020[/img]\n<color=#e75600>結凍無效</color>\n可100%防止結凍。\n[img width=48 height=48]icon/buff/icon_buff024[/img]\n<color=#e75600>昏厥無效</color>\n可100%防止昏厥。\n[img width=48 height=48]icon/buff/icon_buff023[/img]\n<color=#e75600>睡眠無效</color>\n可100%防止睡眠。\n[img width=48 height=48]icon/buff/icon_buff021[/img]\n<color=#e75600>中毒無效</color>\n可100%防止中毒。\n[img width=48 height=48]icon/buff/icon_buff010[/img]\n<color=#e75600>灼傷無效</color>\n可100%防止灼傷。\n[img width=48 height=48]icon/buff/icon_buff027[/img]\n<color=#e75600>錯誤無效</color>\n可100%防止錯誤。\n[img width=48 height=48]icon/buff/icon_buff026[/img]\n<color=#e75600>封印技能無效</color>\n可100%防止封印技能。\n[img width=48 height=48]icon/buff/icon_buff022[/img]\n<color=#e75600>黑暗無效</color>\n可100%防止黑暗。\n[img width=48 height=48]icon/buff/icon_buff043[/img]\n<color=#e75600>格擋率降低無效</color>\n可100%防止格擋率降低效果。\n[img width=48 height=48]icon/buff/icon_buff044[/img]\n<color=#e75600>反擊率降低無效</color>\n可100%防止反擊率降低效果。\n[img width=48 height=48]icon/buff/icon_buff045[/img]\n<color=#e75600>爆擊率降低無效</color>\n可100%防止爆擊率降低效果。\n[img width=48 height=48]icon/buff/icon_buff046[/img]\n<color=#e75600>狙擊率降低無效</color>\n可100%防止狙擊率降低效果。\n[img width=48 height=48]icon/buff/icon_buff047[/img]\n<color=#e75600>PWR傷害抗性降低無效</color>\n可100%防止PWR傷害抗性降低。\n[img width=48 height=48]icon/buff/icon_buff048[/img]\n<color=#e75600>TEC傷害抗性降低無效</color>\n可100%防止TEC傷害抗性降低。\n[img width=48 height=48]icon/buff/icon_buff062[/img]\n<color=#e75600>防守爆擊</color>\n不會遭受爆擊。\n[img width=48 height=48]icon/buff/icon_buff077[/img]\n<color=#e75600>迷失無效</color>\n可100%防止迷失效果。\n<br>\n<br>\n【Buff系】<br>\n[img width=48 height=48]icon/buff/icon_buff013[/img]\n<color=#e75600>力量提升</color>\n力量型的攻擊力提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff015[/img]\n<color=#e75600>技巧提升</color>\n技巧型的攻擊力提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff011[/img]\n<color=#e75600>防禦提升</color>\n防禦力提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff008[/img]\n<color=#e75600>爆擊率提升</color>\n爆擊的發動率提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff017[/img]\n<color=#e75600>狙擊率提升</color>\n狙擊的發動率提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff018[/img]\n<color=#e75600>反擊率提升</color>\n反擊的發動率提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff019[/img]\n<color=#e75600>格擋率提升</color>\n格擋的發動率提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff034[/img]\n<color=#e75600>PWR傷害抗性提升</color>\n對力量型攻擊的抗性提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff035[/img]\n<color=#e75600>TEC傷害抗性提升</color>\n對技巧型攻擊的抗性提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff039[/img]\n<color=#e75600>最大HP提升</color>\n提升數碼寶貝的最大HP。\n[img width=48 height=48]icon/buff/icon_buff040[/img]\n<color=#e75600>累積PWR提升</color>\n力量型的攻擊力提升的狀態。\n此效果可疊加，\n效果將會累積至一定的數值。\n[img width=48 height=48]icon/buff/icon_buff063[/img]\n<color=#e75600>累積TEC提升</color>\n技巧型的攻擊力提升的狀態。\n此效果可疊加，\n效果將會累積至一定的數值。\n[img width=48 height=48]icon/buff/icon_buff064[/img]\n<color=#e75600>強化格擋</color>\n發動格擋時，\n可減少更多的傷害。\n[img width=48 height=48]icon/buff/icon_buff072[/img]\n<color=#e75600>反擊傷害提升</color>\n發動反擊時給予的傷害高於一般反擊。\n<br>\n<color=#e75600>個性剋星</color>\n針對特定個性造成的傷害提升。\n並較容易攻擊到特定個性。\n※友情必殺不在適用範圍裡。\n[img width=48 height=48]icon/buff/icon_buff067[/img]\n･勇敢剋星\n[img width=48 height=48]icon/buff/icon_buff068[/img]\n･冷靜剋星\n[img width=48 height=48]icon/buff/icon_buff069[/img]\n･精明剋星\n[img width=48 height=48]icon/buff/icon_buff070[/img]\n･不屈剋星\n[img width=48 height=48]icon/buff/icon_buff071[/img]\n･奉獻剋星\n<br>\n<color=#e75600>異常狀態剋星</color><br>\n針對身負特定異常狀態的數碼寶貝\n造成的傷害量提升。\n並較容易攻擊到\n身負特定異常狀態的數碼寶貝。\n※友情必殺不在適用範圍裡。\n[img width=48 height=48]icon/buff/icon_buff086[/img]\n･觸電剋星\n[img width=48 height=48]icon/buff/icon_buff083[/img]\n･麻痺剋星\n[img width=48 height=48]icon/buff/icon_buff088[/img]\n･昏厥剋星\n[img width=48 height=48]icon/buff/icon_buff087[/img]\n･睡眠剋星\n[img width=48 height=48]icon/buff/icon_buff084[/img]\n･中毒剋星\n[img width=48 height=48]icon/buff/icon_buff080[/img]\n･灼傷剋星\n[img width=48 height=48]icon/buff/icon_buff082[/img]\n･錯誤剋星\n[img width=48 height=48]icon/buff/icon_buff085[/img]\n･封印技能剋星\n[img width=48 height=48]icon/buff/icon_buff081[/img]\n･黑暗剋星\n[img width=48 height=48]icon/buff/icon_buff092[/img]\n<color=#e75600>X抗體</color>\n　減少X增幅造成的固定傷害。\n　無視X屏障，給予傷害。\n<br>\n<br>\n【Debuff系】<br>\n[img width=48 height=48]icon/buff/icon_buff014[/img]\n<color=#e75600>力量降低</color>\n力量型的攻擊力降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff016[/img]\n<color=#e75600>技巧降低</color>\n技巧型的攻擊力降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff007[/img]\n<color=#e75600>防禦降低</color>\n防禦力降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff009[/img]\n<color=#e75600>爆擊率降低</color>\n爆擊的發動率降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff031[/img]\n<color=#e75600>反擊率降低</color>\n反擊的發動率降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff032[/img]\n<color=#e75600>格擋率降低</color>\n格擋的發動率降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff030[/img]\n<color=#e75600>狙擊率降低</color>\n狙擊的發動率降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff036[/img]\n<color=#e75600>PWR傷害抗性降低</color>\n力量型攻擊的抗性降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff037[/img]\n<color=#e75600>TEC傷害抗性降低</color>\n技巧型攻擊的抗性降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff078[/img]\n<color=#e75600>HP回復量降低</color>\n降低HP回復與自我重生時的HP回復量。\n※HP吸收與復活時的效果不受影響。\n[img width=48 height=48]icon/buff/icon_buff079[/img]\n<color=#e75600>異常狀態抗性降低</color>\n異常狀態的抗性降低，\n陷入異常狀態的機率提升。\n※迷失不受此效果影響。\n<br>\n<br>\n【特殊系】<br>\n[img width=48 height=48]icon/buff/icon_buff012[/img]\n<color=#e75600>挑釁</color>\n吸引對手的攻擊。\n[img width=48 height=48]icon/buff/icon_buff038[/img]\n<color=#e75600>自我重生</color>\n定期回復一定的HP量。\n[img width=48 height=48]icon/buff/icon_buff041[/img]\n<color=#e75600>迴避攻擊</color>\n可迴避來自敵人的攻擊。\n[img width=48 height=48]icon/buff/icon_buff053[/img]\n<color=#e75600>九龍之力</color>\n每當發動攻擊皆會蓄力，\n在力量累積到上限的狀態下使用技能，傷害量便會提升。\n[img width=48 height=48]icon/buff/icon_buff065[/img]\n<color=#e75600>傷害限制</color>\n會將承受的傷害壓低至一定的量。\n[img width=48 height=48]icon/buff/icon_buff042[/img]\n<color=#e75600>CT加成（冷卻時間加成）</color>\n使用技能後，將縮短一定的CT量。\n[img width=48 height=48]icon/buff/icon_buff074[/img]\n<color=#e75600>自動復活</color>\n於無法戰鬥時發動，以一定的HP量復活。\n[img width=48 height=48]icon/buff/icon_buff066[/img]\n<color=#e75600>護盾</color>\n在前方發動護盾，\n代為承受對手造成的一定傷害量。\n當傷害超過一定的量，護盾便會消失。\n[img width=48 height=48]icon/buff/icon_buff075[/img]\n<color=#e75600>迷失</color>\n使對手陷入迷失狀態。\n陷入迷失狀態時會被紅色氣場纏繞，\n每次行動時，迷失狀態都會推進。\n經一定行動次數後，無論剩餘HP多寡，\n都會陷入無法戰鬥的狀態。\n※會使迷失狀態推進的行動為主要技能、\n副技能、普通攻擊、反擊、追擊。\n[img width=48 height=48]icon/buff/icon_buff076[/img]\n<color=#e75600>掩護</color>\n將敵人的攻擊全部集中到自己身上。\n攻擊對象為複數的技能也會全部集中。\n且受到的傷害將減少一定量。\n[img width=48 height=48]icon/buff/icon_buff089[/img]\n<color=#e75600>激昂</color>\n自己的剩餘HP在一定以下時發動，\n會附加各式各樣的Buff效果。\n※戰鬥中只能發動1次。\n※從無法戰鬥中復活時，次數會重置。\n[img width=48 height=48]icon/buff/icon_buff090[/img]\n<color=#e75600>X增幅</color>\n　給予只能靠X抗體來減少的固定傷害。\n[img width=48 height=48]icon/buff/icon_buff091[/img]\n<color=#e75600>X屏障</color>\n　減少不具X抗體的數碼寶貝造成的傷害。\n<br>\n<br>\n<color=#c7221d>※部分效果在衝突戰中會無效化。</color>"
+			"detail_text": "【異常狀態系】<br>\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_shock[/img]\n<color=#e75600>觸電</color>\n　電流引起的麻木導致無法發動普通攻擊及技能，\n　一定回合數內無法行動。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_paralysis[/img]\n<color=#e75600>麻痺</color>\n　植物系引起的麻木導致無法發動普通攻擊及技能，\n　一定回合數內無法行動。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_ice[/img]\n<color=#e75600>結凍</color>\n　全身凍結導致無法發動普通攻擊及技能，\n　一定回合數內無法行動。\n　此外結凍狀態中，不會受到敵我雙方的\n　（回復結凍以外的）行動影響。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_stun[/img]\n<color=#e75600>昏厥</color>\n　失去意識導致無法發動普通攻擊及技能，\n　一定回合數內無法行動。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_sleep[/img]\n<color=#e75600>睡眠</color>\n　陷入昏睡導致無法發動普通攻擊及技能，　\n　一定回合數內無法行動。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_poison[/img]\n<color=#e75600>中毒</color>\n　陷入中毒的狀態，\n　會定期持續受到一定量的傷害。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_burn[/img]\n<color=#e75600>灼傷</color>\n　陷入灼傷的狀態，\n　會定期持續受到一定量的傷害。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_error[/img]\n<color=#e75600>錯誤</color>\n　陷入身體產生雜訊的狀態，\n　會定期持續受到一定量的傷害。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_seal[/img]\n<color=#e75600>封印技能</color>\n　主要技能、副技能以及Ex技能\n　變得無法使用。\n[img width=48 height=48]icon/battlecondition/icon_battlecondition_darkness[/img]\n<color=#e75600>黑暗</color>\n　陷入眼前有黑霧籠罩的狀態，\n　變得無法進行普通攻擊或反擊。\n　此外，技能的命中率會顯著降低。\n<br>\n<br>\n【無效系】<br>\n[img width=48 height=48]icon/buff/icon_buff025[/img]\n<color=#e75600>觸電無效</color>\n　可100%防止觸電。\n[img width=48 height=48]icon/buff/icon_buff029[/img]\n<color=#e75600>麻痺無效</color>\n　可100%防止麻痺。\n[img width=48 height=48]icon/buff/icon_buff020[/img]\n<color=#e75600>結凍無效</color>\n　可100%防止結凍。\n[img width=48 height=48]icon/buff/icon_buff024[/img]\n<color=#e75600>昏厥無效</color>\n　可100%防止昏厥。\n[img width=48 height=48]icon/buff/icon_buff023[/img]\n<color=#e75600>睡眠無效</color>\n　可100%防止睡眠。\n[img width=48 height=48]icon/buff/icon_buff021[/img]\n<color=#e75600>中毒無效</color>\n　可100%防止中毒。\n[img width=48 height=48]icon/buff/icon_buff010[/img]\n<color=#e75600>灼傷無效</color>\n　可100%防止灼傷。\n[img width=48 height=48]icon/buff/icon_buff027[/img]\n<color=#e75600>錯誤無效</color>\n　可100%防止錯誤。\n[img width=48 height=48]icon/buff/icon_buff026[/img]\n<color=#e75600>封印技能無效</color>\n　可100%防止封印技能。\n[img width=48 height=48]icon/buff/icon_buff022[/img]\n<color=#e75600>黑暗無效</color>\n　可100%防止黑暗。\n[img width=48 height=48]icon/buff/icon_buff043[/img]\n<color=#e75600>格擋率降低無效</color>\n　可100%防止格擋率降低效果。\n[img width=48 height=48]icon/buff/icon_buff044[/img]\n<color=#e75600>反擊率降低無效</color>\n　可100%防止反擊率降低效果。\n[img width=48 height=48]icon/buff/icon_buff045[/img]\n<color=#e75600>爆擊率降低無效</color>\n　可100%防止爆擊率降低效果。\n[img width=48 height=48]icon/buff/icon_buff046[/img]\n<color=#e75600>狙擊率降低無效</color>\n　可100%防止狙擊率降低效果。\n[img width=48 height=48]icon/buff/icon_buff047[/img]\n<color=#e75600>PWR傷害抗性降低無效</color>\n　可100%防止PWR傷害抗性降低。\n[img width=48 height=48]icon/buff/icon_buff048[/img]\n<color=#e75600>TEC傷害抗性降低無效</color>\n　可100%防止TEC傷害抗性降低。\n[img width=48 height=48]icon/buff/icon_buff062[/img]\n<color=#e75600>防守爆擊</color>\n　不會遭受爆擊。\n[img width=48 height=48]icon/buff/icon_buff077[/img]\n<color=#e75600>迷失無效</color>\n　可100%防止迷失效果。\n<br>\n<br>\n【Buff系】<br>\n[img width=48 height=48]icon/buff/icon_buff013[/img]\n<color=#e75600>力量提升</color>\n　力量型的攻擊力提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff015[/img]\n<color=#e75600>技巧提升</color>\n　技巧型的攻擊力提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff011[/img]\n<color=#e75600>防禦提升</color>\n　防禦力提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff008[/img]\n<color=#e75600>爆擊率提升</color>\n　爆擊的發動率提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff017[/img]\n<color=#e75600>狙擊率提升</color>\n　狙擊的發動率提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff018[/img]\n<color=#e75600>反擊率提升</color>\n　反擊的發動率提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff019[/img]\n<color=#e75600>格擋率提升</color>\n　格擋的發動率提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff034[/img]\n<color=#e75600>PWR傷害抗性提升</color>\n　對力量型攻擊的抗性提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff035[/img]\n<color=#e75600>TEC傷害抗性提升</color>\n　對技巧型攻擊的抗性提升的狀態。\n[img width=48 height=48]icon/buff/icon_buff039[/img]\n<color=#e75600>最大HP提升</color>\n　提升數碼寶貝的最大HP。\n[img width=48 height=48]icon/buff/icon_buff040[/img]\n<color=#e75600>累積PWR提升</color>\n　力量型的攻擊力提升的狀態。\n　此效果可疊加，\n　效果將會累積至一定的數值。\n[img width=48 height=48]icon/buff/icon_buff063[/img]\n<color=#e75600>累積TEC提升</color>\n　技巧型的攻擊力提升的狀態。\n　此效果可疊加，\n　效果將會累積至一定的數值。\n[img width=48 height=48]icon/buff/icon_buff064[/img]\n<color=#e75600>強化格擋</color>\n　發動格擋時，\n　可減少更多的傷害。\n[img width=48 height=48]icon/buff/icon_buff072[/img]\n<color=#e75600>反擊傷害提升</color>\n　發動反擊時給予的傷害高於一般反擊。　\n<br>\n<color=#e75600>個性剋星</color>\n　針對特定個性造成的傷害提升，\n　並較容易攻擊到特定個性。\n　※友情必殺不在適用範圍裡。\n[img width=48 height=48]icon/buff/icon_buff067[/img]\n‧勇敢／超勇敢剋星\n[img width=48 height=48]icon/buff/icon_buff068[/img]\n‧冷靜／超冷靜剋星\n[img width=48 height=48]icon/buff/icon_buff069[/img]\n‧精明／超精明剋星\n[img width=48 height=48]icon/buff/icon_buff070[/img]\n‧不屈／超不屈剋星\n[img width=48 height=48]icon/buff/icon_buff071[/img]\n‧奉獻／超奉獻剋星\n<br>\n<color=#e75600>異常狀態剋星</color>\n　針對身負特定異常狀態的數碼寶貝\n　造成的傷害量提升。\n　並較容易攻擊到\n　身負特定異常狀態的數碼寶貝。\n　※友情必殺不在適用範圍裡。\n[img width=48 height=48]icon/buff/icon_buff086[/img]\n‧觸電剋星\n[img width=48 height=48]icon/buff/icon_buff083[/img]\n‧麻痺剋星\n[img width=48 height=48]icon/buff/icon_buff088[/img]\n‧昏厥剋星\n[img width=48 height=48]icon/buff/icon_buff087[/img]\n‧睡眠剋星\n[img width=48 height=48]icon/buff/icon_buff084[/img]\n‧中毒剋星\n[img width=48 height=48]icon/buff/icon_buff080[/img]\n‧灼傷剋星\n[img width=48 height=48]icon/buff/icon_buff082[/img]\n‧錯誤剋星\n[img width=48 height=48]icon/buff/icon_buff085[/img]\n‧封印技能剋星\n[img width=48 height=48]icon/buff/icon_buff081[/img]\n‧黑暗剋星\n[img width=48 height=48]icon/buff/icon_buff092[/img]\n<color=#e75600>X抗體</color>\n　減少X增幅造成的固定傷害。\n　無視X屏障，給予傷害。\n<br>\n<br>\n【Debuff系】<br>\n[img width=48 height=48]icon/buff/icon_buff014[/img]\n<color=#e75600>力量降低</color>\n　力量型的攻擊力降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff016[/img]\n<color=#e75600>技巧降低</color>\n　技巧型的攻擊力降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff007[/img]\n<color=#e75600>防禦降低</color>\n　防禦力降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff009[/img]\n<color=#e75600>爆擊率降低</color>\n　爆擊的發動率降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff031[/img]\n<color=#e75600>反擊率降低</color>\n　反擊的發動率降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff032[/img]\n<color=#e75600>格擋率降低</color>\n　格擋的發動率降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff030[/img]\n<color=#e75600>狙擊率降低</color>\n　狙擊的發動率降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff036[/img]\n<color=#e75600>PWR傷害抗性降低</color>\n　力量型攻擊的抗性降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff037[/img]\n<color=#e75600>TEC傷害抗性降低</color>\n　技巧型攻擊的抗性降低的狀態。\n[img width=48 height=48]icon/buff/icon_buff078[/img]\n<color=#e75600>HP回復量降低　</color>\n　降低HP回復與自我重生時的HP回復量。\n　※吸收HP與復活時的效果不受影響。\n[img width=48 height=48]icon/buff/icon_buff079[/img]\n<color=#e75600>異常狀態抗性降低</color>\n　異常狀態的抗性降低，\n　陷入異常狀態的機率提升。\n　※迷失不受此效果影響。\n<br>\n<br>\n【特殊系】<br>\n[img width=48 height=48]icon/buff/icon_buff012[/img]\n<color=#e75600>挑釁</color>\n　吸引對手的攻擊。\n[img width=48 height=48]icon/buff/icon_buff038[/img]\n<color=#e75600>自我重生</color>\n　定期回復一定的HP量。\n[img width=48 height=48]icon/buff/icon_buff041[/img]\n<color=#e75600>迴避攻擊</color>\n　可迴避來自敵人的攻擊。\n[img width=48 height=48]icon/buff/icon_buff053[/img]\n<color=#e75600>九龍之力</color>\n　每當發動攻擊皆會蓄力，\n　在力量累積到上限的狀態下使用技能，傷害量便會提升。\n[img width=48 height=48]icon/buff/icon_buff065[/img]\n<color=#e75600>傷害限制</color>\n　會將承受的傷害壓低至一定的量。\n[img width=48 height=48]icon/buff/icon_buff042[/img]\n<color=#e75600>CT加成（冷卻時間加成）</color>\n　使用技能後，將縮短一定的CT量。\n[img width=48 height=48]icon/buff/icon_buff074[/img]\n<color=#e75600>自動復活</color>\n　於無法戰鬥時發動，以一定的HP量復活。\n[img width=48 height=48]icon/buff/icon_buff066[/img]\n<color=#e75600>護盾</color>\n　在前方發動護盾，\n　代為承受對手造成的一定傷害量。\n　當傷害超過一定的量，護盾便會消失。\n[img width=48 height=48]icon/buff/icon_buff075[/img]\n<color=#e75600>迷失</color>\n　使對手陷入迷失狀態。\n　陷入迷失狀態時會被紅色氣場纏繞，\n　每次行動時，迷失狀態都會推進。\n　經一定行動次數後，無論剩餘HP多寡，\n　都會陷入無法戰鬥的狀態。\n　※會使迷失狀態推進的行動為\n　　主要技能、副技能、Ex技能、\n　　普通攻擊、反擊、追擊。\n[img width=48 height=48]icon/buff/icon_buff076[/img]\n<color=#e75600>掩護</color>\n　將敵人的攻擊全部集中到自己身上。\n　攻擊對象為複數的技能也會全部集中，\n　且受到的傷害將減少一定量。\n[img width=48 height=48]icon/buff/icon_buff089[/img]\n<color=#e75600>激昂</color>\n　自己的剩餘HP在一定以下時發動，\n　會附加各式各樣的Buff效果。\n　※戰鬥中只能發動1次。\n　※從無法戰鬥中復活時，次數會重置。\n[img width=48 height=48]icon/buff/icon_buff090[/img]\n<color=#e75600>X增幅</color>\n　給予只能靠X抗體來減少的固定傷害。\n[img width=48 height=48]icon/buff/icon_buff091[/img]\n<color=#e75600>X屏障</color>\n　減少不具X抗體的數碼寶貝造成的傷害。\n<br>\n<br>\n<color=#c7221d>※部分效果在衝突戰中會無效化。</color>"
 		},
 		{
 			"help_id": "1001",
@@ -88,7 +88,7 @@
 			"help_id": "101",
 			"help_category_id": "6",
 			"title_text": "地底世界地城",
-			"detail_text": "打倒各樓層配置的敵人，以帶回報酬為目標的場所。 \n一旦進入地底世界地城，就必須在返回或是所有樓層過關後才能正式獲得報酬。 \n前進越多樓層，稀有道具出現率也會隨之上升。 \n<br>＜關於隊伍編成＞ \n包含夥伴數碼寶貝在內，僅可使用Lv.99以上的數碼寶貝進行挑戰。\n戰鬥內容為最多3隊（15隻）的連續戰鬥。\n每支隊伍設有編成Cost（100）。\n必須以隊伍Cost為限來編成隊伍。 \n數碼寶貝的Cost依世代而定。\n‧Cost35：超究極體／究極體 \n‧Cost20：裝甲體\n‧Cost14：完全體\n‧Cost7：成熟期\n‧Cost3：成長期\n<br>＜在地底世界地城的戰鬥＞\n在地底世界地城存在複數類型的戰鬥形式。\n樓層過關時，以下資料會延續使用。 \n‧HP \n‧CT（冷卻時間） \n‧友情必殺能量槽 \n<br>＜場地效果＞ \n戰鬥開始時，會依樓層發動不同的場地效果，並對場地上的數碼寶貝產生影響。\n場地效果分為異常狀態效果、Buff效果及Debuff效果。\n場地效果是源自於樓層，並非玩家對峙的對手所擁有的效果。\n若擁有與發動中的場地效果對應的抗性，將可防止場地效果。\n<br> ＜地底世界地城的推進＞ \n進入下一樓層前，可選擇前進或是返回。 \n若是選擇前進，可由一開始編成的隊伍中選擇任意隊伍開始戰鬥。\n點擊各樓層，可以確認樓層資訊。\n若是選擇返回，即視為挑戰結束，可正式獲得所有暫時取得的報酬，但下次挑戰時將從頭來過。 \n依樓層不同，有可能出現分歧路線。 \n過程中無法返回已經過關的樓層。 \n<br>＜X-Spiral（X螺旋種）＞\nX-Spiral是指從16樓開始登場的螺旋種，會在周邊展開能減輕所有傷害的「X屏障」。\n打倒X-Spiral就能解除X屏障。\n擁有「X抗體」技能效果的數碼寶貝可在不受X屏障影響下給予傷害。\n<br>＜關於報酬＞ \n每次樓層過關時，可以暫時獲得報酬。\n此時並非正式領取，故無法使用這些報酬道具。\n在選擇返回或是所有樓層過關後，才能正式獲得報酬。\n可以戰鬥的數碼寶貝全部倒下時視為敗北，將會失去所有暫時獲得的道具。\n<br>＜關於倒轉時鐘＞ \n在可以戰鬥的數碼寶貝全部倒下時使用的特殊道具。 \n一旦使用倒轉時鐘，便會回到出發挑戰該樓層前的準備畫面，可藉此再次進行挑戰。\n隊伍與敵人數碼寶貝皆會回到出發挑戰該樓層前的狀態。\n若是使用倒轉時鐘再次進行挑戰，必須在該樓層過關後才能選擇返回。\n<br>＜其他＞ \n地底世界地城每當返回、敗北或是全樓層過關後，就會回到最初的樓層，攻略內容也將隨之重置。 \n而且，每次挑戰時樓層構造都會發生變化。 \n<br>\n<br><color=#c7221d>※一旦開始挑戰，直到挑戰結束前將無法操作「變更夥伴」，此外也將暫時無法對用來挑戰地底世界地城的數碼寶貝進行以下操作。 \n‧編成、替換 \n‧技能等級提升 \n‧強化、特訓、突破極限、進化 \n‧別離 \n‧強化、進化能力碟 \n‧裝備、解除能力碟 \n‧販售裝備中的能力碟</color>"
+			"detail_text": "打倒各樓層配置的敵人，以帶回報酬為目標的場所。　\n一旦進入地底世界地城，就必須在返回或是所有樓層過關後才能正式獲得報酬。　\n前進越多樓層，稀有道具出現率也會隨之上升。　\n<br>＜關於隊伍編成＞　\n包含夥伴數碼寶貝在內，僅可使用Lv.99以上的數碼寶貝進行挑戰。\n戰鬥內容為最多3隊（15隻）的連續戰鬥。\n每支隊伍設有編成Cost（100）。\n必須以隊伍Cost為限來編成隊伍。　\n數碼寶貝的Cost依世代而定。\n‧Cost35：超究極體／究極體　\n‧Cost20：裝甲體\n‧Cost14：完全體\n‧Cost7：成熟期\n‧Cost3：成長期\n<br>＜在地底世界地城的戰鬥＞\n在地底世界地城存在複數類型的戰鬥形式。\n樓層過關時，以下資料會延續使用。　\n‧HP　\n‧CT（冷卻時間）　\n‧友情必殺能量槽　\n<br>＜場地效果＞　\n戰鬥開始時，會依樓層發動不同的場地效果，並對場地上的數碼寶貝產生影響。\n場地效果分為異常狀態效果、Buff效果及Debuff效果。\n場地效果是源自於樓層，並非玩家對峙的對手所擁有的效果。\n若擁有與發動中的場地效果對應的抗性，將可防止場地效果。\n<br>＜地底世界地城的推進＞　\n進入下一樓層前，可選擇前進或是返回。　\n若是選擇前進，可由一開始編成的隊伍中選擇任意隊伍開始戰鬥。\n點擊各樓層，可以確認樓層資訊。\n若是選擇返回，即視為挑戰結束，可正式獲得所有暫時取得的報酬，但下次挑戰時將從頭來過。　\n依樓層不同，有可能出現分歧路線。　\n過程中無法返回已經過關的樓層。　\n<br>＜X-Spiral（X螺旋種）＞\nX-Spiral是指從16樓開始登場的螺旋種，會在周邊展開能減輕所有傷害的「X屏障」。\n打倒X-Spiral就能解除X屏障。\n擁有「X抗體」技能效果的數碼寶貝可在不受X屏障影響下給予傷害。\n<br>＜關於報酬＞　\n每次樓層過關時，可以暫時獲得報酬。\n此時並非正式領取，故無法使用這些報酬道具。\n在選擇返回或是所有樓層過關後，才能正式獲得報酬。\n可以戰鬥的數碼寶貝全部倒下時視為敗北，將會失去所有暫時獲得的道具。\n<br>＜關於倒轉時鐘＞　\n在可以戰鬥的數碼寶貝全部倒下時使用的特殊道具。　\n一旦使用倒轉時鐘，便會回到出發挑戰該樓層前的準備畫面，可藉此再次進行挑戰。\n隊伍與敵人數碼寶貝皆會回到出發挑戰該樓層前的狀態。\n若是使用倒轉時鐘再次進行挑戰，必須在該樓層過關後才能選擇返回。\n<br>＜其他＞　\n地底世界地城每當返回、敗北或是全樓層過關後，就會回到最初的樓層，攻略內容也將隨之重置。　\n而且，每次挑戰時樓層構造都會發生變化。　\n<br>\n<br><color=#c7221d>※一旦開始挑戰，直到挑戰結束前將無法操作「變更夥伴」，此外也將暫時無法對用來挑戰地底世界地城的數碼寶貝進行以下操作。　\n　　‧編成、替換　\n　　‧技能等級提升　\n　　‧強化、特訓、突破極限、進化、覺醒、繼承\n　　‧別離　\n　　‧強化、進化能力碟　\n　　‧裝備、解除能力碟　\n　　‧販售裝備中的能力碟</color>"
 		},
 		{
 			"help_id": "1010",
@@ -190,7 +190,7 @@
 			"help_id": "1025",
 			"help_category_id": "-1",
 			"title_text": "何謂數碼連線",
-			"detail_text": "數碼連線是指帶著使用中的裝置走路，\n夥伴數碼寶貝會依步數發現照料道具，\n或享受與其他馴獸師的數碼寶貝擦身而過的樂趣的功能。\n<br>數碼連線畫面會顯示夥伴數碼寶貝的點陣圖，\n現實中馴獸師走了幾步，夥伴數碼寶貝就會跟著走幾步。\n藉由一起走路，夥伴數碼寶貝會發現道具或和其他數碼寶貝擦身而過。\n<br>※變更裝置的時間或時區有可能會使步數無法正常計算或重置。若發生此情況，當裝置日期變換至隔日等，或經過一段時間後將能正常計算。\n※設定上為依步數在數碼空間和其他數碼寶貝擦身而過，\n並非實際與附近的玩家擦身而過。"
+			"detail_text": "數碼連線是指帶著使用中的裝置走路，\n夥伴數碼寶貝會依步數發現照料道具，\n或享受與其他馴獸師的數碼寶貝擦身而過的樂趣的功能。\n<br>數碼連線畫面會顯示夥伴數碼寶貝的點陣圖，\n現實中馴獸師走了幾步，夥伴數碼寶貝就會跟著走幾步。\n藉由一起走路，夥伴數碼寶貝會發現道具或和其他數碼寶貝擦身而過。\n<br>※變更裝置的時間或時區有可能會使步數無法正常計算或重置。若發生此情況，當裝置日期變換至隔日等，或經過一段時間後將能正常計算。\n※設定上為依步數在數碼空間和其他數碼寶貝擦身而過，\n並非實際與附近的玩家擦身而過。\n※會保存14天份的步數資訊。"
 		},
 		{
 			"help_id": "1026",
@@ -238,7 +238,7 @@
 			"help_id": "1032",
 			"help_category_id": "-1",
 			"title_text": "與養成有關的項目",
-			"detail_text": "可使用如數碼寶貝的等級提升、進化等與成長有關的全部功能。\n<br>･<color=#e75600>強化</color>：\n讓數碼寶貝等級提升。\n･<color=#e75600>特訓／突破極限</color>：\n進行特訓鍛鍊數碼寶貝。\n藉由進行特訓可突破極限。\n･<color=#e75600>進化</color>：\n讓數碼寶貝進化。\n･<color=#e75600>技能等級提升</color>：\n提升數碼寶貝的技能等級。\n･<color=#e75600>裝備能力碟</color>：\n將能力碟裝備於數碼寶貝身上。\n･<color=#e75600>強化、進化能力碟</color>：\n合成能力碟使其變強。\n･<color=#e75600>能力碟一覽</color>：\n確認持有的能力碟數量及資訊。\n･<color=#e75600>販售能力碟</color>：\n販售能力碟，空出持有欄位。\n･<color=#e75600>數碼寶貝一覽</color>：\n確認持有的數碼寶貝數量及資訊。\n･<color=#e75600>別離</color>：\n和數碼寶貝別離，空出持有欄位。"
+			"detail_text": "可使用如數碼寶貝的等級提升、進化等與成長有關的全部功能。\n<br>‧<color=#e75600>強化</color>：\n　讓數碼寶貝等級提升。\n‧<color=#e75600>特訓／突破極限</color>：\n　進行特訓鍛鍊數碼寶貝。\n　藉由進行特訓可突破極限。\n‧<color=#e75600>進化</color>：\n　讓數碼寶貝進化。\n‧<color=#e75600>技能等級提升</color>：\n　提升數碼寶貝的技能等級。\n‧<color=#e75600>覺醒</color>：\n　提升超個性數碼寶貝的覺醒階段。\n‧<color=#e75600>繼承</color>：\n　讓養成完畢的一般個性數碼寶貝繼承\n　超個性數碼寶貝，使其超個性化。\n‧<color=#e75600>裝備能力碟</color>：\n　將能力碟裝備於數碼寶貝身上。\n‧<color=#e75600>強化、進化能力碟</color>：\n　合成能力碟使其變強。\n‧<color=#e75600>能力碟一覽</color>：\n　確認持有的能力碟數量及資訊。\n‧<color=#e75600>販售能力碟</color>：\n　販售能力碟，空出持有欄位。\n‧<color=#e75600>數碼寶貝一覽</color>：\n　確認持有的數碼寶貝數量及資訊。\n‧<color=#e75600>別離</color>：\n　和數碼寶貝別離，空出持有欄位。"
 		},
 		{
 			"help_id": "1033",
@@ -298,7 +298,7 @@
 			"help_id": "1041",
 			"help_category_id": "-1",
 			"title_text": "何謂轉蛋",
-			"detail_text": "於轉蛋消耗數碼紅寶石或交流pt，\n可獲得數碼寶貝或能力碟。\n轉蛋分為兩大類，分別是數碼寶貝轉蛋與能力碟轉蛋。\n此外，還有出現數會隨抽取次數改變，或是可以獲得附贈品的進階轉蛋。\n可從顯示出現機率來確認出現內容和機率。\n<br>轉蛋的種類，會依活動或宣傳活動更換。"
+			"detail_text": "於轉蛋消耗數碼紅寶石或交流pt，\n可獲得數碼寶貝或能力碟。\n轉蛋分為兩大類，分別是數碼寶貝轉蛋與能力碟轉蛋。\n此外，還有出現數會隨抽取次數改變，或是可以獲得加碼內容的進階轉蛋。\n可從顯示出現機率來確認出現內容和機率。\n<br>轉蛋的種類，會依活動或宣傳活動更換。\n<br>部分轉蛋還能獲得數碼鑽石。\n獲得條件可以從轉蛋公告等處進行確認。"
 		},
 		{
 			"help_id": "1042",
@@ -412,7 +412,7 @@
 			"help_id": "1060",
 			"help_category_id": "-1",
 			"title_text": "何謂地底世界地城",
-			"detail_text": "打倒各樓層配置的敵人，以帶回報酬為目標的場所。 \n一旦進入地底世界地城，就必須在返回或是所有樓層過關後才能正式獲得報酬。 \n前進越多樓層，稀有道具出現率也會隨之上升。 \n<br>＜關於隊伍編成＞ \n包含夥伴數碼寶貝在內，僅可使用Lv.99以上的數碼寶貝進行挑戰。\n戰鬥內容為最多3隊（15隻）的連續戰鬥。\n每支隊伍設有編成Cost（100）。\n必須以隊伍Cost為限來編成隊伍。 \n數碼寶貝的Cost依世代而定。\n‧Cost35：超究極體／究極體 \n‧Cost20：裝甲體\n‧Cost14：完全體\n‧Cost7：成熟期\n‧Cost3：成長期\n<br>＜在地底世界地城的戰鬥＞\n在地底世界地城存在複數類型的戰鬥形式。\n樓層過關時，以下資料會延續使用。 \n‧HP \n‧CT（冷卻時間） \n‧友情必殺能量槽 \n<br>＜場地效果＞ \n戰鬥開始時，會依樓層發動不同的場地效果，並對場地上的數碼寶貝產生影響。\n場地效果分為異常狀態效果、Buff效果及Debuff效果。\n場地效果是源自於樓層，並非玩家對峙的對手所擁有的效果。\n若擁有與發動中的場地效果對應的抗性，將可防止場地效果。\n<br> ＜地底世界地城的推進＞ \n進入下一樓層前，可選擇前進或是返回。 \n若是選擇前進，可由一開始編成的隊伍中選擇任意隊伍開始戰鬥。\n點擊各樓層，可以確認樓層資訊。\n若是選擇返回，即視為挑戰結束，可正式獲得所有暫時取得的報酬，但下次挑戰時將從頭來過。 \n依樓層不同，有可能出現分歧路線。 \n過程中無法返回已經過關的樓層。 \n<br>＜X-Spiral（X螺旋種）＞\nX-Spiral是指從16樓開始登場的螺旋種，會在周邊展開能減輕所有傷害的「X屏障」。\n打倒X-Spiral就能解除X屏障。\n擁有「X抗體」技能效果的數碼寶貝可在不受X屏障影響下給予傷害。\n<br>＜關於報酬＞ \n每次樓層過關時，可以暫時獲得報酬。\n此時並非正式領取，故無法使用這些報酬道具。\n在選擇返回或是所有樓層過關後，才能正式獲得報酬。\n可以戰鬥的數碼寶貝全部倒下時視為敗北，將會失去所有暫時獲得的道具。\n<br>＜關於倒轉時鐘＞ \n在可以戰鬥的數碼寶貝全部倒下時使用的特殊道具。 \n一旦使用倒轉時鐘，便會回到出發挑戰該樓層前的準備畫面，可藉此再次進行挑戰。\n隊伍與敵人數碼寶貝皆會回到出發挑戰該樓層前的狀態。\n若是使用倒轉時鐘再次進行挑戰，必須在該樓層過關後才能選擇返回。\n<br>＜其他＞ \n地底世界地城每當返回、敗北或是全樓層過關後，就會回到最初的樓層，攻略內容也將隨之重置。 \n而且，每次挑戰時樓層構造都會發生變化。 \n<br>\n<br><color=#c7221d>※一旦開始挑戰，直到挑戰結束前將無法操作「變更夥伴」，此外也將暫時無法對用來挑戰地底世界地城的數碼寶貝進行以下操作。 \n‧編成、替換 \n‧技能等級提升 \n‧強化、特訓、突破極限、進化 \n‧別離 \n‧強化、進化能力碟 \n‧裝備、解除能力碟 \n‧販售裝備中的能力碟</color>"
+			"detail_text": "打倒各樓層配置的敵人，以帶回報酬為目標的場所。　\n一旦進入地底世界地城，就必須在返回或是所有樓層過關後才能正式獲得報酬。　\n前進越多樓層，稀有道具出現率也會隨之上升。　\n<br>＜關於隊伍編成＞　\n包含夥伴數碼寶貝在內，僅可使用Lv.99以上的數碼寶貝進行挑戰。\n戰鬥內容為最多3隊（15隻）的連續戰鬥。\n每支隊伍設有編成Cost（100）。\n必須以隊伍Cost為限來編成隊伍。　\n數碼寶貝的Cost依世代而定。\n‧Cost35：超究極體／究極體　\n‧Cost20：裝甲體\n‧Cost14：完全體\n‧Cost7：成熟期\n‧Cost3：成長期\n<br>＜在地底世界地城的戰鬥＞\n在地底世界地城存在複數類型的戰鬥形式。\n樓層過關時，以下資料會延續使用。　\n‧HP　\n‧CT（冷卻時間）　\n‧友情必殺能量槽　\n<br>＜場地效果＞　\n戰鬥開始時，會依樓層發動不同的場地效果，並對場地上的數碼寶貝產生影響。\n場地效果分為異常狀態效果、Buff效果及Debuff效果。\n場地效果是源自於樓層，並非玩家對峙的對手所擁有的效果。\n若擁有與發動中的場地效果對應的抗性，將可防止場地效果。\n<br>＜地底世界地城的推進＞　\n進入下一樓層前，可選擇前進或是返回。　\n若是選擇前進，可由一開始編成的隊伍中選擇任意隊伍開始戰鬥。\n點擊各樓層，可以確認樓層資訊。\n若是選擇返回，即視為挑戰結束，可正式獲得所有暫時取得的報酬，但下次挑戰時將從頭來過。　\n依樓層不同，有可能出現分歧路線。　\n過程中無法返回已經過關的樓層。　\n<br>＜X-Spiral（X螺旋種）＞\nX-Spiral是指從16樓開始登場的螺旋種，會在周邊展開能減輕所有傷害的「X屏障」。\n打倒X-Spiral就能解除X屏障。\n擁有「X抗體」技能效果的數碼寶貝可在不受X屏障影響下給予傷害。\n<br>＜關於報酬＞　\n每次樓層過關時，可以暫時獲得報酬。\n此時並非正式領取，故無法使用這些報酬道具。\n在選擇返回或是所有樓層過關後，才能正式獲得報酬。\n可以戰鬥的數碼寶貝全部倒下時視為敗北，將會失去所有暫時獲得的道具。\n<br>＜關於倒轉時鐘＞　\n在可以戰鬥的數碼寶貝全部倒下時使用的特殊道具。　\n一旦使用倒轉時鐘，便會回到出發挑戰該樓層前的準備畫面，可藉此再次進行挑戰。\n隊伍與敵人數碼寶貝皆會回到出發挑戰該樓層前的狀態。\n若是使用倒轉時鐘再次進行挑戰，必須在該樓層過關後才能選擇返回。\n<br>＜其他＞　\n地底世界地城每當返回、敗北或是全樓層過關後，就會回到最初的樓層，攻略內容也將隨之重置。　\n而且，每次挑戰時樓層構造都會發生變化。　\n<br>\n<br><color=#c7221d>※一旦開始挑戰，直到挑戰結束前將無法操作「變更夥伴」，此外也將暫時無法對用來挑戰地底世界地城的數碼寶貝進行以下操作。　\n　　‧編成、替換　\n　　‧技能等級提升　\n　　‧強化、特訓、突破極限、進化、覺醒、繼承\n　　‧別離　\n　　‧強化、進化能力碟　\n　　‧裝備、解除能力碟　\n　　‧販售裝備中的能力碟</color>"
 		},
 		{
 			"help_id": "1061",
@@ -505,6 +505,30 @@
 			"detail_text": "所謂的戰鬥挑戰，\n是指只靠自己的數碼寶貝與活動期間內出現的魔王戰鬥。　\n在活動期間內，可透過打倒魔王獲得活動pt，\n並依活動pt領取相對應的報酬。　\n詳細玩法可點擊活動首頁畫面的「規則」鍵確認。"
 		},
 		{
+			"help_id": "1084",
+			"help_category_id": "-1",
+			"title_text": "何謂覺醒",
+			"detail_text": "覺醒可以強化超個性數碼寶貝的覺醒階段，提升數碼寶貝的能力值和技能等級的上限。\n覺醒最多可到第四階段。\n<br>進行覺醒需消耗bit。\n<br>※需要數隻相同系譜的超個性數碼寶貝。\n※編入隊伍中的數碼寶貝無法覺醒，\n　但基本體數碼寶貝無此限制。\n※必須將數碼寶貝的等級提升至99以上。\n※用來作為素材的數碼寶貝，若是處於被選為夥伴、\n　被編入隊伍、被鎖定、被照料等狀態，將無法進行覺醒。"
+		},
+		{
+			"help_id": "1085",
+			"help_category_id": "-1",
+			"title_text": "何謂繼承",
+			"detail_text": "可將超個性的數碼寶貝作為融合素材，讓一般個性的數碼寶貝繼承能力。\n繼承之後，等級、友情度、技能等級將會以數值較高者為準，且會重生成超個性數碼寶貝。\n<br>透過繼承讓數碼寶貝重生成超個性，能夠進行更進階的養成，可望得到更進一步的強化。\n用於繼承的超個性數碼寶貝將會消失。\n<br>※必須持有一般個性以及更高階的\n　超個性數碼寶貝各一隻以上。\n※必須將數碼寶貝的等級提升至99以上。\n※一般個性的數碼寶貝的等級、技能等級、\n　友情度當中，需有其中一項高於超個性數碼寶貝\n　才能繼承。\n※用來作為素材的數碼寶貝，若是處於被選為夥伴、\n　被編入隊伍、被鎖定、被照料等狀態，將無法進行繼承。"
+		},
+		{
+			"help_id": "1086",
+			"help_category_id": "-1",
+			"title_text": "衝突戰活動",
+			"detail_text": "衝突戰活動是指和其他馴獸師協力，與期間內出現的強敵戰鬥。\n<br>活動期間內，每次參加衝突戰並成功討伐特定強敵，就能累積討伐pt。\n可根據獲得的討伐pt獲得「個人討伐pt報酬」，\n還能根據全體用戶合計的討伐pt獲得「全體討伐pt報酬」。\n<br>使用會出現特效獎勵的數碼寶貝編成隊伍進行討伐，可獲得比平常更多的討伐pt。\n<br>另外，系統會根據期間內獲得的討伐pt、特定強敵的擊破數、給予特定強敵的最大傷害進行排名，參加排名即可獲得排名報酬。\n<br>擁有特效獎勵的數碼寶貝在衝突戰活動裡會提升基本能力值。\n可在舉辦中的活動公告確認擁有特效獎勵的數碼寶貝。\n<br>詳細玩法可點擊活動首頁畫面的「規則」鍵確認。"
+		},
+		{
+			"help_id": "1087",
+			"help_category_id": "-1",
+			"title_text": "衝突戰活動的規則",
+			"detail_text": "在衝突戰期間內，打倒衝突戰的強敵即可獲得討伐pt。可根據點數領取專用報酬。\n<br>‧<color=#e75600>全體討伐pt報酬</color>\n　根據所有用戶討伐pt合計值而獲得的報酬。\n<br>‧<color=#e75600>個人討伐pt報酬</color>\n　根據個人討伐pt而獲得的報酬。\n<br>另外，與期間內出現的強敵戰鬥即可參加各項排名。可根據在各項排名的名次領取報酬。\n<br>‧<color=#e75600>討伐pt個人排名、討伐pt數碼戰隊排名</color>\n　依據討伐特定強敵獲得的合計討伐pt來競爭的排名。\n　排名分為前半、後半、總和三階段。\n<br>‧<color=#e75600>擊破數個人排名、擊破數數碼戰隊排名</color>\n　依據討伐巨大螺旋種的合計數量來競爭的排名。\n　排名分為前半、後半、總和三階段。\n<br>‧<color=#e75600>傷害排名</color>\n　依據一場戰鬥中對巨大螺旋種（Lv.20）造成的合計傷害來競爭的排名。\n　會進行總和排名。\n<br><color=#c7221d>※請注意，下列情況無法獲得討伐pt。</color>\n<color=#c7221d>‧只是發現強敵，沒有參加討伐。</color>\n<color=#c7221d>‧沒有成功給予強敵傷害。</color>\n<color=#c7221d>‧在途中棄權。</color>\n<color=#c7221d>‧討伐失敗。</color>\n<color=#c7221d>※超過期限的討伐將會視為未討伐。</color>\n<color=#c7221d>※衝突戰活動的全體討伐pt報酬資訊會維持在移動到活動首頁畫面時的狀態。</color>\n<color=#c7221d>※重新進入活動首頁畫面便能取得最新資訊。</color>\n<color=#c7221d>※上次活動獲得的討伐pt不會累計至本次活動中。</color>\n<color=#c7221d>※傷害排名是以一場戰鬥中的合計傷害進行排名。若使用數碼紅寶石再次戰鬥，再次進行的戰鬥會視為「另一場戰鬥」來計算。再次戰鬥時產生的合計傷害，不會累加到再次戰鬥前產生的排名用傷害。</color>\n<color=#c7221d>※數碼戰隊排名的討伐pt和擊破數，會以所屬數碼戰隊成員獲得的討伐pt、擊破數來加總計算。</color>\n<color=#c7221d>※在討伐pt數碼戰隊排名中獲得報酬的條件如下：需加入數碼戰隊，討伐特定強敵並獲得1pt以上的成績。</color>\n<color=#c7221d>※在擊破數數碼戰隊排名中獲得報酬的條件如下：需加入數碼戰隊，討伐一隻以上的巨大螺旋種並獲得第三名以上的成績。</color>\n<color=#c7221d>※數碼戰隊排名的名次報酬將依據活動結束時所屬數碼戰隊的成績來決定。</color>\n<color=#c7221d>※若數碼戰隊在計算排名後解散，排名上將不會顯示已解散的數碼戰隊，但仍會發放計算後確定會得到的報酬。</color>"
+		},
+		{
 			"help_id": "109",
 			"help_category_id": "7",
 			"title_text": "設立數碼戰隊",
@@ -592,7 +616,7 @@
 			"help_id": "121",
 			"help_category_id": "8",
 			"title_text": "何謂數碼寶貝轉蛋",
-			"detail_text": "數碼寶貝轉蛋是能獲得<color=#e75600>數碼寶貝</color>的轉蛋，\n獲得的數碼寶貝會成為同伴。\n基本上需消耗數碼紅寶石來抽轉蛋，\n出現的數碼寶貝陣容會依轉蛋有所差異。\n可從顯示出現機率來確認出現內容和機率。\n<br>轉蛋有2種，只會獲得1隻的<color=#e75600>單次轉蛋</color>和能獲得10隻＋1隻共11隻的超值<color=#e75600>10連＋1轉蛋</color>。"
+			"detail_text": "數碼寶貝轉蛋是能獲得<color=#e75600>數碼寶貝</color>的轉蛋，獲得的數碼寶貝會成為同伴。\n基本上需消耗數碼紅寶石來抽轉蛋，\n出現的數碼寶貝陣容會依轉蛋有所差異。\n可從顯示出現機率來確認出現內容和機率。\n<br>轉蛋有2種，只會獲得1隻的<color=#e75600>單次轉蛋</color>和能獲得10隻＋1隻共11隻的超值<color=#e75600>10連＋1轉蛋</color>。\n<br>部分轉蛋還能獲得數碼鑽石。\n獲得條件可以從轉蛋公告等處進行確認。"
 		},
 		{
 			"help_id": "122",
@@ -604,7 +628,7 @@
 			"help_id": "123",
 			"help_category_id": "9",
 			"title_text": "何謂數碼連線",
-			"detail_text": "數碼連線是指帶著使用中的裝置走路，\n夥伴數碼寶貝會依步數發現照料道具，\n或享受與其他馴獸師的數碼寶貝擦身而過的樂趣的功能。\n<br>數碼連線畫面會顯示夥伴數碼寶貝的點陣圖，\n現實中馴獸師走了幾步，夥伴數碼寶貝就會跟著走幾步。\n藉由一起走路，夥伴數碼寶貝會發現道具或和其他數碼寶貝擦身而過。\n發現道具或發生擦身而過時，\n領取道具便會提升夥伴數碼寶貝的友情度。\n<br>如要使用數碼連線，需從數碼小鎮右上的收納鍵選擇「數碼連線」。\n<br>※使用數碼連線中若轉移帳號（切換裝置），已計算的步數將會重置。\n※轉移帳號後，需於數碼小鎮右上的收納鍵再度按下「數碼連線」鍵步數才會繼續計算。\n※變更裝置的時間或時區有可能會使步數無法正常計算或重置。\n※不需持續啟動App。\n※設定上是依步數在數碼空間和其他數碼寶貝擦身而過，並非實際與附近的玩家擦身而過。"
+			"detail_text": "數碼連線是指帶著使用中的裝置走路，\n夥伴數碼寶貝會依步數發現照料道具，\n或享受與其他馴獸師的數碼寶貝擦身而過的樂趣的功能。\n<br>數碼連線畫面會顯示夥伴數碼寶貝的點陣圖，\n現實中馴獸師走了幾步，夥伴數碼寶貝就會跟著走幾步。\n藉由一起走路，夥伴數碼寶貝會發現道具或和其他數碼寶貝擦身而過。\n發現道具或發生擦身而過時，\n領取道具便會提升夥伴數碼寶貝的友情度。\n<br>如要使用數碼連線，需從數碼小鎮右上的收納鍵選擇「數碼連線」。\n<br>※使用數碼連線中若轉移帳號（切換裝置），已計算的步數將會重置。\n※轉移帳號後，需於數碼小鎮右上的收納鍵再度按下「數碼連線」鍵步數才會繼續計算。\n※變更裝置的時間或時區有可能會使步數無法正常計算或重置。\n※不需持續啟動App。\n※設定上是依步數在數碼空間和其他數碼寶貝擦身而過，並非實際與附近的玩家擦身而過。\n※會保存14天份的步數資訊。"
 		},
 		{
 			"help_id": "124",
@@ -658,7 +682,7 @@
 			"help_id": "131",
 			"help_category_id": "9",
 			"title_text": "何謂商店",
-			"detail_text": "商店是可購買數碼紅寶石或以專用貨幣交換其他商品的地方。\n商品會定期更換，建議時常前往查看。\n<br>‧<color=#e75600>購買數碼紅寶石</color>\n　用現金購買數碼紅寶石。\n‧<color=#e75600>購買道具</color>\n　消耗數碼紅寶石購買道具。\n‧<color=#e75600>數碼寶珠交換</color>\n　用數碼寶珠交換道具。\n‧<color=#e75600>BP獎牌交換</color>\n　用BP獎牌交換道具。\n‧<color=#e75600>大師獎牌交換</color>\n　用大師獎牌交換道具。\n‧<color=#e75600>CB獎牌交換</color>\n　用CB獎牌交換道具。\n‧<color=#e75600>排名獎牌交換</color>\n　用排名獎牌交換道具。\n‧<color=#e75600>交流pt交換</color>\n　用交流pt交換道具。"
+			"detail_text": "商店是可購買數碼紅寶石或以專用貨幣交換其他商品的地方。\n商品會定期更換，建議時常前往查看。\n<br>‧<color=#e75600>購買數碼紅寶石</color>\n　用現金購買數碼紅寶石。\n‧<color=#e75600>特賣／養成組合／基本款</color>\n　消耗數碼紅寶石購買道具。\n‧<color=#e75600>數碼鑽石交換</color>\n　用數碼鑽石交換數碼寶貝。\n‧<color=#e75600>BP獎牌交換</color>\n　用BP獎牌交換道具。\n‧<color=#e75600>大師獎牌交換</color>\n　用大師獎牌交換道具。\n‧<color=#e75600>CB獎牌交換</color>\n　用CB獎牌交換道具。\n‧<color=#e75600>數碼寶珠交換</color>\n　用數碼寶珠交換道具。\n‧<color=#e75600>排名獎牌交換</color>\n　用排名獎牌交換道具。\n‧<color=#e75600>交流pt交換</color>\n　用交流pt交換道具。"
 		},
 		{
 			"help_id": "132",
@@ -820,7 +844,7 @@
 			"help_id": "22",
 			"help_category_id": "2",
 			"title_text": "何謂養成",
-			"detail_text": "養成是強化與進化、裝備能力碟等跟數碼寶貝成長相關的所有功能。\n<br>･<color=#e75600>強化</color>：\n讓數碼寶貝等級提升。\n･<color=#e75600>特訓／突破極限</color>：\n進行數碼寶貝的特訓或突破極限。\n･<color=#e75600>進化</color>：\n讓數碼寶貝進化。\n･<color=#e75600>技能等級提升</color>：\n提升數碼寶貝的技能等級。\n･<color=#e75600>裝備能力碟</color>：\n將能力碟裝備於數碼寶貝身上。\n･<color=#e75600>強化、進化能力碟</color>：\n合成能力碟使其變強。\n･<color=#e75600>能力碟一覽</color>：\n確認持有的能力碟數量及資訊。\n･<color=#e75600>販售能力碟</color>：\n販售能力碟，空出持有欄位。\n･<color=#e75600>數碼寶貝一覽</color>：\n確認持有的數碼寶貝數量及資訊。\n･<color=#e75600>別離</color>：\n和數碼寶貝別離，空出持有欄位。"
+			"detail_text": "養成是強化與進化、裝備能力碟等跟數碼寶貝成長相關的所有功能。\n<br>‧<color=#e75600>強化</color>：\n　讓數碼寶貝等級提升。\n‧<color=#e75600>特訓／突破極限</color>：\n　進行數碼寶貝的特訓或突破極限。\n‧<color=#e75600>進化</color>：\n　讓數碼寶貝進化。\n‧<color=#e75600>技能等級提升</color>：\n　提升數碼寶貝的技能等級。\n‧<color=#e75600>覺醒</color>：\n　提升超個性數碼寶貝的覺醒階段。\n‧<color=#e75600>繼承</color>：\n　讓養成完畢的一般個性數碼寶貝繼承\n　超個性數碼寶貝，使其超個性化。\n‧<color=#e75600>裝備能力碟</color>：\n　將能力碟裝備於數碼寶貝身上。\n‧<color=#e75600>強化、進化能力碟</color>：\n　合成能力碟使其變強。\n‧<color=#e75600>能力碟一覽</color>：\n　確認持有的能力碟數量及資訊。\n‧<color=#e75600>販售能力碟</color>：\n　販售能力碟，空出持有欄位。\n‧<color=#e75600>數碼寶貝一覽</color>：\n　確認持有的數碼寶貝數量及資訊。\n‧<color=#e75600>別離</color>：\n　和數碼寶貝別離，空出持有欄位。"
 		},
 		{
 			"help_id": "23",
@@ -898,19 +922,19 @@
 			"help_id": "35",
 			"help_category_id": "2",
 			"title_text": "何謂技能等級",
-			"detail_text": "數碼寶貝擁有在戰鬥中使用的技能，技能等級顯示其強化階段。\n技能分為主要技能、副技能、被動技能3種。\n<br>\n[img width=844 height=325]tutorial/skilllevelup_1[/img]\n數碼寶貝彼此融合可提升技能等級，\n使主要技能與副技能的效果上升。\n技能等級最高可提升至Lv10。\n被動技能即使技能等級提升，效果也不會有變化。\n<br>※關於能使用於融合的數碼寶貝請確認\n　「關於使用於融合的數碼寶貝」項目。"
+			"detail_text": "數碼寶貝擁有在戰鬥中使用的技能，技能等級顯示其強化階段。\n技能分為主要技能、副技能、被動技能以及Ex技能4種。\n<br>\n[img width=844 height=325]tutorial/skilllevelup_1[/img]\n數碼寶貝彼此融合或使用技能石可提升技能等級，使Ex技能、主要技能與副技能的效果上升。\n技能等級最高可提升至Lv.15。\n被動技能即使技能等級提升，效果也不會有變化。\n<br>※關於能使用於融合的數碼寶貝，請確認「關於使用於融合的數碼寶貝」項目。"
 		},
 		{
 			"help_id": "36",
 			"help_category_id": "2",
 			"title_text": "技能等級提升的方法",
-			"detail_text": "從數碼小鎮進入「養成」→「技能等級提升」，選擇想要提升技能等級的基本體數碼寶貝。\n<br>選擇要和基本體數碼寶貝進行融合的數碼寶貝。\n數碼寶貝融合可提升技能等級。\n會失去使用於技能等級提升的數碼寶貝。\n<br>數碼寶貝可從轉蛋及培育數碼蛋獲得。\n<br>※關於能使用於融合的數碼寶貝，請確認「關於使用於融合的數碼寶貝」項目。\n<br>此外，可使用技能石代替數碼寶貝。\n※關於技能石，請確認「技能石」項目。"
+			"detail_text": "從數碼小鎮進入「養成」→「技能等級提升」，選擇想要提升技能等級的基本體數碼寶貝。\n<br>選擇要和基本體數碼寶貝進行融合的數碼寶貝。\n數碼寶貝融合可提升技能等級。\n會失去使用於技能等級提升的數碼寶貝。\n<br>數碼寶貝可從轉蛋及培育數碼蛋獲得。\n※關於能使用於融合的數碼寶貝，請確認「關於使用於融合的數碼寶貝」項目。\n<br>此外，可使用技能石代替數碼寶貝。\n超個性數碼寶貝只能使用技能石進行技能等級提升。\n※關於技能石，請確認「技能石」項目。"
 		},
 		{
 			"help_id": "37",
 			"help_category_id": "2",
 			"title_text": "關於使用於融合的數碼寶貝",
-			"detail_text": "只有與基本體數碼寶貝<color=#e75600>個性相同</color>，且<color=#e75600>進化系譜相同</color>的數碼寶貝能作為技能等級提升的素材。\n<br><color=#c7221d>就算有2隻同名的「亞古獸」，只要「進化系譜」不同就無法融合。</color>\n在數碼寶貝詳細資訊畫面能確認是否為相同進化系譜。\n<br>※以下的數碼寶貝不會顯示為融合對象，因此無法選擇\n‧在任一隊伍編成中\n‧已設定為夥伴數碼寶貝\n‧已設定為照料的數碼寶貝\n‧Lock中的數碼寶貝"
+			"detail_text": "只有與基本體數碼寶貝<color=#e75600>個性相同</color>，且<color=#e75600>進化系譜相同</color>的數碼寶貝能作為技能等級提升的素材。\n<br><color=#c7221d>就算有2隻同名的「亞古獸」，只要「進化系譜」不同就無法融合。</color>\n在數碼寶貝詳細資訊畫面能確認是否為相同進化系譜。\n<br>超個性數碼寶貝則只能使用技能石來提升SLv。"
 		},
 		{
 			"help_id": "38",
@@ -976,7 +1000,7 @@
 			"help_id": "47",
 			"help_category_id": "3",
 			"title_text": "特效",
-			"detail_text": "有些能力碟裝備在特定數碼寶貝身上，可發揮隱藏能力。\n<br>擁有特效效果的能力碟會顯示「特效」文字。"
+			"detail_text": "有些能力碟裝備在特定數碼寶貝身上，可發揮隱藏能力。\n<br>擁有特效效果的能力碟會顯示「特效」文字。\n※當數碼寶貝與能力碟名稱裡的「個性」、「數碼寶貝名」都一致時，才可發揮其特效，但補正攻擊力（PWR/TEC）的能力碟無法裝備於攻擊型不一致的數碼寶貝。\n※凡是「個性」一致的數碼寶貝都能裝備特效能力碟，但會套用「一般情況」的能力值。\n※凡是同類型個性（超勇敢的同類型即為勇敢）的數碼寶貝，都能裝備適合超個性數碼寶貝的特效能力碟，但會套用「一般情況」的能力值。\n※每隻數碼寶貝最多可裝備各2個攻擊、防禦及特殊的特效能力碟。"
 		},
 		{
 			"help_id": "48",
@@ -1024,7 +1048,7 @@
 			"help_id": "503",
 			"help_category_id": "3",
 			"title_text": "專用",
-			"detail_text": "有些能力碟只能裝備在特定數碼寶貝身上，\n其他數碼寶貝無法裝備。\n裝備能力碟時會顯示「專用」的文字。"
+			"detail_text": "有些能力碟只能裝備在特定數碼寶貝身上，\n其他數碼寶貝無法裝備。\n裝備能力碟時會顯示「專用」的文字。\n※當數碼寶貝與能力碟名稱裡的「個性」、「數碼寶貝名」都一致時，才可發揮其專用效果，但補正攻擊力（PWR/TEC）的能力碟無法裝備於攻擊型不一致的數碼寶貝。\n※每隻數碼寶貝最多可裝備各2個攻擊、防禦及特殊的專用能力碟。"
 		},
 		{
 			"help_id": "504",
@@ -1054,7 +1078,7 @@
 			"help_id": "508",
 			"help_category_id": "2",
 			"title_text": "個性證明",
-			"detail_text": "個性證明是數碼寶貝突破超極限所需的道具。\n 分別存在勇敢證明、冷靜證明、精明證明、不屈證明及奉獻證明共5種。\n <br>可從地底世界地城等處獲得個性證明。"
+			"detail_text": "個性證明是數碼寶貝突破超極限所需的道具。\n分別存在勇敢／超勇敢證明、冷靜／超冷靜證明、精明／超精明證明、不屈／超不屈證明及奉獻／超奉獻證明共5種。\n<br>可從地底世界地城等處獲得個性證明。"
 		},
 		{
 			"help_id": "509",
@@ -1073,6 +1097,54 @@
 			"help_category_id": "3",
 			"title_text": "被動效果",
 			"detail_text": "有種特別能力碟，能獲得與數碼寶貝的「被動技能」相同的效果。\n只要裝備該能力碟，就能夠獲得被動效果。\n<br>有被動效果的能力碟會在能力碟的能力值中顯示被動技能圖示。\n此類能力碟帶來的被動效果，跟數碼寶貝擁有的被動效果作用相同。\n同樣的被動效果不會重複發動，僅以效果較高者為優先。\n被動效果發動的方式不以「回合」來計算，而是「永續」效果。\n<br>能力碟的被動效果可以從數碼寶貝的能力值畫面和能力碟裝備畫面查看。"
+		},
+		{
+			"help_id": "511",
+			"help_category_id": "2",
+			"title_text": "何謂覺醒",
+			"detail_text": "覺醒僅限超個性數碼寶貝，可以提升數碼寶貝的能力值、技能等級的上限，以及超個性的覺醒階段。\n覺醒最多可到第四階段。\n<br>進行覺醒需消耗bit。"
+		},
+		{
+			"help_id": "512",
+			"help_category_id": "2",
+			"title_text": "覺醒的方法",
+			"detail_text": "從數碼小鎮依「養成」→「覺醒」來移動，選擇想要進行覺醒的數碼寶貝。\n滿足下列條件即可進行覺醒。\n‧持有數隻相同系譜的超個性數碼寶貝\n‧等級在99以上\n<br>用於覺醒的數碼寶貝將會消失。\n等級、友情度、技能等級、覺醒階段\n將會以基本體數碼寶貝的數值為基準。\n可從故事獲得覺醒所需的bit。\n此外也可從限時漩渦或任務報酬等處獲得。"
+		},
+		{
+			"help_id": "513",
+			"help_category_id": "2",
+			"title_text": "何謂繼承",
+			"detail_text": "繼承時，可將超個性的數碼寶貝作為融合素材，讓一般個性的數碼寶貝繼承能力。\n繼承之後，等級、友情度、技能等級將會以數值較高者為準，且會重生成超個性數碼寶貝。\n<br>進行繼承需消耗bit。"
+		},
+		{
+			"help_id": "514",
+			"help_category_id": "2",
+			"title_text": "繼承的方法",
+			"detail_text": "從數碼小鎮依「養成」→「繼承」來移動，選擇想要進行繼承的數碼寶貝。\n<br>滿足下列條件即可進行繼承。\n‧持有一般個性以及更高階的\n　超個性數碼寶貝各一隻以上\n‧等級在99以上\n‧一般個性的數碼寶貝的等級、\n　技能等級、友情度當中，\n　需有其中一項高於超個性數碼寶貝\n<br>用於繼承的超個性數碼寶貝將會消失。\n可從故事獲得繼承所需的bit。\n此外也可從限時漩渦或任務報酬等處獲得。"
+		},
+		{
+			"help_id": "515",
+			"help_category_id": "1",
+			"title_text": "超個性",
+			"detail_text": "超個性為一般個性的高階個性。\n五種個性的高階個性分別為超勇敢、超冷靜、超精明、超不屈、超奉獻。\n<br>超個性有以下特徵。\n‧可進行覺醒。\n　覺醒有不同階段之分，自數碼寶貝圖示右方的<sprite=4>數量\n　即可得知目前所在的階段。\n‧進化至最終進化世代後，\n　將會解鎖第三個技能，也就是Ex技能。\n‧會根據數碼寶貝的個性顏色產生氣場。\n　覺醒的階段越高，氣場也會越強。\n‧可用於進行繼承。\n<br>＜關於覺醒＞\n為更進一步強化超個性數碼寶貝的功能。\n關於覺醒請確認說明中的「何謂覺醒」項目。\n<br>＜關於繼承＞\n將高階個性數碼寶貝作為素材和一般個性數碼寶貝融合，\n使其重生成超個性數碼寶貝的功能。\n關於繼承請確認說明中的「何謂繼承」項目。"
+		},
+		{
+			"help_id": "516",
+			"help_category_id": "1",
+			"title_text": "個性相剋",
+			"detail_text": "每種個性在戰鬥中都存在著相剋關係。\n勇敢／超勇敢剋制精明／超精明，精明／超精明剋制冷靜／超冷靜，冷靜／超冷靜剋制勇敢／超勇敢，這三種個性互為相剋關係，\n因此會影響給予的傷害與承受的傷害。\n不屈／超不屈與奉獻／超奉獻為相反關係，互為相剋的個性，\n因此會影響給予的傷害。\n[img width=844 height=325]tutorial/sukumi_1[/img]"
+		},
+		{
+			"help_id": "517",
+			"help_category_id": "5",
+			"title_text": "Ex技能",
+			"detail_text": "數碼寶貝固定擁有的技能，\n進化至最終世代才會習得。\n主要多為攻擊系的技能，其中也有技能附帶賦予對手異常狀態的追加效果。\n<br>使用技能後，一定時間內會無法使用技能（冷卻時間）。\n特徵是與其他技能相比，冷卻時間非常長。\n<br>技能等級提升之後，威力也會隨之上升。"
+		},
+		{
+			"help_id": "518",
+			"help_category_id": "0",
+			"title_text": "數碼鑽石",
+			"detail_text": "數碼鑽石是可以用來交換數碼寶貝的道具。\n可透過抽取轉蛋來獲得。\n可至商店的數碼鑽石交換內進行交換。\n<br>※並非所有的轉蛋皆可獲得，\n　僅限需消耗數碼紅寶石的轉蛋。\n　此外，單次轉蛋不在適用範圍內，\n　獲得條件將隨轉蛋而異。"
 		},
 		{
 			"help_id": "52",
@@ -1180,7 +1252,7 @@
 			"help_id": "68",
 			"help_category_id": "5",
 			"title_text": "何謂技能",
-			"detail_text": "技能是指數碼寶貝所使用的招式。\n每隻數碼寶貝會習得的技能有所差異。\n技能大致上可區分為3種：\n<br>‧<color=#e75600>主要技能</color>\n　數碼寶貝固定擁有的技能。\n　馴獸師可在任意的時機使用。\n‧<color=#e75600>副技能</color>\n　數碼寶貝擁有的另一個技能。\n　馴獸師可在任意的時機使用。\n‧<color=#e75600>被動技能</color>\n　戰鬥開始時會自動發動的技能。\n　有著各式各樣的效果，\n　如強化我方或降低對手能力。"
+			"detail_text": "技能是指數碼寶貝所使用的招式。\n每隻數碼寶貝會習得的技能有所差異。\n技能大致上可區分為4種：\n<br>‧<color=#e75600>主要技能</color>\n　數碼寶貝固定擁有的技能。\n　馴獸師可在任意的時機使用。\n‧<color=#e75600>副技能</color>\n　數碼寶貝擁有的另一個技能。\n　馴獸師可在任意的時機使用。\n‧<color=#e75600>被動技能</color>\n　戰鬥開始時會自動發動的技能。\n　有著各式各樣的效果，\n　如強化友軍或降低對手能力。\n‧<color=#e75600>Ex技能</color>\n　只有超個性數碼寶貝才固定擁有的技能。\n　馴獸師可在任意的時機使用。\n　進化至最終世代才能習得。"
 		},
 		{
 			"help_id": "69",
@@ -1204,13 +1276,13 @@
 			"help_id": "71",
 			"help_category_id": "5",
 			"title_text": "被動技能",
-			"detail_text": "戰鬥開始時會自動發動的技能。\n主要為輔助系的效果，如攻擊力提升、防禦力提升、\n賦予對特定異常狀態的抗性等，有各式各樣的效果。\n<br>與主要技能及副技能不同，並不存在冷卻時間。\n相對地，能發揮效果的回合數有限，\n戰鬥開始經過一定回合數後會失效。\n技能中也有效果會永久持續的技能。\n每次切換wave就會重新施放被動技能。\n<br>被動技能並沒有技能等級提升的概念，效果不會產生變化。"
+			"detail_text": "戰鬥開始時會自動發動的技能。\n主要為輔助系的效果，如攻擊力提升、防禦力提升、賦予對特定異常狀態的抗性等，有各式各樣的效果。\n<br>與主要技能、副技能及Ex技能不同，並不存在冷卻時間。\n相對地，能發揮效果的回合數有限，戰鬥開始經過一定回合數後會失效。　\n技能中也有效果會永久持續的技能。\n每次切換wave就會重新施放被動技能。\n<br>被動技能並沒有技能等級提升的概念，效果不會產生變化。"
 		},
 		{
 			"help_id": "72",
 			"help_category_id": "5",
 			"title_text": "關於特殊行動",
-			"detail_text": "戰鬥中除「普通攻擊」、「主要技能」、「副技能」外，\n數碼寶貝有時會採取特殊的行動。\n<br>‧<color=#e75600>爆擊（CRITICAL）</color>\n　普通攻擊和技能攻擊時，有一定機率給予1.5倍的傷害。\n‧<color=#e75600>狙擊（LOCK ON）</color>\n　優先攻擊HP減少的敵人。\n‧<color=#e75600>反擊（COUNTER）</color>\n　受到攻擊時有一定機率發動，\n　對發出攻擊的對象進行反擊。\n‧<color=#e75600>格擋（BLOCK）</color>\n　受到攻擊時有一定機率發動，\n　減輕受到的傷害。\n‧<color=#e75600>追加攻擊（1MORE）</color>\n　通常攻擊或技能攻擊後，\n　有一定機率再次進行攻擊。"
+			"detail_text": "戰鬥中除「普通攻擊」、「主要技能」、「副技能」、「Ex技能」外，數碼寶貝有時會採取特殊的行動。\n<br>‧<color=#e75600>爆擊（CRITICAL）</color>\n　普通攻擊和技能攻擊時，\n　有一定機率給予1.5倍的傷害。\n‧<color=#e75600>狙擊（LOCK　ON）</color>\n　優先攻擊HP減少的敵人。\n‧<color=#e75600>反擊（COUNTER）</color>\n　受到攻擊時有一定機率發動，\n　對發出攻擊的對象進行反擊。\n‧<color=#e75600>格擋（BLOCK）</color>\n　受到攻擊時有一定機率發動，\n　減輕受到的傷害。\n‧<color=#e75600>追加攻擊（1MORE）</color>\n　普通攻擊或技能攻擊後，\n　有一定機率再次進行攻擊。"
 		},
 		{
 			"help_id": "73",
@@ -1228,7 +1300,7 @@
 			"help_id": "75",
 			"help_category_id": "5",
 			"title_text": "關於異常狀態②",
-			"detail_text": "導致數碼寶貝在戰鬥中無法正常行動的特殊狀態。\n有著各式各樣的種類。\n<br>‧<color=#e75600>中毒</color>\n　陷入中毒的狀態，會定期持續受到一定量的傷害。\n‧<color=#e75600>灼傷</color>\n　陷入灼傷的狀態，會定期持續受到一定量的傷害。\n‧<color=#e75600>錯誤</color>\n　陷入身體產出雜訊的狀態，會定期持續受到一定量的傷害。\n‧<color=#e75600>封印技能</color>\n　變得無法使用主要技能和副技能。\n‧<color=#e75600>黑暗</color>\n　陷入眼前有黑霧籠罩的狀態，\n　變得無法進行普通攻擊或反擊。\n　此外，技能的命中率會顯著降低。"
+			"detail_text": "導致數碼寶貝在戰鬥中無法正常行動的特殊狀態。\n有著各式各樣的種類。\n<br>‧<color=#e75600>中毒</color>\n　陷入中毒的狀態，\n　會定期持續受到一定量的傷害。\n‧<color=#e75600>灼傷</color>\n　陷入灼傷的狀態，\n　會定期持續受到一定量的傷害。\n‧<color=#e75600>錯誤</color>\n　陷入身體產生雜訊的狀態，\n　會定期持續受到一定量的傷害。\n‧<color=#e75600>封印技能</color>\n　主要技能、副技能以及Ex技能\n　變得無法使用。\n‧<color=#e75600>黑暗</color>\n　陷入眼前有黑霧籠罩的狀態，\n　變得無法進行普通攻擊或反擊。\n　此外，技能的命中率會顯著降低。"
 		},
 		{
 			"help_id": "76",
@@ -1246,7 +1318,7 @@
 			"help_id": "78",
 			"help_category_id": "5",
 			"title_text": "關於技能效果",
-			"detail_text": "技能的效果除了異常狀態以外，還有以下的種類：\n<br>‧<color=#e75600>挑釁</color>\n　使敵人的攻擊集中到自己身上。\n‧<color=#e75600>減少Buff回合</color>\n　減少敵人身上的Buff效果回合數\n　（效果時間）。\n‧<color=#e75600>固定傷害</color>\n　無視對手的DEF，\n　給予一定的傷害量。\n‧<color=#e75600>格擋無效</color>\n　可使對手的格擋無效，\n　給予傷害。\n‧<color=#e75600>爆擊傷害提升</color>\n　爆擊發動時給予的傷害\n　高於一般爆擊。\n‧<color=#e75600>自我重生</color>\n　定期回復一定的HP量。\n‧<color=#e75600>最大HP提升</color>\n　提升數碼寶貝的最大HP。\n‧<color=#e75600>累積攻擊力提升</color>\n　數碼寶貝的攻擊力提升。\n　此效果可疊加，\n　效果將會累積至一定的數值。\n‧<color=#e75600>迴避攻擊</color>\n　可迴避來自敵人的攻擊。\n‧<color=#e75600>神速</color>\n　可於戰鬥開始時\n　優先使用主要技能。\n　※限戰鬥開始時。\n　※若同時存在數隻具「神速」效果的數碼寶貝，\n　　會由SPD合計值較高的隊伍發動「神速」。\n‧<color=#e75600>CT加成（冷卻時間加成）</color>\n　使用技能後，將縮短一定的CT量。\n‧<color=#e75600>九龍之力</color>\n　每當發動攻擊皆會蓄力，\n　在力量累積到上限的狀態下使用技能，傷害量便會提升。\n‧<color=#e75600>強化格擋</color>\n　發動格擋時，\n　可減少更多的傷害。\n‧<color=#e75600>防守爆擊</color>\n　不會遭受爆擊。\n‧<color=#e75600>傷害限制</color>\n　會將承受的傷害壓低至一定的量。\n‧<color=#e75600>護盾</color>\n　在前方發動護盾，\n　代為承受對手造成的一定傷害量。\n　當傷害超過一定的量，護盾便會消失。\n‧<color=#e75600>個性剋星</color>\n　針對特定個性造成的傷害提升。\n　並較容易攻擊到特定個性。\n　（勇敢剋星、冷靜剋星、精明剋星、不屈剋星、\n　　奉獻剋星。）\n　※友情必殺不在適用範圍裡。\n‧<color=#e75600>貫穿護盾</color> \n　對敵人與護盾造成傷害。\n‧<color=#e75600>反擊傷害提升</color> \n　發動反擊時給予的傷害高於一般反擊。 \n‧<color=#e75600>貫穿傷害限制</color> \n　無視奧米加獸等數碼寶貝的「傷害限制」效果，\n　給予傷害。\n　同時減少傷害限制的效果次數1次。\n‧<color=#e75600>吸收HP</color> \n　根據給予的傷害，\n　並依對手剩餘HP吸收一定的量來回復HP。\n　※友情必殺不在適用範圍裡。\n　※會無視「迴避攻擊」、「傷害限制」，\n　　以及「護盾」效果給予傷害。\n‧<color=#e75600>重複攻擊</color> \n　進行多次攻擊。\n　每次攻擊時皆會隨機選擇對象。\n　※若重複攻擊被反擊時，\n　　受到重複攻擊的對象中僅會有1隻\n　　進行反擊。\n‧<color=#e75600>解除Buff</color> \n　解除敵人身上的Buff。\n　※無論是否永續、所剩回合數多寡，Buff皆會解除。\n　　可解除的Buff會依持有技能的數碼寶貝\n　　而有所差異。\n　　詳情請確認持有技能數碼寶貝的\n　　技能說明。\n‧<color=#e75600>自動復活</color> \n　於無法戰鬥時發動，\n　以一定的HP量復活。\n‧<color=#e75600>迷失</color> \n　使對手陷入迷失狀態。\n　陷入迷失狀態時會被紅色氣場纏繞，\n　每次行動時，迷失狀態都會推進。\n　經一定行動次數後，無論剩餘HP多寡，\n　都會陷入無法戰鬥的狀態。\n　※會使迷失狀態推進的行動為主要技能、\n　　副技能、普通攻擊、反擊、追擊。\n‧<color=#e75600>掩護</color> \n　將敵人的攻擊全部集中到自己身上。\n　攻擊對象為複數的技能也會全部集中。\n　且受到的傷害將減少一定量。\n‧<color=#e75600>SPCRITICAL</color> \n　低機率給予特大傷害。\n　※不受技能效果及能力碟的\n　　機率提升、傷害提升等效果影響。\n　※不受防守爆擊影響。\n‧<color=#e75600>隨機附加異常狀態</color> \n　隨機附加1種異常狀態。\n‧<color=#e75600>異常狀態剋星</color>　\n　針對身負特定異常狀態的數碼寶貝\n　造成的傷害量提升。\n　並較容易攻擊到\n　身負特定異常狀態的數碼寶貝。\n　（觸電剋星、麻痺剋星、昏厥剋星、睡眠剋星、\n　　中毒剋星、灼傷剋星、錯誤剋星、\n　　封印技能剋星、黑暗剋星）\n　※友情必殺不在適用範圍裡。\n‧<color=#e75600>激昂</color>　\n　自己的剩餘HP在一定以下時發動，\n　會附加各式各樣的Buff效果。\n　※戰鬥中只能發動1次。\n　※從無法戰鬥中復活時，次數會重置。\n‧<color=#e75600>X抗體</color>\n　只有在地底世界地城中能發揮效果。\n　可提升數碼寶貝的能力值。\n　發動後，具有此效果的數碼寶貝腳邊會出現藍光加強標示。\n‧<color=#e75600>解除迴避</color>　\n　會無視敵人的迴避攻擊給予傷害，\n　並解除敵人身上的所有迴避攻擊效果。\n　※無論是否永續、所剩回合數多寡，迴避攻擊效果皆會解除。"
+			"detail_text": "技能的效果除了異常狀態以外，還有以下的種類：\n<br>‧<color=#e75600>挑釁</color>\n　使敵人的攻擊集中到自己身上。\n‧<color=#e75600>減少Buff回合</color>\n　減少敵人身上的Buff效果回合數\n　（效果時間）。\n‧<color=#e75600>固定傷害</color>\n　無視對手的DEF，\n　給予一定的傷害量。\n‧<color=#e75600>格擋無效</color>\n　可使對手的格擋無效，\n　給予傷害。\n‧<color=#e75600>爆擊傷害提升</color>\n　爆擊發動時給予的傷害\n　高於一般爆擊。\n‧<color=#e75600>自我重生</color>\n　定期回復一定的HP量。\n‧<color=#e75600>最大HP提升</color>\n　提升數碼寶貝的最大HP。\n‧<color=#e75600>累積攻擊力提升</color>\n　數碼寶貝的攻擊力提升。\n　此效果可疊加，\n　效果將會累積至一定的數值。\n‧<color=#e75600>迴避攻擊</color>\n　可迴避來自敵人的攻擊。\n‧<color=#e75600>神速</color>\n　可於戰鬥開始時\n　優先使用主要技能。\n　※限戰鬥開始時。\n　※若同時存在數隻具「神速」效果的數碼寶貝，\n　　會由SPD合計值較高的隊伍發動「神速」。\n‧<color=#e75600>CT加成（冷卻時間加成）</color>\n　使用技能後，將縮短一定的CT量。\n‧<color=#e75600>九龍之力</color>\n　每當發動攻擊皆會蓄力，\n　在力量累積到上限的狀態下使用技能，傷害量便會提升。\n‧<color=#e75600>強化格擋</color>\n　發動格擋時，\n　可減少更多的傷害。\n‧<color=#e75600>防守爆擊</color>\n　不會遭受爆擊。\n‧<color=#e75600>傷害限制</color>\n　會將承受的傷害壓低至一定的量。\n‧<color=#e75600>護盾</color>\n　在前方發動護盾，\n　代為承受對手造成的一定傷害量。　\n　當傷害超過一定的量，護盾便會消失。\n‧<color=#e75600>個性剋星</color>\n　針對特定個性造成的傷害提升，\n　並較容易攻擊到特定個性。\n　　勇敢／超勇敢剋星\n　　冷靜／超冷靜剋星\n　　精明／超精明剋星\n　　不屈／超不屈剋星\n　　奉獻／超奉獻剋星\n　※友情必殺不在適用範圍裡。\n‧<color=#e75600>貫穿護盾</color>　\n　對敵人及護盾造成傷害。\n‧<color=#e75600>反擊傷害提升</color>　\n　發動反擊時給予的傷害高於一般反擊。　\n‧<color=#e75600>貫穿傷害限制</color>　\n　無視「傷害限制」效果\n　給予傷害。　\n　同時減少傷害限制的效果次數1次。\n‧<color=#e75600>吸收HP</color>　\n　根據給予的傷害，\n　並依對手剩餘HP吸收一定的量來回復HP。\n　※友情必殺不在適用範圍裡。\n　※會無視「迴避攻擊」、「傷害限制」，\n　　以及「護盾」效果給予傷害。\n‧<color=#e75600>重複攻擊</color>　\n　進行多次攻擊。每次攻擊時皆會\n　隨機選擇對象。\n　※若重複攻擊被反擊時，\n　　受到重複攻擊的對象中僅會有1隻\n　　進行反擊。\n‧<color=#e75600>解除Buff</color>　\n　解除敵人身上的Buff。\n　※無論是否永續、所剩回合數多寡，Buff皆會解除。\n　　可解除的Buff會依持有技能的數碼寶貝\n　　而有所差異。\n　　詳情請確認持有技能數碼寶貝的\n　　技能說明。\n‧<color=#e75600>自動復活</color>　\n　於無法戰鬥時發動，\n　以一定的HP量復活。\n‧<color=#e75600>迷失</color>　\n　使對手陷入迷失狀態。\n　陷入迷失狀態時會被紅色氣場纏繞，\n　每次行動時，迷失狀態都會推進。\n　經一定行動次數後，無論剩餘HP多寡，\n　都會陷入無法戰鬥的狀態。\n　※會使迷失狀態推進的行動為\n　　主要技能、副技能、Ex技能、\n　　普通攻擊、反擊、追擊。\n‧<color=#e75600>掩護</color>　\n　將敵人的攻擊全部集中到自己身上。\n　攻擊對象為複數的技能也會全部集中，\n　且受到的傷害將減少一定量。\n‧<color=#e75600>SPCRITICAL</color>　\n　低機率給予特大傷害。\n　※不受技能效果及能力碟的\n　　機率提升、傷害提升等效果影響。\n　※不受防守爆擊影響。\n‧<color=#e75600>隨機附加異常狀態</color>　\n　隨機附加1種異常狀態。\n‧<color=#e75600>異常狀態剋星</color>　\n　針對身負特定異常狀態的數碼寶貝\n　造成的傷害量提升。\n　並較容易攻擊到\n　身負特定異常狀態的數碼寶貝。\n　（觸電剋星、麻痺剋星、昏厥剋星、睡眠剋星、\n　　中毒剋星、灼傷剋星、錯誤剋星、\n　　封印技能剋星、黑暗剋星）\n　※友情必殺不在適用範圍裡。\n‧<color=#e75600>激昂</color>　\n　自己的剩餘HP在一定以下時發動，\n　會附加各式各樣的Buff效果。\n　※戰鬥中只能發動1次。\n　※從無法戰鬥中復活時，次數會重置。\n‧<color=#e75600>X抗體</color>　\n　只有在地底世界地城中能發揮效果。\n　可提升數碼寶貝的能力值。\n　發動後，具有此效果的數碼寶貝腳邊\n　會出現藍光加強標示。\n‧<color=#e75600>解除迴避</color>　\n　會無視敵人的迴避攻擊給予傷害，\n　並解除敵人身上的所有迴避攻擊效果。\n　※無論是否永續、所剩回合數多寡，迴避攻擊效果皆會解除。"
 		},
 		{
 			"help_id": "79",
@@ -1318,7 +1390,7 @@
 			"help_id": "89",
 			"help_category_id": "6",
 			"title_text": "限時漩渦的報酬",
-			"detail_text": "限時漩渦存在3種區域，各自有不同的報酬。\n<br>‧<color=#e75600>bit區域</color>\n　會掉落bit。\n‧<color=#e75600>食物區域</color>\n　會掉落照料道具。\n‧<color=#e75600>特訓區域</color>\n　會掉落特訓道具。"
+			"detail_text": "限時漩渦存在4種區域，各自有不同的報酬。\n<br>‧<color=#e75600>bit區域</color>\n　會掉落bit。\n‧<color=#e75600>食物區域</color>\n　會掉落照料道具。\n‧<color=#e75600>特訓區域</color>\n　會掉落特訓道具。\n‧<color=#e75600>能力碟區域</color>\n　會掉落能力碟。"
 		},
 		{
 			"help_id": "9",

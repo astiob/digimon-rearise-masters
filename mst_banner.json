@@ -1717,6 +1717,18 @@
 			"extension_data": "{\"information_id\":1020134}"
 		},
 		{
+			"banner_id": "50020069",
+			"banner_type": "0",
+			"disp_order": "25",
+			"start_date": "2021-07-15 12:00:00",
+			"end_date": "2021-08-16 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner681",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":1020135}"
+		},
+		{
 			"banner_id": "50030001",
 			"banner_type": "0",
 			"disp_order": "30",
@@ -3721,6 +3733,42 @@
 			"extension_data": "{\"information_id\":1010149}"
 		},
 		{
+			"banner_id": "50040099",
+			"banner_type": "0",
+			"disp_order": "43",
+			"start_date": "2021-07-15 12:00:00",
+			"end_date": "2021-07-31 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/crn_banner_w1776",
+			"extension_type": "1",
+			"extension_id": "31",
+			"extension_data": "{\"shopId\":33,\"information_id\":1050226}"
+		},
+		{
+			"banner_id": "50040101",
+			"banner_type": "0",
+			"disp_order": "41",
+			"start_date": "2021-07-21 12:00:00",
+			"end_date": "2021-07-28 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner679",
+			"extension_type": "2",
+			"extension_id": "1040030",
+			"extension_data": "{\"information_id\":1040030}"
+		},
+		{
+			"banner_id": "50040102",
+			"banner_type": "0",
+			"disp_order": "41",
+			"start_date": "2021-07-15 22:00:00",
+			"end_date": "2021-08-16 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner678",
+			"extension_type": "2",
+			"extension_id": "1070081",
+			"extension_data": "{\"information_id\":1070081}"
+		},
+		{
 			"banner_id": "50050002",
 			"banner_type": "0",
 			"disp_order": "203",
@@ -4757,7 +4805,7 @@
 			"banner_type": "0",
 			"disp_order": "75",
 			"start_date": "2020-05-31 12:00:00",
-			"end_date": "2999-01-01 00:00:00",
+			"end_date": "2021-07-15 11:59:59",
 			"event_id": "0",
 			"banner_asset": "banner/banner491",
 			"extension_type": "1",
@@ -4769,7 +4817,7 @@
 			"banner_type": "0",
 			"disp_order": "70",
 			"start_date": "2021-04-12 12:00:00",
-			"end_date": "2999-01-01 00:00:00",
+			"end_date": "2021-07-15 11:59:59",
 			"event_id": "0",
 			"banner_asset": "banner/banner628",
 			"extension_type": "1",
