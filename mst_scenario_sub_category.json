@@ -8,6 +8,13 @@
 			"resource": ""
 		},
 		{
+			"sub_category_id": "1000",
+			"main_category_id": "7",
+			"order": "1",
+			"title": "초개성 등장!",
+			"resource": ""
+		},
+		{
 			"sub_category_id": "101",
 			"main_category_id": "1",
 			"order": "1",
@@ -267,6 +274,13 @@
 			"resource": "quest/panel/panel_s2_section12"
 		},
 		{
+			"sub_category_id": "513",
+			"main_category_id": "5",
+			"order": "13",
+			"title": "13장\n이제는 깨어날 때! 사성수의 고동",
+			"resource": "quest/panel/panel_s2_section13"
+		},
+		{
 			"sub_category_id": "601",
 			"main_category_id": "3",
 			"order": "40",
@@ -400,6 +414,13 @@
 			"resource": "quest/panel/dfq_panel_section22"
 		},
 		{
+			"sub_category_id": "626",
+			"main_category_id": "3",
+			"order": "26",
+			"title": "#REF!",
+			"resource": "quest/panel/dfq_panel_section11"
+		},
+		{
 			"sub_category_id": "701",
 			"main_category_id": "4",
 			"order": "2",
@@ -416,16 +437,23 @@
 		{
 			"sub_category_id": "703",
 			"main_category_id": "4",
-			"order": "100",
+			"order": "3",
 			"title": "サイドストーリー\nエリスモンの記念日",
 			"resource": "quest/panel/ss_panel_section3_g4514"
 		},
 		{
 			"sub_category_id": "704",
 			"main_category_id": "4",
-			"order": "100",
+			"order": "3",
 			"title": "사이드 스토리\n좌충우돌 카즈마와 그때 그 시절의 선배",
 			"resource": "quest/panel/ss_panel_section4_g4959"
+		},
+		{
+			"sub_category_id": "705",
+			"main_category_id": "4",
+			"order": "5",
+			"title": "사이드 스토리\n에이지의 디지몬 현장 실습",
+			"resource": "quest/panel/ss_panel_section5_g5054"
 		}
 	]
 }

@@ -129,22 +129,6 @@
 			"end_date": ""
 		},
 		{
-			"shop_digimon_id": "26",
-			"cost_item_id": "22021",
-			"messsage": "이벤트\n한정이야!",
-			"weight": "1",
-			"start_date": "",
-			"end_date": ""
-		},
-		{
-			"shop_digimon_id": "27",
-			"cost_item_id": "22022",
-			"messsage": "이벤트\n한정이야!",
-			"weight": "1",
-			"start_date": "",
-			"end_date": ""
-		},
-		{
 			"shop_digimon_id": "27",
 			"cost_item_id": "22022",
 			"messsage": "이벤트\n한정이야!",
@@ -161,9 +145,17 @@
 			"end_date": ""
 		},
 		{
-			"shop_digimon_id": "28",
-			"cost_item_id": "22024",
-			"messsage": "이벤트\n한정이야!",
+			"shop_digimon_id": "3",
+			"cost_item_id": "21000",
+			"messsage": "특가 상품!",
+			"weight": "1",
+			"start_date": "",
+			"end_date": ""
+		},
+		{
+			"shop_digimon_id": "30",
+			"cost_item_id": "21000",
+			"messsage": "강해지고 싶어!",
 			"weight": "1",
 			"start_date": "",
 			"end_date": ""
@@ -171,6 +163,14 @@
 		{
 			"shop_digimon_id": "31",
 			"cost_item_id": "22026",
+			"messsage": "이벤트\n한정이야!",
+			"weight": "1",
+			"start_date": "",
+			"end_date": ""
+		},
+		{
+			"shop_digimon_id": "33",
+			"cost_item_id": "22028",
 			"messsage": "이벤트\n한정이야!",
 			"weight": "1",
 			"start_date": "",
@@ -204,6 +204,14 @@
 			"shop_digimon_id": "7",
 			"cost_item_id": "22023",
 			"messsage": "한정 아이템이\n한가득!",
+			"weight": "1",
+			"start_date": "",
+			"end_date": ""
+		},
+		{
+			"shop_digimon_id": "8",
+			"cost_item_id": "21001",
+			"messsage": "디지다이아는\n모았어?",
 			"weight": "1",
 			"start_date": "",
 			"end_date": ""

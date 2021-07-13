@@ -2647,6 +2647,84 @@
 			"description": ""
 		},
 		{
+			"scenario_id": "21301",
+			"scenario_asset": "scenario/scenario/ss13_1_ko",
+			"title": "1. 13장 1화",
+			"description": ""
+		},
+		{
+			"scenario_id": "21302",
+			"scenario_asset": "scenario/scenario/ss13_2_ko",
+			"title": "3. 13장 4화",
+			"description": ""
+		},
+		{
+			"scenario_id": "21303",
+			"scenario_asset": "scenario/scenario/ss13_3_ko",
+			"title": "4. 13장 5화",
+			"description": ""
+		},
+		{
+			"scenario_id": "21304",
+			"scenario_asset": "scenario/scenario/ss13_4_ko",
+			"title": "5. 13장 7화",
+			"description": ""
+		},
+		{
+			"scenario_id": "21305",
+			"scenario_asset": "scenario/scenario/ss13_5_ko",
+			"title": "6. 13장 8화",
+			"description": ""
+		},
+		{
+			"scenario_id": "21306",
+			"scenario_asset": "scenario/scenario/ss13_6_ko",
+			"title": "9. 13장 12화",
+			"description": ""
+		},
+		{
+			"scenario_id": "21307",
+			"scenario_asset": "scenario/scenario/ss13_7_ko",
+			"title": "11. 13장 14화",
+			"description": ""
+		},
+		{
+			"scenario_id": "21308",
+			"scenario_asset": "scenario/scenario/ss13_8_ko",
+			"title": "13. 13장 17화",
+			"description": ""
+		},
+		{
+			"scenario_id": "21321",
+			"scenario_asset": "scenario/scenario/ss13_b1_ko",
+			"title": "2. 13장 3화 (배틀)",
+			"description": ""
+		},
+		{
+			"scenario_id": "21322",
+			"scenario_asset": "scenario/scenario/ss13_b2_ko",
+			"title": "7. 13장 8화 (배틀)",
+			"description": ""
+		},
+		{
+			"scenario_id": "21323",
+			"scenario_asset": "scenario/scenario/ss13_b3_ko",
+			"title": "8. 13장 10화 (배틀)",
+			"description": ""
+		},
+		{
+			"scenario_id": "21324",
+			"scenario_asset": "scenario/scenario/ss13_b4_ko",
+			"title": "10. 13장 12화 (배틀)",
+			"description": ""
+		},
+		{
+			"scenario_id": "21325",
+			"scenario_asset": "scenario/scenario/ss13_b5_ko",
+			"title": "12. 13장 16화 (배틀)",
+			"description": ""
+		},
+		{
 			"scenario_id": "50011",
 			"scenario_asset": "scenario/scenario/side1_1_ko",
 			"title": "대결! 노블 계통? 디지몬(1)",
@@ -2728,6 +2806,30 @@
 			"scenario_id": "50043",
 			"scenario_asset": "scenario/scenario/side4_3_ko",
 			"title": "좌충우돌 카즈마와 그때 그 시절의 선배(3)",
+			"description": ""
+		},
+		{
+			"scenario_id": "50051",
+			"scenario_asset": "scenario/scenario/side5_1_ko",
+			"title": "에이지의 디지몬 현장 실습(1)",
+			"description": ""
+		},
+		{
+			"scenario_id": "50052",
+			"scenario_asset": "scenario/scenario/side5_2_ko",
+			"title": "에이지의 디지몬 현장 실습(2)",
+			"description": ""
+		},
+		{
+			"scenario_id": "50053",
+			"scenario_asset": "scenario/scenario/side5_3_ko",
+			"title": "에이지의 디지몬 현장 실습(3)",
+			"description": ""
+		},
+		{
+			"scenario_id": "50054",
+			"scenario_asset": "scenario/scenario/side5_4_ko",
+			"title": "에이지의 디지몬 현장 실습(4)",
 			"description": ""
 		},
 		{
@@ -2973,31 +3075,31 @@
 		{
 			"scenario_id": "60091",
 			"scenario_asset": "scenario/scenario/sq9_1_ko",
-			"title": "封じられた伝承(1)",
+			"title": "봉인된 전승(1)",
 			"description": ""
 		},
 		{
 			"scenario_id": "60092",
 			"scenario_asset": "scenario/scenario/sq9_2_ko",
-			"title": "封じられた伝承(2)",
+			"title": "봉인된 전승(2)",
 			"description": ""
 		},
 		{
 			"scenario_id": "60093",
 			"scenario_asset": "scenario/scenario/sq9_3_ko",
-			"title": "封じられた伝承(3)",
+			"title": "봉인된 전승(3)",
 			"description": ""
 		},
 		{
 			"scenario_id": "60094",
 			"scenario_asset": "scenario/scenario/sq9_4_ko",
-			"title": "封じられた伝承(4)",
+			"title": "봉인된 전승(4)",
 			"description": ""
 		},
 		{
 			"scenario_id": "60095",
 			"scenario_asset": "scenario/scenario/sq9_5_ko",
-			"title": "封じられた伝承(5)",
+			"title": "봉인된 전승(5)",
 			"description": ""
 		},
 		{
@@ -3257,6 +3359,12 @@
 			"scenario_asset": "scenario/scenario/sub4_1_ko",
 			"title": "마스터 리그",
 			"description": "마스터 리그 시작"
+		},
+		{
+			"scenario_id": "70601",
+			"scenario_asset": "scenario/scenario/sub6_1_ko",
+			"title": "초개성 도입",
+			"description": ""
 		},
 		{
 			"scenario_id": "71003",
@@ -4234,6 +4342,84 @@
 			"scenario_id": "90811",
 			"scenario_asset": "scenario/scenario/r81_1_ko",
 			"title": "격돌전! 오메가몬(X항체)",
+			"description": ""
+		},
+		{
+			"scenario_id": "90821",
+			"scenario_asset": "scenario/scenario/r82_1_ko",
+			"title": "격돌전! 워그레이몬/메탈가루몬(워그레이몬)",
+			"description": ""
+		},
+		{
+			"scenario_id": "90822",
+			"scenario_asset": "scenario/scenario/r82_2_ko",
+			"title": "격돌전! 워그레이몬/메탈가루몬(메탈가루몬)",
+			"description": ""
+		},
+		{
+			"scenario_id": "90823",
+			"scenario_asset": "scenario/scenario/r82_3_ko",
+			"title": "격돌전! 워그레이몬/메탈가루몬(가이오몬)",
+			"description": ""
+		},
+		{
+			"scenario_id": "90824",
+			"scenario_asset": "scenario/scenario/r82_4_ko",
+			"title": "격돌전! 워그레이몬/메탈가루몬",
+			"description": ""
+		},
+		{
+			"scenario_id": "90831",
+			"scenario_asset": "scenario/scenario/r83_1_ko",
+			"title": "격돌전! 바이킹몬 & 페닉스몬(1)",
+			"description": ""
+		},
+		{
+			"scenario_id": "90832",
+			"scenario_asset": "scenario/scenario/r83_2_ko",
+			"title": "격돌전! 바이킹몬 & 페닉스몬(2)",
+			"description": ""
+		},
+		{
+			"scenario_id": "90841",
+			"scenario_asset": "scenario/scenario/r84_1_ko",
+			"title": "격돌전! 라센몬/라센몬GM(1)",
+			"description": ""
+		},
+		{
+			"scenario_id": "90842",
+			"scenario_asset": "scenario/scenario/r84_2_ko",
+			"title": "격돌전! 라센몬/라센몬GM(2)",
+			"description": ""
+		},
+		{
+			"scenario_id": "90843",
+			"scenario_asset": "scenario/scenario/r84_3_ko",
+			"title": "격돌전! 라센몬/라센몬GM",
+			"description": ""
+		},
+		{
+			"scenario_id": "90851",
+			"scenario_asset": "scenario/scenario/r85_1_ko",
+			"title": "激突戦！超献身メタリックドラモン",
+			"description": ""
+		},
+		{
+			"scenario_id": "90861",
+			"scenario_asset": "scenario/scenario/r86_1_ko",
+			"title": "激突戦！超不屈カイゼルグレイモン",
+			"description": ""
+		},
+		{
+			"scenario_id": "90862",
+			"scenario_asset": "scenario/scenario/r86_2_ko",
+			"title": "激突戦！超不屈カイゼルグレイモン（三箇条）",
+			"description": ""
+		},
+		{
+			"scenario_id": "90871",
+			"scenario_asset": "scenario/scenario/r87_1_ko",
+			"title": "激突戦！超不屈インペリアルドラモンFM（三箇条）",
 			"description": ""
 		}
 	]
