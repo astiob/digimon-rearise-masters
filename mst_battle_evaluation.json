@@ -23879,6 +23879,102 @@
 			"evaluation_type": "7",
 			"text_id": "800001",
 			"json_value": "{\"enemyType\":2}"
+		},
+		{
+			"evaluation_id": "70060101",
+			"quest_id": "7006010",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70060102",
+			"quest_id": "7006010",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70060103",
+			"quest_id": "7006010",
+			"disp_order": "3",
+			"evaluation_type": "10",
+			"text_id": "840001",
+			"json_value": "{\"personalityType\":[1]}"
+		},
+		{
+			"evaluation_id": "70060201",
+			"quest_id": "7006020",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70060202",
+			"quest_id": "7006020",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70060203",
+			"quest_id": "7006020",
+			"disp_order": "3",
+			"evaluation_type": "10",
+			"text_id": "840002",
+			"json_value": "{\"personalityType\":[2]}"
+		},
+		{
+			"evaluation_id": "70060301",
+			"quest_id": "7006030",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70060302",
+			"quest_id": "7006030",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70060303",
+			"quest_id": "7006030",
+			"disp_order": "3",
+			"evaluation_type": "10",
+			"text_id": "840003",
+			"json_value": "{\"personalityType\":[4]}"
+		},
+		{
+			"evaluation_id": "70060401",
+			"quest_id": "7006040",
+			"disp_order": "1",
+			"evaluation_type": "1",
+			"text_id": "820002",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70060402",
+			"quest_id": "7006040",
+			"disp_order": "2",
+			"evaluation_type": "2",
+			"text_id": "820003",
+			"json_value": ""
+		},
+		{
+			"evaluation_id": "70060403",
+			"quest_id": "7006040",
+			"disp_order": "3",
+			"evaluation_type": "10",
+			"text_id": "840005",
+			"json_value": "{\"personalityType\":[5]}"
 		}
 	]
 }
