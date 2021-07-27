@@ -3191,6 +3191,28 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1023511",
+			"item_name": "바이킹몬(초불굴) 스킬 스톤 조각(소)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023511",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "최종 진화 형태가 궁극체 바이킹몬(초불굴) 계통의 스킬 레벨을 올릴 수 있을…지도 모르는 작은 석판 조각",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1023521",
+			"item_name": "페닉스몬(초헌신) 스킬 스톤 조각(소)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023521",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "최종 진화 형태가 궁극체 페닉스몬(초헌신) 계통의 스킬 레벨을 올릴 수 있을…지도 모르는 작은 석판 조각",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "102422001",
 			"item_name": "공격Ⅳ(침착 팬더몬)",
 			"sort_key": "",
@@ -39282,6 +39304,50 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25344",
+			"item_name": "검술의 달인 용인의 디지몬알",
+			"sort_key": "ケンヲキワメシリュウジンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama037",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "궁극체 슬레이어드라몬(침착)으로 성장하는 디지몬이 반드시 태어나는 디지몬알",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25350",
+			"item_name": "섬머 디지몬알(금)",
+			"sort_key": "サマーデジタマキン",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama086",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초궁극체 또는 궁극체로 성장하는 디지몬이 반드시 태어나는 섬머 SALE 한정 디지몬알",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25351",
+			"item_name": "섬머 디지몬알(빨강)",
+			"sort_key": "サマーデジタマアカ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama087",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초궁극체, 궁극체, 완전체 중 하나로 성장하는 디지몬이 반드시 태어나는 섬머 SALE 한정 디지몬알",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25352",
+			"item_name": "RK 디지몬알",
+			"sort_key": "アールケーデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama045",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초궁극체, 궁극체, 아머체 중 하나로 성장하는 로열나이츠계 디지몬이 반드시 태어나는 디지몬알",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "254422001",
 			"item_name": "攻Ⅳ(冷静 ラピッドモン)",
 			"sort_key": "",
@@ -58114,6 +58180,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "344544011",
+			"item_name": "강담Ⅴ(초불굴 바이킹몬 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment344544011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초불굴 바이킹몬만 세팅할 수 있고, 반격 확률은 하락하지만 TEC 대미지 내성을 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "344544012",
+			"item_name": "강담Ⅴ(초불굴 바이킹몬 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment344544011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초불굴 바이킹몬만 세팅할 수 있고, 반격 확률은 하락하지만 TEC 대미지 내성을 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "344544013",
+			"item_name": "강담Ⅴ(초불굴 바이킹몬 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment344544011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초불굴 바이킹몬만 세팅할 수 있고, 반격 확률은 하락하지만 TEC 대미지 내성을 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "344544014",
+			"item_name": "강담Ⅴ(초불굴 바이킹몬 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment344544011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초불굴 바이킹몬만 세팅할 수 있고, 반격 확률은 하락하지만 TEC 대미지 내성을 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "344544015",
+			"item_name": "강담Ⅴ(초불굴 바이킹몬 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment344544011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초불굴 바이킹몬만 세팅할 수 있고, 반격 확률은 하락하지만 TEC 대미지 내성을 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "345001",
 			"item_name": "감전 내성Ⅲ(헌신/초헌신)",
 			"sort_key": "",
@@ -59046,6 +59167,61 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "초헌신 페닉스몬이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "345545011",
+			"item_name": "분투Ⅴ(초헌신 페닉스몬 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment345545011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 페닉스몬만 세팅할 수 있고, 반격 확률은 하락하지만 PWR 대미지 내성을 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "345545012",
+			"item_name": "분투Ⅴ(초헌신 페닉스몬 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment345545011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 페닉스몬만 세팅할 수 있고, 반격 확률은 하락하지만 PWR 대미지 내성을 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "345545013",
+			"item_name": "분투Ⅴ(초헌신 페닉스몬 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment345545011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 페닉스몬만 세팅할 수 있고, 반격 확률은 하락하지만 PWR 대미지 내성을 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "345545014",
+			"item_name": "분투Ⅴ(초헌신 페닉스몬 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment345545011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 페닉스몬만 세팅할 수 있고, 반격 확률은 하락하지만 PWR 대미지 내성을 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "345545015",
+			"item_name": "분투Ⅴ(초헌신 페닉스몬 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment345545011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 페닉스몬만 세팅할 수 있고, 반격 확률은 하락하지만 PWR 대미지 내성을 부여하는 고대의 플러그인",
 			"max_amount": "9999"
 		},
 		{
