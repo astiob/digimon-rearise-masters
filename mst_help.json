@@ -766,7 +766,7 @@
 			"help_id": "144",
 			"help_category_id": "9",
 			"title_text": "Transfer with ID Authentication",
-			"detail_text": "ID Authentication verifies your identity using social media accounts, such as Twitter.\nIf you do not have any social media accounts, please register a new account or use ID/Password instead."
+			"detail_text": "ID Authentication verifies your identity using social media accounts, such as Twitter.\nIf you do not have any social media accounts, please register a new account or use ID/Password instead.\n <br>Only one account in the app can be backed up using Transfer with ID Authentication.\nOnce an ID has been used for backup, it cannot be used to back up other accounts unless you remove it from the backup settings."
 		},
 		{
 			"help_id": "145",

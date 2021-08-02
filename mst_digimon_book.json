@@ -136,6 +136,24 @@
 			"start_date": "2020-02-07 12:00:00"
 		},
 		{
+			"code": "arugomonkanzentai",
+			"sort_key": "アルゴモン(完全体)",
+			"profile": "A Digimon that came into being as a result of a bug in an algorithm. Its high-speed processing power allows it to use countless ivies as if they were tentacles in order to take control of large fields of data. Its special moves are Entrap, where it uses its tentacles to sap the strength from foes before subduing them, and Elimination Line, with which it fires beams of light from the eyes on its arms and legs. It can also use Worm Phase to morph into a parasite to control massive fields of digital information.",
+			"icon_asset": "digimon/icon/digimonface1366304",
+			"attribute": "1",
+			"type": "40",
+			"start_date": "2021-06-04 12:00:00"
+		},
+		{
+			"code": "arugomonkyuukyokutai",
+			"sort_key": "アルゴモン(究極体)",
+			"profile": "A gigantic Mega Digimon, with amplified combat capabilities, that has Digivolved from Ultimate Argomon. Its special moves are Terabyte Disaster, with which it fires countless beams of light from its mouth, and Distortion Line, where it shoots destructive rays—capable of warping dimensions—from the eyes on its arms and legs. In addition, it can use Brute Force to demolish enemies with its gigantic body.",
+			"icon_asset": "digimon/icon/digimonface1364505",
+			"attribute": "1",
+			"type": "40",
+			"start_date": "2021-06-15 12:00:00"
+		},
+		{
 			"code": "Aruhwamon",
 			"sort_key": "アルファモン",
 			"profile": "One of the 13 Royal Knights, the highest rank of the Digital World's network security. Though a Holy Knight, Alphamon is said to serve as a check to its fellow Holy Knights. Often called the Solitary Recluse, it dons a blue cape and seldom shows itself. Within the Royal Knights, it assumes a position called the Vacant Seat. In battle, Alphamon appears to finish off fights in a single blow using its ultimate ability Alpha In-Force, which enables it to turn back time instantaneously. In reality, however, the number of attacks unleashed by Alphamon goes unseen, with only the final, finishing blow being visible to the eye. It activates a magic circle of DigiCode from its palms for both offense and defense. Its special moves are Blade of the Dragon King, where it draws forth a blade imbued with light gathered from within its magic circle to pierce its foes, and Soul Digitalization, where it spreads out the wings on its back, flies into the sky, and summons forth a legendary beast from another dimension through the giant magic circle it creates.",
@@ -431,6 +449,15 @@
 			"attribute": "0",
 			"type": "26",
 			"start_date": "2021-04-12 12:00:00"
+		},
+		{
+			"code": "bittomon",
+			"sort_key": "ビットモン",
+			"profile": "An Armor Mammal Digimon that has Digivolved using the power of the Digi-Egg of Friendship. It has long ears and sharp claws that can shatter diamonds and dig through any rock formation. Rabbitmon is rumored to be an avid collector of ancient fossils and will add any that it finds underground to its collection. Its body and head are covered with an armor made of ore which enables it to curl into a ball to defend against any impact. A warmhearted, defense-oriented Digimon to its core, Rabbitmon adopts a passive approach when dealing with enemies, preferring to wear them down using its ironclad defenses. In rare occasions where Rabbitmon takes to the offensive, the Digimon can use its special move Ear Lancer to strain its long ears, aiming them forward to pierce its enemy.",
+			"icon_asset": "digimon/icon/digimonface1328504",
+			"attribute": "4",
+			"type": "18",
+			"start_date": "2021-06-21 12:00:00"
 		},
 		{
 			"code": "boamon",
@@ -1774,6 +1801,15 @@
 			"start_date": "2021-07-06 12:00:00"
 		},
 		{
+			"code": "maziramon",
+			"sort_key": "マジラモン",
+			"profile": "One of the twelve Deva Digimon, this Ultimate Digimon's appearance resembles a dragon. It serves Azulongmon, one of the Four Holy Beasts. Highly skilled in arithmetic, Majiramon is said to be unwilling to lift a finger unless it is able to find some personal gain—at which case, the Digimon will do all in its power to reap its reward. The Digimon also has a habit of putting a price on everything, going as far as to express itself using monetary terms. In battle, it will attack its enemy using Bao Shi—arrows made from its tail and hair (each worth 5,000 yuan). Its special move Vedhaka sees Majiramon disappear into a vortex of light that calls to the heavens to unleash 108 shimmering Bao Shi, which are capable of decimating swarms of enemies in an instant. It is a devastating attack, said to deal 540,000 yuan worth of destructive damage.",
+			"icon_asset": "digimon/icon/digimonface1329214",
+			"attribute": "2",
+			"type": "69",
+			"start_date": "2021-06-21 12:00:00"
+		},
+		{
 			"code": "megadoramon",
 			"sort_key": "メガドラモン",
 			"profile": "A Dark Dragon Digimon said to be the most powerful of all the Ultimate Dragon-type Cyborg Digimon. It was artificially remodeled by someone and programmed to destroy everything. Megadramon is the epitome of a computer virus, easily forcing its way into secured computer networks to destroy or reshape its host computer. Its special move, Genocide Attack, fires innumerable organic missiles from both of its arms. Megadramon can also slice through any material with its other special move, Ultimate Slicer.",
@@ -1942,7 +1978,7 @@
 			"icon_asset": "digimon/icon/digimonface1274104",
 			"attribute": "2",
 			"type": "26",
-			"start_date": "2120-07-29 12:00:00"
+			"start_date": "2021-06-21 12:00:00"
 		},
 		{
 			"code": "minerubamon",
@@ -2546,6 +2582,15 @@
 			"attribute": "0",
 			"type": "23",
 			"start_date": "2017/01/01 00:00:00"
+		},
+		{
+			"code": "rankusumon",
+			"sort_key": "ランクスモン",
+			"profile": "An Armor Beast Digimon that has Digivolved using the power of the Digi-Egg of Bravery. Lynxmon dwells in a tropical jungle and has the form of a wild cat covered in flaming fur. Its carefree demeanor is a stark contrast to Garurumon, who can be found in cold climates. Unwilling to be tamed, Lynxmon refuses to serve anyone except itself; however, it considers Garurumon a worthy rival. Its special move is Thermal Mane, where it raises its internal heat energy to peak levels before igniting it to cause a fiery explosion.",
+			"icon_asset": "digimon/icon/digimonface1327304",
+			"attribute": "4",
+			"type": "21",
+			"start_date": "2021-06-21 12:00:00"
 		},
 		{
 			"code": "rapiddomon",
