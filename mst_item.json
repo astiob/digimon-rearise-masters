@@ -3367,6 +3367,28 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1023801",
+			"item_name": "メフィスモン[BCE](器用)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023801",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が完全体メフィスモン[BCE](器用)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1023802",
+			"item_name": "メフィスモン[BCE](器用)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1023802",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が完全体メフィスモン[BCE](器用)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "102422001",
 			"item_name": "攻Ⅳ(冷静 パンダモン)",
 			"sort_key": "",
@@ -43792,6 +43814,17 @@
 			"max_amount": "999999999"
 		},
 		{
+			"item_id": "29007",
+			"item_name": "イベントpt",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_bcevent_point_000",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "バトルチャレンジのイベントpt",
+			"max_amount": "999999999"
+		},
+		{
 			"item_id": "290425001",
 			"item_name": "攻Ⅳ(献身 ウィザーモン)",
 			"sort_key": "",
@@ -60985,6 +61018,226 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "368413011",
+			"item_name": "強打Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368413011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368413012",
+			"item_name": "強打Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368413011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368413013",
+			"item_name": "強打Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368413011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368413014",
+			"item_name": "強打Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368413011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368413015",
+			"item_name": "強打Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368413011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368433011",
+			"item_name": "頑強Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368433012",
+			"item_name": "頑強Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368433013",
+			"item_name": "頑強Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368433014",
+			"item_name": "頑強Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368433015",
+			"item_name": "頑強Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368433011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368443011",
+			"item_name": "縮地Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368443012",
+			"item_name": "縮地Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368443013",
+			"item_name": "縮地Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368443014",
+			"item_name": "縮地Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368443015",
+			"item_name": "縮地Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368443011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368443021",
+			"item_name": "閃光Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368443021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368443022",
+			"item_name": "閃光Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368443021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368443023",
+			"item_name": "閃光Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368443021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368443024",
+			"item_name": "閃光Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368443021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "368443025",
+			"item_name": "閃光Ⅳ(器用 メフィスモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment368443021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用メフィスモン[BCE]のみがセットでき、HPの値は下がるが、攻撃回避を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "369525001",
 			"item_name": "攻Ⅴ(超献身 ミタマモン)",
 			"sort_key": "",
@@ -61543,6 +61796,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "超冷静のベルゼブモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "373522001",
+			"item_name": "攻Ⅴ(超冷静 セントガルゴモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment373522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のセントガルゴモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "373522002",
+			"item_name": "攻Ⅴ(超冷静 セントガルゴモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment373522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のセントガルゴモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "373522003",
+			"item_name": "攻Ⅴ(超冷静 セントガルゴモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment373522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のセントガルゴモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "373522004",
+			"item_name": "攻Ⅴ(超冷静 セントガルゴモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment373522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のセントガルゴモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "373522005",
+			"item_name": "攻Ⅴ(超冷静 セントガルゴモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment373522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のセントガルゴモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "373532001",
+			"item_name": "守Ⅴ(超冷静 セントガルゴモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment373532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のセントガルゴモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "373532002",
+			"item_name": "守Ⅴ(超冷静 セントガルゴモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment373532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のセントガルゴモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "373532003",
+			"item_name": "守Ⅴ(超冷静 セントガルゴモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment373532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のセントガルゴモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "373532004",
+			"item_name": "守Ⅴ(超冷静 セントガルゴモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment373532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のセントガルゴモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "373532005",
+			"item_name": "守Ⅴ(超冷静 セントガルゴモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment373532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のセントガルゴモンがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
