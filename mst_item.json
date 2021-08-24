@@ -3225,57 +3225,57 @@
 		},
 		{
 			"item_id": "1023591",
-			"item_name": "アグモン -勇気の絆-(超勇敢)スキルストーンの欠片(小)",
+			"item_name": "아구몬 용기의 유대(초용감) 스킬 스톤 조각(소)",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1023591",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態が超究極体アグモン -勇気の絆-(超勇敢)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "최종 진화 형태가 초궁극체 아구몬 용기의 유대(초용감) 계통의 스킬 레벨을 올릴 수 있을…지도 모르는 작은 석판 조각",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "1023592",
-			"item_name": "アグモン -勇気の絆-(超勇敢)スキルストーンの欠片(大)",
+			"item_name": "아구몬 용기의 유대(초용감) 스킬 스톤 조각(대)",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1023592",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態が超究極体アグモン -勇気の絆-(超勇敢)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "최종 진화 형태가 초궁극체 아구몬 용기의 유대(초용감) 계통의 스킬 레벨을 올릴 수 있을…가능성이 높은 큰 석판 조각",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "1023601",
-			"item_name": "ガブモン -友情の絆-(超冷静)スキルストーンの欠片(小)",
+			"item_name": "파피몬 우정의 유대(초침착) 스킬 스톤 조각(소)",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1023601",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態が超究極体ガブモン -友情の絆-(超冷静)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "최종 진화 형태가 초궁극체 파피몬 우정의 유대(초침착) 계통의 스킬 레벨을 올릴 수 있을…지도 모르는 작은 석판 조각",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "1023602",
-			"item_name": "ガブモン -友情の絆-(超冷静)スキルストーンの欠片(大)",
+			"item_name": "파피몬 우정의 유대(초침착) 스킬 스톤 조각(대)",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1023602",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態が超究極体ガブモン -友情の絆-(超冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "최종 진화 형태가 초궁극체 파피몬 우정의 유대(초침착) 계통의 스킬 레벨을 올릴 수 있을…가능성이 높은 큰 석판 조각",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "1023613",
-			"item_name": "ピヨモン[DFQ](器用)スキルストーン",
+			"item_name": "피요몬[DFQ](능숙) 스킬 스톤",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1023613",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態が成長期ピヨモン[DFQ](器用)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "최종 진화 형태가 성장기 피요몬[DFQ](능숙) 계통의 스킬 레벨을 반드시 올릴 수 있는 귀중한 석판",
 			"max_amount": "9999"
 		},
 		{
@@ -30405,6 +30405,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "23809",
+			"item_name": "디지몬 뽑기 티켓 vol.7",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no007",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "디지몬 티켓 뽑기 vol.7을 이용할 수 있는 티켓\n(사용 기간: 2021/10/22 11:59(JST)까지)",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "238425001",
 			"item_name": "攻Ⅳ(献身 ロゼモン)",
 			"sort_key": "",
@@ -39488,6 +39499,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "초궁극체, 궁극체, 아머체 중 하나로 성장하는 로열나이츠계 디지몬이 반드시 태어나는 디지몬알",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25354",
+			"item_name": "우아하게 빛나는 헌신의 디지몬알",
+			"sort_key": "エレガントナカガヤキノケンシンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama032",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "개성이 헌신인 초궁극체, 궁극체 중 하나로 성장하는 디지몬이 반드시 태어나는 디지몬알",
 			"max_amount": "9999"
 		},
 		{
@@ -60249,167 +60271,167 @@
 		},
 		{
 			"item_id": "351413001",
-			"item_name": "攻Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "공격Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351413001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351413002",
-			"item_name": "攻Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "공격Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351413001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351413003",
-			"item_name": "攻Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "공격Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351413001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351413004",
-			"item_name": "攻Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "공격Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351413001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351413005",
-			"item_name": "攻Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "공격Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351413001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351433001",
-			"item_name": "守Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "수호Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351433001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351433002",
-			"item_name": "守Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "수호Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351433001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351433003",
-			"item_name": "守Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "수호Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351433001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351433004",
-			"item_name": "守Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "수호Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351433001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351433005",
-			"item_name": "守Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "수호Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351433001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351443001",
-			"item_name": "防護Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "방호Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351443001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351443002",
-			"item_name": "防護Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "방호Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351443001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351443003",
-			"item_name": "防護Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "방호Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351443001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351443004",
-			"item_name": "防護Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "방호Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351443001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351443005",
-			"item_name": "防護Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "방호Ⅳ(능숙 피요몬[DFQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351443001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "능숙 피요몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60420,7 +60442,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352511001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60431,7 +60453,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352511001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60442,7 +60464,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352511001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60453,7 +60475,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352511001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60464,7 +60486,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352511001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60475,7 +60497,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352531001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60486,7 +60508,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352531001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60497,7 +60519,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352531001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60508,7 +60530,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352531001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60519,62 +60541,62 @@
 			"icon_asset": "icon/item/equipment/iconequipment352531001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "352541001",
-			"item_name": "会心Ⅴ(超勇敢 アグモン -勇気の絆-)",
+			"item_name": "회심Ⅴ(초용감 아구몬 용기의 유대)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment352541001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "352541002",
-			"item_name": "会心Ⅴ(超勇敢 アグモン -勇気の絆-)",
+			"item_name": "회심Ⅴ(초용감 아구몬 용기의 유대)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment352541001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "352541003",
-			"item_name": "会心Ⅴ(超勇敢 アグモン -勇気の絆-)",
+			"item_name": "회심Ⅴ(초용감 아구몬 용기의 유대)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment352541001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "352541004",
-			"item_name": "会心Ⅴ(超勇敢 アグモン -勇気の絆-)",
+			"item_name": "회심Ⅴ(초용감 아구몬 용기의 유대)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment352541001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "352541005",
-			"item_name": "会心Ⅴ(超勇敢 アグモン -勇気の絆-)",
+			"item_name": "회심Ⅴ(초용감 아구몬 용기의 유대)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment352541001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초용감 아구몬 용기의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60585,7 +60607,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353522001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60596,7 +60618,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353522001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60607,7 +60629,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353522001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60618,7 +60640,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353522001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60629,7 +60651,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353522001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60640,7 +60662,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353532001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60651,7 +60673,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353532001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60662,7 +60684,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353532001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60673,7 +60695,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353532001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60684,62 +60706,62 @@
 			"icon_asset": "icon/item/equipment/iconequipment353532001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "353542001",
-			"item_name": "会心Ⅴ(超冷静 ガブモン -友情の絆-)",
+			"item_name": "회심Ⅴ(초침착 파피몬 우정의 유대)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment353542001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "353542002",
-			"item_name": "会心Ⅴ(超冷静 ガブモン -友情の絆-)",
+			"item_name": "회심Ⅴ(초침착 파피몬 우정의 유대)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment353542001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "353542003",
-			"item_name": "会心Ⅴ(超冷静 ガブモン -友情の絆-)",
+			"item_name": "회심Ⅴ(초침착 파피몬 우정의 유대)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment353542001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "353542004",
-			"item_name": "会心Ⅴ(超冷静 ガブモン -友情の絆-)",
+			"item_name": "회심Ⅴ(초침착 파피몬 우정의 유대)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment353542001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "353542005",
-			"item_name": "会心Ⅴ(超冷静 ガブモン -友情の絆-)",
+			"item_name": "회심Ⅴ(초침착 파피몬 우정의 유대)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment353542001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "초침착 파피몬 우정의 유대가 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
@@ -60854,112 +60876,112 @@
 		},
 		{
 			"item_id": "355514001",
-			"item_name": "攻Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "공격Ⅴ(초불굴 카이젤그레이몬)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355514001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "초불굴 카이젤그레이몬이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355514002",
-			"item_name": "攻Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "공격Ⅴ(초불굴 카이젤그레이몬)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355514001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "초불굴 카이젤그레이몬이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355514003",
-			"item_name": "攻Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "공격Ⅴ(초불굴 카이젤그레이몬)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355514001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "초불굴 카이젤그레이몬이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355514004",
-			"item_name": "攻Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "공격Ⅴ(초불굴 카이젤그레이몬)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355514001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "초불굴 카이젤그레이몬이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355514005",
-			"item_name": "攻Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "공격Ⅴ(초불굴 카이젤그레이몬)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355514001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "초불굴 카이젤그레이몬이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355534001",
-			"item_name": "守Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "수호Ⅴ(초불굴 카이젤그레이몬)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355534001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "초불굴 카이젤그레이몬이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355534002",
-			"item_name": "守Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "수호Ⅴ(초불굴 카이젤그레이몬)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355534001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "초불굴 카이젤그레이몬이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355534003",
-			"item_name": "守Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "수호Ⅴ(초불굴 카이젤그레이몬)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355534001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "초불굴 카이젤그레이몬이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355534004",
-			"item_name": "守Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "수호Ⅴ(초불굴 카이젤그레이몬)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355534001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "초불굴 카이젤그레이몬이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355534005",
-			"item_name": "守Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "수호Ⅴ(초불굴 카이젤그레이몬)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355534001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "초불굴 카이젤그레이몬이 세팅하면 진가를 발휘하는 플러그인",
 			"max_amount": "9999"
 		},
 		{

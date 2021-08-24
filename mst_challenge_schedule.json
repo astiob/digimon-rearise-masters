@@ -671,7 +671,7 @@
 			"start_date": "2021-10-15 12:00:00",
 			"end_date": "2021-10-31 11:59:59",
 			"disp_order": "15",
-			"start_asset": "challenge/challenge_begin_550520",
+			"start_asset": "challenge/challenge_begin_500520",
 			"start_trigger_type": "0",
 			"receivable_days": "0"
 		},
@@ -887,7 +887,7 @@
 			"start_date": "2022-10-14 12:00:00",
 			"end_date": "2022-10-31 11:59:59",
 			"disp_order": "15",
-			"start_asset": "challenge/challenge_begin_550520",
+			"start_asset": "challenge/challenge_begin_500520",
 			"start_trigger_type": "0",
 			"receivable_days": "0"
 		},
@@ -1149,6 +1149,60 @@
 			"end_date": "2021-09-05 11:59:59",
 			"disp_order": "5",
 			"start_asset": "challenge/challenge_begin_10540",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "501190",
+			"start_date": "2021-08-29 22:00:00",
+			"end_date": "2021-09-05 21:59:59",
+			"disp_order": "20",
+			"start_asset": "challenge/challenge_begin_501190",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "501200",
+			"start_date": "2021-09-05 22:00:00",
+			"end_date": "2021-09-12 21:59:59",
+			"disp_order": "20",
+			"start_asset": "challenge/challenge_begin_501200",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "501210",
+			"start_date": "2021-09-12 22:00:00",
+			"end_date": "2021-09-19 21:59:59",
+			"disp_order": "20",
+			"start_asset": "challenge/challenge_begin_501210",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "501220",
+			"start_date": "2021-09-19 22:00:00",
+			"end_date": "2021-09-26 21:59:59",
+			"disp_order": "20",
+			"start_asset": "challenge/challenge_begin_501220",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "501230",
+			"start_date": "2021-09-26 22:00:00",
+			"end_date": "2021-10-03 21:59:59",
+			"disp_order": "20",
+			"start_asset": "challenge/challenge_begin_501230",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "501240",
+			"start_date": "2021-08-26 12:00:00",
+			"end_date": "2021-09-17 11:59:59",
+			"disp_order": "10",
+			"start_asset": "challenge/challenge_begin_501240",
 			"start_trigger_type": "0",
 			"receivable_days": "0"
 		}
