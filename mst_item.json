@@ -3225,57 +3225,57 @@
 		},
 		{
 			"item_id": "1023591",
-			"item_name": "アグモン -勇気の絆-(超勇敢)スキルストーンの欠片(小)",
+			"item_name": "Agumon (Bond of Bravery) (Super Brave) Skill Stone Shard (S)",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1023591",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態が超究極体アグモン -勇気の絆-(超勇敢)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Ultra Agumon (Bond of Bravery) (Super Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "1023592",
-			"item_name": "アグモン -勇気の絆-(超勇敢)スキルストーンの欠片(大)",
+			"item_name": "Agumon (Bond of Bravery) (Super Brave) Skill Stone Shard (L)",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1023592",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態が超究極体アグモン -勇気の絆-(超勇敢)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Ultra Agumon (Bond of Bravery) (Super Brave) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "1023601",
-			"item_name": "ガブモン -友情の絆-(超冷静)スキルストーンの欠片(小)",
+			"item_name": "Gabumon (Bond of Friendship) (Super Calm) Skill Stone Shard (S)",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1023601",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態が超究極体ガブモン -友情の絆-(超冷静)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"description": "A small stone shard that has a slight chance of upgrading Ultra Gabumon (Bond of Friendship) (Super Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "1023602",
-			"item_name": "ガブモン -友情の絆-(超冷静)スキルストーンの欠片(大)",
+			"item_name": "Gabumon (Bond of Friendship) (Super Calm) Skill Stone Shard (L)",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1023602",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態が超究極体ガブモン -友情の絆-(超冷静)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"description": "A large stone shard that has a high chance of upgrading Ultra Gabumon (Bond of Friendship) (Super Calm) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "1023613",
-			"item_name": "ピヨモン[DFQ](器用)スキルストーン",
+			"item_name": "Biyomon [SDQ] (Deft) Skill Stone",
 			"sort_key": "",
 			"item_type": "17",
 			"icon_asset": "icon/item/skillitem/icon_skillitem1023613",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "最終進化形態が成長期ピヨモン[DFQ](器用)の系譜のスキルレベルを確実にアップできる貴重な石板",
+			"description": "A precious stone slab that guarantees a chance of upgrading Rookie Biyomon [SDQ] (Deft) Chain's Skill Level.",
 			"max_amount": "9999"
 		},
 		{
@@ -30405,6 +30405,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "23809",
+			"item_name": "Digimon Summon Ticket Vol. 7",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no007",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "Use this ticket for the Digimon Ticket Summon Vol. 7\nExpires: 2021/10/22 11:59 (JST)",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "238425001",
 			"item_name": "攻Ⅳ(献身 ロゼモン)",
 			"sort_key": "",
@@ -39488,6 +39499,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A Summer Sale exclusive DigiEgg that will definitely grow into an Ultra, Mega, or Armor Royal Knight Digimon will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25354",
+			"item_name": "Elegantly Sparkling Devoted DigiEgg",
+			"sort_key": "エレガントナカガヤキノケンシンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama032",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Digimon that will definitely grow into an Ultra or Mega Devoted Digimon will hatch.",
 			"max_amount": "9999"
 		},
 		{
@@ -60249,167 +60271,167 @@
 		},
 		{
 			"item_id": "351413001",
-			"item_name": "攻Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Attack-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351413001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351413002",
-			"item_name": "攻Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Attack-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351413001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351413003",
-			"item_name": "攻Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Attack-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351413001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351413004",
-			"item_name": "攻Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Attack-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351413001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351413005",
-			"item_name": "攻Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Attack-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351413001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351433001",
-			"item_name": "守Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Protection-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351433001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351433002",
-			"item_name": "守Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Protection-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351433001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351433003",
-			"item_name": "守Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Protection-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351433001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351433004",
-			"item_name": "守Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Protection-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351433001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351433005",
-			"item_name": "守Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Protection-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351433001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351443001",
-			"item_name": "防護Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Guard-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351443001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351443002",
-			"item_name": "防護Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Guard-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351443001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351443003",
-			"item_name": "防護Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Guard-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351443001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351443004",
-			"item_name": "防護Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Guard-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351443001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "351443005",
-			"item_name": "防護Ⅳ(器用 ピヨモン[DFQ])",
+			"item_name": "Guard-IV (Deft - Biyomon [SDQ])",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment351443001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "器用のピヨモン[DFQ]がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Deft Biyomon [SDQ].",
 			"max_amount": "9999"
 		},
 		{
@@ -60420,7 +60442,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352511001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
@@ -60431,7 +60453,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352511001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
@@ -60442,7 +60464,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352511001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
@@ -60453,7 +60475,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352511001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
@@ -60464,7 +60486,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352511001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
@@ -60475,7 +60497,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352531001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
@@ -60486,7 +60508,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352531001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
@@ -60497,7 +60519,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352531001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
@@ -60508,7 +60530,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment352531001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
@@ -60519,62 +60541,62 @@
 			"icon_asset": "icon/item/equipment/iconequipment352531001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "352541001",
-			"item_name": "会心Ⅴ(超勇敢 アグモン -勇気の絆-)",
+			"item_name": "Focus-V (Super Brave - Agumon (Bond of Bravery))",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment352541001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "352541002",
-			"item_name": "会心Ⅴ(超勇敢 アグモン -勇気の絆-)",
+			"item_name": "Focus-V (Super Brave - Agumon (Bond of Bravery))",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment352541001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "352541003",
-			"item_name": "会心Ⅴ(超勇敢 アグモン -勇気の絆-)",
+			"item_name": "Focus-V (Super Brave - Agumon (Bond of Bravery))",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment352541001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "352541004",
-			"item_name": "会心Ⅴ(超勇敢 アグモン -勇気の絆-)",
+			"item_name": "Focus-V (Super Brave - Agumon (Bond of Bravery))",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment352541001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "352541005",
-			"item_name": "会心Ⅴ(超勇敢 アグモン -勇気の絆-)",
+			"item_name": "Focus-V (Super Brave - Agumon (Bond of Bravery))",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment352541001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超勇敢のアグモン -勇気の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Brave Agumon (Bond of Bravery).",
 			"max_amount": "9999"
 		},
 		{
@@ -60585,7 +60607,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353522001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
@@ -60596,7 +60618,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353522001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
@@ -60607,7 +60629,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353522001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
@@ -60618,7 +60640,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353522001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
@@ -60629,7 +60651,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353522001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
@@ -60640,7 +60662,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353532001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
@@ -60651,7 +60673,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353532001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
@@ -60662,7 +60684,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353532001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
@@ -60673,7 +60695,7 @@
 			"icon_asset": "icon/item/equipment/iconequipment353532001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
@@ -60684,62 +60706,62 @@
 			"icon_asset": "icon/item/equipment/iconequipment353532001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "353542001",
-			"item_name": "会心Ⅴ(超冷静 ガブモン -友情の絆-)",
+			"item_name": "Focus-V (Super Calm - Gabumon (Bond of Friendship))",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment353542001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "353542002",
-			"item_name": "会心Ⅴ(超冷静 ガブモン -友情の絆-)",
+			"item_name": "Focus-V (Super Calm - Gabumon (Bond of Friendship))",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment353542001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "353542003",
-			"item_name": "会心Ⅴ(超冷静 ガブモン -友情の絆-)",
+			"item_name": "Focus-V (Super Calm - Gabumon (Bond of Friendship))",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment353542001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "353542004",
-			"item_name": "会心Ⅴ(超冷静 ガブモン -友情の絆-)",
+			"item_name": "Focus-V (Super Calm - Gabumon (Bond of Friendship))",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment353542001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "353542005",
-			"item_name": "会心Ⅴ(超冷静 ガブモン -友情の絆-)",
+			"item_name": "Focus-V (Super Calm - Gabumon (Bond of Friendship))",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment353542001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超冷静のガブモン -友情の絆-がセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Calm Gabumon (Bond of Friendship).",
 			"max_amount": "9999"
 		},
 		{
@@ -60854,112 +60876,112 @@
 		},
 		{
 			"item_id": "355514001",
-			"item_name": "攻Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "Attack-V (Super Tenacious - KaiserGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355514001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Tenacious KaiserGreymon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355514002",
-			"item_name": "攻Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "Attack-V (Super Tenacious - KaiserGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355514001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Tenacious KaiserGreymon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355514003",
-			"item_name": "攻Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "Attack-V (Super Tenacious - KaiserGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355514001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Tenacious KaiserGreymon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355514004",
-			"item_name": "攻Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "Attack-V (Super Tenacious - KaiserGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355514001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Tenacious KaiserGreymon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355514005",
-			"item_name": "攻Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "Attack-V (Super Tenacious - KaiserGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355514001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Tenacious KaiserGreymon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355534001",
-			"item_name": "守Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "Protection-V (Super Tenacious - KaiserGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355534001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Tenacious KaiserGreymon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355534002",
-			"item_name": "守Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "Protection-V (Super Tenacious - KaiserGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355534001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Tenacious KaiserGreymon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355534003",
-			"item_name": "守Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "Protection-V (Super Tenacious - KaiserGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355534001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Tenacious KaiserGreymon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355534004",
-			"item_name": "守Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "Protection-V (Super Tenacious - KaiserGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355534001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Tenacious KaiserGreymon.",
 			"max_amount": "9999"
 		},
 		{
 			"item_id": "355534005",
-			"item_name": "守Ⅴ(超不屈 カイゼルグレイモン)",
+			"item_name": "Protection-V (Super Tenacious - KaiserGreymon)",
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment355534001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "超不屈のカイゼルグレイモンがセットすることで真価を発揮するプラグイン",
+			"description": "A plugin that exhibits its true value when set to a Super Tenacious KaiserGreymon.",
 			"max_amount": "9999"
 		},
 		{
