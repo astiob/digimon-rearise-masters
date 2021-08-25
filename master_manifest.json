@@ -9,14 +9,14 @@
 		},
 		{
 			"className": "AdditionalMessageMaster",
-			"crc": 2154211726,
+			"crc": 2090813176,
 			"hashName": "3C0221E48C8AC859BE355ED2068F9E1F",
 			"masterName": "mst_additional_message",
 			"size": 3716
 		},
 		{
 			"className": "AppConstantMaster",
-			"crc": 3342494406,
+			"crc": 3931398490,
 			"hashName": "9441A2B2D162A7320925944C9DC8C369",
 			"masterName": "mst_app_constant",
 			"size": 4532
@@ -37,28 +37,28 @@
 		},
 		{
 			"className": "BannerMaster",
-			"crc": 553797128,
+			"crc": 3983892850,
 			"hashName": "E38D9351E8D204E96DB057E0E956688D",
 			"masterName": "mst_banner",
-			"size": 18084
+			"size": 18180
 		},
 		{
 			"className": "BattleMaster",
-			"crc": 4059037623,
+			"crc": 1675241489,
 			"hashName": "77BADDE4EF50630BE2752704A339EA75",
 			"masterName": "mst_battle",
-			"size": 15044
+			"size": 15076
 		},
 		{
 			"className": "BattleEvaluationMaster",
-			"crc": 2525737277,
+			"crc": 1592237966,
 			"hashName": "0FF738BF9308942941E59323E1060CE8",
 			"masterName": "mst_battle_evaluation",
 			"size": 20692
 		},
 		{
 			"className": "BattleEvaluationPrizeMaster",
-			"crc": 3739060228,
+			"crc": 2199233745,
 			"hashName": "278BEDAD77AEDD2E0CEECC21D6149DA3",
 			"masterName": "mst_battle_evaluation_prize",
 			"size": 788
@@ -100,7 +100,7 @@
 		},
 		{
 			"className": "BattleParkCpRewardMaster",
-			"crc": 836006470,
+			"crc": 4174350464,
 			"hashName": "0DE6E0FE010CECB80C1DBEAEB444E7D6",
 			"masterName": "mst_battle_park_cp_reward",
 			"size": 3460
@@ -135,14 +135,14 @@
 		},
 		{
 			"className": "Bp2SlayerScheduleMaster",
-			"crc": 877640989,
+			"crc": 1460050783,
 			"hashName": "D5839652AB01E91AA74F617A5D45BFCF",
 			"masterName": "mst_bp2_slayer_schedule",
-			"size": 1428
+			"size": 1460
 		},
 		{
 			"className": "BuffIconPatternMaster",
-			"crc": 3292325034,
+			"crc": 3386467545,
 			"hashName": "B7036995D6D0FE0F0073FD9DC347CC07",
 			"masterName": "mst_buff_icon_pattern",
 			"size": 1284
@@ -156,38 +156,38 @@
 		},
 		{
 			"className": "ChallengeMaster",
-			"crc": 3264615561,
+			"crc": 3346009141,
 			"hashName": "07EAE795A96DCF2CF089019815C7DC5D",
 			"masterName": "mst_challenge",
-			"size": 44532
+			"size": 45108
 		},
 		{
 			"className": "ChallengeGroupMaster",
-			"crc": 2259103964,
+			"crc": 450750738,
 			"hashName": "8376AF8D2EAC4F30059C256ACBD96674",
 			"masterName": "mst_challenge_group",
-			"size": 4004
+			"size": 4052
 		},
 		{
 			"className": "ChallengePrizeMaster",
-			"crc": 3497077658,
+			"crc": 2535680248,
 			"hashName": "90CB3BFA63D08584D9E2D98D53AE6BEB",
 			"masterName": "mst_challenge_prize",
-			"size": 19396
+			"size": 19636
 		},
 		{
 			"className": "ChallengeScheduleMaster",
-			"crc": 2413339533,
+			"crc": 2559867733,
 			"hashName": "5223EAE56B531EB1ACEDF63848D3F456",
 			"masterName": "mst_challenge_schedule",
-			"size": 2484
+			"size": 2548
 		},
 		{
 			"className": "ChildhoodEvolveMaster",
-			"crc": 3410092464,
+			"crc": 1486532684,
 			"hashName": "2C2B2EA7119F74F3DE4D946BAB2C8031",
 			"masterName": "mst_childhood_evolve",
-			"size": 4772
+			"size": 4804
 		},
 		{
 			"className": "ClanAttendancePrizeMaster",
@@ -254,28 +254,28 @@
 		},
 		{
 			"className": "DigimonMaster",
-			"crc": 2574593349,
+			"crc": 3356214379,
 			"hashName": "C12CDC2F311330A596035AAEFBC005CE",
 			"masterName": "mst_digimon",
-			"size": 128996
+			"size": 129700
 		},
 		{
 			"className": "DigimonBookMaster",
-			"crc": 1439938418,
+			"crc": 4270932963,
 			"hashName": "BE6F51B82E59E0AAAF727A1474A7D400",
 			"masterName": "mst_digimon_book",
 			"size": 111972
 		},
 		{
 			"className": "DigimonBookOverrideMaster",
-			"crc": 2142382428,
+			"crc": 3200833925,
 			"hashName": "77F1CEBD3CB43C532E6FF2FC2D6B10D5",
 			"masterName": "mst_digimon_book_override",
 			"size": 244
 		},
 		{
 			"className": "DigimonCareRestrictionMaster",
-			"crc": 3928157368,
+			"crc": 2529795691,
 			"hashName": "15D11907877FB5251F7ACCB8D269480F",
 			"masterName": "mst_digimon_care_restriction",
 			"size": 516
@@ -296,10 +296,10 @@
 		},
 		{
 			"className": "DigimonGroupMaster",
-			"crc": 2711433790,
+			"crc": 4075208828,
 			"hashName": "5EE7E8206840413260DDAF31EBABD875",
 			"masterName": "mst_digimon_group",
-			"size": 23556
+			"size": 23876
 		},
 		{
 			"className": "DigimonGroupNameMaster",
@@ -317,7 +317,7 @@
 		},
 		{
 			"className": "DigimonHomeActionGroupMaster",
-			"crc": 4221258482,
+			"crc": 1714716142,
 			"hashName": "C1701F7FA2E9EE6380435B4F79218FBB",
 			"masterName": "mst_digimon_home_action_group",
 			"size": 1764
@@ -331,10 +331,10 @@
 		},
 		{
 			"className": "DigimonParameterMaster",
-			"crc": 1051021854,
+			"crc": 1630407731,
 			"hashName": "D9CFBE04323AEE1F7E8CA12F837CF9C9",
 			"masterName": "mst_digimon_parameter",
-			"size": 39908
+			"size": 40164
 		},
 		{
 			"className": "DigimonSellMaster",
@@ -345,35 +345,35 @@
 		},
 		{
 			"className": "DigimonSkillMaster",
-			"crc": 362630259,
+			"crc": 2456294452,
 			"hashName": "2B54A5E7C04AA011929B67E5D1B49F6D",
 			"masterName": "mst_digimon_skill",
-			"size": 28452
+			"size": 28580
 		},
 		{
 			"className": "DigitamaMaster",
-			"crc": 3820241108,
+			"crc": 2642885933,
 			"hashName": "6CFFCDA2EE14711FF887DBB32F8ED2FB",
 			"masterName": "mst_digitama",
 			"size": 1220
 		},
 		{
 			"className": "DigitamaDigimonMaster",
-			"crc": 3126273932,
+			"crc": 1454356170,
 			"hashName": "7525B204E499862EA21E8B5D8FB4B1B0",
 			"masterName": "mst_digitama_digimon",
 			"size": 8052
 		},
 		{
 			"className": "DigitamaLevelMaster",
-			"crc": 573134845,
+			"crc": 2573563377,
 			"hashName": "D15A820DA928D2AE6A9CCBF18CA758D5",
 			"masterName": "mst_digitama_level",
 			"size": 308
 		},
 		{
 			"className": "DropItemMaster",
-			"crc": 3298465965,
+			"crc": 1913925797,
 			"hashName": "07088A6585C138B78E112E6A89DCD721",
 			"masterName": "mst_drop_item",
 			"size": 37220
@@ -401,10 +401,10 @@
 		},
 		{
 			"className": "EvolveMaster",
-			"crc": 1434580398,
+			"crc": 1736014559,
 			"hashName": "ACDD9AB84D1EF26DD8F07C7830AC0C5B",
 			"masterName": "mst_evolve",
-			"size": 9220
+			"size": 9284
 		},
 		{
 			"className": "EvolveDemoMaster",
@@ -415,17 +415,17 @@
 		},
 		{
 			"className": "EvolveItemMaster",
-			"crc": 2870611173,
+			"crc": 2197864273,
 			"hashName": "450FB0EEDEB06FC928262B3C06E81D8E",
 			"masterName": "mst_evolve_item",
 			"size": 404
 		},
 		{
 			"className": "EvolveUseItemMaster",
-			"crc": 1820202747,
+			"crc": 1615090683,
 			"hashName": "98D4B89F3CCDCE2D92B0CA789F1FF151",
 			"masterName": "mst_evolve_use_item",
-			"size": 3140
+			"size": 3156
 		},
 		{
 			"className": "GashaDemoButtonMaster",
@@ -443,7 +443,7 @@
 		},
 		{
 			"className": "HelpMaster",
-			"crc": 1822953833,
+			"crc": 1248634367,
 			"hashName": "54C0D6CDB5071757C44ADDAA8613EFE5",
 			"masterName": "mst_help",
 			"size": 47460
@@ -457,38 +457,38 @@
 		},
 		{
 			"className": "HomeAssetMaster",
-			"crc": 3164850260,
+			"crc": 2334880685,
 			"hashName": "415638824BC4A42C49A22DDBED045D88",
 			"masterName": "mst_home_asset",
 			"size": 452
 		},
 		{
 			"className": "HomeCircleAssetMaster",
-			"crc": 1386729418,
+			"crc": 272353822,
 			"hashName": "F87841D8405DBC94B9E1341A6FC36E93",
 			"masterName": "mst_home_circle_asset",
 			"size": 260
 		},
 		{
 			"className": "InheritanceDigimonMaster",
-			"crc": 4002605601,
+			"crc": 3664371191,
 			"hashName": "87AB867F4489F142581DF3A8CBB399B2",
 			"masterName": "mst_inheritance_digimon",
 			"size": 260
 		},
 		{
 			"className": "ItemMaster",
-			"crc": 524160894,
+			"crc": 953249659,
 			"hashName": "AFC611EA368F8512FAE3D0B928767D6D",
 			"masterName": "mst_item",
-			"size": 83284
+			"size": 83444
 		},
 		{
 			"className": "LimitbreakMaster",
-			"crc": 3979722076,
+			"crc": 1193468372,
 			"hashName": "8F102389D81A147EB0B1855639135F54",
 			"masterName": "mst_limitbreak",
-			"size": 51076
+			"size": 51364
 		},
 		{
 			"className": "LimitbreakGroupMaster",
@@ -506,14 +506,14 @@
 		},
 		{
 			"className": "MissionMaster",
-			"crc": 3184390658,
+			"crc": 3456251253,
 			"hashName": "0B6EE108B9D103F67B1B518778408585",
 			"masterName": "mst_mission",
 			"size": 109140
 		},
 		{
 			"className": "MissionPrizeMaster",
-			"crc": 2386862539,
+			"crc": 2070325458,
 			"hashName": "27147BFF5F8730727481849254588C9F",
 			"masterName": "mst_mission_prize",
 			"size": 48676
@@ -548,10 +548,10 @@
 		},
 		{
 			"className": "OpponentMaster",
-			"crc": 3558371783,
+			"crc": 3864576588,
 			"hashName": "1B2B6500C0123F2CE517685499E80B2B",
 			"masterName": "mst_opponent",
-			"size": 97572
+			"size": 97652
 		},
 		{
 			"className": "PersonalityTypeMaster",
@@ -562,80 +562,80 @@
 		},
 		{
 			"className": "PluginMaster",
-			"crc": 2011814371,
+			"crc": 3763395452,
 			"hashName": "9DE8A8E39743FC268B0A227E504FAC55",
 			"masterName": "mst_plugin",
-			"size": 22708
+			"size": 22756
 		},
 		{
 			"className": "PluginEvolveMaster",
-			"crc": 4191846228,
+			"crc": 2216078293,
 			"hashName": "6F15F5C76593559E13B5704E26C9B681",
 			"masterName": "mst_plugin_evolve",
-			"size": 27236
+			"size": 27284
 		},
 		{
 			"className": "PluginParameterMaster",
-			"crc": 2065809795,
+			"crc": 2876028797,
 			"hashName": "977E66A1C19348E3C47EF6D65FA8CCE0",
 			"masterName": "mst_plugin_parameter",
-			"size": 576228
+			"size": 577620
 		},
 		{
 			"className": "PluginStrengthenMaster",
-			"crc": 256193893,
+			"crc": 3020497958,
 			"hashName": "53A05D5296A27E239CB2788768537749",
 			"masterName": "mst_plugin_strengthen",
 			"size": 2084
 		},
 		{
 			"className": "PluginWearingMaster",
-			"crc": 3338082212,
+			"crc": 4234614469,
 			"hashName": "235D3D8ACE0FEEE69F80A070790C6758",
 			"masterName": "mst_plugin_wearing",
-			"size": 26340
+			"size": 26388
 		},
 		{
 			"className": "QuestMaster",
-			"crc": 126868343,
+			"crc": 937231720,
 			"hashName": "9C94E55253E8942FB4BEC19B936FA5B9",
 			"masterName": "mst_quest",
 			"size": 12500
 		},
 		{
 			"className": "QuestAssetMaster",
-			"crc": 3741567218,
+			"crc": 1509798858,
 			"hashName": "68075529DAFE9353F842A2CC5B814C80",
 			"masterName": "mst_quest_asset",
 			"size": 2260
 		},
 		{
 			"className": "QuestCampaignMaster",
-			"crc": 4192727616,
+			"crc": 1237574928,
 			"hashName": "08E0110CB323051DA0CC50608FC8FF94",
 			"masterName": "mst_quest_campaign",
 			"size": 146740
 		},
 		{
 			"className": "QuestFirstClearRewardMaster",
-			"crc": 1899835324,
+			"crc": 337712135,
 			"hashName": "D7495A6F8972415B45A3F5B9544D3D3F",
 			"masterName": "mst_quest_first_clear_reward",
 			"size": 3748
 		},
 		{
 			"className": "QuestScenarioMaster",
-			"crc": 1099258011,
+			"crc": 1497310142,
 			"hashName": "31278EAAD7663AE11CEC79352C6745FF",
 			"masterName": "mst_quest_scenario",
 			"size": 3908
 		},
 		{
 			"className": "RaidBattleMaster",
-			"crc": 3289707538,
+			"crc": 3718661923,
 			"hashName": "7A8EDE1FD712C085B91179C8257951EA",
 			"masterName": "mst_raid_battle",
-			"size": 23972
+			"size": 24100
 		},
 		{
 			"className": "RaidCampaignMaster",
@@ -653,56 +653,56 @@
 		},
 		{
 			"className": "RaidEventChangeTextMaster",
-			"crc": 1530062222,
+			"crc": 4188073828,
 			"hashName": "6253F5A31EA3411FCAFD1C77AE8337CF",
 			"masterName": "mst_raid_event_change_text",
 			"size": 548
 		},
 		{
 			"className": "RaidOccurrenceLevelMaster",
-			"crc": 1526792571,
+			"crc": 4074279535,
 			"hashName": "8AA7093BC53CFD36DF26CB17367C1F88",
 			"masterName": "mst_raid_occurrence_level",
-			"size": 257460
+			"size": 259332
 		},
 		{
 			"className": "RaidScaleMaster",
-			"crc": 1252943173,
+			"crc": 462697618,
 			"hashName": "B49E09E070EB138A5EC742A234530D81",
 			"masterName": "mst_raid_scale",
-			"size": 5572
+			"size": 5604
 		},
 		{
 			"className": "RaidScenarioScheduleMaster",
-			"crc": 1073712524,
+			"crc": 2706311967,
 			"hashName": "4F5BFD00FCDF7E9B46880038E8BDFE2C",
 			"masterName": "mst_raid_scenario_schedule",
-			"size": 9268
+			"size": 9316
 		},
 		{
 			"className": "RaidSlayerScheduleMaster",
-			"crc": 2074067793,
+			"crc": 2086345459,
 			"hashName": "562413F1686A8B7B8342DEA3516F4E99",
 			"masterName": "mst_raid_slayer_schedule",
-			"size": 5556
+			"size": 5604
 		},
 		{
 			"className": "ScenarioMaster",
-			"crc": 3628206902,
+			"crc": 59616774,
 			"hashName": "4C5B99883DBFBF717DEA0E481C8CD54B",
 			"masterName": "mst_scenario",
-			"size": 10196
+			"size": 10212
 		},
 		{
 			"className": "ScenarioDictionaryMaster",
-			"crc": 257551183,
+			"crc": 3726205781,
 			"hashName": "3997121E50B1073145FEE905B0250AAE",
 			"masterName": "mst_scenario_dictionary",
 			"size": 5988
 		},
 		{
 			"className": "ScenarioEventUnlockMaster",
-			"crc": 1880456759,
+			"crc": 3189463564,
 			"hashName": "4F4AF589DED736744ED19E9ED4C5BE99",
 			"masterName": "mst_scenario_event_unlock",
 			"size": 292
@@ -716,7 +716,7 @@
 		},
 		{
 			"className": "ScenarioEventUnlockPointMaster",
-			"crc": 1845348514,
+			"crc": 2054413513,
 			"hashName": "94F6D1237A521CD5A751CADF524357D6",
 			"masterName": "mst_scenario_event_unlock_point",
 			"size": 356
@@ -730,7 +730,7 @@
 		},
 		{
 			"className": "ScenarioMovieMaster",
-			"crc": 208772346,
+			"crc": 800495933,
 			"hashName": "D0C5506975C691EF60D607586D1F1208",
 			"masterName": "mst_scenario_movie",
 			"size": 628
@@ -744,17 +744,17 @@
 		},
 		{
 			"className": "ScenarioSubCategoryMaster",
-			"crc": 516130894,
+			"crc": 1164424330,
 			"hashName": "96001806A7849837B4F6A1B10D62CE49",
 			"masterName": "mst_scenario_sub_category",
 			"size": 2564
 		},
 		{
 			"className": "ScroungeMaster",
-			"crc": 3970719086,
+			"crc": 513081782,
 			"hashName": "9EEE585E6FD28CDB4C7DF0634A2A1EE5",
 			"masterName": "mst_scrounge",
-			"size": 126068
+			"size": 126820
 		},
 		{
 			"className": "ScroungeRateMaster",
@@ -772,52 +772,52 @@
 		},
 		{
 			"className": "SectionMaster",
-			"crc": 3738502496,
+			"crc": 1997690631,
 			"hashName": "AC84881A2C7E0EE04BAB060A2E5F41E9",
 			"masterName": "mst_section",
 			"size": 2276
 		},
 		{
 			"className": "ShopMaster",
-			"crc": 410131939,
+			"crc": 3175903205,
 			"hashName": "40B9A0F25847E34F6D5A14009A0FEAFF",
 			"masterName": "mst_shop",
 			"size": 1284
 		},
 		{
 			"className": "ShopDigimonMaster",
-			"crc": 2217023051,
+			"crc": 1956310411,
 			"hashName": "D44BE5661816ECD9556DF6C480D75934",
 			"masterName": "mst_shop_digimon",
 			"size": 324
 		},
 		{
 			"className": "ShopDigimonMessageMaster",
-			"crc": 3185132397,
+			"crc": 3764866187,
 			"hashName": "BD63FD3392BBFE64A92B499D63B38BA5",
 			"masterName": "mst_shop_digimon_message",
 			"size": 628
 		},
 		{
 			"className": "ShopExchangeUnitMaster",
-			"crc": 2172584440,
+			"crc": 652832469,
 			"hashName": "EB8617619003B4EB8C51347C3A5E0FC7",
 			"masterName": "mst_shop_exchange_unit",
-			"size": 62420
+			"size": 62708
 		},
 		{
 			"className": "ShopPrizeMaster",
-			"crc": 4268847081,
+			"crc": 3521496890,
 			"hashName": "631F39DE2806B11202FE615FA9C94358",
 			"masterName": "mst_shop_prize",
-			"size": 57796
+			"size": 58084
 		},
 		{
 			"className": "ShopPrizeDetailMaster",
-			"crc": 2490817834,
+			"crc": 1674153949,
 			"hashName": "965CEFC21DDB01BA762522ED3196B9CF",
 			"masterName": "mst_shop_prize_detail",
-			"size": 308
+			"size": 324
 		},
 		{
 			"className": "ShopProductMaster",
@@ -828,31 +828,31 @@
 		},
 		{
 			"className": "SideStoryQuestUnlockMaster",
-			"crc": 3681202803,
+			"crc": 802514141,
 			"hashName": "0869E3FFB769301668647A01DE41AE73",
 			"masterName": "mst_side_story_quest_unlock",
 			"size": 148
 		},
 		{
 			"className": "SkillMaster",
-			"crc": 1439109630,
+			"crc": 984976836,
 			"hashName": "699A07FD551B1D82D33A96644BC9412B",
 			"masterName": "mst_skill",
-			"size": 299780
+			"size": 301860
 		},
 		{
 			"className": "SkillDescriptionMaster",
-			"crc": 1071199195,
+			"crc": 993581939,
 			"hashName": "0C3F1BA4C437713BEAF890BE1D6DB400",
 			"masterName": "mst_skill_description",
 			"size": 5716
 		},
 		{
 			"className": "SkillDetailMaster",
-			"crc": 2696603885,
+			"crc": 673668266,
 			"hashName": "4262182BBFC16F673FD71551B2DBBA01",
 			"masterName": "mst_skill_detail",
-			"size": 483940
+			"size": 487476
 		},
 		{
 			"className": "SkillLevelMaster",
@@ -870,31 +870,31 @@
 		},
 		{
 			"className": "SkillLevelupItemMaster",
-			"crc": 2095126285,
+			"crc": 528631127,
 			"hashName": "5A0F2DE251D78D68EE114C547009225D",
 			"masterName": "mst_skill_levelup_item",
 			"size": 1508
 		},
 		{
 			"className": "SkillLevelupItemBitMaster",
-			"crc": 1723943711,
+			"crc": 3463705778,
 			"hashName": "3503E2DE742BD965326204C55F5C30A7",
 			"masterName": "mst_skill_levelup_item_bit",
 			"size": 6980
 		},
 		{
 			"className": "SlayerMaster",
-			"crc": 1504930655,
+			"crc": 1768640799,
 			"hashName": "1096D1CAA5B674FDDB56C4152C1CEEBA",
 			"masterName": "mst_slayer",
-			"size": 38068
+			"size": 38452
 		},
 		{
 			"className": "SlayerMessageMaster",
-			"crc": 2576993102,
+			"crc": 4220029876,
 			"hashName": "86A9EA9CFC0E8C109DB93402F119724E",
 			"masterName": "mst_slayer_message",
-			"size": 804
+			"size": 820
 		},
 		{
 			"className": "SlbCostPatternMaster",
@@ -975,14 +975,14 @@
 		},
 		{
 			"className": "StorySectionMaster",
-			"crc": 1629956337,
+			"crc": 3885637713,
 			"hashName": "DA340911D530EC1D91DD04DA0C674FF0",
 			"masterName": "mst_story_section",
 			"size": 228
 		},
 		{
 			"className": "TamerLevelMaster",
-			"crc": 3879576091,
+			"crc": 2474162413,
 			"hashName": "40B361DDA6F5DCEAC6D8DD264FA86D68",
 			"masterName": "mst_tamer_level",
 			"size": 9604
@@ -996,14 +996,14 @@
 		},
 		{
 			"className": "TextMaster",
-			"crc": 1728916752,
+			"crc": 2415571411,
 			"hashName": "DE2316AD84CF16177A075376758CE82C",
 			"masterName": "mst_text",
-			"size": 72596
+			"size": 72676
 		},
 		{
 			"className": "TipsMaster",
-			"crc": 1423380443,
+			"crc": 504030521,
 			"hashName": "2B89EA83CD124033E0FB4C5A079173A5",
 			"masterName": "mst_tips",
 			"size": 6644
@@ -1059,7 +1059,7 @@
 		},
 		{
 			"className": "WeeklyDropItemMaster",
-			"crc": 146441491,
+			"crc": 421716115,
 			"hashName": "7ADCB01331C309EF253321D7CCE6E4C2",
 			"masterName": "mst_weekly_drop_item",
 			"size": 11316
@@ -1087,14 +1087,14 @@
 		},
 		{
 			"className": "WeeklyQuestMaster",
-			"crc": 402878969,
+			"crc": 898545191,
 			"hashName": "C04E79352D03B3120529972C1941F99E",
 			"masterName": "mst_weekly_quest",
 			"size": 2468
 		},
 		{
 			"className": "WeeklyQuestBonuslessMaster",
-			"crc": 1547127199,
+			"crc": 3436974054,
 			"hashName": "55DCC107A14DFBA8D41876D1A403372E",
 			"masterName": "mst_weekly_quest_bonusless",
 			"size": 116
@@ -1115,14 +1115,14 @@
 		},
 		{
 			"className": "WeeklySectionMaster",
-			"crc": 4173987424,
+			"crc": 1565601356,
 			"hashName": "85A967C50C8FEEEB73B93FC122706399",
 			"masterName": "mst_weekly_section",
 			"size": 2020
 		},
 		{
 			"className": "WeeklySectionOverrideMaster",
-			"crc": 672479303,
+			"crc": 1349362693,
 			"hashName": "9601C2F1DA175810B12652B44C0F4EF8",
 			"masterName": "mst_weekly_section_override",
 			"size": 5076
@@ -1149,5 +1149,5 @@
 			"size": 116
 		}
 	],
-	"version": "2021-08-19 19:44:08"
+	"version": "2021-08-25 18:37:49"
 }

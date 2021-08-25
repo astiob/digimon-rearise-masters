@@ -29503,6 +29503,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "23528",
+			"item_name": "デジモンガシャチケット vol.8",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no008",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンチケットガシャ vol.8を回すことができるチケット(使用期間 2021/08/31 12:00 ～ 2021/11/07 11:59)",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "235422001",
 			"item_name": "攻Ⅳ(冷静 オメガモンズワルトD)",
 			"sort_key": "",
@@ -38993,6 +39004,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "器用の超究極体、究極体、完全体のいずれかに育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25357",
+			"item_name": "消失させる破壊者のデジタマ",
+			"sort_key": "ショウシツサセルハカイシャノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama047",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ディアボロモン(献身)に育つデジモンが必ず産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -62863,6 +62885,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "超器用のジャスティモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "378513001",
+			"item_name": "攻Ⅴ(超器用 スサノオモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment378513001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のスサノオモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "378513002",
+			"item_name": "攻Ⅴ(超器用 スサノオモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment378513001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のスサノオモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "378513003",
+			"item_name": "攻Ⅴ(超器用 スサノオモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment378513001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のスサノオモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "378513004",
+			"item_name": "攻Ⅴ(超器用 スサノオモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment378513001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のスサノオモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "378513005",
+			"item_name": "攻Ⅴ(超器用 スサノオモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment378513001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のスサノオモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "378533001",
+			"item_name": "守Ⅴ(超器用 スサノオモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment378533001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のスサノオモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "378533002",
+			"item_name": "守Ⅴ(超器用 スサノオモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment378533001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のスサノオモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "378533003",
+			"item_name": "守Ⅴ(超器用 スサノオモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment378533001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のスサノオモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "378533004",
+			"item_name": "守Ⅴ(超器用 スサノオモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment378533001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のスサノオモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "378533005",
+			"item_name": "守Ⅴ(超器用 スサノオモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment378533001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超器用のスサノオモンがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
