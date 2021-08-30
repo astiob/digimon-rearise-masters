@@ -49202,6 +49202,116 @@
 			"challenge_condition": "69",
 			"json_value": "{\"evaluation_text_id\":1879,\"count\":5}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1158010",
+			"challenge_group_id": "11580",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_11580"
+		},
+		{
+			"challenge_id": "1158011",
+			"challenge_group_id": "11580",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "3635",
+			"description": "勇敢/超勇敢のみでバトルチャレンジの超級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2994,\"personality_group\":1,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1158012",
+			"challenge_group_id": "11580",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "3635",
+			"description": "冷静/超冷静のみでバトルチャレンジの超級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2994,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1158013",
+			"challenge_group_id": "11580",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "3635",
+			"description": "器用/超器用のみでバトルチャレンジの超級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2994,\"personality_group\":3,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1158014",
+			"challenge_group_id": "11580",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "3635",
+			"description": "不屈/超不屈のみでバトルチャレンジの超級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2994,\"personality_group\":4,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1158015",
+			"challenge_group_id": "11580",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "3635",
+			"description": "献身/超献身のみでバトルチャレンジの超級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2994,\"personality_group\":5,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1158016",
+			"challenge_group_id": "11580",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1992",
+			"description": "不屈 エアロブイドラモン[BCE]を1体Lv99にしよう",
+			"challenge_condition": "64",
+			"json_value": "{\"digimon_id\":1315404,\"level\":99,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1158017",
+			"challenge_group_id": "11580",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1992",
+			"description": "不屈 エアロブイドラモン[BCE]を1体Lv100にしよう",
+			"challenge_condition": "64",
+			"json_value": "{\"digimon_id\":1315404,\"level\":100,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1158018",
+			"challenge_group_id": "11580",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1992",
+			"description": "不屈 エアロブイドラモン[BCE]を1体Lv110にしよう",
+			"challenge_condition": "64",
+			"json_value": "{\"digimon_id\":1315404,\"level\":110,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1158019",
+			"challenge_group_id": "11580",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1992",
+			"description": "不屈 エアロブイドラモン[BCE]を1体Lv125にしよう",
+			"challenge_condition": "64",
+			"json_value": "{\"digimon_id\":1315404,\"level\":125,\"count\":1}",
+			"receive_asset": ""
 		}
 	]
 }
