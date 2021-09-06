@@ -1,6 +1,12 @@
 {
 	"masterRows": [
 		{
+			"shop_id": "7",
+			"sequence": "50007011",
+			"detail_type": "0",
+			"detail_value": "60"
+		},
+		{
 			"shop_id": "8",
 			"sequence": "50008001",
 			"detail_type": "0",
@@ -39,6 +45,12 @@
 		{
 			"shop_id": "8",
 			"sequence": "50008007",
+			"detail_type": "0",
+			"detail_value": "60"
+		},
+		{
+			"shop_id": "8",
+			"sequence": "50008009",
 			"detail_type": "0",
 			"detail_value": "60"
 		}
