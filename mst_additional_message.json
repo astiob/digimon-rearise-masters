@@ -2081,6 +2081,24 @@
 		},
 		{
 			"sequence": "400101",
+			"disp_order": "1",
+			"start_date": "2021-09-27 12:00:00",
+			"end_date": "2021-10-15 11:59:59",
+			"message_text_id": "3644",
+			"display_position": "2",
+			"position_detail": "2"
+		},
+		{
+			"sequence": "400101",
+			"disp_order": "2",
+			"start_date": "2021-09-27 12:00:00",
+			"end_date": "2021-10-15 11:59:59",
+			"message_text_id": "0",
+			"display_position": "5",
+			"position_detail": "2"
+		},
+		{
+			"sequence": "400101",
 			"disp_order": "3",
 			"start_date": "2021-05-17 12:00:00",
 			"end_date": "2021-05-26 11:59:59",
@@ -2687,6 +2705,15 @@
 			"disp_order": "1",
 			"start_date": "2021-07-21 12:00:00",
 			"end_date": "2021-08-23 11:59:59",
+			"message_text_id": "3086",
+			"display_position": "2",
+			"position_detail": "1"
+		},
+		{
+			"sequence": "530016",
+			"disp_order": "1",
+			"start_date": "2021-09-27 12:00:00",
+			"end_date": "2021-10-04 11:59:59",
 			"message_text_id": "3086",
 			"display_position": "2",
 			"position_detail": "1"

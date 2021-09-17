@@ -39095,6 +39095,28 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25365",
+			"item_name": "仲秋の候の不屈のデジタマ",
+			"sort_key": "チュウシュウノコウノフクツノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama040",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈の超究極体、究極体、完全体のいずれかに育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25366",
+			"item_name": "仲秋の候の献身のデジタマ",
+			"sort_key": "チュウシュウノコウノケンシンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama032",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身の超究極体、究極体のいずれかに育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "254422001",
 			"item_name": "攻Ⅳ(冷静 ラピッドモン)",
 			"sort_key": "",

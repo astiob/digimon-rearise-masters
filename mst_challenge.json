@@ -49642,6 +49642,226 @@
 			"challenge_condition": "59",
 			"json_value": "{\"value\":150000,\"itemId\":26033}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160010",
+			"challenge_group_id": "11600",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "1160011",
+			"challenge_group_id": "11600",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1990",
+			"description": "高難易度 献身時限の渦の初級をクリアしよう！",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400201}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160012",
+			"challenge_group_id": "11600",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1990",
+			"description": "高難易度 献身時限の渦の中級をクリアしよう！",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400202}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160013",
+			"challenge_group_id": "11600",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1990",
+			"description": "高難易度 献身時限の渦の上級をクリアしよう！",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400203}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160014",
+			"challenge_group_id": "11600",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1990",
+			"description": "献身/超献身のみで高難易度 献身時限の渦初級をクリアしよう",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400201,\"personality_group\":5,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160015",
+			"challenge_group_id": "11600",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1990",
+			"description": "献身/超献身のみで高難易度 献身時限の渦中級をクリアしよう",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400202,\"personality_group\":5,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160016",
+			"challenge_group_id": "11600",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1990",
+			"description": "献身/超献身のみで高難易度 献身時限の渦上級をクリアしよう",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400203,\"personality_group\":5,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160017",
+			"challenge_group_id": "11600",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1990",
+			"description": "献身/超献身のみで高難易度 献身時限の渦初級を\n誰も倒れずにクリアしよう",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400201,\"personality_group\":5,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160018",
+			"challenge_group_id": "11600",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1990",
+			"description": "献身/超献身のみで高難易度 献身時限の渦中級を\n誰も倒れずにクリアしよう",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400202,\"personality_group\":5,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160019",
+			"challenge_group_id": "11600",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1990",
+			"description": "献身/超献身のみで高難易度 献身時限の渦上級を\n誰も倒れずにクリアしよう",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400203,\"personality_group\":5,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160110",
+			"challenge_group_id": "11601",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "1160111",
+			"challenge_group_id": "11601",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1990",
+			"description": "高難易度 不屈時限の渦の初級をクリアしよう！",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400101}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160112",
+			"challenge_group_id": "11601",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1990",
+			"description": "高難易度 不屈時限の渦の中級をクリアしよう！",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400102}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160113",
+			"challenge_group_id": "11601",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1990",
+			"description": "高難易度 不屈時限の渦の上級をクリアしよう！",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400103}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160114",
+			"challenge_group_id": "11601",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1990",
+			"description": "不屈/超不屈のみで高難易度 不屈時限の渦初級をクリアしよう",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400101,\"personality_group\":4,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160115",
+			"challenge_group_id": "11601",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1990",
+			"description": "不屈/超不屈のみで高難易度 不屈時限の渦中級をクリアしよう",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400102,\"personality_group\":4,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160116",
+			"challenge_group_id": "11601",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1990",
+			"description": "不屈/超不屈のみで高難易度 不屈時限の渦上級をクリアしよう",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400103,\"personality_group\":4,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160117",
+			"challenge_group_id": "11601",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1990",
+			"description": "不屈/超不屈のみで高難易度 不屈時限の渦初級を\n誰も倒れずにクリアしよう",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400101,\"personality_group\":4,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160118",
+			"challenge_group_id": "11601",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1990",
+			"description": "不屈/超不屈のみで高難易度 不屈時限の渦中級を\n誰も倒れずにクリアしよう",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400102,\"personality_group\":4,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1160119",
+			"challenge_group_id": "11601",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1990",
+			"description": "不屈/超不屈のみで高難易度 不屈時限の渦上級を\n誰も倒れずにクリアしよう",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400103,\"personality_group\":4,\"count\":1}",
+			"receive_asset": ""
 		}
 	]
 }
