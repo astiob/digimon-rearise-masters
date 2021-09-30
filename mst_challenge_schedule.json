@@ -1529,6 +1529,24 @@
 			"start_asset": "challenge/challenge_begin_11441",
 			"start_trigger_type": "0",
 			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11610",
+			"start_date": "2021-10-06 12:00:00",
+			"end_date": "2021-10-23 11:59:59",
+			"disp_order": "20",
+			"start_asset": "challenge/challenge_begin_11610",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "11620",
+			"start_date": "2021-10-15 12:00:00",
+			"end_date": "2021-10-31 23:59:59",
+			"disp_order": "15",
+			"start_asset": "challenge/challenge_begin_11620",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
 		}
 	]
 }

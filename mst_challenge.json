@@ -49862,6 +49862,226 @@
 			"challenge_condition": "63",
 			"json_value": "{\"weekly_quest_id\":400103,\"personality_group\":4,\"count\":1}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1161010",
+			"challenge_group_id": "11610",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_halloween2021"
+		},
+		{
+			"challenge_id": "1161011",
+			"challenge_group_id": "11610",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "3635",
+			"description": "勇敢/超勇敢のみでバトルチャレンジの上級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2993,\"personality_group\":1,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1161012",
+			"challenge_group_id": "11610",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "3635",
+			"description": "冷静/超冷静のみでバトルチャレンジの上級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2993,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1161013",
+			"challenge_group_id": "11610",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "3635",
+			"description": "器用/超器用のみでバトルチャレンジの上級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2993,\"personality_group\":3,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1161014",
+			"challenge_group_id": "11610",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "3635",
+			"description": "不屈/超不屈のみでバトルチャレンジの上級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2993,\"personality_group\":4,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1161015",
+			"challenge_group_id": "11610",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "3635",
+			"description": "献身/超献身のみでバトルチャレンジの上級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2993,\"personality_group\":5,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1161016",
+			"challenge_group_id": "11610",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1992",
+			"description": "勇敢 ヴァンデモン[BCE]を1体Lv90にしよう",
+			"challenge_condition": "64",
+			"json_value": "{\"digimon_id\":1400404,\"level\":90,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1161017",
+			"challenge_group_id": "11610",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1992",
+			"description": "勇敢 ヴァンデモン[BCE]を1体Lv99にしよう",
+			"challenge_condition": "64",
+			"json_value": "{\"digimon_id\":1400404,\"level\":99,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1161018",
+			"challenge_group_id": "11610",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1992",
+			"description": "勇敢 ヴァンデモン[BCE]を1体Lv100にしよう",
+			"challenge_condition": "64",
+			"json_value": "{\"digimon_id\":1400404,\"level\":100,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1161019",
+			"challenge_group_id": "11610",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1992",
+			"description": "勇敢 ヴァンデモン[BCE]を1体Lv105にしよう",
+			"challenge_condition": "64",
+			"json_value": "{\"digimon_id\":1400404,\"level\":105,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1162010",
+			"challenge_group_id": "11620",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_halloween2021"
+		},
+		{
+			"challenge_id": "1162011",
+			"challenge_group_id": "11620",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1986",
+			"description": "激突戦のバトルに15回参加しよう",
+			"challenge_condition": "12",
+			"json_value": "{\"count\":15}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1162012",
+			"challenge_group_id": "11620",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1986",
+			"description": "激突戦のバトルに30回参加しよう",
+			"challenge_condition": "12",
+			"json_value": "{\"count\":30}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1162013",
+			"challenge_group_id": "11620",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1986",
+			"description": "激突戦のバトルに60回参加しよう",
+			"challenge_condition": "12",
+			"json_value": "{\"count\":60}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1162014",
+			"challenge_group_id": "11620",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1986",
+			"description": "激突戦のバトルを5回救援しよう",
+			"challenge_condition": "35",
+			"json_value": "{\"count\":5}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1162015",
+			"challenge_group_id": "11620",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1986",
+			"description": "激突戦のバトルを10回救援しよう",
+			"challenge_condition": "35",
+			"json_value": "{\"count\":10}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1162016",
+			"challenge_group_id": "11620",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1986",
+			"description": "激突戦のバトルで25回勝利しよう",
+			"challenge_condition": "14",
+			"json_value": "{\"count\":25}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1162017",
+			"challenge_group_id": "11620",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1986",
+			"description": "激突戦のバトルで50回勝利しよう",
+			"challenge_condition": "14",
+			"json_value": "{\"count\":50}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1162018",
+			"challenge_group_id": "11620",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "2247",
+			"description": "期間中、ハロウィンメダル交換でアイテムを1回交換しよう",
+			"challenge_condition": "52",
+			"json_value": "{\"count\":1,\"shopId\":35}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1162019",
+			"challenge_group_id": "11620",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1986",
+			"description": "激突戦のバトルでレベル10の強敵に4回勝利しよう",
+			"challenge_condition": "4",
+			"json_value": "{\"count\":4,\"level\":10}",
+			"receive_asset": ""
 		}
 	]
 }

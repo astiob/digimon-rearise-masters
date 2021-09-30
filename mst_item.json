@@ -3477,6 +3477,39 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1024001",
+			"item_name": "ヴァンデモン[BCE](不屈)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1024001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が完全体ヴァンデモン[BCE](不屈)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1024002",
+			"item_name": "ヴァンデモン[BCE](不屈)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1024002",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が完全体ヴァンデモン[BCE](不屈)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1024011",
+			"item_name": "ノーブルパンプモン(超献身)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1024011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が究極体ノーブルパンプモン(超献身)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "102422001",
 			"item_name": "攻Ⅳ(冷静 パンダモン)",
 			"sort_key": "",
@@ -25455,6 +25488,17 @@
 			"max_amount": "99999"
 		},
 		{
+			"item_id": "22030",
+			"item_name": "ハロウィンメダル2021",
+			"sort_key": "",
+			"item_type": "11",
+			"icon_asset": "icon/item/icon_halloween_medal_4",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "2021年のイベントで獲得できるハロウィンメダル、色々なものと交換できる(使用期限：2021/11/07 11:59)",
+			"max_amount": "99999"
+		},
+		{
 			"item_id": "2204",
 			"item_name": "俊敏性の特訓フラグメントⅣ",
 			"sort_key": "",
@@ -37298,7 +37342,7 @@
 			"icon_asset": "icon/digitama/icondigitama046",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
-			"description": "究極体ノーブルパンプモンに育つデジモンが産まれるデジタマ",
+			"description": "究極体ノーブルパンプモン(器用)に育つデジモンが産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -39114,6 +39158,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "献身の超究極体、究極体のいずれかに育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25369",
+			"item_name": "【2021】ゾロゾロしたハロウィンのデジタマ",
+			"sort_key": "ニセンニジュウイチゾロゾロシタハロウィンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama022",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "ハロウィンメダル交換で手に入る究極体、完全体のいずれかに育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25370",
+			"item_name": "【2021】ガヤガヤしたハロウィンのデジタマ",
+			"sort_key": "ニセンニジュウイチガヤガヤシタハロウィンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama046",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "ハロウィンセールで手に入る超究極体、究極体のいずれかに育つデジモンが必ず産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -44035,6 +44101,17 @@
 		},
 		{
 			"item_id": "29008",
+			"item_name": "イベントpt",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_bcevent_point_000",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "バトルチャレンジのイベントpt",
+			"max_amount": "999999999"
+		},
+		{
+			"item_id": "29010",
 			"item_name": "イベントpt",
 			"sort_key": "",
 			"item_type": "18",
@@ -53956,6 +54033,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "340851",
+			"item_name": "威嚇Ⅲ",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment38503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの挑発とDEFを引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "340852",
+			"item_name": "威嚇Ⅲ",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment38503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの挑発とDEFを引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "340853",
+			"item_name": "威嚇Ⅲ",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment38503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの挑発とDEFを引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "340854",
+			"item_name": "威嚇Ⅲ",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment38503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの挑発とDEFを引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "340855",
+			"item_name": "威嚇Ⅲ",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment38503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンの挑発とDEFを引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "341001",
 			"item_name": "感電耐性Ⅲ(勇敢/超勇敢)",
 			"sort_key": "",
@@ -63570,6 +63702,226 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "381414011",
+			"item_name": "強打Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381414012",
+			"item_name": "強打Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381414013",
+			"item_name": "強打Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381414014",
+			"item_name": "強打Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381414015",
+			"item_name": "強打Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381414011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、クリティカル率は下がるが、よりPWRの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381434011",
+			"item_name": "頑強Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381434012",
+			"item_name": "頑強Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381434013",
+			"item_name": "頑強Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381434014",
+			"item_name": "頑強Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381434015",
+			"item_name": "頑強Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381434011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381444011",
+			"item_name": "縮地Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381444012",
+			"item_name": "縮地Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381444013",
+			"item_name": "縮地Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381444014",
+			"item_name": "縮地Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381444015",
+			"item_name": "縮地Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381444011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、SPDの値は下がるが、CTブーストを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381444021",
+			"item_name": "快癒Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、ブロック率は下がるが、自己再生を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381444022",
+			"item_name": "快癒Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、ブロック率は下がるが、自己再生を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381444023",
+			"item_name": "快癒Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、ブロック率は下がるが、自己再生を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381444024",
+			"item_name": "快癒Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、ブロック率は下がるが、自己再生を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "381444025",
+			"item_name": "快癒Ⅳ(不屈 ヴァンデモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment381444021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈ヴァンデモン[BCE]のみがセットでき、ブロック率は下がるが、自己再生を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "381513001",
 			"item_name": "攻Ⅴ(超器用 ケルビモン(悪))",
 			"sort_key": "",
@@ -64227,6 +64579,171 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "超勇敢のオメガモンMMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386525001",
+			"item_name": "攻Ⅴ(超献身 ノーブルパンプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386525001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身のノーブルパンプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386525002",
+			"item_name": "攻Ⅴ(超献身 ノーブルパンプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386525001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身のノーブルパンプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386525003",
+			"item_name": "攻Ⅴ(超献身 ノーブルパンプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386525001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身のノーブルパンプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386525004",
+			"item_name": "攻Ⅴ(超献身 ノーブルパンプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386525001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身のノーブルパンプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386525005",
+			"item_name": "攻Ⅴ(超献身 ノーブルパンプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386525001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身のノーブルパンプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386535001",
+			"item_name": "守Ⅴ(超献身 ノーブルパンプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386535001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身のノーブルパンプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386535002",
+			"item_name": "守Ⅴ(超献身 ノーブルパンプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386535001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身のノーブルパンプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386535003",
+			"item_name": "守Ⅴ(超献身 ノーブルパンプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386535001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身のノーブルパンプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386535004",
+			"item_name": "守Ⅴ(超献身 ノーブルパンプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386535001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身のノーブルパンプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386535005",
+			"item_name": "守Ⅴ(超献身 ノーブルパンプモン)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386535001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身のノーブルパンプモンがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386545011",
+			"item_name": "俊足Ⅴ(超献身 ノーブルパンプモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386545011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身ノーブルパンプモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386545012",
+			"item_name": "俊足Ⅴ(超献身 ノーブルパンプモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386545011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身ノーブルパンプモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386545013",
+			"item_name": "俊足Ⅴ(超献身 ノーブルパンプモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386545011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身ノーブルパンプモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386545014",
+			"item_name": "俊足Ⅴ(超献身 ノーブルパンプモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386545011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身ノーブルパンプモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "386545015",
+			"item_name": "俊足Ⅴ(超献身 ノーブルパンプモン専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment386545011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身ノーブルパンプモンのみがセットでき、ブロック率は下がるが、よりSPDの値をプラスにする古のプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -69114,6 +69631,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "441651",
+			"item_name": "逐電Ⅳ(勇敢/超勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment441651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441652",
+			"item_name": "逐電Ⅳ(勇敢/超勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment441651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441653",
+			"item_name": "逐電Ⅳ(勇敢/超勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment441651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441654",
+			"item_name": "逐電Ⅳ(勇敢/超勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment441651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "441655",
+			"item_name": "逐電Ⅳ(勇敢/超勇敢)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment441651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "441711",
 			"item_name": "電光Ⅳ(勇敢/超勇敢)",
 			"sort_key": "",
@@ -70269,6 +70841,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "442651",
+			"item_name": "逐電Ⅳ(冷静/超冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment442651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442652",
+			"item_name": "逐電Ⅳ(冷静/超冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment442651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442653",
+			"item_name": "逐電Ⅳ(冷静/超冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment442651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442654",
+			"item_name": "逐電Ⅳ(冷静/超冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment442651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "442655",
+			"item_name": "逐電Ⅳ(冷静/超冷静)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment442651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "442711",
 			"item_name": "電光Ⅳ(冷静/超冷静)",
 			"sort_key": "",
@@ -71421,6 +72048,61 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンのブロック率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443651",
+			"item_name": "逐電Ⅳ(器用/超器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment443651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443652",
+			"item_name": "逐電Ⅳ(器用/超器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment443651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443653",
+			"item_name": "逐電Ⅳ(器用/超器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment443651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443654",
+			"item_name": "逐電Ⅳ(器用/超器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment443651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "443655",
+			"item_name": "逐電Ⅳ(器用/超器用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment443651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
 			"max_amount": "9999"
 		},
 		{
@@ -72689,6 +73371,61 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "444651",
+			"item_name": "逐電Ⅳ(不屈/超不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment444651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444652",
+			"item_name": "逐電Ⅳ(不屈/超不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment444651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444653",
+			"item_name": "逐電Ⅳ(不屈/超不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment444651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444654",
+			"item_name": "逐電Ⅳ(不屈/超不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment444651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "444655",
+			"item_name": "逐電Ⅳ(不屈/超不屈)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment444651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "444711",
 			"item_name": "電光Ⅳ(不屈/超不屈)",
 			"sort_key": "",
@@ -73951,6 +74688,61 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンのブロック率は下がるが、よりSPDの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445651",
+			"item_name": "逐電Ⅳ(献身/超献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment445651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445652",
+			"item_name": "逐電Ⅳ(献身/超献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment445651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445653",
+			"item_name": "逐電Ⅳ(献身/超献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment445651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445654",
+			"item_name": "逐電Ⅳ(献身/超献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment445651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "445655",
+			"item_name": "逐電Ⅳ(献身/超献身)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment445651",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンのDEFの値は下がるが、攻撃回避を引き出すデータが格納されたプラグイン",
 			"max_amount": "9999"
 		},
 		{
