@@ -4194,6 +4194,48 @@
 			"text": "공격 대상에게 [@rate][:rate:]%[/@rate] 확률로 화상 부여([@duration][:duration:][/@duration])"
 		},
 		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "10",
+			"target_num": "5",
+			"text": "개성이 '[:personality_target_ex:]'인 아군의 [:text_id_ex:](을)를 해제"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "11",
+			"target_num": "5",
+			"text": "개성이 '[:personality_target_ex:]'인 아군의 [:text_id_ex:](을)를 해제"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "12",
+			"target_num": "5",
+			"text": "개성이 '[:personality_target_ex:]'인 아군의 [:text_id_ex:](을)를 해제"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "13",
+			"target_num": "5",
+			"text": "개성이 '[:personality_target_ex:]'인 아군의 [:text_id_ex:](을)를 해제"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "14",
+			"target_num": "5",
+			"text": "개성이 '[:personality_target_ex:]'인 아군의 [:text_id_ex:](을)를 해제"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "5",
+			"target_num": "5",
+			"text": "아군 [@target_num]전체[/@target_num]의 [:text_id_ex:](을)를 해제"
+		},
+		{
 			"action_efficacy_type": "6",
 			"index_in_type": "0",
 			"target_type": "1",

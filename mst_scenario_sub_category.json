@@ -288,37 +288,44 @@
 			"resource": "quest/panel/panel_s2_section14"
 		},
 		{
+			"sub_category_id": "515",
+			"main_category_id": "5",
+			"order": "15",
+			"title": "15장\n나의 정의, 한 자루의 칼에",
+			"resource": "quest/panel/panel_s2_section15"
+		},
+		{
 			"sub_category_id": "601",
 			"main_category_id": "3",
-			"order": "40",
+			"order": "1",
 			"title": "달리는 검은 유파!",
 			"resource": "quest/panel/dfq_panel_section1"
 		},
 		{
 			"sub_category_id": "602",
 			"main_category_id": "3",
-			"order": "10",
+			"order": "1",
 			"title": "산책 to 회오리 바람",
 			"resource": "quest/panel/dfq_panel_section2"
 		},
 		{
 			"sub_category_id": "603",
 			"main_category_id": "3",
-			"order": "20",
+			"order": "1",
 			"title": "강철의 포효",
 			"resource": "quest/panel/dfq_panel_section3"
 		},
 		{
 			"sub_category_id": "604",
 			"main_category_id": "3",
-			"order": "30",
+			"order": "4",
 			"title": "용기의 증명",
 			"resource": "quest/panel/dfq_panel_section4"
 		},
 		{
 			"sub_category_id": "605",
 			"main_category_id": "3",
-			"order": "50",
+			"order": "5",
 			"title": "결의의 눈동자",
 			"resource": "quest/panel/dfq_panel_section5"
 		},
@@ -339,7 +346,7 @@
 		{
 			"sub_category_id": "608",
 			"main_category_id": "3",
-			"order": "60",
+			"order": "8",
 			"title": "흑과 백의 이중주",
 			"resource": "quest/panel/dfq_panel_section8"
 		},
@@ -367,14 +374,14 @@
 		{
 			"sub_category_id": "612",
 			"main_category_id": "3",
-			"order": "60",
+			"order": "12",
 			"title": "천사와 반쵸의 자장가",
 			"resource": "quest/panel/dfq_panel_section13"
 		},
 		{
 			"sub_category_id": "613",
 			"main_category_id": "3",
-			"order": "70",
+			"order": "13",
 			"title": "수호자의 각성",
 			"resource": "quest/panel/dfq_panel_section14"
 		},
@@ -391,13 +398,6 @@
 			"order": "17",
 			"title": "나뭇잎에 흩날리는 요정",
 			"resource": "quest/panel/dfq_panel_section17"
-		},
-		{
-			"sub_category_id": "620",
-			"main_category_id": "3",
-			"order": "6",
-			"title": "불타올라라! 불꽃의 식재료 찾기",
-			"resource": "quest/panel/dfq_panel_section6"
 		},
 		{
 			"sub_category_id": "621",
@@ -435,18 +435,18 @@
 			"resource": "quest/panel/dfq_panel_section24"
 		},
 		{
-			"sub_category_id": "629",
+			"sub_category_id": "631",
 			"main_category_id": "3",
-			"order": "29",
-			"title": "友情探し×大冒険",
-			"resource": "quest/panel/dfq_panel_section007"
+			"order": "31",
+			"title": "수호자의 각성",
+			"resource": "quest/panel/dfq_panel_section13"
 		},
 		{
-			"sub_category_id": "630",
+			"sub_category_id": "632",
 			"main_category_id": "3",
-			"order": "9",
-			"title": "封じられた伝承",
-			"resource": "quest/panel/dfq_panel_section10"
+			"order": "32",
+			"title": "정의의 주먹×칠흑의 발톱",
+			"resource": "quest/panel/dfq_panel_section27"
 		},
 		{
 			"sub_category_id": "701",
@@ -482,6 +482,13 @@
 			"order": "5",
 			"title": "사이드 스토리\n에이지의 디지몬 현장 실습",
 			"resource": "quest/panel/ss_panel_section5_g5054"
+		},
+		{
+			"sub_category_id": "706",
+			"main_category_id": "4",
+			"order": "6",
+			"title": "사이드 스토리\n미치와 카즈마 추억의 한때",
+			"resource": "quest/panel/ss_panel_section6_g5232"
 		}
 	]
 }

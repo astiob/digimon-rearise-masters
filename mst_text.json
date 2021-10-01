@@ -11305,6 +11305,10 @@
 			"text": "추천"
 		},
 		{
+			"text_id": "3166",
+			"text": "한꺼번에 돌보기"
+		},
+		{
 			"text_id": "3167",
 			"text": "대격돌전! 볼케닉드라몬"
 		},
@@ -11355,6 +11359,10 @@
 		{
 			"text_id": "3178",
 			"text": "여기까지 왔군.\n…아직 더 갈 수 있겠나?"
+		},
+		{
+			"text_id": "3179",
+			"text": "한꺼번에 돌보기를 했습니다."
 		},
 		{
 			"text_id": "318",
@@ -11415,6 +11423,34 @@
 		{
 			"text_id": "3192",
 			"text": "BCE"
+		},
+		{
+			"text_id": "3193",
+			"text": "한꺼번에 돌보기"
+		},
+		{
+			"text_id": "3194",
+			"text": "한꺼번에 돌보기를 하시겠습니까?"
+		},
+		{
+			"text_id": "3195",
+			"text": "소비 돌보기 아이템"
+		},
+		{
+			"text_id": "3196",
+			"text": "컨디션"
+		},
+		{
+			"text_id": "3197",
+			"text": "필요한 돌보기 아이템이 없습니다."
+		},
+		{
+			"text_id": "3198",
+			"text": "편성되어 있는 디지몬의 컨디션이 최대입니다."
+		},
+		{
+			"text_id": "3199",
+			"text": "디지몬이 편성되어 있지 않습니다."
 		},
 		{
 			"text_id": "32",
@@ -12369,6 +12405,10 @@
 			"text": "초개성 디지몬은 스킬 스톤으로만\n스킬 레벨을 올릴 수 있습니다"
 		},
 		{
+			"text_id": "3424",
+			"text": "아이템이 부족하여 팀 전원의 컨디션을 최대로 올릴 수 없습니다."
+		},
+		{
 			"text_id": "3425",
 			"text": "조룡형"
 		},
@@ -12395,6 +12435,10 @@
 		{
 			"text_id": "3430",
 			"text": "토벌 보스"
+		},
+		{
+			"text_id": "3431",
+			"text": "시간이 경과하여 디지몬의<br>컨디션이 달라졌으므로 재로딩합니다."
 		},
 		{
 			"text_id": "3432",
@@ -12625,6 +12669,14 @@
 			"text": "언더 월드 공략 챌린지 후반"
 		},
 		{
+			"text_id": "3484",
+			"text": "고난이도\n용감 시간의 소용돌이 등장!"
+		},
+		{
+			"text_id": "3485",
+			"text": "고난이도\n침착 시간의 소용돌이 등장!"
+		},
+		{
 			"text_id": "3486",
 			"text": "UWD에서 용감/초용감의 증표\n드롭 확률 상승 중!"
 		},
@@ -12661,8 +12713,28 @@
 			"text": "자동 부활 효과"
 		},
 		{
+			"text_id": "3494",
+			"text": "PWR/TEC/DEF 하락 효과"
+		},
+		{
+			"text_id": "3495",
+			"text": "2주년 기념"
+		},
+		{
 			"text_id": "3496",
 			"text": "추천"
+		},
+		{
+			"text_id": "3497",
+			"text": "고난이도 용감 시간의 소용돌이 챌린지"
+		},
+		{
+			"text_id": "3498",
+			"text": "고난이도 용감 시간의 소용돌이에 도전해 보거라!"
+		},
+		{
+			"text_id": "3499",
+			"text": "고난이도 침착 시간의 소용돌이 챌린지"
 		},
 		{
 			"text_id": "35",
@@ -12673,20 +12745,60 @@
 			"text": "조금만 더 있으면 부화할 것 같다"
 		},
 		{
+			"text_id": "3500",
+			"text": "고난이도 침착 시간의 소용돌이에 도전해 보거라!"
+		},
+		{
 			"text_id": "3501",
 			"text": "육성 세트"
+		},
+		{
+			"text_id": "3503",
+			"text": "모노드라몬"
+		},
+		{
+			"text_id": "3504",
+			"text": "싸움이 날 부르고 있어!"
+		},
+		{
+			"text_id": "3505",
+			"text": "경쟁할 수 있는 라이벌이 있기에\n난 더 강해질 수 있어!"
+		},
+		{
+			"text_id": "3506",
+			"text": "휴~ 만족스러운 싸움이었어.\n싸운 후에는 휴식 타임이지."
+		},
+		{
+			"text_id": "3507",
+			"text": "꽤 치열한 싸움이었어."
 		},
 		{
 			"text_id": "3508",
 			"text": "초개성 등장 기념 메달"
 		},
 		{
+			"text_id": "3509",
+			"text": "크리티컬 확률 하락 효과"
+		},
+		{
 			"text_id": "351",
 			"text": "부화 캡슐"
 		},
 		{
+			"text_id": "3510",
+			"text": "DEF/PWR 대미지 내성/TEC 대미지 내성 하락 효과"
+		},
+		{
+			"text_id": "3511",
+			"text": "자신에 대한 감전, 마비, 기절, 수면, 독, 화상, 스킬 봉인, 암흑을 해제\n자신의 PWR를 100% 상승(지속)\n자신의 DEF를 220% 상승(지속)\n자신의 HP를 30% 회복"
+		},
+		{
 			"text_id": "3512",
 			"text": "진행 중!"
+		},
+		{
+			"text_id": "3513",
+			"text": "크리티컬 가드 효과"
 		},
 		{
 			"text_id": "3514",
@@ -12697,8 +12809,16 @@
 			"text": "매일 열심히 하려므나!"
 		},
 		{
+			"text_id": "3516",
+			"text": "자신에 대한 독, 화상, 에러, 스킬 봉인, 암흑을 해제\n자신에게 2회, 스킬 사용 후의 CT가 80％ 감소하는 효과 부여(7턴)\n자신에게 2회, 적의 대미지를 최대 1000까지 억제하는 효과 부여(7턴)\n자신의 TEC을 150％ 상승(7턴)"
+		},
+		{
 			"text_id": "3517",
 			"text": "내 간절한 소원을… 이번에야말로…!"
+		},
+		{
+			"text_id": "3518",
+			"text": "자신에 대한 감전, 마비, 기절, 수면, 독, 화상, 에러, 스킬 봉인, 암흑을 해제\n자신의 DEF를 180% 상승(지속)\n자신의 HP를 50% 회복"
 		},
 		{
 			"text_id": "3519",
@@ -12741,6 +12861,10 @@
 			"text": "부화 캡슐로 디지몬알을 품어\n부화시키세요."
 		},
 		{
+			"text_id": "3597",
+			"text": "PWR/TEC/PWR 대미지 내성/TEC 대미지 내성 하락 효과"
+		},
+		{
 			"text_id": "3599",
 			"text": "BP 공략 챌린지①"
 		},
@@ -12775,6 +12899,10 @@
 		{
 			"text_id": "3605",
 			"text": "배틀 파크에 도전해 보려무나!"
+		},
+		{
+			"text_id": "3607",
+			"text": "대미지 억제 효과"
 		},
 		{
 			"text_id": "361",
@@ -13803,6 +13931,54 @@
 		{
 			"text_id": "490901",
 			"text": "·<color=#FFE25AFF>화상</color><sprite=6> 대책을 세우자!\n·<color=#FFE25AFF>막기 확률</color>을 높이자!\n·<color=#FFE25AFF>일격이 강한</color> 디지몬과 함께 가자!"
+		},
+		{
+			"text_id": "490911",
+			"text": "·<color=#FFE25AFF>스킬 봉인</color><sprite=8> 대책을 세우자!\n·개성이 <color=#FFE25AFF>용감/초용감이 아닌</color> 디지몬과 함께 싸우자!\n·<color=#FFE25AFF>막기 확률</color>을 높이자!"
+		},
+		{
+			"text_id": "490921",
+			"text": "·개성이 <color=#FFE25AFF>침착/초침착이 아닌</color> 디지몬과 함께 싸우자!\n·<color=#FFE25AFF>HP를 회복하는</color> 디지몬과 함께 싸우자!\n·<color=#FFE25AFF>DEF</color>를 높이자!"
+		},
+		{
+			"text_id": "490931",
+			"text": "·<color=#FFE25AFF>반격 확률</color>을 높이자!\n·<color=#FFE25AFF>일격이 강한</color> 디지몬과 함께 가자!\n·<color=#FFE25AFF>암흑</color><sprite=9> 대책을 세우자!"
+		},
+		{
+			"text_id": "490941",
+			"text": "·<color=#FFE25AFF>스킬 봉인</color><sprite=8> 대책을 세우자!\n·<color=#FFE25AFF>TEC</color>을 높이자!\n·<color=#FFE25AFF>반격 확률</color>을 높이자!"
+		},
+		{
+			"text_id": "490942",
+			"text": "·<color=#FFE25AFF>독</color><sprite=5>이나 <color=#FFE25AFF>마비</color><sprite=1> 대책을 세우자!\n·<color=#FFE25AFF>PWR 대미지 내성</color>이나 <color=#FFE25AFF>TEC 대미지 내성</color>을 높이자!\n·<color=#FFE25AFF>DEF를 낮추는</color> 디지몬과 함께 싸우자!"
+		},
+		{
+			"text_id": "490951",
+			"text": "·<color=#FFE25AFF>수면</color><sprite=4> 대책을 세우자!\n·<color=#FFE25AFF>PWR</color>나 <color=#FFE25AFF>TEC</color>을 높이자!\n·<color=#FFE25AFF>추가 공격 확률</color>을 높이자!"
+		},
+		{
+			"text_id": "490961",
+			"text": "·<color=#FFE25AFF>암흑</color><sprite=9> 대책을 세우자!\n·<color=#FFE25AFF>일격이 강한</color> 디지몬과 함께 가자!\n·<color=#FFE25AFF>DEF를 낮추는</color> 디지몬과 함께 싸우자!"
+		},
+		{
+			"text_id": "490971",
+			"text": "·<color=#FFE25AFF>막기 확률</color>을 높이자!\n·<color=#FFE25AFF>PWR 대미지 내성</color>을 높이자!\n·<color=#FFE25AFF>일격이 강한</color> 디지몬과 함께 가자!"
+		},
+		{
+			"text_id": "490972",
+			"text": "·<color=#FFE25AFF>감전</color><sprite=0> 대책을 세우자!\n·<color=#FFE25AFF>TEC을 낮추는</color> 디지몬과 함께 싸우자!\n·<color=#FFE25AFF>HP를 회복하는</color> 디지몬과 함께 싸우자!"
+		},
+		{
+			"text_id": "490981",
+			"text": "·<color=#FFE25AFF>기절</color><sprite=3> 대책을 세우자!\n·<color=#FFE25AFF>DEF</color>를 높이자!\n·<color=#FFE25AFF>HP를 회복하는</color> 디지몬과 함께 싸우자!"
+		},
+		{
+			"text_id": "490984",
+			"text": "·<color=#FFE25AFF>암흑</color><sprite=9> 대책을 세우자!\n·<color=#FFE25AFF>반격 확률</color>을 높이자!\n·<color=#FFE25AFF>일격이 강한</color> 디지몬과 함께 가자!"
+		},
+		{
+			"text_id": "490991",
+			"text": "·<color=#FFE25AFF>감전</color><sprite=0> 대책을 세우자!\n·<color=#FFE25AFF>반격 확률</color>을 높이자!\n·<color=#FFE25AFF>일격이 강한</color> 디지몬과 함께 가자!"
 		},
 		{
 			"text_id": "491",
