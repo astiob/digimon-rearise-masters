@@ -4194,6 +4194,48 @@
 			"text": "使攻擊對象以[@rate][:rate:]%[/@rate]的機率灼傷。（[@duration][:duration:][/@duration]）"
 		},
 		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "10",
+			"target_num": "5",
+			"text": "解除個性為「[:personality_target_ex:]」的友軍的[:text_id_ex:]。"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "11",
+			"target_num": "5",
+			"text": "解除個性為「[:personality_target_ex:]」的友軍的[:text_id_ex:]。"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "12",
+			"target_num": "5",
+			"text": "解除個性為「[:personality_target_ex:]」的友軍的[:text_id_ex:]。"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "13",
+			"target_num": "5",
+			"text": "解除個性為「[:personality_target_ex:]」的友軍的[:text_id_ex:]。"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "14",
+			"target_num": "5",
+			"text": "解除個性為「[:personality_target_ex:]」的友軍的[:text_id_ex:]。"
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "5",
+			"target_num": "5",
+			"text": "解除友軍[@target_num]全體[/@target_num]的[:text_id_ex:]。"
+		},
+		{
 			"action_efficacy_type": "6",
 			"index_in_type": "0",
 			"target_type": "1",

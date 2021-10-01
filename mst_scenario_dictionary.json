@@ -2433,6 +2433,14 @@
 			"is_battle_scenario": "0"
 		},
 		{
+			"id": "20027",
+			"sub_category_id": "2",
+			"order": "22",
+			"scenario_id": "21509",
+			"movie_id": "27",
+			"is_battle_scenario": "0"
+		},
+		{
 			"id": "20101",
 			"sub_category_id": "501",
 			"order": "1",
@@ -3953,6 +3961,126 @@
 			"is_battle_scenario": "1"
 		},
 		{
+			"id": "21501",
+			"sub_category_id": "515",
+			"order": "1",
+			"scenario_id": "21501",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "21502",
+			"sub_category_id": "515",
+			"order": "2",
+			"scenario_id": "21502",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "21503",
+			"sub_category_id": "515",
+			"order": "4",
+			"scenario_id": "21503",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "21504",
+			"sub_category_id": "515",
+			"order": "5",
+			"scenario_id": "21504",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "21505",
+			"sub_category_id": "515",
+			"order": "6",
+			"scenario_id": "21505",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "21506",
+			"sub_category_id": "515",
+			"order": "7",
+			"scenario_id": "21506",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "21507",
+			"sub_category_id": "515",
+			"order": "9",
+			"scenario_id": "21507",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "21508",
+			"sub_category_id": "515",
+			"order": "11",
+			"scenario_id": "21508",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "21509",
+			"sub_category_id": "515",
+			"order": "13",
+			"scenario_id": "21509",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "21510",
+			"sub_category_id": "515",
+			"order": "15",
+			"scenario_id": "21510",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "21521",
+			"sub_category_id": "515",
+			"order": "3",
+			"scenario_id": "21521",
+			"movie_id": "",
+			"is_battle_scenario": "1"
+		},
+		{
+			"id": "21522",
+			"sub_category_id": "515",
+			"order": "8",
+			"scenario_id": "21522",
+			"movie_id": "",
+			"is_battle_scenario": "1"
+		},
+		{
+			"id": "21523",
+			"sub_category_id": "515",
+			"order": "10",
+			"scenario_id": "21523",
+			"movie_id": "",
+			"is_battle_scenario": "1"
+		},
+		{
+			"id": "21524",
+			"sub_category_id": "515",
+			"order": "12",
+			"scenario_id": "21524",
+			"movie_id": "",
+			"is_battle_scenario": "1"
+		},
+		{
+			"id": "21525",
+			"sub_category_id": "515",
+			"order": "14",
+			"scenario_id": "21525",
+			"movie_id": "",
+			"is_battle_scenario": "1"
+		},
+		{
 			"id": "50041",
 			"sub_category_id": "704",
 			"order": "",
@@ -4005,6 +4133,46 @@
 			"sub_category_id": "705",
 			"order": "4",
 			"scenario_id": "50054",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "50061",
+			"sub_category_id": "706",
+			"order": "1",
+			"scenario_id": "50061",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "50062",
+			"sub_category_id": "706",
+			"order": "2",
+			"scenario_id": "50062",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "50063",
+			"sub_category_id": "706",
+			"order": "3",
+			"scenario_id": "50063",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "50064",
+			"sub_category_id": "706",
+			"order": "4",
+			"scenario_id": "50064",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "50065",
+			"sub_category_id": "706",
+			"order": "5",
+			"scenario_id": "50065",
 			"movie_id": "",
 			"is_battle_scenario": "0"
 		},
@@ -4210,7 +4378,7 @@
 		},
 		{
 			"id": "60061",
-			"sub_category_id": "620",
+			"sub_category_id": "606",
 			"order": "0",
 			"scenario_id": "60061",
 			"movie_id": "",
@@ -4218,7 +4386,7 @@
 		},
 		{
 			"id": "60062",
-			"sub_category_id": "620",
+			"sub_category_id": "606",
 			"order": "0",
 			"scenario_id": "60062",
 			"movie_id": "",
@@ -4226,7 +4394,7 @@
 		},
 		{
 			"id": "60063",
-			"sub_category_id": "620",
+			"sub_category_id": "606",
 			"order": "0",
 			"scenario_id": "60063",
 			"movie_id": "",
@@ -4234,7 +4402,7 @@
 		},
 		{
 			"id": "60064",
-			"sub_category_id": "620",
+			"sub_category_id": "606",
 			"order": "0",
 			"scenario_id": "60064",
 			"movie_id": "",
@@ -4242,7 +4410,7 @@
 		},
 		{
 			"id": "60065",
-			"sub_category_id": "620",
+			"sub_category_id": "606",
 			"order": "0",
 			"scenario_id": "60065",
 			"movie_id": "",
@@ -4805,6 +4973,46 @@
 			"sub_category_id": "627",
 			"order": "0",
 			"scenario_id": "60185",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "60321",
+			"sub_category_id": "632",
+			"order": "0",
+			"scenario_id": "60191",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "60322",
+			"sub_category_id": "632",
+			"order": "0",
+			"scenario_id": "60192",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "60323",
+			"sub_category_id": "632",
+			"order": "0",
+			"scenario_id": "60193",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "60324",
+			"sub_category_id": "632",
+			"order": "0",
+			"scenario_id": "60194",
+			"movie_id": "",
+			"is_battle_scenario": "0"
+		},
+		{
+			"id": "60325",
+			"sub_category_id": "632",
+			"order": "0",
+			"scenario_id": "60195",
 			"movie_id": "",
 			"is_battle_scenario": "0"
 		},

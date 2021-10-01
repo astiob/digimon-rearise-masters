@@ -288,37 +288,44 @@
 			"resource": "quest/panel/panel_s2_section14"
 		},
 		{
+			"sub_category_id": "515",
+			"main_category_id": "5",
+			"order": "15",
+			"title": "第15章\n一己的正義，於一刀之下",
+			"resource": "quest/panel/panel_s2_section15"
+		},
+		{
 			"sub_category_id": "601",
 			"main_category_id": "3",
-			"order": "40",
+			"order": "1",
 			"title": "奔馳之黑的作風！",
 			"resource": "quest/panel/dfq_panel_section1"
 		},
 		{
 			"sub_category_id": "602",
 			"main_category_id": "3",
-			"order": "10",
+			"order": "1",
 			"title": "散步&龍捲風",
 			"resource": "quest/panel/dfq_panel_section2"
 		},
 		{
 			"sub_category_id": "603",
 			"main_category_id": "3",
-			"order": "20",
+			"order": "1",
 			"title": "鋼鐵的咆哮",
 			"resource": "quest/panel/dfq_panel_section3"
 		},
 		{
 			"sub_category_id": "604",
 			"main_category_id": "3",
-			"order": "30",
+			"order": "4",
 			"title": "勇氣的證明",
 			"resource": "quest/panel/dfq_panel_section4"
 		},
 		{
 			"sub_category_id": "605",
 			"main_category_id": "3",
-			"order": "50",
+			"order": "5",
 			"title": "決心的眼眸",
 			"resource": "quest/panel/dfq_panel_section5"
 		},
@@ -339,7 +346,7 @@
 		{
 			"sub_category_id": "608",
 			"main_category_id": "3",
-			"order": "60",
+			"order": "8",
 			"title": "黑與白的二重奏",
 			"resource": "quest/panel/dfq_panel_section8"
 		},
@@ -367,14 +374,14 @@
 		{
 			"sub_category_id": "612",
 			"main_category_id": "3",
-			"order": "60",
+			"order": "12",
 			"title": "天使與番長的搖籃曲",
 			"resource": "quest/panel/dfq_panel_section13"
 		},
 		{
 			"sub_category_id": "613",
 			"main_category_id": "3",
-			"order": "70",
+			"order": "13",
 			"title": "守護者覺醒",
 			"resource": "quest/panel/dfq_panel_section14"
 		},
@@ -391,13 +398,6 @@
 			"order": "17",
 			"title": "在樹葉上飛舞的妖精",
 			"resource": "quest/panel/dfq_panel_section17"
-		},
-		{
-			"sub_category_id": "620",
-			"main_category_id": "3",
-			"order": "6",
-			"title": "燃燒吧！炎之食材尋覓旅程",
-			"resource": "quest/panel/dfq_panel_section6"
 		},
 		{
 			"sub_category_id": "621",
@@ -435,18 +435,18 @@
 			"resource": "quest/panel/dfq_panel_section24"
 		},
 		{
-			"sub_category_id": "629",
+			"sub_category_id": "631",
 			"main_category_id": "3",
-			"order": "29",
-			"title": "友情探し×大冒険",
-			"resource": "quest/panel/dfq_panel_section007"
+			"order": "31",
+			"title": "守護者覺醒",
+			"resource": "quest/panel/dfq_panel_section13"
 		},
 		{
-			"sub_category_id": "630",
+			"sub_category_id": "632",
 			"main_category_id": "3",
-			"order": "9",
-			"title": "封じられた伝承",
-			"resource": "quest/panel/dfq_panel_section10"
+			"order": "32",
+			"title": "正義之拳×漆黑之爪",
+			"resource": "quest/panel/dfq_panel_section27"
 		},
 		{
 			"sub_category_id": "701",
@@ -482,6 +482,13 @@
 			"order": "5",
 			"title": "支線故事\n英司的數碼寶貝實地調查",
 			"resource": "quest/panel/ss_panel_section5_g5054"
+		},
+		{
+			"sub_category_id": "706",
+			"main_category_id": "4",
+			"order": "6",
+			"title": "支線故事\n未知與和真，回憶時光",
+			"resource": "quest/panel/ss_panel_section6_g5232"
 		}
 	]
 }

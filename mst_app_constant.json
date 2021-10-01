@@ -363,7 +363,7 @@
 		{
 			"category": "EXTENSION",
 			"name": "DIGIMON_SLOT_MAX",
-			"value": "800",
+			"value": "850",
 			"description": "デジモン枠の最大値"
 		},
 		{
@@ -381,7 +381,7 @@
 		{
 			"category": "EXTENSION",
 			"name": "PLUGIN_SLOT_MAX",
-			"value": "800",
+			"value": "850",
 			"description": "プラグイン枠の最大値"
 		},
 		{
@@ -399,7 +399,7 @@
 		{
 			"category": "GASHA",
 			"name": "DIGIMON_GASHA_SLOT_OFFSET",
-			"value": "100",
+			"value": "400",
 			"description": "デジモンガシャの上限＋Ｎ枠"
 		},
 		{
@@ -411,7 +411,7 @@
 		{
 			"category": "GASHA",
 			"name": "PLUGIN_GASHA_SLOT_OFFSET",
-			"value": "100",
+			"value": "400",
 			"description": "プラグインガシャの上限＋Ｎ枠"
 		},
 		{
