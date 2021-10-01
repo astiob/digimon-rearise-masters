@@ -2809,6 +2809,96 @@
 			"description": ""
 		},
 		{
+			"scenario_id": "21501",
+			"scenario_asset": "scenario/scenario/ss15_1_en",
+			"title": "1. Act 15 Scene 1",
+			"description": ""
+		},
+		{
+			"scenario_id": "21502",
+			"scenario_asset": "scenario/scenario/ss15_2_en",
+			"title": "2. Act 15 Scene 2",
+			"description": ""
+		},
+		{
+			"scenario_id": "21503",
+			"scenario_asset": "scenario/scenario/ss15_3_en",
+			"title": "4. Act 15 Scene 4",
+			"description": ""
+		},
+		{
+			"scenario_id": "21504",
+			"scenario_asset": "scenario/scenario/ss15_4_en",
+			"title": "5. Act 15 Scene 6",
+			"description": ""
+		},
+		{
+			"scenario_id": "21505",
+			"scenario_asset": "scenario/scenario/ss15_5_en",
+			"title": "6. Act 15 Scene 8",
+			"description": ""
+		},
+		{
+			"scenario_id": "21506",
+			"scenario_asset": "scenario/scenario/ss15_6_en",
+			"title": "7. Act 15 Scene 10",
+			"description": ""
+		},
+		{
+			"scenario_id": "21507",
+			"scenario_asset": "scenario/scenario/ss15_7_en",
+			"title": "9. Act 15 Scene 12",
+			"description": ""
+		},
+		{
+			"scenario_id": "21508",
+			"scenario_asset": "scenario/scenario/ss15_8_en",
+			"title": "11. Act 15 Scene 14",
+			"description": ""
+		},
+		{
+			"scenario_id": "21509",
+			"scenario_asset": "scenario/scenario/ss15_9_en",
+			"title": "13. Act 15 Scene 16",
+			"description": ""
+		},
+		{
+			"scenario_id": "21510",
+			"scenario_asset": "scenario/scenario/ss15_10_en",
+			"title": "15. Act 15 Scene 17",
+			"description": ""
+		},
+		{
+			"scenario_id": "21521",
+			"scenario_asset": "scenario/scenario/ss15_b1_en",
+			"title": "3. Act 15 Scene 3 (Battle)",
+			"description": ""
+		},
+		{
+			"scenario_id": "21522",
+			"scenario_asset": "scenario/scenario/ss15_b2_en",
+			"title": "8. Act 15 Scene 11 (Battle)",
+			"description": ""
+		},
+		{
+			"scenario_id": "21523",
+			"scenario_asset": "scenario/scenario/ss15_b3_en",
+			"title": "10. Act 15 Scene 13 (Battle)",
+			"description": ""
+		},
+		{
+			"scenario_id": "21524",
+			"scenario_asset": "scenario/scenario/ss15_b4_en",
+			"title": "12. Act 15 Scene 15 (Battle)",
+			"description": ""
+		},
+		{
+			"scenario_id": "21525",
+			"scenario_asset": "scenario/scenario/ss15_b5_en",
+			"title": "14. Act 15 Scene 17 (Battle)",
+			"description": ""
+		},
+		{
 			"scenario_id": "50011",
 			"scenario_asset": "scenario/scenario/side1_1_en",
 			"title": "Showdown! A Noble(?) Digimon (1)",
@@ -2914,6 +3004,36 @@
 			"scenario_id": "50054",
 			"scenario_asset": "scenario/scenario/side5_4_en",
 			"title": "Eiji's Digimon Fieldwork (4)",
+			"description": ""
+		},
+		{
+			"scenario_id": "50061",
+			"scenario_asset": "scenario/scenario/side6_1_en",
+			"title": "Michi and Kazuma: A Stroll Down Memory Lane (1)",
+			"description": ""
+		},
+		{
+			"scenario_id": "50062",
+			"scenario_asset": "scenario/scenario/side6_2_en",
+			"title": "Michi and Kazuma: A Stroll Down Memory Lane (2)",
+			"description": ""
+		},
+		{
+			"scenario_id": "50063",
+			"scenario_asset": "scenario/scenario/side6_3_en",
+			"title": "Michi and Kazuma: A Stroll Down Memory Lane (3)",
+			"description": ""
+		},
+		{
+			"scenario_id": "50064",
+			"scenario_asset": "scenario/scenario/side6_4_en",
+			"title": "Michi and Kazuma: A Stroll Down Memory Lane (4)",
+			"description": ""
+		},
+		{
+			"scenario_id": "50065",
+			"scenario_asset": "scenario/scenario/side6_5_en",
+			"title": "Michi and Kazuma: A Stroll Down Memory Lane (5)",
 			"description": ""
 		},
 		{
@@ -3463,6 +3583,42 @@
 			"description": ""
 		},
 		{
+			"scenario_id": "60191",
+			"scenario_asset": "scenario/scenario/sq19_1_en",
+			"title": "Fists of Justice x Claws of Darkness (1)",
+			"description": ""
+		},
+		{
+			"scenario_id": "60192",
+			"scenario_asset": "scenario/scenario/sq19_2_en",
+			"title": "Fists of Justice x Claws of Darkness (2)",
+			"description": ""
+		},
+		{
+			"scenario_id": "60193",
+			"scenario_asset": "scenario/scenario/sq19_3_en",
+			"title": "Fists of Justice x Claws of Darkness (3)",
+			"description": ""
+		},
+		{
+			"scenario_id": "60194",
+			"scenario_asset": "scenario/scenario/sq19_4_en",
+			"title": "Fists of Justice x Claws of Darkness (4)",
+			"description": ""
+		},
+		{
+			"scenario_id": "60195",
+			"scenario_asset": "scenario/scenario/sq19_5_en",
+			"title": "Fists of Justice x Claws of Darkness (5)",
+			"description": ""
+		},
+		{
+			"scenario_id": "60196",
+			"scenario_asset": "scenario/scenario/sq19_6_en",
+			"title": "Fists of Justice x Claws of Darkness",
+			"description": ""
+		},
+		{
 			"scenario_id": "70011",
 			"scenario_asset": "scenario/scenario/sub1_1_en",
 			"title": "The Underworld Official Release",
@@ -3490,6 +3646,12 @@
 			"scenario_id": "70701",
 			"scenario_asset": "scenario/scenario/sub7_1_en",
 			"title": "BCEアルゴモン",
+			"description": ""
+		},
+		{
+			"scenario_id": "70801",
+			"scenario_asset": "scenario/scenario/sub8_1_en",
+			"title": "BCE Mephistomon",
 			"description": ""
 		},
 		{
@@ -4582,6 +4744,96 @@
 			"scenario_id": "90901",
 			"scenario_asset": "scenario/scenario/r90_1_en",
 			"title": "激突戦！超勇敢シャイングレイモン（三箇条）",
+			"description": ""
+		},
+		{
+			"scenario_id": "90911",
+			"scenario_asset": "scenario/scenario/r91_1_en",
+			"title": "激突戦！超冷静ガイオウモン厳刀ノ型（開始）",
+			"description": ""
+		},
+		{
+			"scenario_id": "90912",
+			"scenario_asset": "scenario/scenario/r91_2_en",
+			"title": "激突戦！超冷静ガイオウモン厳刀ノ型（終了）",
+			"description": ""
+		},
+		{
+			"scenario_id": "90921",
+			"scenario_asset": "scenario/scenario/r92_1_en",
+			"title": "激突戦！超器用ミラージュガオガモン（三箇条）",
+			"description": ""
+		},
+		{
+			"scenario_id": "90931",
+			"scenario_asset": "scenario/scenario/r93_1_en",
+			"title": "激突戦！超冷静ブラックウォーグレイモン（三箇条）",
+			"description": ""
+		},
+		{
+			"scenario_id": "90941",
+			"scenario_asset": "scenario/scenario/r94_1_en",
+			"title": "Clash Battle! Super Calm UlforceVeedramon",
+			"description": ""
+		},
+		{
+			"scenario_id": "90942",
+			"scenario_asset": "scenario/scenario/r94_2_en",
+			"title": "Clash Battle! Super Calm UlforceVeedramon",
+			"description": ""
+		},
+		{
+			"scenario_id": "90951",
+			"scenario_asset": "scenario/scenario/r95_1_en",
+			"title": "Clash Battle! Super Devoted Mitamamon",
+			"description": ""
+		},
+		{
+			"scenario_id": "90961",
+			"scenario_asset": "scenario/scenario/r96_1_en",
+			"title": "Clash Battle! Super Tenacious HeavyLeomon",
+			"description": ""
+		},
+		{
+			"scenario_id": "90971",
+			"scenario_asset": "scenario/scenario/r97_1_en",
+			"title": "Clash Battle! Super Brave Gallantmon",
+			"description": ""
+		},
+		{
+			"scenario_id": "90972",
+			"scenario_asset": "scenario/scenario/r97_2_en",
+			"title": "Clash Battle! Super Calm Beelzemon",
+			"description": ""
+		},
+		{
+			"scenario_id": "90981",
+			"scenario_asset": "scenario/scenario/r98_1_en",
+			"title": "Clash Battle! Super Deft Gulfmon (1)",
+			"description": ""
+		},
+		{
+			"scenario_id": "90982",
+			"scenario_asset": "scenario/scenario/r98_2_en",
+			"title": "Clash Battle! Super Deft Gulfmon (2)",
+			"description": ""
+		},
+		{
+			"scenario_id": "90983",
+			"scenario_asset": "scenario/scenario/r98_3_en",
+			"title": "Clash Battle! Super Deft Gulfmon (3)",
+			"description": ""
+		},
+		{
+			"scenario_id": "90984",
+			"scenario_asset": "scenario/scenario/r98_4_en",
+			"title": "Clash Battle! Super Deft Gulfmon",
+			"description": ""
+		},
+		{
+			"scenario_id": "90991",
+			"scenario_asset": "scenario/scenario/r99_1_en",
+			"title": "Clash Battle! Super Calm Sakuyamon",
 			"description": ""
 		}
 	]

@@ -4194,6 +4194,48 @@
 			"text": "[@rate][:rate:]%[/@rate] chance to inflict Burn on target. ([@duration][:duration:][/@duration])"
 		},
 		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "10",
+			"target_num": "5",
+			"text": "Removes [:text_id_ex:] from [:personality_target_ex:] allies."
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "11",
+			"target_num": "5",
+			"text": "Removes [:text_id_ex:] from [:personality_target_ex:] allies."
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "12",
+			"target_num": "5",
+			"text": "Removes [:text_id_ex:] from [:personality_target_ex:] allies."
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "13",
+			"target_num": "5",
+			"text": "Removes [:text_id_ex:] from [:personality_target_ex:] allies."
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "14",
+			"target_num": "5",
+			"text": "Removes [:text_id_ex:] from [:personality_target_ex:] allies."
+		},
+		{
+			"action_efficacy_type": "52",
+			"index_in_type": "0",
+			"target_type": "5",
+			"target_num": "5",
+			"text": "Removes [:text_id_ex:] from [@target_num]all[/@target_num] allies."
+		},
+		{
 			"action_efficacy_type": "6",
 			"index_in_type": "0",
 			"target_type": "1",

@@ -11305,6 +11305,10 @@
 			"text": "Top Picks"
 		},
 		{
+			"text_id": "3166",
+			"text": "Care for All"
+		},
+		{
 			"text_id": "3167",
 			"text": "Raid CB! Volcanicdramon"
 		},
@@ -11355,6 +11359,10 @@
 		{
 			"text_id": "3178",
 			"text": "I see you've managed to make it this far...\nDo you think you can go further?"
+		},
+		{
+			"text_id": "3179",
+			"text": "Cared for all members!"
 		},
 		{
 			"text_id": "318",
@@ -11415,6 +11423,34 @@
 		{
 			"text_id": "3192",
 			"text": "BCE"
+		},
+		{
+			"text_id": "3193",
+			"text": "Care for All"
+		},
+		{
+			"text_id": "3194",
+			"text": "Would you like to Care for all?"
+		},
+		{
+			"text_id": "3195",
+			"text": "Consumed Care Items"
+		},
+		{
+			"text_id": "3196",
+			"text": "Mood"
+		},
+		{
+			"text_id": "3197",
+			"text": "You do not have the necessary Care Items."
+		},
+		{
+			"text_id": "3198",
+			"text": "The mood of this team's Digimon is at its highest."
+		},
+		{
+			"text_id": "3199",
+			"text": "No Digimon have been added to this team."
 		},
 		{
 			"text_id": "32",
@@ -11898,7 +11934,7 @@
 		},
 		{
 			"text_id": "3309",
-			"text": "{0} left"
+			"text": "x{0}"
 		},
 		{
 			"text_id": "331",
@@ -12369,6 +12405,10 @@
 			"text": "The Skill Level of Supercharged Digimon can only be upgraded\nusing a Skill Stone."
 		},
 		{
+			"text_id": "3424",
+			"text": "The mood of all Digimon on this team cannot be raised to its highest because you do not have enough items."
+		},
+		{
 			"text_id": "3425",
 			"text": "Bird Dragon Digimon"
 		},
@@ -12395,6 +12435,10 @@
 		{
 			"text_id": "3430",
 			"text": "Raid Boss"
+		},
+		{
+			"text_id": "3431",
+			"text": "The mood of the Digimon has changed with the passage of time.<br>Reload will commence."
 		},
 		{
 			"text_id": "3432",
@@ -12625,6 +12669,14 @@
 			"text": "Underworld Milestone Challenge - Part Two"
 		},
 		{
+			"text_id": "3484",
+			"text": "High-Difficulty\nBrave Dimensional Vortex has appeared!"
+		},
+		{
+			"text_id": "3485",
+			"text": "High-Difficulty\nCalm Dimensional Vortex has appeared!"
+		},
+		{
 			"text_id": "3486",
 			"text": "Increased drop rates for Brave/Super Brave Emblems\nin the Underworld Dungeon!"
 		},
@@ -12661,8 +12713,28 @@
 			"text": "Auto Revive Effect"
 		},
 		{
+			"text_id": "3494",
+			"text": "PWR, TEC, and DEF Down"
+		},
+		{
+			"text_id": "3495",
+			"text": "2nd Anniversary"
+		},
+		{
 			"text_id": "3496",
 			"text": "Top Picks"
+		},
+		{
+			"text_id": "3497",
+			"text": "High-Difficulty Brave Dimensional Vortex Challenge"
+		},
+		{
+			"text_id": "3498",
+			"text": "Take on this high-difficulty Brave Dimensional Vortex Challenge!"
+		},
+		{
+			"text_id": "3499",
+			"text": "High-Difficulty Calm Dimensional Vortex Challenge"
 		},
 		{
 			"text_id": "35",
@@ -12673,20 +12745,60 @@
 			"text": "It might hatch soon."
 		},
 		{
+			"text_id": "3500",
+			"text": "Take on this high-difficulty Calm Dimensional Vortex Challenge!"
+		},
+		{
 			"text_id": "3501",
 			"text": "Training Set"
+		},
+		{
+			"text_id": "3503",
+			"text": "Monodramon"
+		},
+		{
+			"text_id": "3504",
+			"text": "The fight calls to me!"
+		},
+		{
+			"text_id": "3505",
+			"text": "A challenging fight with an equal is what\npushes me to be stronger!"
+		},
+		{
+			"text_id": "3506",
+			"text": "Phew, I worked up a good sweat.\nA nice break after a good fight always hits the spot."
+		},
+		{
+			"text_id": "3507",
+			"text": "That was an intense battle."
 		},
 		{
 			"text_id": "3508",
 			"text": "Supercharged Celebration Medal"
 		},
 		{
+			"text_id": "3509",
+			"text": "Critical Rate Down"
+		},
+		{
 			"text_id": "351",
 			"text": "Incubator"
 		},
 		{
+			"text_id": "3510",
+			"text": "DEF/PWR Damage Resist, TEC Damage Resist Down Effect"
+		},
+		{
+			"text_id": "3511",
+			"text": "Removes Shock, Paralysis, Stun, Sleep, Poison, Burn, Skill Lock, and Blind from self.\nIncreases own PWR by 100%. (Permanent)\nIncreases own DEF by 220%. (Permanent)\nRecovers own HP by 30%."
+		},
+		{
 			"text_id": "3512",
 			"text": "Available!"
+		},
+		{
+			"text_id": "3513",
+			"text": "Critical Guard Effect"
 		},
 		{
 			"text_id": "3514",
@@ -12697,8 +12809,16 @@
 			"text": "Give it your best shot every single day!"
 		},
 		{
+			"text_id": "3516",
+			"text": "Removes Poison, Burn, Error, Skill Lock, and Blind from self.\nAfter using a skill, reduces self CT by 80%. Twice only. (7 turns)\nRestricts the maximum damage taken from an enemy to 1000 up to two times. (7 turns)\nIncreases own TEC by 150%. (7 turns)"
+		},
+		{
 			"text_id": "3517",
 			"text": "This time—I shall attain my greatest desire!"
+		},
+		{
+			"text_id": "3518",
+			"text": "Removes Shock, Paralysis, Stun, Sleep, Poison, Burn, Error, Skill Lock, and Blind from self.\nIncreases own DEF by 180%. (Permanent)\nRecovers own HP by 50%."
 		},
 		{
 			"text_id": "3519",
@@ -12741,6 +12861,10 @@
 			"text": "Incubators will warm a DigiEgg\nuntil it Hatches."
 		},
 		{
+			"text_id": "3597",
+			"text": "DEF/TEC/PWR Damage Resist, TEC Damage Resist Down Effect"
+		},
+		{
 			"text_id": "3599",
 			"text": "BP Milestone Challenge (1)"
 		},
@@ -12775,6 +12899,10 @@
 		{
 			"text_id": "3605",
 			"text": "Take on the Battle Park!"
+		},
+		{
+			"text_id": "3607",
+			"text": "Damage Limit Effect"
 		},
 		{
 			"text_id": "361",
@@ -13803,6 +13931,54 @@
 		{
 			"text_id": "490901",
 			"text": "• Take measures against <color=#FFE25AFF>Burn</color><sprite=6>!\n• Enhance your <color=#FFE25AFF>Block Rate</color>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!"
+		},
+		{
+			"text_id": "490911",
+			"text": "• Take measures against <color=#FFE25AFF>Skill Lock</color><sprite=8>!\n• Include Digimon with Personalities <color=#FFE25AFF>other than Brave/Super Brave</color> in your party!\n• Enhance your <color=#FFE25AFF>Block Rate</color>!"
+		},
+		{
+			"text_id": "490921",
+			"text": "• Include Digimon with Personalities <color=#FFE25AFF>other than Calm/Super Calm</color> in your party!\n• Include Digimon that can <color=#FFE25AFF>heal HP</color>!\n• Enhance your <color=#FFE25AFF>DEF!</color>"
+		},
+		{
+			"text_id": "490931",
+			"text": "• Enhance your <color=#FFE25AFF>Counter Rate</color>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!\n• Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!"
+		},
+		{
+			"text_id": "490941",
+			"text": "• Take measures against <color=#FFE25AFF>Skill Lock</color><sprite=8>!\n• Enhance your <color=#FFE25AFF>TEC</color>!\n• Enhance your <color=#FFE25AFF>Counter Rate</color>!"
+		},
+		{
+			"text_id": "490942",
+			"text": "• Take measures against <color=#FFE25AFF>Poison</color><sprite=5> and <color=#FFE25AFF>Paralysis</color><sprite=1>!\n• Enhance your <color=#FFE25AFF>PWR Damage Resist</color> and <color=#FFE25AFF>TEC Damage Resist</color>!\n• Include Digimon that can <color=#FFE25AFF>lower DEF</color> in your party!"
+		},
+		{
+			"text_id": "490951",
+			"text": "• Take measures against <color=#FFE25AFF>Sleep</color><sprite=4>!\n• Enhance your <color=#FFE25AFF>PWR</color> and <color=#FFE25AFF>TEC</color>!\n• Enhance your <color=#FFE25AFF>Pursuit Rate</color>!"
+		},
+		{
+			"text_id": "490961",
+			"text": "• Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!\n• Include Digimon that can <color=#FFE25AFF>lower DEF</color> in your party!"
+		},
+		{
+			"text_id": "490971",
+			"text": "• Enhance your <color=#FFE25AFF>Block Rate</color>!\n• Enhance your <color=#FFE25AFF>PWR Damage Resist</color>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!"
+		},
+		{
+			"text_id": "490972",
+			"text": "• Take measures against <color=#FFE25AFF>Shock</color><sprite=0>!\n• Include Digimon that can <color=#FFE25AFF>lower TEC</color> in your party!\n• Include Digimon that can <color=#FFE25AFF>heal HP</color> in your party!"
+		},
+		{
+			"text_id": "490981",
+			"text": "• Take measures against <color=#FFE25AFF>Stun</color><sprite=3>!\n• Enhance your <color=#FFE25AFF>DEF</color>!\n• Include Digimon that <color=#FFE25AFF>heal HP</color> in your party!"
+		},
+		{
+			"text_id": "490984",
+			"text": "• Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!\n• Enhance your <color=#FFE25AFF>Counter Rate</color>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!"
+		},
+		{
+			"text_id": "490991",
+			"text": "• Take measures against <color=#FFE25AFF>Shock</color><sprite=0>!\n• Enhance your <color=#FFE25AFF>Counter Rate</color>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!"
 		},
 		{
 			"text_id": "491",

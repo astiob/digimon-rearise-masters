@@ -288,37 +288,44 @@
 			"resource": "quest/panel/panel_s2_section14"
 		},
 		{
+			"sub_category_id": "515",
+			"main_category_id": "5",
+			"order": "15",
+			"title": "Act 15\nTo Wield a Blade for Justice",
+			"resource": "quest/panel/panel_s2_section15"
+		},
+		{
 			"sub_category_id": "601",
 			"main_category_id": "3",
-			"order": "40",
+			"order": "1",
 			"title": "Path of Darkness",
 			"resource": "quest/panel/dfq_panel_section1"
 		},
 		{
 			"sub_category_id": "602",
 			"main_category_id": "3",
-			"order": "10",
+			"order": "1",
 			"title": "A Stroll into a Twister",
 			"resource": "quest/panel/dfq_panel_section2"
 		},
 		{
 			"sub_category_id": "603",
 			"main_category_id": "3",
-			"order": "20",
+			"order": "1",
 			"title": "Metal's Roar",
 			"resource": "quest/panel/dfq_panel_section3"
 		},
 		{
 			"sub_category_id": "604",
 			"main_category_id": "3",
-			"order": "30",
+			"order": "4",
 			"title": "Proof of Bravery",
 			"resource": "quest/panel/dfq_panel_section4"
 		},
 		{
 			"sub_category_id": "605",
 			"main_category_id": "3",
-			"order": "50",
+			"order": "5",
 			"title": "Eyes of Determination",
 			"resource": "quest/panel/dfq_panel_section5"
 		},
@@ -339,7 +346,7 @@
 		{
 			"sub_category_id": "608",
 			"main_category_id": "3",
-			"order": "60",
+			"order": "8",
 			"title": "Black and White Duet",
 			"resource": "quest/panel/dfq_panel_section8"
 		},
@@ -367,14 +374,14 @@
 		{
 			"sub_category_id": "612",
 			"main_category_id": "3",
-			"order": "60",
+			"order": "12",
 			"title": "Lullabies of an Angel and a Ringleader",
 			"resource": "quest/panel/dfq_panel_section13"
 		},
 		{
 			"sub_category_id": "613",
 			"main_category_id": "3",
-			"order": "70",
+			"order": "13",
 			"title": "A Guardian Awakens",
 			"resource": "quest/panel/dfq_panel_section14"
 		},
@@ -391,13 +398,6 @@
 			"order": "17",
 			"title": "Fairies Dancing in the Trees",
 			"resource": "quest/panel/dfq_panel_section17"
-		},
-		{
-			"sub_category_id": "620",
-			"main_category_id": "3",
-			"order": "6",
-			"title": "A Fiery Search for Blazing Ingredients",
-			"resource": "quest/panel/dfq_panel_section6"
 		},
 		{
 			"sub_category_id": "621",
@@ -435,18 +435,18 @@
 			"resource": "quest/panel/dfq_panel_section24"
 		},
 		{
-			"sub_category_id": "629",
+			"sub_category_id": "631",
 			"main_category_id": "3",
-			"order": "29",
-			"title": "友情探し×大冒険",
-			"resource": "quest/panel/dfq_panel_section007"
+			"order": "31",
+			"title": "A Guardian Awakens",
+			"resource": "quest/panel/dfq_panel_section13"
 		},
 		{
-			"sub_category_id": "630",
+			"sub_category_id": "632",
 			"main_category_id": "3",
-			"order": "9",
-			"title": "封じられた伝承",
-			"resource": "quest/panel/dfq_panel_section10"
+			"order": "32",
+			"title": "Fists of Justice x Claws of Darkness",
+			"resource": "quest/panel/dfq_panel_section27"
 		},
 		{
 			"sub_category_id": "701",
@@ -482,6 +482,13 @@
 			"order": "5",
 			"title": "Side Story\nEiji's Digimon Fieldwork",
 			"resource": "quest/panel/ss_panel_section5_g5054"
+		},
+		{
+			"sub_category_id": "706",
+			"main_category_id": "4",
+			"order": "6",
+			"title": "Side Story\nMichi and Kazuma: A Stroll Down Memory Lane",
+			"resource": "quest/panel/ss_panel_section6_g5232"
 		}
 	]
 }
