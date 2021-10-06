@@ -382,8 +382,17 @@
 			"sequence": "2023",
 			"disp_order": "5",
 			"start_date": "2021-09-06 12:00:00",
-			"end_date": "2200-12-31 11:59:59",
+			"end_date": "2021-10-11 11:59:59",
 			"message_text_id": "3488",
+			"display_position": "2",
+			"position_detail": "5"
+		},
+		{
+			"sequence": "2024",
+			"disp_order": "5",
+			"start_date": "2021-10-11 12:00:00",
+			"end_date": "2200-12-31 11:59:59",
+			"message_text_id": "3653",
 			"display_position": "2",
 			"position_detail": "5"
 		},
