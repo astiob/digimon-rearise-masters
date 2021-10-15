@@ -29636,7 +29636,7 @@
 		},
 		{
 			"item_id": "23526",
-			"item_name": "デジモンガシャチケット vol.6",
+			"item_name": "디지몬 뽑기 티켓 vol.6",
 			"sort_key": "",
 			"item_type": "14",
 			"icon_asset": "icon/item/icon_ticket_no006",
@@ -30982,6 +30982,61 @@
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment239435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 루나몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239445001",
+			"item_name": "순격Ⅳ(헌신 루나몬[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239445001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 루나몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239445002",
+			"item_name": "순격Ⅳ(헌신 루나몬[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239445001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 루나몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239445003",
+			"item_name": "순격Ⅳ(헌신 루나몬[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239445001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 루나몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239445004",
+			"item_name": "순격Ⅳ(헌신 루나몬[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239445001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "헌신 루나몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239445005",
+			"item_name": "순격Ⅳ(헌신 루나몬[DFQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239445001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "헌신 루나몬[DFQ]이 세팅하면 진가를 발휘하는 플러그인",
@@ -39884,6 +39939,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "초궁극체, 궁극체 중 하나로 성장하는 디지몬이 반드시 태어나는 디지몬알",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25367",
+			"item_name": "용맹한 투지가 넘치는 용감의 디지몬알",
+			"sort_key": "イサマシキトウシタダヨウユウカンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama013",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "용감 시간의 소용돌이에서 낮은 확률로 드롭하는 용감 디지몬이 태어나는 디지몬알",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25368",
+			"item_name": "불타오르듯 빛나는 용감의 디지몬알",
+			"sort_key": "モエルヨウナカガヤキノユウカンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama031",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "개성이 용감인 초궁극체, 궁극체, 완전체 중 하나로 성장하는 디지몬이 반드시 태어나는 디지몬알",
 			"max_amount": "9999"
 		},
 		{
