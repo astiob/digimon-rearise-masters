@@ -29636,7 +29636,7 @@
 		},
 		{
 			"item_id": "23526",
-			"item_name": "デジモンガシャチケット vol.6",
+			"item_name": "Digimon Summon Ticket Vol. 6",
 			"sort_key": "",
 			"item_type": "14",
 			"icon_asset": "icon/item/icon_ticket_no006",
@@ -30982,6 +30982,61 @@
 			"sort_key": "",
 			"item_type": "4",
 			"icon_asset": "icon/item/equipment/iconequipment239435001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Devoted Lunamon [SDQ].",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239445001",
+			"item_name": "Ambush-IV (Devoted - Lunamon [SDQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239445001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Devoted Lunamon [SDQ].",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239445002",
+			"item_name": "Ambush-IV (Devoted - Lunamon [SDQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239445001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Devoted Lunamon [SDQ].",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239445003",
+			"item_name": "Ambush-IV (Devoted - Lunamon [SDQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239445001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Devoted Lunamon [SDQ].",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239445004",
+			"item_name": "Ambush-IV (Devoted - Lunamon [SDQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239445001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A plugin that exhibits its true value when set to a Devoted Lunamon [SDQ].",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "239445005",
+			"item_name": "Ambush-IV (Devoted - Lunamon [SDQ])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment239445001",
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A plugin that exhibits its true value when set to a Devoted Lunamon [SDQ].",
@@ -39884,6 +39939,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A Digimon that will definitely grow into an Ultra or Mega Digimon will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25367",
+			"item_name": "Brave Lionhearted DigiEgg",
+			"sort_key": "イサマシキトウシタダヨウユウカンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama013",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A DigiEgg that will hatch a Brave Digimon. It has a small chance of dropping in the Brave Dimensional Vortex.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25368",
+			"item_name": "Brave Fiery Glimmering DigiEgg",
+			"sort_key": "モエルヨウナカガヤキノユウカンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama031",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Brave Digimon that will definitely grow into an Ultra, Mega, or a Ultimate Digimon will hatch.",
 			"max_amount": "9999"
 		},
 		{
