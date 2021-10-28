@@ -50579,6 +50579,116 @@
 			"receive_asset": ""
 		},
 		{
+			"challenge_id": "1168010",
+			"challenge_group_id": "11680",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_11680"
+		},
+		{
+			"challenge_id": "1168011",
+			"challenge_group_id": "11680",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "3635",
+			"description": "勇敢/超勇敢のみでバトルチャレンジの超級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2994,\"personality_group\":1,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1168012",
+			"challenge_group_id": "11680",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "3635",
+			"description": "冷静/超冷静のみでバトルチャレンジの超級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2994,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1168013",
+			"challenge_group_id": "11680",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "3635",
+			"description": "器用/超器用のみでバトルチャレンジの超級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2994,\"personality_group\":3,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1168014",
+			"challenge_group_id": "11680",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "3635",
+			"description": "不屈/超不屈のみでバトルチャレンジの超級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2994,\"personality_group\":4,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1168015",
+			"challenge_group_id": "11680",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "3635",
+			"description": "献身/超献身のみでバトルチャレンジの超級をクリアしよう",
+			"challenge_condition": "66",
+			"json_value": "{\"difficulty_text_id\":2994,\"personality_group\":5,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1168016",
+			"challenge_group_id": "11680",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1992",
+			"description": "デジモンを1回強化しよう",
+			"challenge_condition": "19",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1168017",
+			"challenge_group_id": "11680",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1992",
+			"description": "デジモンを6回特訓させよう",
+			"challenge_condition": "17",
+			"json_value": "{\"count\":6}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1168018",
+			"challenge_group_id": "11680",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1992",
+			"description": "デジモンを1回限界突破させよう",
+			"challenge_condition": "20",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1168019",
+			"challenge_group_id": "11680",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1992",
+			"description": "デジモンを1体Lv99にしよう",
+			"challenge_condition": "26",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
 			"challenge_id": "1169010",
 			"challenge_group_id": "11690",
 			"rank": "1",
