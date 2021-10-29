@@ -449,6 +449,13 @@
 			"resource": "quest/panel/dfq_panel_section27"
 		},
 		{
+			"sub_category_id": "633",
+			"main_category_id": "3",
+			"order": "33",
+			"title": "於記憶之海迴響的聲音",
+			"resource": "quest/panel/dfq_panel_section28"
+		},
+		{
 			"sub_category_id": "701",
 			"main_category_id": "4",
 			"order": "2",
@@ -489,6 +496,13 @@
 			"order": "6",
 			"title": "支線故事\n未知與和真，回憶時光",
 			"resource": "quest/panel/ss_panel_section6_g5232"
+		},
+		{
+			"sub_category_id": "707",
+			"main_category_id": "4",
+			"order": "7",
+			"title": "支線故事\n小紋與英司　走過的軌跡與背叛的布局",
+			"resource": "quest/panel/ss_panel_section7_g5300"
 		}
 	]
 }
