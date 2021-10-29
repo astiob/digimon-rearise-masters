@@ -449,6 +449,13 @@
 			"resource": "quest/panel/dfq_panel_section27"
 		},
 		{
+			"sub_category_id": "633",
+			"main_category_id": "3",
+			"order": "33",
+			"title": "Voices Resonating in a Sea of Memories",
+			"resource": "quest/panel/dfq_panel_section28"
+		},
+		{
 			"sub_category_id": "701",
 			"main_category_id": "4",
 			"order": "2",
@@ -489,6 +496,13 @@
 			"order": "6",
 			"title": "Side Story\nMichi and Kazuma: A Stroll Down Memory Lane",
 			"resource": "quest/panel/ss_panel_section6_g5232"
+		},
+		{
+			"sub_category_id": "707",
+			"main_category_id": "4",
+			"order": "7",
+			"title": "Side Story\nMon and Eiji's Unbeaten Path: Markers of Betrayal",
+			"resource": "quest/panel/ss_panel_section7_g5300"
 		}
 	]
 }
