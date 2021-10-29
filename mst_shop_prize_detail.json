@@ -1,12 +1,6 @@
 {
 	"masterRows": [
 		{
-			"shop_id": "#N/A",
-			"sequence": "50008010",
-			"detail_type": "0",
-			"detail_value": "60"
-		},
-		{
 			"shop_id": "7",
 			"sequence": "50007011",
 			"detail_type": "0",
@@ -80,6 +74,12 @@
 		},
 		{
 			"shop_id": "8",
+			"sequence": "50008013",
+			"detail_type": "0",
+			"detail_value": "60"
+		},
+		{
+			"shop_id": "8",
 			"sequence": "50008014",
 			"detail_type": "0",
 			"detail_value": "60"
@@ -117,6 +117,12 @@
 		{
 			"shop_id": "8",
 			"sequence": "50008020",
+			"detail_type": "0",
+			"detail_value": "60"
+		},
+		{
+			"shop_id": "8",
+			"sequence": "50008021",
 			"detail_type": "0",
 			"detail_value": "60"
 		}

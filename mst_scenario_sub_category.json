@@ -449,6 +449,13 @@
 			"resource": "quest/panel/dfq_panel_section27"
 		},
 		{
+			"sub_category_id": "633",
+			"main_category_id": "3",
+			"order": "33",
+			"title": "기억의 바다에 울려 퍼지는 목소리",
+			"resource": "quest/panel/dfq_panel_section28"
+		},
+		{
 			"sub_category_id": "701",
 			"main_category_id": "4",
 			"order": "2",
@@ -489,6 +496,13 @@
 			"order": "6",
 			"title": "사이드 스토리\n미치와 카즈마 추억의 한때",
 			"resource": "quest/panel/ss_panel_section6_g5232"
+		},
+		{
+			"sub_category_id": "707",
+			"main_category_id": "4",
+			"order": "7",
+			"title": "사이드 스토리\n몬과 에이지 더듬어 가는 궤적과 배신의 포석",
+			"resource": "quest/panel/ss_panel_section7_g5300"
 		}
 	]
 }
