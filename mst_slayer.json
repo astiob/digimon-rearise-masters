@@ -44571,6 +44571,46 @@
 			"slayer_state": "2"
 		},
 		{
+			"slayer_id": "501200",
+			"sequence": "1",
+			"target_type": "7",
+			"target_value": "501200",
+			"parameter_type": "1",
+			"parameter_value": "120",
+			"parameter_target": "0",
+			"slayer_state": "3"
+		},
+		{
+			"slayer_id": "501200",
+			"sequence": "2",
+			"target_type": "7",
+			"target_value": "501200",
+			"parameter_type": "2",
+			"parameter_value": "120",
+			"parameter_target": "0",
+			"slayer_state": "3"
+		},
+		{
+			"slayer_id": "501200",
+			"sequence": "3",
+			"target_type": "7",
+			"target_value": "501200",
+			"parameter_type": "3",
+			"parameter_value": "120",
+			"parameter_target": "0",
+			"slayer_state": "3"
+		},
+		{
+			"slayer_id": "501200",
+			"sequence": "4",
+			"target_type": "7",
+			"target_value": "501200",
+			"parameter_type": "4",
+			"parameter_value": "120",
+			"parameter_target": "0",
+			"slayer_state": "3"
+		},
+		{
 			"slayer_id": "501230",
 			"sequence": "1",
 			"target_type": "7",
@@ -53429,6 +53469,16 @@
 			"parameter_value": "2",
 			"parameter_target": "0",
 			"slayer_state": "2"
+		},
+		{
+			"slayer_id": "600003",
+			"sequence": "1",
+			"target_type": "7",
+			"target_value": "600004",
+			"parameter_type": "8",
+			"parameter_value": "5",
+			"parameter_target": "0",
+			"slayer_state": "3"
 		}
 	]
 }
