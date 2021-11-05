@@ -3673,6 +3673,18 @@
 			"extension_data": "{\"information_id\":54321}"
 		},
 		{
+			"banner_id": "20137",
+			"banner_type": "0",
+			"disp_order": "21",
+			"start_date": "2021-11-15 12:00:00",
+			"end_date": "2021-12-16 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner796",
+			"extension_type": "1",
+			"extension_id": "23",
+			"extension_data": "{\"information_id\":54531}"
+		},
+		{
 			"banner_id": "30000",
 			"banner_type": "0",
 			"disp_order": "31",
@@ -7463,6 +7475,18 @@
 			"extension_type": "2",
 			"extension_id": "54411",
 			"extension_data": "{\"information_id\":54411}"
+		},
+		{
+			"banner_id": "40180",
+			"banner_type": "0",
+			"disp_order": "41",
+			"start_date": "2021-11-15 12:00:00",
+			"end_date": "2021-12-06 11:59:59",
+			"event_id": "0",
+			"banner_asset": "banner/banner772",
+			"extension_type": "2",
+			"extension_id": "54511",
+			"extension_data": "{\"information_id\":54511}"
 		},
 		{
 			"banner_id": "50000",
