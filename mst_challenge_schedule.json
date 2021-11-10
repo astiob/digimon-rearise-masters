@@ -1286,6 +1286,15 @@
 			"start_asset": "challenge/challenge_begin_501330",
 			"start_trigger_type": "0",
 			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "501340",
+			"start_date": "2021/11/15 12:00:00",
+			"end_date": "2021/12/01 11:59:59",
+			"disp_order": "10",
+			"start_asset": "challenge/challenge_begin_501340",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
 		}
 	]
 }
