@@ -44791,6 +44791,116 @@
 			"challenge_condition": "69",
 			"json_value": "{\"evaluation_text_id\":1879,\"count\":5}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50134010",
+			"challenge_group_id": "501340",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "Clear all challenges.",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_teijou"
+		},
+		{
+			"challenge_id": "50134011",
+			"challenge_group_id": "501340",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1990",
+			"description": "Clear the high-difficulty Calm Dimensional Vortex on Easy!",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400401}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50134012",
+			"challenge_group_id": "501340",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1990",
+			"description": "Clear the high-difficulty Calm Dimensional Vortex on Normal!",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400402}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50134013",
+			"challenge_group_id": "501340",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1990",
+			"description": "Clear the high-difficulty Calm Dimensional Vortex on Hard!",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":400403}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50134014",
+			"challenge_group_id": "501340",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1990",
+			"description": "Clear the high-difficulty Calm Dimensional Vortex on Easy with only Calm/Super Calm Digimon!",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400401,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50134015",
+			"challenge_group_id": "501340",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1990",
+			"description": "Clear the high-difficulty Calm Dimensional Vortex on Normal with only Calm/Super Calm Digimon!",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400402,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50134016",
+			"challenge_group_id": "501340",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1990",
+			"description": "Clear the high-difficulty Calm Dimensional Vortex on Hard with only Calm/Super Calm Digimon!",
+			"challenge_condition": "61",
+			"json_value": "{\"weekly_quest_id\":400403,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50134017",
+			"challenge_group_id": "501340",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1990",
+			"description": "Clear the Calm Dimensional Vortex on Easy with only Calm/Super Calm Digimon and without a K.O.!",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400401,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50134018",
+			"challenge_group_id": "501340",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1990",
+			"description": "Clear the Calm Dimensional Vortex on Normal with only Calm/Super Calm Digimon and without a K.O.!",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400402,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50134019",
+			"challenge_group_id": "501340",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1990",
+			"description": "Clear the Calm Dimensional Vortex on Hard with only Calm/Super Calm Digimon and without a K.O.!",
+			"challenge_condition": "63",
+			"json_value": "{\"weekly_quest_id\":400403,\"personality_group\":2,\"count\":1}",
+			"receive_asset": ""
 		}
 	]
 }
