@@ -12865,6 +12865,10 @@
 			"text": "PWR/TEC/PWR 대미지 내성/TEC 대미지 내성 하락 효과"
 		},
 		{
+			"text_id": "3598",
+			"text": "부활 시 HP"
+		},
+		{
 			"text_id": "3599",
 			"text": "BP 공략 챌린지①"
 		},
@@ -12933,6 +12937,10 @@
 			"text": "배틀 챌린지에 새로운 과제가 추가되었단다!"
 		},
 		{
+			"text_id": "3617",
+			"text": "상세 정보"
+		},
+		{
 			"text_id": "3618",
 			"text": "커버 효과"
 		},
@@ -12977,20 +12985,88 @@
 			"text": "Oct 격돌전!"
 		},
 		{
+			"text_id": "3641",
+			"text": "DEF 상승, 대미지 내성 상승 효과"
+		},
+		{
+			"text_id": "3642",
+			"text": "CT 부스트 효과"
+		},
+		{
 			"text_id": "3644",
 			"text": "고난이도\n헌신/불굴 시간의 소용돌이 재등장!"
+		},
+		{
+			"text_id": "3646",
+			"text": "PWR/TEC/DEF/PWR 대미지 내성/TEC 대미지 내성/상태이상 내성 하락 효과"
+		},
+		{
+			"text_id": "3647",
+			"text": "자신의 TEC을 100% 상승(지속)\n독, 화상, 에러를 해제\n자신의 HP를 30% 회복"
+		},
+		{
+			"text_id": "3648",
+			"text": "일반 공격/반격/추가 공격 시에 회피 효과를 해제하며, 대미지 억제 효과를 무시하고 대미지를 가하는 효과를 부여(지속)"
+		},
+		{
+			"text_id": "3649",
+			"text": "할로윈 챌린지(BCE)"
 		},
 		{
 			"text_id": "365",
 			"text": "부화 캡슐: 디지몬알을 품고 있습니다."
 		},
 		{
+			"text_id": "3650",
+			"text": "할로윈 챌린지(격돌전)"
+		},
+		{
+			"text_id": "3651",
+			"text": "트릭 오어 트릿!\n배틀 챌린지 과제야~!"
+		},
+		{
+			"text_id": "3652",
+			"text": "트릭 오어 트릿!\n격돌전 과제야~!"
+		},
+		{
+			"text_id": "3653",
+			"text": "UWD에서 모든 개성의 증표\n드롭 확률 상승 중!"
+		},
+		{
+			"text_id": "3654",
+			"text": "자신에 대한 감전, 마비, 기절, 수면, 독, 화상, 에러, 스킬 봉인, 암흑을 해제\n자신의 PWR를 120% 상승(10턴)\n자신의 HP를 50% 회복"
+		},
+		{
 			"text_id": "366",
 			"text": "아직 충분히 품지 않았습니다."
 		},
 		{
+			"text_id": "3660",
+			"text": "배틀 챌린지 과제에 도전해 보는 게다!"
+		},
+		{
+			"text_id": "3661",
+			"text": "배틀 챌린지 과제에 도전해 보는 게다!"
+		},
+		{
+			"text_id": "3662",
+			"text": "PWR/TEC/DEF/PWR 대미지 내성/TEC 대미지 내성/HP 회복량/상태이상 내성 하락 효과"
+		},
+		{
+			"text_id": "3663",
+			"text": "PWR 대미지 내성/TEC 대미지 내성/막기 확률/상태이상 내성 하락 효과"
+		},
+		{
+			"text_id": "3666",
+			"text": "고난이도\n용감 시간의 소용돌이 재등장!"
+		},
+		{
 			"text_id": "367",
 			"text": "가동 시간"
+		},
+		{
+			"text_id": "3679",
+			"text": "특효 디지몬 승리 BONUS"
 		},
 		{
 			"text_id": "368",
@@ -14063,6 +14139,34 @@
 		{
 			"text_id": "491021",
 			"text": "·<color=#FFE25AFF>상태이상</color> 대책을 세우자!\n·<color=#FFE25AFF>반격 확률</color>을 높이자!\n·<color=#FFE25AFF>막기 확률</color>을 높이자!"
+		},
+		{
+			"text_id": "491031",
+			"text": "·<color=#FFE25AFF>상태이상</color> 대책을 세우자!\n·<color=#FFE25AFF>DEF를 낮추는</color> 디지몬과 함께 싸우자!\n·<color=#FFE25AFF>HP를 회복하는</color> 디지몬과 함께 싸우자!"
+		},
+		{
+			"text_id": "491041",
+			"text": "·<color=#FFE25AFF>반격 확률</color>을 높이자!\n·<color=#FFE25AFF>HP를 회복하는</color> 디지몬과 함께 싸우자!\n·<color=#FFE25AFF>DEF</color>를 올리는 디지몬과 함께 싸우자!"
+		},
+		{
+			"text_id": "491051",
+			"text": "·<color=#FFE25AFF>마비</color><sprite=1> 대책을 세우자!\n·<color=#FFE25AFF>HP를 회복하는</color> 디지몬과 함께 싸우자!\n·<color=#FFE25AFF>TEC을 낮추는</color> 디지몬과 함께 싸우자!"
+		},
+		{
+			"text_id": "491052",
+			"text": "·<color=#FFE25AFF>상태이상</color> 대책을 세우자!\n·<color=#FFE25AFF>PWR</color>나 <color=#FFE25AFF>TEC</color>을 높이자!\n·<color=#FFE25AFF>크리티컬 확률</color>을 높이자!"
+		},
+		{
+			"text_id": "491061",
+			"text": "·<color=#FFE25AFF>마비</color><sprite=1> 대책을 세우자!\n·<color=#FFE25AFF>반격 확률</color>을 높이자!\n·<color=#FFE25AFF>막기 확률</color>을 높이자!"
+		},
+		{
+			"text_id": "491071",
+			"text": "·<color=#FFE25AFF>막기 확률</color>을 높이자!\n·<color=#FFE25AFF>암흑</color><sprite=9> 대책을 세우자!\n·개성이 <color=#FFE25AFF>불굴/초불굴</color>이나 <color=#FFE25AFF>헌신/초헌신</color>인 디지몬과 함께 싸우자!"
+		},
+		{
+			"text_id": "491091",
+			"text": "·<color=#FFE25AFF>DEF</color>를 높이자!\n·<color=#FFE25AFF>스킬 봉인</color><sprite=8> 대책을 세우자!\n·<color=#FFE25AFF>반격 확률</color>을 높이자!"
 		},
 		{
 			"text_id": "492",
