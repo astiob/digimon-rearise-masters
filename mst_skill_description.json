@@ -3475,6 +3475,13 @@
 		{
 			"action_efficacy_type": "41",
 			"index_in_type": "0",
+			"target_type": "2",
+			"target_num": "1",
+			"text": "[:text_id_ex:]"
+		},
+		{
+			"action_efficacy_type": "41",
+			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
 			"text": "抵消[@target_num]單體[/@target_num]敵人的[:text_id_ex:]。"

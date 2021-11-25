@@ -12865,6 +12865,10 @@
 			"text": "PWR、TEC、PWR傷害抗性、TEC傷害抗性降低效果"
 		},
 		{
+			"text_id": "3598",
+			"text": "復活時HP"
+		},
+		{
 			"text_id": "3599",
 			"text": "BP攻略挑戰①"
 		},
@@ -12933,6 +12937,10 @@
 			"text": "戰鬥挑戰中追加了新的課題！"
 		},
 		{
+			"text_id": "3617",
+			"text": "詳情"
+		},
+		{
 			"text_id": "3618",
 			"text": "掩護效果"
 		},
@@ -12977,20 +12985,88 @@
 			"text": "Oct衝突戰！"
 		},
 		{
+			"text_id": "3641",
+			"text": "DEF提升與傷害抗性提升效果"
+		},
+		{
+			"text_id": "3642",
+			"text": "CT加成效果"
+		},
+		{
 			"text_id": "3644",
 			"text": "高難易度\n奉獻、不屈限時漩渦復刻出現！"
+		},
+		{
+			"text_id": "3646",
+			"text": "PWR、TEC、DEF、PWR傷害抗性、TEC傷害抗性、異常狀態抗性降低效果"
+		},
+		{
+			"text_id": "3647",
+			"text": "使自己的TEC提升100%（永續）\n解除中毒、灼傷、錯誤\n回復自身HP30%"
+		},
+		{
+			"text_id": "3648",
+			"text": "附加普通攻擊、反擊、追加攻擊時解除迴避，無視傷害限制給予傷害的效果（永續）"
+		},
+		{
+			"text_id": "3649",
+			"text": "萬聖節挑戰（BCE）"
 		},
 		{
 			"text_id": "365",
 			"text": "孵化艙：正在加熱數碼蛋"
 		},
 		{
+			"text_id": "3650",
+			"text": "萬聖節挑戰（衝突戰）"
+		},
+		{
+			"text_id": "3651",
+			"text": "不給糖就搗蛋！\n這是戰鬥挑戰的課題喔～！"
+		},
+		{
+			"text_id": "3652",
+			"text": "不給糖就搗蛋！\n這是衝突戰的課題喔～！"
+		},
+		{
+			"text_id": "3653",
+			"text": "UWD的所有個性證明\n掉落率提升中！"
+		},
+		{
+			"text_id": "3654",
+			"text": "解除對自己的觸電、麻痺、昏厥、睡眠、中毒、灼傷、錯誤、封印技能、黑暗\n使自己的PWR提升120%（10回合）\n回復自身HP50%"
+		},
+		{
 			"text_id": "366",
 			"text": "似乎加熱得還不夠"
 		},
 		{
+			"text_id": "3660",
+			"text": "挑戰戰鬥挑戰的課題！"
+		},
+		{
+			"text_id": "3661",
+			"text": "挑戰戰鬥挑戰的課題！"
+		},
+		{
+			"text_id": "3662",
+			"text": "PWR、TEC、DEF、PWR傷害抗性、TEC傷害抗性、HP回復量、異常狀態抗性降低效果"
+		},
+		{
+			"text_id": "3663",
+			"text": "PWR傷害抗性、TEC傷害抗性、格擋率、異常狀態抗性降低效果"
+		},
+		{
+			"text_id": "3666",
+			"text": "高難易度\n勇敢限時漩渦復刻出現！"
+		},
+		{
 			"text_id": "367",
 			"text": "運作時間"
+		},
+		{
+			"text_id": "3679",
+			"text": "特效數碼寶貝勝利BONUS"
 		},
 		{
 			"text_id": "368",
@@ -14063,6 +14139,34 @@
 		{
 			"text_id": "491021",
 			"text": "‧事先準備應付<color=#FFE25AFF>異常狀態</color>的對策吧！\n‧提升<color=#FFE25AFF>反擊率</color>吧！\n‧提升<color=#FFE25AFF>格擋率</color>吧！"
+		},
+		{
+			"text_id": "491031",
+			"text": "‧事先準備應付<color=#FFE25AFF>異常狀態</color>的對策吧！\n‧與<color=#FFE25AFF>會降低DEF</color>的數碼寶貝一起挑戰吧！\n‧與<color=#FFE25AFF>會回復HP</color>的數碼寶貝一起挑戰吧！"
+		},
+		{
+			"text_id": "491041",
+			"text": "‧提升<color=#FFE25AFF>反擊率</color>吧！\n‧與<color=#FFE25AFF>會回復HP</color>的數碼寶貝一起挑戰吧！\n‧與會提升<color=#FFE25AFF>DEF</color>的數碼寶貝一起挑戰吧！"
+		},
+		{
+			"text_id": "491051",
+			"text": "‧事先準備應付<color=#FFE25AFF>麻痺</color><sprite=1>的對策吧！\n‧與<color=#FFE25AFF>會回復HP</color>的數碼寶貝一起挑戰吧！\n‧與<color=#FFE25AFF>會降低TEC</color>的數碼寶貝一起挑戰吧！"
+		},
+		{
+			"text_id": "491052",
+			"text": "‧事先準備應付<color=#FFE25AFF>異常狀態</color>的對策吧！\n‧提升<color=#FFE25AFF>PWR</color>和<color=#FFE25AFF>TEC</color>吧！\n‧提升<color=#FFE25AFF>爆擊率</color>吧！"
+		},
+		{
+			"text_id": "491061",
+			"text": "‧事先準備應付<color=#FFE25AFF>麻痺</color><sprite=1>的對策吧！\n‧提升<color=#FFE25AFF>反擊率</color>吧！\n‧提升<color=#FFE25AFF>格擋率</color>吧！"
+		},
+		{
+			"text_id": "491071",
+			"text": "‧提升<color=#FFE25AFF>格擋率</color>吧！\n‧事先準備應付<color=#FFE25AFF>黑暗</color><sprite=9>的對策吧！\n‧與個性為<color=#FFE25AFF>不屈／超不屈</color>或<color=#FFE25AFF>奉獻／超奉獻</color>的數碼寶貝一起挑戰吧！"
+		},
+		{
+			"text_id": "491091",
+			"text": "‧提升<color=#FFE25AFF>DEF</color>吧！\n‧事先準備應付<color=#FFE25AFF>封印技能</color><sprite=8>的對策吧！\n‧提升<color=#FFE25AFF>反擊率</color>吧！"
 		},
 		{
 			"text_id": "492",
