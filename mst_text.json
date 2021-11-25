@@ -12865,6 +12865,10 @@
 			"text": "PWR/TEC/PWR Damage Resist, TEC Damage Resist Down Effect"
 		},
 		{
+			"text_id": "3598",
+			"text": "Revived HP"
+		},
+		{
 			"text_id": "3599",
 			"text": "BP Milestone Challenge (1)"
 		},
@@ -12933,6 +12937,10 @@
 			"text": "A new Battle Challenge has been added!"
 		},
 		{
+			"text_id": "3617",
+			"text": "Details"
+		},
+		{
 			"text_id": "3618",
 			"text": "Cover Effect"
 		},
@@ -12977,20 +12985,88 @@
 			"text": "Oct Clash Battle!"
 		},
 		{
+			"text_id": "3641",
+			"text": "DEF and Damage Resist Up Effect"
+		},
+		{
+			"text_id": "3642",
+			"text": "CT Boost Effect"
+		},
+		{
 			"text_id": "3644",
 			"text": "High-Difficulty\nDevoted/Tenacious Dimensional Vortex has reappeared!"
+		},
+		{
+			"text_id": "3646",
+			"text": "PWR/TEC/DEF/PWR Damage Resist, TEC Damage Resist, Status Abnormality Resistance Down Effect"
+		},
+		{
+			"text_id": "3647",
+			"text": "Increases own TEC by 100%. (Permanent)\nRemoves Poison, Burn, and Error.\nRecovers own HP by 30%."
+		},
+		{
+			"text_id": "3648",
+			"text": "Removes Evasion when a Normal Attack, Counter, or Pursuit is performed, and grants the ability to ignore Damage Limit when dealing damage. (Permanent)"
+		},
+		{
+			"text_id": "3649",
+			"text": "Halloween Challenge (BCE)"
 		},
 		{
 			"text_id": "365",
 			"text": "Incubator: Warming DigiEgg"
 		},
 		{
+			"text_id": "3650",
+			"text": "Halloween Challenge (Clash Battle)"
+		},
+		{
+			"text_id": "3651",
+			"text": "Trick or Treat!\nThat's the theme for this Battle Challenge!"
+		},
+		{
+			"text_id": "3652",
+			"text": "Trick or Treat!\nThat's the theme for this Clash Battle!"
+		},
+		{
+			"text_id": "3653",
+			"text": "Increased drop rates for all Personality Emblems\nin the Underworld Dungeon!"
+		},
+		{
+			"text_id": "3654",
+			"text": "Removes Shock, Paralysis, Stun, Sleep, Poison, Burn, Error, Skill Lock, and Blind from self.\nIncreases own PWR by 120%. (10 turns)\nRecovers own HP by 50%."
+		},
+		{
 			"text_id": "366",
 			"text": "DigiEgg is not finished incubating."
 		},
 		{
+			"text_id": "3660",
+			"text": "Have a go at the themed Battle Challenge!"
+		},
+		{
+			"text_id": "3661",
+			"text": "Have a go at the themed Battle Challenge!"
+		},
+		{
+			"text_id": "3662",
+			"text": "PWR/TEC/DEF/PWR Damage Resist, TEC Damage Resist, HP Recovery, Status Abnormality Resistance Down Effect"
+		},
+		{
+			"text_id": "3663",
+			"text": "PWR Damage Resist, TEC Damage Resist, Block Rate, Status Abnormality Resistance Down Effect"
+		},
+		{
+			"text_id": "3666",
+			"text": "High-Difficulty\nBrave Dimensional Vortex has reappeared!"
+		},
+		{
 			"text_id": "367",
 			"text": "Active Hours"
+		},
+		{
+			"text_id": "3679",
+			"text": "BON Digimon Victory Bonus"
 		},
 		{
 			"text_id": "368",
@@ -14063,6 +14139,34 @@
 		{
 			"text_id": "491021",
 			"text": "• Take measures against <color=#FFE25AFF>Status Abnormalities</color>!\n• Enhance your <color=#FFE25AFF>Counter Rate</color>!\n• Enhance your <color=#FFE25AFF>Block Rate</color>!"
+		},
+		{
+			"text_id": "491031",
+			"text": "• Take measures against <color=#FFE25AFF>Status Abnormality</color>!\n• Include Digimon that can <color=#FFE25AFF>lower DEF</color> in your party!\n• Include Digimon that can <color=#FFE25AFF>heal HP</color> in your party!"
+		},
+		{
+			"text_id": "491041",
+			"text": "• Enhance your <color=#FFE25AFF>Counter Rate</color>!\n• Include Digimon that can <color=#FFE25AFF>heal HP</color> in your party!\n• Include Digimon that can enhance <color=#FFE25AFF>DEF</color> in your party!"
+		},
+		{
+			"text_id": "491051",
+			"text": "• Take measures against <color=#FFE25AFF>Paralysis</color><sprite=1>!\n• Include Digimon that can <color=#FFE25AFF>heal HP</color> in your party!\n• Include Digimon that can <color=#FFE25AFF>lower TEC</color> in your party!"
+		},
+		{
+			"text_id": "491052",
+			"text": "• Take measures against <color=#FFE25AFF>Status Abnormalities</color>!\n• Enhance your <color=#FFE25AFF>PWR</color> and <color=#FFE25AFF>TEC</color>!\n• Enhance your <color=#FFE25AFF>Critical Rate</color>!"
+		},
+		{
+			"text_id": "491061",
+			"text": "• Take measures against <color=#FFE25AFF>Paralysis</color><sprite=1>!\n• Enhance your <color=#FFE25AFF>Counter Rate</color>!\n• Enhance your <color=#FFE25AFF>Block Rate</color>!"
+		},
+		{
+			"text_id": "491071",
+			"text": "• Enhance your <color=#FFE25AFF>Block Rate</color>!\n• Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!\n• Include <color=#FFE25AFF>Tenacious/Super Tenacious</color> and <color=#FFE25AFF>Devoted/Super Devoted</color> Digimon in your party!"
+		},
+		{
+			"text_id": "491091",
+			"text": "• Enhance your <color=#FFE25AFF>DEF</color>!\n• Take measures against <color=#FFE25AFF>Skill Lock</color><sprite=8>!\n• Enhance your <color=#FFE25AFF>Counter Rate</color>!"
 		},
 		{
 			"text_id": "492",
