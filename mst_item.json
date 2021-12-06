@@ -29789,6 +29789,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "23530",
+			"item_name": "デジモンガシャチケット vol.10",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no010",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "デジモンチケットガシャ vol.10を回すことができるチケット(使用期間 2021/12/31 12:00 ～ 2022/03/07 11:59)",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "235422001",
 			"item_name": "攻Ⅳ(冷静 オメガモンズワルトD)",
 			"sort_key": "",
@@ -39411,6 +39422,83 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "5体の超個性デジモンのうちいずれかが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25384",
+			"item_name": "師走の勇敢デジタマ",
+			"sort_key": "シワスノユウカンデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama031",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "勇敢の超究極体、究極体のいずれかに育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25385",
+			"item_name": "師走の冷静デジタマ",
+			"sort_key": "シワスノレイセイデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama035",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "冷静の超究極体、究極体のいずれかに育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25386",
+			"item_name": "師走の器用デジタマ",
+			"sort_key": "シワスノキヨウデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama036",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "器用の超究極体、究極体、完全体のいずれかに育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25387",
+			"item_name": "師走の不屈デジタマ",
+			"sort_key": "シワスノフクツデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama040",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "不屈の超究極体、究極体のいずれかに育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25388",
+			"item_name": "師走の献身デジタマ",
+			"sort_key": "シワスノケンシンデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama032",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "献身の超究極体、究極体のいずれかに育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25389",
+			"item_name": "【年末年始】超PWRのゆく年くる年デジタマ",
+			"sort_key": "ネンマツネンシチョウパワーノユクトシクルトシデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama087",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超個性のPWRデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25390",
+			"item_name": "【年末年始】超TECのゆく年くる年デジタマ",
+			"sort_key": "ネンマツネンシチョウテックノユクトシクルトシデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama068",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超個性のTECデジモンが必ず産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -68297,6 +68385,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "超献身アルフォースブイドラモン(X抗体)のみがセットでき、HPの値は下がるが、ロスト耐性を付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "404522001",
+			"item_name": "攻Ⅴ(超冷静 オメガモンズワルトD)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment404522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のオメガモンズワルトDがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "404522002",
+			"item_name": "攻Ⅴ(超冷静 オメガモンズワルトD)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment404522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のオメガモンズワルトDがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "404522003",
+			"item_name": "攻Ⅴ(超冷静 オメガモンズワルトD)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment404522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のオメガモンズワルトDがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "404522004",
+			"item_name": "攻Ⅴ(超冷静 オメガモンズワルトD)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment404522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のオメガモンズワルトDがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "404522005",
+			"item_name": "攻Ⅴ(超冷静 オメガモンズワルトD)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment404522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のオメガモンズワルトDがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "404532001",
+			"item_name": "守Ⅴ(超冷静 オメガモンズワルトD)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment404532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のオメガモンズワルトDがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "404532002",
+			"item_name": "守Ⅴ(超冷静 オメガモンズワルトD)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment404532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のオメガモンズワルトDがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "404532003",
+			"item_name": "守Ⅴ(超冷静 オメガモンズワルトD)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment404532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のオメガモンズワルトDがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "404532004",
+			"item_name": "守Ⅴ(超冷静 オメガモンズワルトD)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment404532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のオメガモンズワルトDがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "404532005",
+			"item_name": "守Ⅴ(超冷静 オメガモンズワルトD)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment404532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のオメガモンズワルトDがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
