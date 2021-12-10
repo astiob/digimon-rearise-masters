@@ -40140,17 +40140,6 @@
 			"max_amount": "9999"
 		},
 		{
-			"item_id": "25355",
-			"item_name": "지혜로운 두뇌를 소유한 능숙의 디지몬알",
-			"sort_key": "カシコキズノウヲモッタキヨウノデジタマ",
-			"item_type": "10",
-			"icon_asset": "icon/digitama/icondigitama005",
-			"friendship_point_rise_value": "0",
-			"mood_value_rise_value": "0",
-			"description": "능숙 시간의 소용돌이에서 낮은 확률로 드롭하는 능숙 디지몬이 태어나는 디지몬알",
-			"max_amount": "9999"
-		},
-		{
 			"item_id": "25356",
 			"item_name": "晩夏の候の器用のデジタマ",
 			"sort_key": "バンカノコウノキヨウノデジタマ",
@@ -40423,6 +40412,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "초궁극체, 궁극체 중 하나로 성장하는 디지몬이 반드시 태어나는 드라코닉한 디지몬알",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25381",
+			"item_name": "다채롭게 빛나는 능숙의 디지몬알",
+			"sort_key": "タサイナカガヤキノキヨウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama036",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "개성이 능숙인 초궁극체, 궁극체, 완전체 중 하나로 성장하는 디지몬이 반드시 태어나는 디지몬알",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25382",
+			"item_name": "지혜로운 두뇌를 소유한 능숙의 디지몬알",
+			"sort_key": "カシコキズノウヲモッタキヨウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama005",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "능숙 시간의 소용돌이에서 낮은 확률로 드롭하는 능숙 디지몬이 태어나는 디지몬알",
 			"max_amount": "9999"
 		},
 		{
