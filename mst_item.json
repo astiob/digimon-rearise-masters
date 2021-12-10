@@ -40140,17 +40140,6 @@
 			"max_amount": "9999"
 		},
 		{
-			"item_id": "25355",
-			"item_name": "Clever Deft DigiEgg",
-			"sort_key": "カシコキズノウヲモッタキヨウノデジタマ",
-			"item_type": "10",
-			"icon_asset": "icon/digitama/icondigitama005",
-			"friendship_point_rise_value": "0",
-			"mood_value_rise_value": "0",
-			"description": "A DigiEgg that will hatch a Deft Digimon. It has a small chance of dropping in the Deft Dimensional Vortex.",
-			"max_amount": "9999"
-		},
-		{
 			"item_id": "25356",
 			"item_name": "晩夏の候の器用のデジタマ",
 			"sort_key": "バンカノコウノキヨウノデジタマ",
@@ -40423,6 +40412,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A Digimon that will definitely grow into an Ultra or Mega Digimon will hatch from this Draconic DigiEgg.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25381",
+			"item_name": "Colorfully Radiant Deft DigiEgg",
+			"sort_key": "タサイナカガヤキノキヨウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama036",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Deft Digimon that will definitely grow into an Ultra, Mega, or Ultimate Digimon will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25382",
+			"item_name": "Clever Deft DigiEgg",
+			"sort_key": "カシコキズノウヲモッタキヨウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama005",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A DigiEgg that will hatch a Deft Digimon. It has a small chance of dropping in the Deft Dimensional Vortex.",
 			"max_amount": "9999"
 		},
 		{

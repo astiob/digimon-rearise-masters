@@ -1241,11 +1241,6 @@
 			"model_asset": "digitama/egg32"
 		},
 		{
-			"item_id": "25355",
-			"difficulty": "2",
-			"model_asset": "digitama/egg05"
-		},
-		{
 			"item_id": "25356",
 			"difficulty": "1",
 			"model_asset": "digitama/egg36"
@@ -1369,6 +1364,16 @@
 			"item_id": "25380",
 			"difficulty": "1",
 			"model_asset": "digitama/egg37"
+		},
+		{
+			"item_id": "25381",
+			"difficulty": "1",
+			"model_asset": "digitama/egg36"
+		},
+		{
+			"item_id": "25382",
+			"difficulty": "2",
+			"model_asset": "digitama/egg05"
 		}
 	]
 }
