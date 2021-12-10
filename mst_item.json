@@ -40140,17 +40140,6 @@
 			"max_amount": "9999"
 		},
 		{
-			"item_id": "25355",
-			"item_name": "擁有聰明頭腦的精明數碼蛋",
-			"sort_key": "カシコキズノウヲモッタキヨウノデジタマ",
-			"item_type": "10",
-			"icon_asset": "icon/digitama/icondigitama005",
-			"friendship_point_rise_value": "0",
-			"mood_value_rise_value": "0",
-			"description": "於精明限時漩渦低機率掉落，會誕生出精明數碼寶貝的數碼蛋",
-			"max_amount": "9999"
-		},
-		{
 			"item_id": "25356",
 			"item_name": "晩夏の候の器用のデジタマ",
 			"sort_key": "バンカノコウノキヨウノデジタマ",
@@ -40423,6 +40412,28 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "此龍系數碼蛋必定會誕生出可進化成超究極體、究極體其中之一的數碼寶貝",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25381",
+			"item_name": "變幻光輝精明數碼蛋",
+			"sort_key": "タサイナカガヤキノキヨウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama036",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "此數碼蛋必定會誕生出可進化成精明超究極體、究極體、完全體其中之一的數碼寶貝",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25382",
+			"item_name": "擁有聰明頭腦的精明數碼蛋",
+			"sort_key": "カシコキズノウヲモッタキヨウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama005",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "於精明限時漩渦低機率掉落，會誕生出精明數碼寶貝的數碼蛋",
 			"max_amount": "9999"
 		},
 		{
