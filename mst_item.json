@@ -3620,6 +3620,28 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1024031",
+			"item_name": "リヴァイアモン[BCE](超献身)スキルストーンの欠片(小)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1024031",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が究極体リヴァイアモン[BCE](超献身)の系譜のスキルレベルをアップできる…かもしれない石板の小さい欠片",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1024032",
+			"item_name": "リヴァイアモン[BCE](超献身)スキルストーンの欠片(大)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1024032",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "最終進化形態が究極体リヴァイアモン[BCE](超献身)の系譜のスキルレベルをアップできる…可能性が高い石板の大きい欠片",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "1024043",
 			"item_name": "デュナスモン[DFQ](超勇敢)スキルストーン",
 			"sort_key": "",
@@ -44496,6 +44518,17 @@
 			"max_amount": "999999999"
 		},
 		{
+			"item_id": "29012",
+			"item_name": "イベントpt",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_bcevent_point_000",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "バトルチャレンジのイベントpt",
+			"max_amount": "999999999"
+		},
+		{
 			"item_id": "29015",
 			"item_name": "イベントpt",
 			"sort_key": "",
@@ -66199,6 +66232,226 @@
 			"max_amount": "999999"
 		},
 		{
+			"item_id": "390425011",
+			"item_name": "狂技Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425012",
+			"item_name": "狂技Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425013",
+			"item_name": "狂技Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425014",
+			"item_name": "狂技Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425015",
+			"item_name": "狂技Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、よりTECの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435011",
+			"item_name": "頑強Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435012",
+			"item_name": "頑強Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435013",
+			"item_name": "頑強Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435014",
+			"item_name": "頑強Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435015",
+			"item_name": "頑強Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、ブロック率は下がるが、よりDEFの値をプラスにする古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445011",
+			"item_name": "対勇Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、勇敢/超勇敢キラーを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445012",
+			"item_name": "対勇Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、勇敢/超勇敢キラーを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445013",
+			"item_name": "対勇Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、勇敢/超勇敢キラーを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445014",
+			"item_name": "対勇Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、勇敢/超勇敢キラーを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445015",
+			"item_name": "対勇Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、勇敢/超勇敢キラーを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445021",
+			"item_name": "対冷Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、冷静/超冷静キラーを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445022",
+			"item_name": "対冷Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、冷静/超冷静キラーを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445023",
+			"item_name": "対冷Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、冷静/超冷静キラーを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445024",
+			"item_name": "対冷Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、冷静/超冷静キラーを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445025",
+			"item_name": "対冷Ⅳ(超献身 リヴァイアモン[BCE]専用)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超献身リヴァイアモン[BCE]のみがセットでき、HPの値は下がるが、冷静/超冷静キラーを付与する古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "391523001",
 			"item_name": "攻Ⅴ(超器用 バンチョースティングモン)",
 			"sort_key": "",
@@ -69914,6 +70167,116 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "デジモンのHPの値は下がるが、よりPWRの値をプラスにするデータが格納された古のプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "413522001",
+			"item_name": "攻Ⅴ(超冷静 ルーチェモンSM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment413522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のルーチェモンSMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "413522002",
+			"item_name": "攻Ⅴ(超冷静 ルーチェモンSM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment413522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のルーチェモンSMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "413522003",
+			"item_name": "攻Ⅴ(超冷静 ルーチェモンSM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment413522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のルーチェモンSMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "413522004",
+			"item_name": "攻Ⅴ(超冷静 ルーチェモンSM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment413522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のルーチェモンSMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "413522005",
+			"item_name": "攻Ⅴ(超冷静 ルーチェモンSM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment413522001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のルーチェモンSMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "413532001",
+			"item_name": "守Ⅴ(超冷静 ルーチェモンSM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment413532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のルーチェモンSMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "413532002",
+			"item_name": "守Ⅴ(超冷静 ルーチェモンSM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment413532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のルーチェモンSMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "413532003",
+			"item_name": "守Ⅴ(超冷静 ルーチェモンSM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment413532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のルーチェモンSMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "413532004",
+			"item_name": "守Ⅴ(超冷静 ルーチェモンSM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment413532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のルーチェモンSMがセットすることで真価を発揮するプラグイン",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "413532005",
+			"item_name": "守Ⅴ(超冷静 ルーチェモンSM)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment413532001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "超冷静のルーチェモンSMがセットすることで真価を発揮するプラグイン",
 			"max_amount": "9999"
 		},
 		{
