@@ -52064,6 +52064,94 @@
 			"receive_asset": ""
 		},
 		{
+			"challenge_id": "1177010",
+			"challenge_group_id": "11770",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_11770"
+		},
+		{
+			"challenge_id": "1177011",
+			"challenge_group_id": "11770",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1986",
+			"description": "「激突戦！ミヒラモン」の強敵に1回遭遇しよう",
+			"challenge_condition": "2",
+			"json_value": "{\"count\":1,\"raidGroupId\":377501}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1177012",
+			"challenge_group_id": "11770",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1986",
+			"description": "「激突戦！ミヒラモン」の強敵に2回遭遇しよう",
+			"challenge_condition": "2",
+			"json_value": "{\"count\":2,\"raidGroupId\":377501}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1177013",
+			"challenge_group_id": "11770",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1986",
+			"description": "「激突戦！ミヒラモン」の強敵に3回遭遇しよう",
+			"challenge_condition": "2",
+			"json_value": "{\"count\":3,\"raidGroupId\":377501}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1177014",
+			"challenge_group_id": "11770",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1986",
+			"description": "「激突戦！ミヒラモン」のバトルで2回勝利しよう",
+			"challenge_condition": "1",
+			"json_value": "{\"count\":2,\"raidGroupId\":377501}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1177015",
+			"challenge_group_id": "11770",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1986",
+			"description": "「激突戦！ミヒラモン」のバトルで4回勝利しよう",
+			"challenge_condition": "1",
+			"json_value": "{\"count\":4,\"raidGroupId\":377501}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1177016",
+			"challenge_group_id": "11770",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1986",
+			"description": "「激突戦！ミヒラモン」のバトルに5回参加しよう",
+			"challenge_condition": "30",
+			"json_value": "{\"count\":5,\"raidGroupId\":377501}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "1177017",
+			"challenge_group_id": "11770",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1986",
+			"description": "「激突戦！ミヒラモン」のバトルに10回参加しよう",
+			"challenge_condition": "30",
+			"json_value": "{\"count\":10,\"raidGroupId\":377501}",
+			"receive_asset": ""
+		},
+		{
 			"challenge_id": "1178010",
 			"challenge_group_id": "11780",
 			"rank": "1",
