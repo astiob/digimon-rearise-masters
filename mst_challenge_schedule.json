@@ -1342,6 +1342,24 @@
 			"receivable_days": "0"
 		},
 		{
+			"challenge_group_id": "501400",
+			"start_date": "2022-01-06 12:00:00",
+			"end_date": "2022-01-23 11:59:59",
+			"disp_order": "10",
+			"start_asset": "challenge/challenge_begin_501270",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
+			"challenge_group_id": "501410",
+			"start_date": "2022-01-06 12:00:00",
+			"end_date": "2022-01-23 11:59:59",
+			"disp_order": "10",
+			"start_asset": "challenge/challenge_begin_501340",
+			"start_trigger_type": "0",
+			"receivable_days": "0"
+		},
+		{
 			"challenge_group_id": "501440",
 			"start_date": "2021-12-31 12:00:00",
 			"end_date": "2022-01-20 11:59:59",
