@@ -3631,6 +3631,28 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1024031",
+			"item_name": "Leviamon [BCE] (Super Devoted) Skill Stone Shard (S)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1024031",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A small stone shard that has a slight chance of upgrading Mega Leviamon [BCE] (Super Devoted) Chain's Skill Level.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1024032",
+			"item_name": "Leviamon [BCE] (Super Devoted) Skill Stone Shard (L)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1024032",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A large stone shard that has a high chance of upgrading Mega Leviamon [BCE] (Super Devoted) Chain's Skill Level.",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "102422001",
 			"item_name": "Attack-IV (Calm - Pandamon)",
 			"sort_key": "",
@@ -45563,6 +45585,28 @@
 			"max_amount": "999999999"
 		},
 		{
+			"item_id": "29012",
+			"item_name": "Event Pts.",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_bcevent_point_000",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "Battle Challenge Event Pts.",
+			"max_amount": "999999999"
+		},
+		{
+			"item_id": "29013",
+			"item_name": "Event Pts.",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_bcevent_point_000",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "Battle Challenge Event Pts.",
+			"max_amount": "999999999"
+		},
+		{
 			"item_id": "29014",
 			"item_name": "Event Pts.",
 			"sort_key": "",
@@ -67770,6 +67814,226 @@
 			"mood_value_rise_value": "10",
 			"description": "Loved by Void Digimon.",
 			"max_amount": "999999"
+		},
+		{
+			"item_id": "390425011",
+			"item_name": "Frenzy-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but raises TEC.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425012",
+			"item_name": "Frenzy-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but raises TEC.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425013",
+			"item_name": "Frenzy-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but raises TEC.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425014",
+			"item_name": "Frenzy-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but raises TEC.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425015",
+			"item_name": "Frenzy-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but raises TEC.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435011",
+			"item_name": "Stubborn-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers Block Rate, but raises DEF.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435012",
+			"item_name": "Stubborn-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers Block Rate, but raises DEF.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435013",
+			"item_name": "Stubborn-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers Block Rate, but raises DEF.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435014",
+			"item_name": "Stubborn-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers Block Rate, but raises DEF.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435015",
+			"item_name": "Stubborn-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers Block Rate, but raises DEF.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445011",
+			"item_name": "Anti-Brave-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but bestows Brave/Super Brave's Bane.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445012",
+			"item_name": "Anti-Brave-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but bestows Brave/Super Brave's Bane.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445013",
+			"item_name": "Anti-Brave-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but bestows Brave/Super Brave's Bane.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445014",
+			"item_name": "Anti-Brave-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but bestows Brave/Super Brave's Bane.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445015",
+			"item_name": "Anti-Brave-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but bestows Brave/Super Brave's Bane.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445021",
+			"item_name": "Anti-Calm-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but bestows Calm/Super Calm's Bane.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445022",
+			"item_name": "Anti-Calm-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but bestows Calm/Super Calm's Bane.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445023",
+			"item_name": "Anti-Calm-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but bestows Calm/Super Calm's Bane.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445024",
+			"item_name": "Anti-Calm-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but bestows Calm/Super Calm's Bane.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445025",
+			"item_name": "Anti-Calm-IV (Exclusive: Super Devoted - Leviamon [BCE])",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "An ancient Plugin that can only be set to Super Devoted Leviamon [BCE]. Lowers HP, but bestows Calm/Super Calm's Bane.",
+			"max_amount": "9999"
 		},
 		{
 			"item_id": "391523001",
