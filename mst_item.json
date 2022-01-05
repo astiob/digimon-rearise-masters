@@ -3631,6 +3631,28 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1024031",
+			"item_name": "利維坦獸[BCE]（超奉獻）技能石碎片（小）",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1024031",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "可提升最終進化型態為究極體利維坦獸[BCE]（超奉獻）系譜技能等級的石板小碎片……也許會成功",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1024032",
+			"item_name": "利維坦獸[BCE]（超奉獻）技能石碎片（大）",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1024032",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "可提升最終進化型態為究極體利維坦獸[BCE]（超奉獻）系譜技能等級的石板大碎片……極有可能成功",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "102422001",
 			"item_name": "攻Ⅳ（冷靜 熊貓獸）",
 			"sort_key": "",
@@ -45563,6 +45585,28 @@
 			"max_amount": "999999999"
 		},
 		{
+			"item_id": "29012",
+			"item_name": "活動pt",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_bcevent_point_000",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "戰鬥挑戰的活動pt",
+			"max_amount": "999999999"
+		},
+		{
+			"item_id": "29013",
+			"item_name": "活動pt",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_bcevent_point_000",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "戰鬥挑戰的活動pt",
+			"max_amount": "999999999"
+		},
+		{
 			"item_id": "29014",
 			"item_name": "活動pt",
 			"sort_key": "",
@@ -67770,6 +67814,226 @@
 			"mood_value_rise_value": "10",
 			"description": "無的數碼寶貝喜歡的食物。",
 			"max_amount": "999999"
+		},
+		{
+			"item_id": "390425011",
+			"item_name": "狂技Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會增加更多TEC的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425012",
+			"item_name": "狂技Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會增加更多TEC的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425013",
+			"item_name": "狂技Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會增加更多TEC的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425014",
+			"item_name": "狂技Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會增加更多TEC的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425015",
+			"item_name": "狂技Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會增加更多TEC的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435011",
+			"item_name": "頑強Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了格擋率，但會增加更多DEF的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435012",
+			"item_name": "頑強Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了格擋率，但會增加更多DEF的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435013",
+			"item_name": "頑強Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了格擋率，但會增加更多DEF的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435014",
+			"item_name": "頑強Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了格擋率，但會增加更多DEF的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435015",
+			"item_name": "頑強Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了格擋率，但會增加更多DEF的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445011",
+			"item_name": "抗勇Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會附加勇敢／超勇敢剋星效果的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445012",
+			"item_name": "抗勇Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會附加勇敢／超勇敢剋星效果的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445013",
+			"item_name": "抗勇Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會附加勇敢／超勇敢剋星效果的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445014",
+			"item_name": "抗勇Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會附加勇敢／超勇敢剋星效果的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445015",
+			"item_name": "抗勇Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會附加勇敢／超勇敢剋星效果的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445021",
+			"item_name": "抗冷Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會附加冷靜／超冷靜剋星效果的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445022",
+			"item_name": "抗冷Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會附加冷靜／超冷靜剋星效果的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445023",
+			"item_name": "抗冷Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會附加冷靜／超冷靜剋星效果的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445024",
+			"item_name": "抗冷Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會附加冷靜／超冷靜剋星效果的古老能力碟",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445025",
+			"item_name": "抗冷Ⅳ（超奉獻　利維坦獸[BCE]專用）",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "只限超奉獻的利維坦獸[BCE]才能裝備，雖然降低了HP，但會附加冷靜／超冷靜剋星效果的古老能力碟",
+			"max_amount": "9999"
 		},
 		{
 			"item_id": "391523001",
