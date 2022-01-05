@@ -3631,6 +3631,28 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "1024031",
+			"item_name": "리바이어몬[BCE](초헌신) 스킬 스톤 조각(소)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1024031",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "최종 진화 형태가 궁극체 리바이어몬[BCE](초헌신) 계통의 스킬 레벨을 올릴 수 있을…지도 모르는 작은 석판 조각",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "1024032",
+			"item_name": "리바이어몬[BCE](초헌신) 스킬 스톤 조각(대)",
+			"sort_key": "",
+			"item_type": "17",
+			"icon_asset": "icon/item/skillitem/icon_skillitem1024032",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "최종 진화 형태가 궁극체 리바이어몬[BCE](초헌신) 계통의 스킬 레벨을 올릴 수 있을…가능성이 높은 큰 석판 조각",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "102422001",
 			"item_name": "공격Ⅳ(침착 팬더몬)",
 			"sort_key": "",
@@ -45563,6 +45585,28 @@
 			"max_amount": "999999999"
 		},
 		{
+			"item_id": "29012",
+			"item_name": "이벤트 pt",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_bcevent_point_000",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "배틀 챌린지의 이벤트 pt",
+			"max_amount": "999999999"
+		},
+		{
+			"item_id": "29013",
+			"item_name": "이벤트 pt",
+			"sort_key": "",
+			"item_type": "18",
+			"icon_asset": "icon/item/icon_bcevent_point_000",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "배틀 챌린지의 이벤트 pt",
+			"max_amount": "999999999"
+		},
+		{
 			"item_id": "29014",
 			"item_name": "이벤트 pt",
 			"sort_key": "",
@@ -67770,6 +67814,226 @@
 			"mood_value_rise_value": "10",
 			"description": "무의 디지몬이 좋아하는 음식.",
 			"max_amount": "999999"
+		},
+		{
+			"item_id": "390425011",
+			"item_name": "광기Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 TEC을 더욱 상승시키는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425012",
+			"item_name": "광기Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 TEC을 더욱 상승시키는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425013",
+			"item_name": "광기Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 TEC을 더욱 상승시키는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425014",
+			"item_name": "광기Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 TEC을 더욱 상승시키는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390425015",
+			"item_name": "광기Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390425011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 TEC을 더욱 상승시키는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435011",
+			"item_name": "완강Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, 막기 확률은 하락하지만 DEF를 더욱 상승시키는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435012",
+			"item_name": "완강Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, 막기 확률은 하락하지만 DEF를 더욱 상승시키는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435013",
+			"item_name": "완강Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, 막기 확률은 하락하지만 DEF를 더욱 상승시키는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435014",
+			"item_name": "완강Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, 막기 확률은 하락하지만 DEF를 더욱 상승시키는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390435015",
+			"item_name": "완강Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390435011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, 막기 확률은 하락하지만 DEF를 더욱 상승시키는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445011",
+			"item_name": "반 용감Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 용감/초용감 킬러를 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445012",
+			"item_name": "반 용감Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 용감/초용감 킬러를 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445013",
+			"item_name": "반 용감Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 용감/초용감 킬러를 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445014",
+			"item_name": "반 용감Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 용감/초용감 킬러를 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445015",
+			"item_name": "반 용감Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445011",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 용감/초용감 킬러를 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445021",
+			"item_name": "반 침착Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 침착/초침착 킬러를 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445022",
+			"item_name": "반 침착Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 침착/초침착 킬러를 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445023",
+			"item_name": "반 침착Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 침착/초침착 킬러를 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445024",
+			"item_name": "반 침착Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 침착/초침착 킬러를 부여하는 고대의 플러그인",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "390445025",
+			"item_name": "반 침착Ⅳ(초헌신 리바이어몬[BCE] 전용)",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment390445021",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "초헌신 리바이어몬[BCE]만 세팅할 수 있고, HP는 하락하지만 침착/초침착 킬러를 부여하는 고대의 플러그인",
+			"max_amount": "9999"
 		},
 		{
 			"item_id": "391523001",
