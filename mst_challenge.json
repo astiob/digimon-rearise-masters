@@ -52480,6 +52480,226 @@
 			"challenge_condition": "59",
 			"json_value": "{\"value\":150000,\"itemId\":26037}",
 			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142010",
+			"challenge_group_id": "501420",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_501420"
+		},
+		{
+			"challenge_id": "50142011",
+			"challenge_group_id": "501420",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン1-1章1話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1001010}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142012",
+			"challenge_group_id": "501420",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン1-7章5話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1007040}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142013",
+			"challenge_group_id": "501420",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン1-11章13話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1011110}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142014",
+			"challenge_group_id": "501420",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン1-14章1話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1014010}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142015",
+			"challenge_group_id": "501420",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン1-18章16話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1018140}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142016",
+			"challenge_group_id": "501420",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン1-19章16話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1019140}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142017",
+			"challenge_group_id": "501420",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン1-20章15話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1020130}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142018",
+			"challenge_group_id": "501420",
+			"rank": "1",
+			"number": "8",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン1-22章後編17話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1024080}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142019",
+			"challenge_group_id": "501420",
+			"rank": "1",
+			"number": "9",
+			"category_text_id": "1991",
+			"description": "サイドストーリー「対決！ノーブル系？デジモン」8話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":7001080}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142020",
+			"challenge_group_id": "501420",
+			"rank": "2",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "すべてのチャレンジをクリアしよう",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_501420"
+		},
+		{
+			"challenge_id": "50142021",
+			"challenge_group_id": "501420",
+			"rank": "2",
+			"number": "1",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン2-1章13話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1101130}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142022",
+			"challenge_group_id": "501420",
+			"rank": "2",
+			"number": "2",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン2-3章15話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1103150}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142023",
+			"challenge_group_id": "501420",
+			"rank": "2",
+			"number": "3",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン2-5章15話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1105150}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142024",
+			"challenge_group_id": "501420",
+			"rank": "2",
+			"number": "4",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン2-6章17話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1106170}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142025",
+			"challenge_group_id": "501420",
+			"rank": "2",
+			"number": "5",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン2-8章17話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1108170}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142026",
+			"challenge_group_id": "501420",
+			"rank": "2",
+			"number": "6",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン2-10章17話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1110170}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142027",
+			"challenge_group_id": "501420",
+			"rank": "2",
+			"number": "7",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン2-12章16話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1112160}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142028",
+			"challenge_group_id": "501420",
+			"rank": "2",
+			"number": "8",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン2-15章16話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1115160}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50142029",
+			"challenge_group_id": "501420",
+			"rank": "2",
+			"number": "9",
+			"category_text_id": "1991",
+			"description": "メインストーリーシーズン2-18章17話をクリアしよう。",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1118170}",
+			"receive_asset": ""
 		}
 	]
 }
