@@ -1242,6 +1242,13 @@
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
+			"target_type": "4",
+			"target_num": "1",
+			"text": "パートナーデジモンのブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "17",
+			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
 			"text": "敵[@target_num]単体[/@target_num]のブロック率を[@value][:value:]%[/@value][:updown:]（[@duration][:duration:][/@duration]）"
@@ -2346,6 +2353,13 @@
 			"text": "自分の最大HPを[@value][:value:]%[/@value]アップ（永続）"
 		},
 		{
+			"action_efficacy_type": "27",
+			"index_in_type": "0",
+			"target_type": "4",
+			"target_num": "1",
+			"text": "パートナーデジモンの最大HPを[@value][:value:]%[/@value]アップ（永続）"
+		},
+		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -2575,6 +2589,13 @@
 			"target_type": "2",
 			"target_num": "1",
 			"text": "自分に[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "29",
+			"index_in_type": "0",
+			"target_type": "4",
+			"target_num": "1",
+			"text": "パートナーデジモンに[@count][:count:][/@count]回だけ攻撃回避する効果を付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "29",
@@ -2890,6 +2911,13 @@
 			"target_type": "2",
 			"target_num": "1",
 			"text": "自分に[:count_ex:]敵からのダメージを最大[@value][:value:][/@value]までに抑える効果を付与（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "34",
+			"index_in_type": "0",
+			"target_type": "4",
+			"target_num": "1",
+			"text": "パートナーデジモンに[:count_ex:]敵からのダメージを最大[@value][:value:][/@value]までに抑える効果を付与（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "35",
