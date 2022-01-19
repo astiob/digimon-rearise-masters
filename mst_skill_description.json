@@ -1242,6 +1242,13 @@
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
+			"target_type": "4",
+			"target_num": "1",
+			"text": "파트너 디지몬의 막기 확률을 [@value][:value:]%[/@value][:updown:]([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "17",
+			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
 			"text": "적 [@target_num]1마리[/@target_num]의 막기 확률 [@value][:value:]%[/@value] [:updown:]([@duration][:duration:][/@duration])"
@@ -2346,6 +2353,13 @@
 			"text": "자신의 최대 HP를 [@value][:value:]%[/@value] 상승(지속)"
 		},
 		{
+			"action_efficacy_type": "27",
+			"index_in_type": "0",
+			"target_type": "4",
+			"target_num": "1",
+			"text": "파트너 디지몬의 최대 HP를 [@value][:value:]%[/@value] 상승(지속)"
+		},
+		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -2575,6 +2589,13 @@
 			"target_type": "2",
 			"target_num": "1",
 			"text": "자신에게 [@count][:count:][/@count]회 공격 회피 효과를 부여([@duration][:duration:][/@duration])"
+		},
+		{
+			"action_efficacy_type": "29",
+			"index_in_type": "0",
+			"target_type": "4",
+			"target_num": "1",
+			"text": "파트너 디지몬에게 [@count][:count:][/@count]회 공격 회피 효과를 부여([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "29",
