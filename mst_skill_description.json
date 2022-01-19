@@ -1242,6 +1242,13 @@
 		{
 			"action_efficacy_type": "17",
 			"index_in_type": "0",
+			"target_type": "4",
+			"target_num": "1",
+			"text": "使夥伴數碼寶貝的格擋率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "17",
+			"index_in_type": "0",
 			"target_type": "9",
 			"target_num": "1",
 			"text": "使敵人[@target_num]單體[/@target_num]的格擋率[:updown:][@value][:value:]%[/@value]。（[@duration][:duration:][/@duration]）"
@@ -2346,6 +2353,13 @@
 			"text": "使自己的最大HP提升[@value][:value:]%[/@value]。（永續）"
 		},
 		{
+			"action_efficacy_type": "27",
+			"index_in_type": "0",
+			"target_type": "4",
+			"target_num": "1",
+			"text": "使夥伴數碼寶貝的最大HP提升[@value][:value:]%[/@value]。（永續）"
+		},
+		{
 			"action_efficacy_type": "28",
 			"index_in_type": "0",
 			"target_type": "1",
@@ -2575,6 +2589,13 @@
 			"target_type": "2",
 			"target_num": "1",
 			"text": "對自己附加[@count][:count:][/@count]次迴避攻擊效果。（[@duration][:duration:][/@duration]）"
+		},
+		{
+			"action_efficacy_type": "29",
+			"index_in_type": "0",
+			"target_type": "4",
+			"target_num": "1",
+			"text": "對夥伴數碼寶貝附加[@count][:count:][/@count]次迴避攻擊效果。（[@duration][:duration:][/@duration]）"
 		},
 		{
 			"action_efficacy_type": "29",
