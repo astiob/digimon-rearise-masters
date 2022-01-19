@@ -18841,6 +18841,70 @@
 			"speed": "46"
 		},
 		{
+			"growth_type": "1417102",
+			"level": "1",
+			"hp": "7457",
+			"attack": "6489",
+			"defense": "1556",
+			"speed": "21"
+		},
+		{
+			"growth_type": "1417102",
+			"level": "99",
+			"hp": "8384",
+			"attack": "7060",
+			"defense": "1829",
+			"speed": "21"
+		},
+		{
+			"growth_type": "1417103",
+			"level": "1",
+			"hp": "7546",
+			"attack": "6544",
+			"defense": "1582",
+			"speed": "23"
+		},
+		{
+			"growth_type": "1417103",
+			"level": "99",
+			"hp": "9281",
+			"attack": "7612",
+			"defense": "2093",
+			"speed": "23"
+		},
+		{
+			"growth_type": "1417104",
+			"level": "1",
+			"hp": "7726",
+			"attack": "6655",
+			"defense": "1635",
+			"speed": "25"
+		},
+		{
+			"growth_type": "1417104",
+			"level": "99",
+			"hp": "10028",
+			"attack": "8072",
+			"defense": "2313",
+			"speed": "25"
+		},
+		{
+			"growth_type": "1417105",
+			"level": "1",
+			"hp": "8354",
+			"attack": "7041",
+			"defense": "1820",
+			"speed": "30"
+		},
+		{
+			"growth_type": "1417105",
+			"level": "99",
+			"hp": "12386",
+			"attack": "9521",
+			"defense": "3006",
+			"speed": "30"
+		},
+		{
 			"growth_type": "1418302",
 			"level": "1",
 			"hp": "5909",
@@ -19511,6 +19575,70 @@
 			"attack": "7918",
 			"defense": "4778",
 			"speed": "25"
+		},
+		{
+			"growth_type": "1429102",
+			"level": "1",
+			"hp": "7583",
+			"attack": "6849",
+			"defense": "1682",
+			"speed": "21"
+		},
+		{
+			"growth_type": "1429102",
+			"level": "99",
+			"hp": "8510",
+			"attack": "7420",
+			"defense": "1955",
+			"speed": "21"
+		},
+		{
+			"growth_type": "1429103",
+			"level": "1",
+			"hp": "7672",
+			"attack": "6904",
+			"defense": "1708",
+			"speed": "23"
+		},
+		{
+			"growth_type": "1429103",
+			"level": "99",
+			"hp": "9407",
+			"attack": "7972",
+			"defense": "2219",
+			"speed": "23"
+		},
+		{
+			"growth_type": "1429104",
+			"level": "1",
+			"hp": "7852",
+			"attack": "7015",
+			"defense": "1761",
+			"speed": "25"
+		},
+		{
+			"growth_type": "1429104",
+			"level": "99",
+			"hp": "10154",
+			"attack": "8432",
+			"defense": "2439",
+			"speed": "25"
+		},
+		{
+			"growth_type": "1429105",
+			"level": "1",
+			"hp": "8480",
+			"attack": "7401",
+			"defense": "1946",
+			"speed": "30"
+		},
+		{
+			"growth_type": "1429105",
+			"level": "99",
+			"hp": "12512",
+			"attack": "9881",
+			"defense": "3132",
+			"speed": "30"
 		},
 		{
 			"growth_type": "2001",
@@ -36290,6 +36418,262 @@
 		},
 		{
 			"growth_type": "3801405",
+			"level": "9",
+			"hp": "2000000",
+			"attack": "3500",
+			"defense": "450",
+			"speed": "20"
+		},
+		{
+			"growth_type": "3802305",
+			"level": "1",
+			"hp": "20000",
+			"attack": "10",
+			"defense": "10",
+			"speed": "5"
+		},
+		{
+			"growth_type": "3802305",
+			"level": "10",
+			"hp": "3000000",
+			"attack": "7000",
+			"defense": "700",
+			"speed": "20"
+		},
+		{
+			"growth_type": "3802305",
+			"level": "2",
+			"hp": "100000",
+			"attack": "100",
+			"defense": "55",
+			"speed": "5"
+		},
+		{
+			"growth_type": "3802305",
+			"level": "20",
+			"hp": "30000000",
+			"attack": "8000",
+			"defense": "750",
+			"speed": "130"
+		},
+		{
+			"growth_type": "3802305",
+			"level": "3",
+			"hp": "200000",
+			"attack": "170",
+			"defense": "65",
+			"speed": "10"
+		},
+		{
+			"growth_type": "3802305",
+			"level": "4",
+			"hp": "300000",
+			"attack": "280",
+			"defense": "75",
+			"speed": "10"
+		},
+		{
+			"growth_type": "3802305",
+			"level": "5",
+			"hp": "500000",
+			"attack": "325",
+			"defense": "85",
+			"speed": "10"
+		},
+		{
+			"growth_type": "3802305",
+			"level": "6",
+			"hp": "750000",
+			"attack": "870",
+			"defense": "95",
+			"speed": "15"
+		},
+		{
+			"growth_type": "3802305",
+			"level": "7",
+			"hp": "1000000",
+			"attack": "1500",
+			"defense": "180",
+			"speed": "15"
+		},
+		{
+			"growth_type": "3802305",
+			"level": "8",
+			"hp": "1500000",
+			"attack": "2200",
+			"defense": "240",
+			"speed": "15"
+		},
+		{
+			"growth_type": "3802305",
+			"level": "9",
+			"hp": "2000000",
+			"attack": "3500",
+			"defense": "450",
+			"speed": "20"
+		},
+		{
+			"growth_type": "3804305",
+			"level": "1",
+			"hp": "20000",
+			"attack": "10",
+			"defense": "10",
+			"speed": "5"
+		},
+		{
+			"growth_type": "3804305",
+			"level": "10",
+			"hp": "3000000",
+			"attack": "7000",
+			"defense": "700",
+			"speed": "20"
+		},
+		{
+			"growth_type": "3804305",
+			"level": "2",
+			"hp": "100000",
+			"attack": "100",
+			"defense": "55",
+			"speed": "5"
+		},
+		{
+			"growth_type": "3804305",
+			"level": "20",
+			"hp": "30000000",
+			"attack": "8000",
+			"defense": "750",
+			"speed": "130"
+		},
+		{
+			"growth_type": "3804305",
+			"level": "3",
+			"hp": "200000",
+			"attack": "170",
+			"defense": "65",
+			"speed": "10"
+		},
+		{
+			"growth_type": "3804305",
+			"level": "4",
+			"hp": "300000",
+			"attack": "280",
+			"defense": "75",
+			"speed": "10"
+		},
+		{
+			"growth_type": "3804305",
+			"level": "5",
+			"hp": "500000",
+			"attack": "325",
+			"defense": "85",
+			"speed": "10"
+		},
+		{
+			"growth_type": "3804305",
+			"level": "6",
+			"hp": "750000",
+			"attack": "870",
+			"defense": "95",
+			"speed": "15"
+		},
+		{
+			"growth_type": "3804305",
+			"level": "7",
+			"hp": "1000000",
+			"attack": "1500",
+			"defense": "180",
+			"speed": "15"
+		},
+		{
+			"growth_type": "3804305",
+			"level": "8",
+			"hp": "1500000",
+			"attack": "2200",
+			"defense": "240",
+			"speed": "15"
+		},
+		{
+			"growth_type": "3804305",
+			"level": "9",
+			"hp": "2000000",
+			"attack": "3500",
+			"defense": "450",
+			"speed": "20"
+		},
+		{
+			"growth_type": "3806105",
+			"level": "1",
+			"hp": "20000",
+			"attack": "10",
+			"defense": "10",
+			"speed": "5"
+		},
+		{
+			"growth_type": "3806105",
+			"level": "10",
+			"hp": "3000000",
+			"attack": "7000",
+			"defense": "700",
+			"speed": "20"
+		},
+		{
+			"growth_type": "3806105",
+			"level": "2",
+			"hp": "100000",
+			"attack": "100",
+			"defense": "55",
+			"speed": "5"
+		},
+		{
+			"growth_type": "3806105",
+			"level": "3",
+			"hp": "200000",
+			"attack": "170",
+			"defense": "65",
+			"speed": "10"
+		},
+		{
+			"growth_type": "3806105",
+			"level": "4",
+			"hp": "300000",
+			"attack": "280",
+			"defense": "75",
+			"speed": "10"
+		},
+		{
+			"growth_type": "3806105",
+			"level": "5",
+			"hp": "500000",
+			"attack": "325",
+			"defense": "85",
+			"speed": "10"
+		},
+		{
+			"growth_type": "3806105",
+			"level": "6",
+			"hp": "750000",
+			"attack": "870",
+			"defense": "95",
+			"speed": "15"
+		},
+		{
+			"growth_type": "3806105",
+			"level": "7",
+			"hp": "1000000",
+			"attack": "1500",
+			"defense": "180",
+			"speed": "15"
+		},
+		{
+			"growth_type": "3806105",
+			"level": "8",
+			"hp": "1500000",
+			"attack": "2200",
+			"defense": "240",
+			"speed": "15"
+		},
+		{
+			"growth_type": "3806105",
 			"level": "9",
 			"hp": "2000000",
 			"attack": "3500",
