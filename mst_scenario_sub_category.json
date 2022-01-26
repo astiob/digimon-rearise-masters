@@ -22,6 +22,13 @@
 			"resource": ""
 		},
 		{
+			"sub_category_id": "1004",
+			"main_category_id": "7",
+			"order": "5",
+			"title": "격돌전! 마왕몬 & 발바몬",
+			"resource": ""
+		},
+		{
 			"sub_category_id": "101",
 			"main_category_id": "1",
 			"order": "1",
@@ -321,6 +328,13 @@
 			"order": "18",
 			"title": "18장\n여로의 끝, 그가 바람을 이룰 때",
 			"resource": "quest/panel/panel_s2_section18"
+		},
+		{
+			"sub_category_id": "519",
+			"main_category_id": "5",
+			"order": "19",
+			"title": "19장\n새로운 힘! 라센몬이 이은 유대",
+			"resource": "quest/panel/panel_s2_section19"
 		},
 		{
 			"sub_category_id": "601",

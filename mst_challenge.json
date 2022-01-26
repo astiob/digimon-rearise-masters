@@ -46333,6 +46333,94 @@
 			"receive_asset": ""
 		},
 		{
+			"challenge_id": "50143010",
+			"challenge_group_id": "501430",
+			"rank": "1",
+			"number": "0",
+			"category_text_id": "2007",
+			"description": "모든 챌린지를 클리어하자",
+			"challenge_condition": "10",
+			"json_value": "",
+			"receive_asset": "challenge/challenge_receive_501430"
+		},
+		{
+			"challenge_id": "50143011",
+			"challenge_group_id": "501430",
+			"rank": "1",
+			"number": "1",
+			"category_text_id": "1991",
+			"description": "메인 스토리 시즌 2-19장 10화를 클리어하자.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1119100}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50143012",
+			"challenge_group_id": "501430",
+			"rank": "1",
+			"number": "2",
+			"category_text_id": "1991",
+			"description": "메인 스토리 시즌 2-19장 14화를 클리어하자.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1119140}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50143013",
+			"challenge_group_id": "501430",
+			"rank": "1",
+			"number": "3",
+			"category_text_id": "1991",
+			"description": "메인 스토리 시즌 2-19장 17화를 클리어하자.",
+			"challenge_condition": "11",
+			"json_value": "{\"count\":1,\"questId\":1119170}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50143014",
+			"challenge_group_id": "501430",
+			"rank": "1",
+			"number": "4",
+			"category_text_id": "1992",
+			"description": "디지몬을 1회 강화하자",
+			"challenge_condition": "19",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50143015",
+			"challenge_group_id": "501430",
+			"rank": "1",
+			"number": "5",
+			"category_text_id": "1992",
+			"description": "디지몬 1마리의 레벨을 99로 만들자",
+			"challenge_condition": "26",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50143016",
+			"challenge_group_id": "501430",
+			"rank": "1",
+			"number": "6",
+			"category_text_id": "1992",
+			"description": "디지몬의 스킬을 1회 레벨 업하자",
+			"challenge_condition": "23",
+			"json_value": "{\"count\":1}",
+			"receive_asset": ""
+		},
+		{
+			"challenge_id": "50143017",
+			"challenge_group_id": "501430",
+			"rank": "1",
+			"number": "7",
+			"category_text_id": "1992",
+			"description": "디지몬의 스킬을 3회 레벨 업하자",
+			"challenge_condition": "23",
+			"json_value": "{\"count\":3}",
+			"receive_asset": ""
+		},
+		{
 			"challenge_id": "50144010",
 			"challenge_group_id": "501440",
 			"rank": "1",
