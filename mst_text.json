@@ -269,6 +269,18 @@
 			"text": "This area cannot be accessed because you have no attempts remaining."
 		},
 		{
+			"text_id": "1000068",
+			"text": "Content is currently unavailable."
+		},
+		{
+			"text_id": "1000069",
+			"text": "{0}'s status has changed!"
+		},
+		{
+			"text_id": "1000070",
+			"text": "The battle with the target Spiral Guardian has ended."
+		},
+		{
 			"text_id": "1001",
 			"text": "Increase Decoration Limit"
 		},
@@ -5195,6 +5207,30 @@
 		{
 			"text_id": "2000041",
 			"text": "Ascension and Inheritance"
+		},
+		{
+			"text_id": "2000042",
+			"text": "vs. Guardians"
+		},
+		{
+			"text_id": "2000043",
+			"text": "vs. Guardians\nA battle where you work together with your fellow Tamers to take down the powerful foes known as Spiral Guardians standing in your way!"
+		},
+		{
+			"text_id": "2000044",
+			"text": "There's three Spiral Guardians in all! As time passes, the number of Spiral Guardians you'll have to take on will increase. If you can't defeat them all, you won't be able to advance! Work together with everyone to battle them!"
+		},
+		{
+			"text_id": "2000045",
+			"text": "In the All-Out Battle, there's a maximum limit to how much damage you can deal in a single battle! Challenge the battle as many times as you can and wear the Spiral Guardians down!"
+		},
+		{
+			"text_id": "2000046",
+			"text": "If you weaken the Spiral Guardians and get their total HP to 0 in the All-Out Battle, you'll be able to take on the Final Battle! Be ready: the Final Battle is a solo battle! Defeat the Spiral Guardians with your Digimon!"
+		},
+		{
+			"text_id": "2000047",
+			"text": "Work together with your fellow Tamers, take down these powerful foes, and make a path to the Kernel!"
 		},
 		{
 			"text_id": "2001",
@@ -12865,6 +12901,10 @@
 			"text": "Incubators will warm a DigiEgg\nuntil it Hatches."
 		},
 		{
+			"text_id": "3596",
+			"text": "Progress through the Main Story\nand don't miss the conclusion!!"
+		},
+		{
 			"text_id": "3597",
 			"text": "PWR/TEC/PWR Damage Resist, TEC Damage Resist Down Effect"
 		},
@@ -12909,8 +12949,20 @@
 			"text": "Take on the Battle Park!"
 		},
 		{
+			"text_id": "3606",
+			"text": "Guardians"
+		},
+		{
 			"text_id": "3607",
 			"text": "Damage Limit Effect"
+		},
+		{
+			"text_id": "3608",
+			"text": "Super Brave Rasenmon"
+		},
+		{
+			"text_id": "3609",
+			"text": "How strange... I feel like I'm surging with strength.\nWith this power, next time I'll stop Origin for sure!"
 		},
 		{
 			"text_id": "361",
@@ -12973,12 +13025,64 @@
 			"text": "...Thank...you\nfor always being with me..."
 		},
 		{
+			"text_id": "3624",
+			"text": ".Guardians"
+		},
+		{
+			"text_id": "3625",
+			"text": "Total Damage"
+		},
+		{
+			"text_id": "3626",
+			"text": "{0} is currently in the {1} Raid!"
+		},
+		{
+			"text_id": "3627",
+			"text": "Joined"
+		},
+		{
+			"text_id": "3628",
+			"text": "To Final Battle"
+		},
+		{
+			"text_id": "3629",
+			"text": "vs. {0}"
+		},
+		{
 			"text_id": "363",
 			"text": "Owned"
 		},
 		{
+			"text_id": "3631",
+			"text": "Raid Reward"
+		},
+		{
+			"text_id": "3632",
+			"text": "Stats change!"
+		},
+		{
+			"text_id": "3633",
+			"text": "Support allies! Battle it out!"
+		},
+		{
+			"text_id": "3634",
+			"text": "Next"
+		},
+		{
 			"text_id": "3635",
 			"text": "BCE"
+		},
+		{
+			"text_id": "3637",
+			"text": "G-Spiral-6098"
+		},
+		{
+			"text_id": "3638",
+			"text": "G-Spiral-6099"
+		},
+		{
+			"text_id": "3639",
+			"text": "G-Spiral-6097"
 		},
 		{
 			"text_id": "364",
@@ -12997,8 +13101,16 @@
 			"text": "CT Boost Effect"
 		},
 		{
+			"text_id": "3643",
+			"text": "Unlocked {0}"
+		},
+		{
 			"text_id": "3644",
 			"text": "High-Difficulty\nDevoted/Tenacious Dimensional Vortex has reappeared!"
+		},
+		{
+			"text_id": "3645",
+			"text": "Your battle was interrupted.\nReturn to the battle?\nDigiRubies and Stamina consumed will be\ndiscarded if the battle is not resumed."
 		},
 		{
 			"text_id": "3646",
@@ -13041,6 +13153,26 @@
 			"text": "Removes Shock, Paralysis, Stun, Sleep, Poison, Burn, Error, Skill Lock, and Blind from self.\nIncreases own PWR by 120%. (10 turns)\nRecovers own HP by 50%."
 		},
 		{
+			"text_id": "3655",
+			"text": "The total amount of damage that can be dealt in 1 battle has changed from <color=#FFE25AFF>{0}</color> to <color=#FFE25AFF>{1}</color>!"
+		},
+		{
+			"text_id": "3656",
+			"text": "{0}'s <color=#FFE25AFF>[{1}]</color> has <color=#FFE25AFF>{2}</color>!"
+		},
+		{
+			"text_id": "3657",
+			"text": "{0}'s <color=#FFE25AFF>[DEF]</color> has <color=#FFE25AFF>{1}</color>!"
+		},
+		{
+			"text_id": "3658",
+			"text": "{0}'s <color=#FFE25AFF>[SPD]</color> has <color=#FFE25AFF>{1}</color>!"
+		},
+		{
+			"text_id": "3659",
+			"text": "{0} has recovered <color=#8CFF5AFF>{1}</color> <color=#FFE25AFF>[HP]</color>!"
+		},
+		{
 			"text_id": "366",
 			"text": "DigiEgg is not finished incubating."
 		},
@@ -13061,6 +13193,10 @@
 			"text": "PWR Damage Resist, TEC Damage Resist, Block Rate, Status Abnormality Resistance Down Effect"
 		},
 		{
+			"text_id": "3664",
+			"text": "Raid Reward claimed."
+		},
+		{
 			"text_id": "3666",
 			"text": "High-Difficulty\nBrave Dimensional Vortex has reappeared!"
 		},
@@ -13075,6 +13211,30 @@
 		{
 			"text_id": "368",
 			"text": "Required next"
+		},
+		{
+			"text_id": "3680",
+			"text": "Recovers own HP by 30%.\nRemoves Shock, Paralysis, Stun, Sleep, Poison, Burn, Error, Skill Lock, Blind, and Fade from self.\nIncreases own PWR by 200%. (Permanent)\nIncreases own PWR by 75% with each use, up to a maximum of 75%. (Permanent)"
+		},
+		{
+			"text_id": "3681",
+			"text": "-"
+		},
+		{
+			"text_id": "3682",
+			"text": "Decrease"
+		},
+		{
+			"text_id": "3683",
+			"text": "Increase"
+		},
+		{
+			"text_id": "3685",
+			"text": "Future Weaver"
+		},
+		{
+			"text_id": "3686",
+			"text": "Origin Killer"
 		},
 		{
 			"text_id": "3688",
@@ -13163,6 +13323,22 @@
 		{
 			"text_id": "372",
 			"text": "It can hatch at any moment!"
+		},
+		{
+			"text_id": "3724",
+			"text": "Super Brave Rasenmon Challenge"
+		},
+		{
+			"text_id": "3725",
+			"text": "Let's go!\nWe can't stop now!"
+		},
+		{
+			"text_id": "3726",
+			"text": "I can feel so many emotions and feelings...\nIt's what gives me the strength to keep going!"
+		},
+		{
+			"text_id": "3727",
+			"text": "Thank you. It's because you're always\nwith me that I can fight!"
 		},
 		{
 			"text_id": "373",
@@ -14237,8 +14413,24 @@
 			"text": "• Enhance your <color=#FFE25AFF>Block Rate</color>!\n• Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!\n• Include <color=#FFE25AFF>Tenacious/Super Tenacious</color> and <color=#FFE25AFF>Devoted/Super Devoted</color> Digimon in your party!"
 		},
 		{
+			"text_id": "491081",
+			"text": "• Enhance your <color=#FFE25AFF>Block Rate</color>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!\n• Enhance your <color=#FFE25AFF>TEC</color> and<color=#FFE25AFF>Critical Rate</color>!"
+		},
+		{
+			"text_id": "491082",
+			"text": "• Take measures against <color=#FFE25AFF>Blind</color><sprite=9>!\n• Enhance your <color=#FFE25AFF>Counter Rate</color>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!"
+		},
+		{
 			"text_id": "491091",
 			"text": "• Enhance your <color=#FFE25AFF>DEF</color>!\n• Take measures against <color=#FFE25AFF>Skill Lock</color><sprite=8>!\n• Enhance your <color=#FFE25AFF>Counter Rate</color>!"
+		},
+		{
+			"text_id": "491181",
+			"text": "• Take measures against <color=#FFE25AFF>Status Abnormalities</color>!\n• Enhance your <color=#FFE25AFF>PWR Damage Resist</color>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!"
+		},
+		{
+			"text_id": "491182",
+			"text": "• Take measures against <color=#FFE25AFF>Burn</color><sprite=6> and <color=#FFE25AFF>Blind</color><sprite=9>!\n• Include Digimon that <color=#FFE25AFF>hit hard</color> in your party!\n• Include Digimon that can <color=#FFE25AFF>lower DEF</color> in your party!"
 		},
 		{
 			"text_id": "492",

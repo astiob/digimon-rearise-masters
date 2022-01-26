@@ -222,35 +222,35 @@
 			"index_in_type": "5",
 			"target_type": "9",
 			"target_num": "1",
-			"text": "[@add_critical_damage_rate][:add_critical_damage_rate:]x [/@add_critical_damage_rate] damage during critical hit."
+			"text": "[@add_critical_damage_rate][:add_critical_damage_rate:]x[/@add_critical_damage_rate] damage during critical hit."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "5",
 			"target_type": "9",
 			"target_num": "2",
-			"text": "[@add_critical_damage_rate][:add_critical_damage_rate:]x [/@add_critical_damage_rate] damage during critical hit."
+			"text": "[@add_critical_damage_rate][:add_critical_damage_rate:]x[/@add_critical_damage_rate] damage during critical hit."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "5",
 			"target_type": "9",
 			"target_num": "3",
-			"text": "[@add_critical_damage_rate][:add_critical_damage_rate:]x [/@add_critical_damage_rate] damage during critical hit."
+			"text": "[@add_critical_damage_rate][:add_critical_damage_rate:]x[/@add_critical_damage_rate] damage during critical hit."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "5",
 			"target_type": "9",
 			"target_num": "4",
-			"text": "[@add_critical_damage_rate][:add_critical_damage_rate:]x [/@add_critical_damage_rate] damage during critical hit."
+			"text": "[@add_critical_damage_rate][:add_critical_damage_rate:]x[/@add_critical_damage_rate] damage during critical hit."
 		},
 		{
 			"action_efficacy_type": "0",
 			"index_in_type": "5",
 			"target_type": "9",
 			"target_num": "5",
-			"text": "[@add_critical_damage_rate][:add_critical_damage_rate:]x [/@add_critical_damage_rate] damage during critical hit."
+			"text": "[@add_critical_damage_rate][:add_critical_damage_rate:]x[/@add_critical_damage_rate] damage during critical hit."
 		},
 		{
 			"action_efficacy_type": "0",
@@ -2840,77 +2840,77 @@
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "1",
-			"text": "Allows a [@target_num]single[/@target_num] ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
+			"text": "Allows a [@target_num]single[/@target_num] ally to reduce damage from an enemy to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])([:count_ex:])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "2",
-			"text": "Allows [@target_num]2[/@target_num] allies to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
+			"text": "Allows [@target_num]2[/@target_num] allies to reduce damage from an enemy to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])([:count_ex:])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "3",
-			"text": "Allows [@target_num]3[/@target_num] allies to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
+			"text": "Allows [@target_num]3[/@target_num] allies to reduce damage from an enemy to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])([:count_ex:])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "4",
-			"text": "Allows [@target_num]4[/@target_num] allies to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
+			"text": "Allows [@target_num]4[/@target_num] allies to reduce damage from an enemy to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])([:count_ex:])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "1",
 			"target_num": "5",
-			"text": "Allows [@target_num]all[/@target_num] allies to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
+			"text": "Allows [@target_num]all[/@target_num] allies to reduce damage from an enemy to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])([:count_ex:])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "Allows a [:personality_target_ex:] ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage from an enemy to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])([:count_ex:])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "Allows a [:personality_target_ex:] ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage from an enemy to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])([:count_ex:])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "Allows a [:personality_target_ex:] ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage from an enemy to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])([:count_ex:])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "Allows a [:personality_target_ex:] ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage from an enemy to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])([:count_ex:])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "Allows a [:personality_target_ex:] ally to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
+			"text": "Allows a [:personality_target_ex:] ally to reduce damage from an enemy to a maximum of [@value][:value:][/@value]. ([@duration][:duration:][/@duration])([:count_ex:])"
 		},
 		{
 			"action_efficacy_type": "34",
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "Allows you to reduce damage from [:count_ex:] enemies to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])"
+			"text": "Allows you to reduce damage from an enemy to a maximum of [@value][:value:][/@value] ([@duration][:duration:][/@duration])([:count_ex:])"
 		},
 		{
 			"action_efficacy_type": "35",
@@ -4114,7 +4114,7 @@
 			"index_in_type": "0",
 			"target_type": "2",
 			"target_num": "1",
-			"text": "When your remaining health is below [@affect_hp_rate][:affect_hp_rate:]%[/@affect_hp_rate], you will receive the [:text_id_ex:] effect once."
+			"text": "When your remaining health is below [@affect_hp_rate][:affect_hp_rate:]%[/@affect_hp_rate], you will receive the following effects once: [:text_id_ex:]."
 		},
 		{
 			"action_efficacy_type": "5",
@@ -4380,35 +4380,35 @@
 			"index_in_type": "0",
 			"target_type": "10",
 			"target_num": "5",
-			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "11",
 			"target_num": "5",
-			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "12",
 			"target_num": "5",
-			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "13",
 			"target_num": "5",
-			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
 			"index_in_type": "0",
 			"target_type": "14",
 			"target_num": "5",
-			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:][/@value]. ([@duration][:duration:][/@duration])"
+			"text": "[:updown:] the DEF of [:personality_target_ex:] allies by [@value][:value:]%[/@value]. ([@duration][:duration:][/@duration])"
 		},
 		{
 			"action_efficacy_type": "7",
