@@ -1695,8 +1695,8 @@
 		{
 			"sequence": "10031349",
 			"campaign_id": "1003",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -1704,8 +1704,8 @@
 		{
 			"sequence": "10031370",
 			"campaign_id": "1003",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -1713,197 +1713,8 @@
 		{
 			"sequence": "10031391",
 			"campaign_id": "1003",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10031412",
-			"campaign_id": "1003",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10031433",
-			"campaign_id": "1003",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10031454",
-			"campaign_id": "1003",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10031475",
-			"campaign_id": "1003",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10031496",
-			"campaign_id": "1003",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10031517",
-			"campaign_id": "1003",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10031538",
-			"campaign_id": "1003",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10031559",
-			"campaign_id": "1003",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10031580",
-			"campaign_id": "1003",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10031601",
-			"campaign_id": "1003",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10031622",
-			"campaign_id": "1003",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10031643",
-			"campaign_id": "1003",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10031664",
-			"campaign_id": "1003",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10031685",
-			"campaign_id": "1003",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10031706",
-			"campaign_id": "1003",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10031727",
-			"campaign_id": "1003",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10031748",
-			"campaign_id": "1003",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10031769",
-			"campaign_id": "1003",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10031790",
-			"campaign_id": "1003",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10031811",
-			"campaign_id": "1003",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10031832",
-			"campaign_id": "1003",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -3603,8 +3414,8 @@
 		{
 			"sequence": "10041350",
 			"campaign_id": "1004",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -3612,8 +3423,8 @@
 		{
 			"sequence": "10041371",
 			"campaign_id": "1004",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -3621,197 +3432,8 @@
 		{
 			"sequence": "10041392",
 			"campaign_id": "1004",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10041413",
-			"campaign_id": "1004",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10041434",
-			"campaign_id": "1004",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10041455",
-			"campaign_id": "1004",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10041476",
-			"campaign_id": "1004",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10041497",
-			"campaign_id": "1004",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10041518",
-			"campaign_id": "1004",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10041539",
-			"campaign_id": "1004",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10041560",
-			"campaign_id": "1004",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10041581",
-			"campaign_id": "1004",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10041602",
-			"campaign_id": "1004",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10041623",
-			"campaign_id": "1004",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10041644",
-			"campaign_id": "1004",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10041665",
-			"campaign_id": "1004",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10041686",
-			"campaign_id": "1004",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10041707",
-			"campaign_id": "1004",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10041728",
-			"campaign_id": "1004",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10041749",
-			"campaign_id": "1004",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10041770",
-			"campaign_id": "1004",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10041791",
-			"campaign_id": "1004",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10041812",
-			"campaign_id": "1004",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10041833",
-			"campaign_id": "1004",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -5511,8 +5133,8 @@
 		{
 			"sequence": "10051351",
 			"campaign_id": "1005",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -5520,8 +5142,8 @@
 		{
 			"sequence": "10051372",
 			"campaign_id": "1005",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -5529,197 +5151,8 @@
 		{
 			"sequence": "10051393",
 			"campaign_id": "1005",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10051414",
-			"campaign_id": "1005",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10051435",
-			"campaign_id": "1005",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10051456",
-			"campaign_id": "1005",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10051477",
-			"campaign_id": "1005",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10051498",
-			"campaign_id": "1005",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10051519",
-			"campaign_id": "1005",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10051540",
-			"campaign_id": "1005",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10051561",
-			"campaign_id": "1005",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10051582",
-			"campaign_id": "1005",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10051603",
-			"campaign_id": "1005",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10051624",
-			"campaign_id": "1005",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10051645",
-			"campaign_id": "1005",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10051666",
-			"campaign_id": "1005",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10051687",
-			"campaign_id": "1005",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10051708",
-			"campaign_id": "1005",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10051729",
-			"campaign_id": "1005",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10051750",
-			"campaign_id": "1005",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10051771",
-			"campaign_id": "1005",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10051792",
-			"campaign_id": "1005",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10051813",
-			"campaign_id": "1005",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10051834",
-			"campaign_id": "1005",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -7635,8 +7068,8 @@
 		{
 			"sequence": "10061352",
 			"campaign_id": "1006",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -7644,8 +7077,8 @@
 		{
 			"sequence": "10061373",
 			"campaign_id": "1006",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -7734,20 +7167,11 @@
 		{
 			"sequence": "10061394",
 			"campaign_id": "1006",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10061415",
-			"campaign_id": "1006",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "100614239",
@@ -7790,33 +7214,6 @@
 			"campaign_id": "100614",
 			"start_date": "2020-03-19 06:00:00",
 			"end_date": "2020-03-29 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10061436",
-			"campaign_id": "1006",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10061457",
-			"campaign_id": "1006",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10061478",
-			"campaign_id": "1006",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -7903,24 +7300,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10061499",
-			"campaign_id": "1006",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10061520",
-			"campaign_id": "1006",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
 			"sequence": "100615239",
 			"campaign_id": "100615",
 			"start_date": "2019-11-15 12:00:00",
@@ -7964,33 +7343,6 @@
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
-		},
-		{
-			"sequence": "10061541",
-			"campaign_id": "1006",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10061562",
-			"campaign_id": "1006",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10061583",
-			"campaign_id": "1006",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
 		},
 		{
 			"sequence": "100615853",
@@ -8074,42 +7426,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10061604",
-			"campaign_id": "1006",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10061625",
-			"campaign_id": "1006",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10061646",
-			"campaign_id": "1006",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10061667",
-			"campaign_id": "1006",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
 			"sequence": "100616853",
 			"campaign_id": "100615",
 			"start_date": "2020-04-17 06:00:00",
@@ -8135,15 +7451,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10061688",
-			"campaign_id": "1006",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
 		},
 		{
 			"sequence": "100616904",
@@ -8195,69 +7502,6 @@
 			"campaign_id": "100615",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10061709",
-			"campaign_id": "1006",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10061730",
-			"campaign_id": "1006",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10061751",
-			"campaign_id": "1006",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10061772",
-			"campaign_id": "1006",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10061793",
-			"campaign_id": "1006",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10061814",
-			"campaign_id": "1006",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10061835",
-			"campaign_id": "1006",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -10173,8 +9417,8 @@
 		{
 			"sequence": "10071353",
 			"campaign_id": "1007",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -10182,8 +9426,8 @@
 		{
 			"sequence": "10071374",
 			"campaign_id": "1007",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -10272,20 +9516,11 @@
 		{
 			"sequence": "10071395",
 			"campaign_id": "1007",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10071416",
-			"campaign_id": "1007",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "100714239",
@@ -10328,33 +9563,6 @@
 			"campaign_id": "100714",
 			"start_date": "2020-03-19 06:00:00",
 			"end_date": "2020-03-29 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10071437",
-			"campaign_id": "1007",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10071458",
-			"campaign_id": "1007",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10071479",
-			"campaign_id": "1007",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -10441,24 +9649,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10071500",
-			"campaign_id": "1007",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10071521",
-			"campaign_id": "1007",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
 			"sequence": "100715239",
 			"campaign_id": "100715",
 			"start_date": "2019-11-15 12:00:00",
@@ -10502,33 +9692,6 @@
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
-		},
-		{
-			"sequence": "10071542",
-			"campaign_id": "1007",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10071563",
-			"campaign_id": "1007",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10071584",
-			"campaign_id": "1007",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
 		},
 		{
 			"sequence": "100715853",
@@ -10612,42 +9775,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10071605",
-			"campaign_id": "1007",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10071626",
-			"campaign_id": "1007",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10071647",
-			"campaign_id": "1007",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10071668",
-			"campaign_id": "1007",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
 			"sequence": "100716853",
 			"campaign_id": "100715",
 			"start_date": "2020-04-17 06:00:00",
@@ -10673,15 +9800,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10071689",
-			"campaign_id": "1007",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
 		},
 		{
 			"sequence": "100716904",
@@ -10733,69 +9851,6 @@
 			"campaign_id": "100715",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10071710",
-			"campaign_id": "1007",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10071731",
-			"campaign_id": "1007",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10071752",
-			"campaign_id": "1007",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10071773",
-			"campaign_id": "1007",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10071794",
-			"campaign_id": "1007",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10071815",
-			"campaign_id": "1007",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10071836",
-			"campaign_id": "1007",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -12711,8 +11766,8 @@
 		{
 			"sequence": "10081354",
 			"campaign_id": "1008",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -12720,8 +11775,8 @@
 		{
 			"sequence": "10081375",
 			"campaign_id": "1008",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -12810,20 +11865,11 @@
 		{
 			"sequence": "10081396",
 			"campaign_id": "1008",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10081417",
-			"campaign_id": "1008",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "100814239",
@@ -12866,33 +11912,6 @@
 			"campaign_id": "100814",
 			"start_date": "2020-03-19 06:00:00",
 			"end_date": "2020-03-29 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10081438",
-			"campaign_id": "1008",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10081459",
-			"campaign_id": "1008",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10081480",
-			"campaign_id": "1008",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -12979,24 +11998,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10081501",
-			"campaign_id": "1008",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10081522",
-			"campaign_id": "1008",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
 			"sequence": "100815239",
 			"campaign_id": "100815",
 			"start_date": "2019-11-15 12:00:00",
@@ -13040,33 +12041,6 @@
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
-		},
-		{
-			"sequence": "10081543",
-			"campaign_id": "1008",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10081564",
-			"campaign_id": "1008",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10081585",
-			"campaign_id": "1008",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
 		},
 		{
 			"sequence": "100815853",
@@ -13150,42 +12124,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10081606",
-			"campaign_id": "1008",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10081627",
-			"campaign_id": "1008",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10081648",
-			"campaign_id": "1008",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10081669",
-			"campaign_id": "1008",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
 			"sequence": "100816853",
 			"campaign_id": "100815",
 			"start_date": "2020-04-17 06:00:00",
@@ -13211,15 +12149,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10081690",
-			"campaign_id": "1008",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
 		},
 		{
 			"sequence": "100816904",
@@ -13271,69 +12200,6 @@
 			"campaign_id": "100815",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10081711",
-			"campaign_id": "1008",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10081732",
-			"campaign_id": "1008",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10081753",
-			"campaign_id": "1008",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10081774",
-			"campaign_id": "1008",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10081795",
-			"campaign_id": "1008",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10081816",
-			"campaign_id": "1008",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10081837",
-			"campaign_id": "1008",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -15249,8 +14115,8 @@
 		{
 			"sequence": "10091355",
 			"campaign_id": "1009",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -15258,8 +14124,8 @@
 		{
 			"sequence": "10091376",
 			"campaign_id": "1009",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -15348,20 +14214,11 @@
 		{
 			"sequence": "10091397",
 			"campaign_id": "1009",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10091418",
-			"campaign_id": "1009",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "100914239",
@@ -15404,33 +14261,6 @@
 			"campaign_id": "100914",
 			"start_date": "2020-03-19 06:00:00",
 			"end_date": "2020-03-29 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10091439",
-			"campaign_id": "1009",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10091460",
-			"campaign_id": "1009",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10091481",
-			"campaign_id": "1009",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -15517,24 +14347,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10091502",
-			"campaign_id": "1009",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10091523",
-			"campaign_id": "1009",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
 			"sequence": "100915239",
 			"campaign_id": "100915",
 			"start_date": "2019-11-15 12:00:00",
@@ -15580,24 +14392,6 @@
 			"message_text_id": "192"
 		},
 		{
-			"sequence": "10091544",
-			"campaign_id": "1009",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10091565",
-			"campaign_id": "1009",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
 			"sequence": "100915853",
 			"campaign_id": "100914",
 			"start_date": "2020-04-17 06:00:00",
@@ -15620,15 +14414,6 @@
 			"campaign_id": "100914",
 			"start_date": "2020-04-17 06:00:00",
 			"end_date": "2020-04-27 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10091586",
-			"campaign_id": "1009",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -15686,42 +14471,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10091607",
-			"campaign_id": "1009",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10091628",
-			"campaign_id": "1009",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10091649",
-			"campaign_id": "1009",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10091670",
-			"campaign_id": "1009",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "100916853",
@@ -15800,78 +14549,6 @@
 			"campaign_id": "100915",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10091691",
-			"campaign_id": "1009",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10091712",
-			"campaign_id": "1009",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10091733",
-			"campaign_id": "1009",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10091754",
-			"campaign_id": "1009",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10091775",
-			"campaign_id": "1009",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10091796",
-			"campaign_id": "1009",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10091817",
-			"campaign_id": "1009",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10091838",
-			"campaign_id": "1009",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -17787,8 +16464,8 @@
 		{
 			"sequence": "10101356",
 			"campaign_id": "1010",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -17796,8 +16473,8 @@
 		{
 			"sequence": "10101377",
 			"campaign_id": "1010",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -17886,20 +16563,11 @@
 		{
 			"sequence": "10101398",
 			"campaign_id": "1010",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10101419",
-			"campaign_id": "1010",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101014239",
@@ -17942,33 +16610,6 @@
 			"campaign_id": "101014",
 			"start_date": "2020-03-19 06:00:00",
 			"end_date": "2020-03-29 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10101440",
-			"campaign_id": "1010",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10101461",
-			"campaign_id": "1010",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10101482",
-			"campaign_id": "1010",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -18055,15 +16696,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10101503",
-			"campaign_id": "1010",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
 			"sequence": "101015239",
 			"campaign_id": "101015",
 			"start_date": "2019-11-15 12:00:00",
@@ -18071,15 +16703,6 @@
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
-		},
-		{
-			"sequence": "10101524",
-			"campaign_id": "1010",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
 		},
 		{
 			"sequence": "101015288",
@@ -18118,24 +16741,6 @@
 			"message_text_id": "192"
 		},
 		{
-			"sequence": "10101545",
-			"campaign_id": "1010",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10101566",
-			"campaign_id": "1010",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
 			"sequence": "101015853",
 			"campaign_id": "101014",
 			"start_date": "2020-04-17 06:00:00",
@@ -18158,15 +16763,6 @@
 			"campaign_id": "101014",
 			"start_date": "2020-04-17 06:00:00",
 			"end_date": "2020-04-27 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10101587",
-			"campaign_id": "1010",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -18224,42 +16820,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10101608",
-			"campaign_id": "1010",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10101629",
-			"campaign_id": "1010",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10101650",
-			"campaign_id": "1010",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10101671",
-			"campaign_id": "1010",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101016853",
@@ -18338,78 +16898,6 @@
 			"campaign_id": "101015",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10101692",
-			"campaign_id": "1010",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10101713",
-			"campaign_id": "1010",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10101734",
-			"campaign_id": "1010",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10101755",
-			"campaign_id": "1010",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10101776",
-			"campaign_id": "1010",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10101797",
-			"campaign_id": "1010",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10101818",
-			"campaign_id": "1010",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10101839",
-			"campaign_id": "1010",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -20325,8 +18813,8 @@
 		{
 			"sequence": "10111357",
 			"campaign_id": "1011",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -20334,8 +18822,8 @@
 		{
 			"sequence": "10111378",
 			"campaign_id": "1011",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -20424,20 +18912,11 @@
 		{
 			"sequence": "10111399",
 			"campaign_id": "1011",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10111420",
-			"campaign_id": "1011",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101114239",
@@ -20480,33 +18959,6 @@
 			"campaign_id": "101114",
 			"start_date": "2020-03-19 06:00:00",
 			"end_date": "2020-03-29 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10111441",
-			"campaign_id": "1011",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10111462",
-			"campaign_id": "1011",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10111483",
-			"campaign_id": "1011",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -20593,15 +19045,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10111504",
-			"campaign_id": "1011",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
 			"sequence": "101115239",
 			"campaign_id": "101115",
 			"start_date": "2019-11-15 12:00:00",
@@ -20609,15 +19052,6 @@
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
-		},
-		{
-			"sequence": "10111525",
-			"campaign_id": "1011",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
 		},
 		{
 			"sequence": "101115288",
@@ -20656,24 +19090,6 @@
 			"message_text_id": "192"
 		},
 		{
-			"sequence": "10111546",
-			"campaign_id": "1011",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10111567",
-			"campaign_id": "1011",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
 			"sequence": "101115853",
 			"campaign_id": "101114",
 			"start_date": "2020-04-17 06:00:00",
@@ -20696,15 +19112,6 @@
 			"campaign_id": "101114",
 			"start_date": "2020-04-17 06:00:00",
 			"end_date": "2020-04-27 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10111588",
-			"campaign_id": "1011",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -20762,42 +19169,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10111609",
-			"campaign_id": "1011",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10111630",
-			"campaign_id": "1011",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10111651",
-			"campaign_id": "1011",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10111672",
-			"campaign_id": "1011",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101116853",
@@ -20876,78 +19247,6 @@
 			"campaign_id": "101115",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10111693",
-			"campaign_id": "1011",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10111714",
-			"campaign_id": "1011",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10111735",
-			"campaign_id": "1011",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10111756",
-			"campaign_id": "1011",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10111777",
-			"campaign_id": "1011",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10111798",
-			"campaign_id": "1011",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10111819",
-			"campaign_id": "1011",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10111840",
-			"campaign_id": "1011",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -22863,8 +21162,8 @@
 		{
 			"sequence": "10121358",
 			"campaign_id": "1012",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -22872,8 +21171,8 @@
 		{
 			"sequence": "10121379",
 			"campaign_id": "1012",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -22962,20 +21261,11 @@
 		{
 			"sequence": "10121400",
 			"campaign_id": "1012",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10121421",
-			"campaign_id": "1012",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101214239",
@@ -23018,33 +21308,6 @@
 			"campaign_id": "101214",
 			"start_date": "2020-03-19 06:00:00",
 			"end_date": "2020-03-29 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10121442",
-			"campaign_id": "1012",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10121463",
-			"campaign_id": "1012",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10121484",
-			"campaign_id": "1012",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -23131,15 +21394,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10121505",
-			"campaign_id": "1012",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
 			"sequence": "101215239",
 			"campaign_id": "101215",
 			"start_date": "2019-11-15 12:00:00",
@@ -23147,15 +21401,6 @@
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
-		},
-		{
-			"sequence": "10121526",
-			"campaign_id": "1012",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
 		},
 		{
 			"sequence": "101215288",
@@ -23194,24 +21439,6 @@
 			"message_text_id": "192"
 		},
 		{
-			"sequence": "10121547",
-			"campaign_id": "1012",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10121568",
-			"campaign_id": "1012",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
 			"sequence": "101215853",
 			"campaign_id": "101214",
 			"start_date": "2020-04-17 06:00:00",
@@ -23234,15 +21461,6 @@
 			"campaign_id": "101214",
 			"start_date": "2020-04-17 06:00:00",
 			"end_date": "2020-04-27 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10121589",
-			"campaign_id": "1012",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -23300,42 +21518,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10121610",
-			"campaign_id": "1012",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10121631",
-			"campaign_id": "1012",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10121652",
-			"campaign_id": "1012",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10121673",
-			"campaign_id": "1012",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101216853",
@@ -23414,78 +21596,6 @@
 			"campaign_id": "101215",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10121694",
-			"campaign_id": "1012",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10121715",
-			"campaign_id": "1012",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10121736",
-			"campaign_id": "1012",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10121757",
-			"campaign_id": "1012",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10121778",
-			"campaign_id": "1012",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10121799",
-			"campaign_id": "1012",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10121820",
-			"campaign_id": "1012",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10121841",
-			"campaign_id": "1012",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -25284,8 +23394,8 @@
 		{
 			"sequence": "10131359",
 			"campaign_id": "1013",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -25293,8 +23403,8 @@
 		{
 			"sequence": "10131380",
 			"campaign_id": "1013",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -25383,20 +23493,11 @@
 		{
 			"sequence": "10131401",
 			"campaign_id": "1013",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10131422",
-			"campaign_id": "1013",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101314288",
@@ -25430,33 +23531,6 @@
 			"campaign_id": "101314",
 			"start_date": "2020-03-19 06:00:00",
 			"end_date": "2020-03-29 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10131443",
-			"campaign_id": "1013",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10131464",
-			"campaign_id": "1013",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10131485",
-			"campaign_id": "1013",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -25543,24 +23617,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10131506",
-			"campaign_id": "1013",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10131527",
-			"campaign_id": "1013",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
 			"sequence": "101315288",
 			"campaign_id": "101315",
 			"start_date": "2020-02-14 06:00:00",
@@ -25597,24 +23653,6 @@
 			"message_text_id": "192"
 		},
 		{
-			"sequence": "10131548",
-			"campaign_id": "1013",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10131569",
-			"campaign_id": "1013",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
 			"sequence": "101315853",
 			"campaign_id": "101314",
 			"start_date": "2020-04-17 06:00:00",
@@ -25637,15 +23675,6 @@
 			"campaign_id": "101314",
 			"start_date": "2020-04-17 06:00:00",
 			"end_date": "2020-04-27 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10131590",
-			"campaign_id": "1013",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -25703,42 +23732,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10131611",
-			"campaign_id": "1013",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10131632",
-			"campaign_id": "1013",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10131653",
-			"campaign_id": "1013",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10131674",
-			"campaign_id": "1013",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101316853",
@@ -25817,78 +23810,6 @@
 			"campaign_id": "101315",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10131695",
-			"campaign_id": "1013",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10131716",
-			"campaign_id": "1013",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10131737",
-			"campaign_id": "1013",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10131758",
-			"campaign_id": "1013",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10131779",
-			"campaign_id": "1013",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10131800",
-			"campaign_id": "1013",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10131821",
-			"campaign_id": "1013",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10131842",
-			"campaign_id": "1013",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -27687,8 +25608,8 @@
 		{
 			"sequence": "10141360",
 			"campaign_id": "1014",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -27696,8 +25617,8 @@
 		{
 			"sequence": "10141381",
 			"campaign_id": "1014",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -27786,20 +25707,11 @@
 		{
 			"sequence": "10141402",
 			"campaign_id": "1014",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10141423",
-			"campaign_id": "1014",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101414288",
@@ -27838,24 +25750,6 @@
 			"message_text_id": "192"
 		},
 		{
-			"sequence": "10141444",
-			"campaign_id": "1014",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10141465",
-			"campaign_id": "1014",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
 			"sequence": "101414853",
 			"campaign_id": "101413",
 			"start_date": "2020-04-17 06:00:00",
@@ -27881,15 +25775,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10141486",
-			"campaign_id": "1014",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101414904",
@@ -27946,24 +25831,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10141507",
-			"campaign_id": "1014",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10141528",
-			"campaign_id": "1014",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
 			"sequence": "101415288",
 			"campaign_id": "101415",
 			"start_date": "2020-02-14 06:00:00",
@@ -27998,24 +25865,6 @@
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
-		},
-		{
-			"sequence": "10141549",
-			"campaign_id": "1014",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10141570",
-			"campaign_id": "1014",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
 		},
 		{
 			"sequence": "101415853",
@@ -28099,51 +25948,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10141591",
-			"campaign_id": "1014",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10141612",
-			"campaign_id": "1014",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10141633",
-			"campaign_id": "1014",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10141654",
-			"campaign_id": "1014",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10141675",
-			"campaign_id": "1014",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
 			"sequence": "101416853",
 			"campaign_id": "101415",
 			"start_date": "2020-04-17 06:00:00",
@@ -28220,78 +26024,6 @@
 			"campaign_id": "101415",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10141696",
-			"campaign_id": "1014",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10141717",
-			"campaign_id": "1014",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10141738",
-			"campaign_id": "1014",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10141759",
-			"campaign_id": "1014",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10141780",
-			"campaign_id": "1014",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10141801",
-			"campaign_id": "1014",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10141822",
-			"campaign_id": "1014",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10141843",
-			"campaign_id": "1014",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -30090,8 +27822,8 @@
 		{
 			"sequence": "10151361",
 			"campaign_id": "1015",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -30099,8 +27831,8 @@
 		{
 			"sequence": "10151382",
 			"campaign_id": "1015",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -30189,20 +27921,11 @@
 		{
 			"sequence": "10151403",
 			"campaign_id": "1015",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10151424",
-			"campaign_id": "1015",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101514288",
@@ -30241,24 +27964,6 @@
 			"message_text_id": "192"
 		},
 		{
-			"sequence": "10151445",
-			"campaign_id": "1015",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10151466",
-			"campaign_id": "1015",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
 			"sequence": "101514853",
 			"campaign_id": "101513",
 			"start_date": "2020-04-17 06:00:00",
@@ -30284,15 +27989,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10151487",
-			"campaign_id": "1015",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101514904",
@@ -30349,15 +28045,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10151508",
-			"campaign_id": "1015",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
 			"sequence": "101515288",
 			"campaign_id": "101515",
 			"start_date": "2020-02-14 06:00:00",
@@ -30376,15 +28063,6 @@
 			"message_text_id": "192"
 		},
 		{
-			"sequence": "10151529",
-			"campaign_id": "1015",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
 			"sequence": "101515339",
 			"campaign_id": "101515",
 			"start_date": "2020-03-19 06:00:00",
@@ -30401,24 +28079,6 @@
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
-		},
-		{
-			"sequence": "10151550",
-			"campaign_id": "1015",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10151571",
-			"campaign_id": "1015",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
 		},
 		{
 			"sequence": "101515853",
@@ -30502,51 +28162,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10151592",
-			"campaign_id": "1015",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10151613",
-			"campaign_id": "1015",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10151634",
-			"campaign_id": "1015",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10151655",
-			"campaign_id": "1015",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10151676",
-			"campaign_id": "1015",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
 			"sequence": "101516853",
 			"campaign_id": "101515",
 			"start_date": "2020-04-17 06:00:00",
@@ -30623,78 +28238,6 @@
 			"campaign_id": "101515",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10151697",
-			"campaign_id": "1015",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10151718",
-			"campaign_id": "1015",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10151739",
-			"campaign_id": "1015",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10151760",
-			"campaign_id": "1015",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10151781",
-			"campaign_id": "1015",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10151802",
-			"campaign_id": "1015",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10151823",
-			"campaign_id": "1015",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10151844",
-			"campaign_id": "1015",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -32259,8 +29802,8 @@
 		{
 			"sequence": "10161362",
 			"campaign_id": "1016",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -32268,8 +29811,8 @@
 		{
 			"sequence": "10161383",
 			"campaign_id": "1016",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -32358,20 +29901,11 @@
 		{
 			"sequence": "10161404",
 			"campaign_id": "1016",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10161425",
-			"campaign_id": "1016",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101614339",
@@ -32390,24 +29924,6 @@
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
-		},
-		{
-			"sequence": "10161446",
-			"campaign_id": "1016",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10161467",
-			"campaign_id": "1016",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
 		},
 		{
 			"sequence": "101614853",
@@ -32435,15 +29951,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10161488",
-			"campaign_id": "1016",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101614904",
@@ -32500,24 +30007,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10161509",
-			"campaign_id": "1016",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10161530",
-			"campaign_id": "1016",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
 			"sequence": "101615339",
 			"campaign_id": "101615",
 			"start_date": "2020-03-19 06:00:00",
@@ -32534,24 +30023,6 @@
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
-		},
-		{
-			"sequence": "10161551",
-			"campaign_id": "1016",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10161572",
-			"campaign_id": "1016",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
 		},
 		{
 			"sequence": "101615853",
@@ -32635,51 +30106,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10161593",
-			"campaign_id": "1016",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10161614",
-			"campaign_id": "1016",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10161635",
-			"campaign_id": "1016",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10161656",
-			"campaign_id": "1016",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10161677",
-			"campaign_id": "1016",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
 			"sequence": "101616853",
 			"campaign_id": "101615",
 			"start_date": "2020-04-17 06:00:00",
@@ -32756,78 +30182,6 @@
 			"campaign_id": "101615",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10161698",
-			"campaign_id": "1016",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10161719",
-			"campaign_id": "1016",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10161740",
-			"campaign_id": "1016",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10161761",
-			"campaign_id": "1016",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10161782",
-			"campaign_id": "1016",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10161803",
-			"campaign_id": "1016",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10161824",
-			"campaign_id": "1016",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10161845",
-			"campaign_id": "1016",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -34158,8 +31512,8 @@
 		{
 			"sequence": "10171363",
 			"campaign_id": "1017",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -34167,8 +31521,8 @@
 		{
 			"sequence": "10171384",
 			"campaign_id": "1017",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -34257,35 +31611,8 @@
 		{
 			"sequence": "10171405",
 			"campaign_id": "1017",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10171426",
-			"campaign_id": "1017",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10171447",
-			"campaign_id": "1017",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10171468",
-			"campaign_id": "1017",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -34316,15 +31643,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10171489",
-			"campaign_id": "1017",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101714904",
@@ -34379,42 +31697,6 @@
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10171510",
-			"campaign_id": "1017",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10171531",
-			"campaign_id": "1017",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10171552",
-			"campaign_id": "1017",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10171573",
-			"campaign_id": "1017",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
 		},
 		{
 			"sequence": "101715853",
@@ -34498,51 +31780,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10171594",
-			"campaign_id": "1017",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10171615",
-			"campaign_id": "1017",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10171636",
-			"campaign_id": "1017",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10171657",
-			"campaign_id": "1017",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10171678",
-			"campaign_id": "1017",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
 			"sequence": "101716853",
 			"campaign_id": "101715",
 			"start_date": "2020-04-17 06:00:00",
@@ -34619,78 +31856,6 @@
 			"campaign_id": "101715",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10171699",
-			"campaign_id": "1017",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10171720",
-			"campaign_id": "1017",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10171741",
-			"campaign_id": "1017",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10171762",
-			"campaign_id": "1017",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10171783",
-			"campaign_id": "1017",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10171804",
-			"campaign_id": "1017",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10171825",
-			"campaign_id": "1017",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10171846",
-			"campaign_id": "1017",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -35724,8 +32889,8 @@
 		{
 			"sequence": "10181364",
 			"campaign_id": "1018",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -35733,8 +32898,8 @@
 		{
 			"sequence": "10181385",
 			"campaign_id": "1018",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -35796,47 +32961,11 @@
 		{
 			"sequence": "10181406",
 			"campaign_id": "1018",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10181427",
-			"campaign_id": "1018",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10181448",
-			"campaign_id": "1018",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10181469",
-			"campaign_id": "1018",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10181490",
-			"campaign_id": "1018",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
 		},
 		{
 			"sequence": "101814904",
@@ -35893,42 +33022,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10181511",
-			"campaign_id": "1018",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10181532",
-			"campaign_id": "1018",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10181553",
-			"campaign_id": "1018",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10181574",
-			"campaign_id": "1018",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
 			"sequence": "101815904",
 			"campaign_id": "101814",
 			"start_date": "2020-05-22 06:00:00",
@@ -35983,51 +33076,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10181595",
-			"campaign_id": "1018",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10181616",
-			"campaign_id": "1018",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10181637",
-			"campaign_id": "1018",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10181658",
-			"campaign_id": "1018",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10181679",
-			"campaign_id": "1018",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
 			"sequence": "101816904",
 			"campaign_id": "101815",
 			"start_date": "2020-05-22 06:00:00",
@@ -36077,78 +33125,6 @@
 			"campaign_id": "101815",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10181700",
-			"campaign_id": "1018",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10181721",
-			"campaign_id": "1018",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10181742",
-			"campaign_id": "1018",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10181763",
-			"campaign_id": "1018",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10181784",
-			"campaign_id": "1018",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10181805",
-			"campaign_id": "1018",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10181826",
-			"campaign_id": "1018",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10181847",
-			"campaign_id": "1018",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -36885,8 +33861,8 @@
 		{
 			"sequence": "10191365",
 			"campaign_id": "1019",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -36894,8 +33870,8 @@
 		{
 			"sequence": "10191386",
 			"campaign_id": "1019",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -36930,35 +33906,8 @@
 		{
 			"sequence": "10191407",
 			"campaign_id": "1019",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10191428",
-			"campaign_id": "1019",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10191449",
-			"campaign_id": "1019",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10191470",
-			"campaign_id": "1019",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -36991,51 +33940,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10191491",
-			"campaign_id": "1019",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10191512",
-			"campaign_id": "1019",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10191533",
-			"campaign_id": "1019",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10191554",
-			"campaign_id": "1019",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10191575",
-			"campaign_id": "1019",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
 			"sequence": "101915907",
 			"campaign_id": "101914",
 			"start_date": "2020-06-20 06:00:00",
@@ -37063,51 +33967,6 @@
 			"message_text_id": "1943"
 		},
 		{
-			"sequence": "10191596",
-			"campaign_id": "1019",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10191617",
-			"campaign_id": "1019",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10191638",
-			"campaign_id": "1019",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10191659",
-			"campaign_id": "1019",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10191680",
-			"campaign_id": "1019",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
 			"sequence": "101916907",
 			"campaign_id": "101915",
 			"start_date": "2020-06-20 06:00:00",
@@ -37130,78 +33989,6 @@
 			"campaign_id": "101915",
 			"start_date": "2020-06-20 06:00:00",
 			"end_date": "2020-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10191701",
-			"campaign_id": "1019",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10191722",
-			"campaign_id": "1019",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10191743",
-			"campaign_id": "1019",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10191764",
-			"campaign_id": "1019",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10191785",
-			"campaign_id": "1019",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10191806",
-			"campaign_id": "1019",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10191827",
-			"campaign_id": "1019",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10191848",
-			"campaign_id": "1019",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -37641,8 +34428,8 @@
 		{
 			"sequence": "10201366",
 			"campaign_id": "1020",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -37650,8 +34437,8 @@
 		{
 			"sequence": "10201387",
 			"campaign_id": "1020",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -37659,197 +34446,8 @@
 		{
 			"sequence": "10201408",
 			"campaign_id": "1020",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10201429",
-			"campaign_id": "1020",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10201450",
-			"campaign_id": "1020",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10201471",
-			"campaign_id": "1020",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10201492",
-			"campaign_id": "1020",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10201513",
-			"campaign_id": "1020",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10201534",
-			"campaign_id": "1020",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10201555",
-			"campaign_id": "1020",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10201576",
-			"campaign_id": "1020",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10201597",
-			"campaign_id": "1020",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10201618",
-			"campaign_id": "1020",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10201639",
-			"campaign_id": "1020",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10201660",
-			"campaign_id": "1020",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10201681",
-			"campaign_id": "1020",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10201702",
-			"campaign_id": "1020",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10201723",
-			"campaign_id": "1020",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10201744",
-			"campaign_id": "1020",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10201765",
-			"campaign_id": "1020",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10201786",
-			"campaign_id": "1020",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10201807",
-			"campaign_id": "1020",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10201828",
-			"campaign_id": "1020",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10201849",
-			"campaign_id": "1020",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -38289,8 +34887,8 @@
 		{
 			"sequence": "10211367",
 			"campaign_id": "1021",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -38298,8 +34896,8 @@
 		{
 			"sequence": "10211388",
 			"campaign_id": "1021",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -38307,197 +34905,8 @@
 		{
 			"sequence": "10211409",
 			"campaign_id": "1021",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10211430",
-			"campaign_id": "1021",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10211451",
-			"campaign_id": "1021",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10211472",
-			"campaign_id": "1021",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10211493",
-			"campaign_id": "1021",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10211514",
-			"campaign_id": "1021",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10211535",
-			"campaign_id": "1021",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10211556",
-			"campaign_id": "1021",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10211577",
-			"campaign_id": "1021",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10211598",
-			"campaign_id": "1021",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10211619",
-			"campaign_id": "1021",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10211640",
-			"campaign_id": "1021",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10211661",
-			"campaign_id": "1021",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10211682",
-			"campaign_id": "1021",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10211703",
-			"campaign_id": "1021",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10211724",
-			"campaign_id": "1021",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10211745",
-			"campaign_id": "1021",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10211766",
-			"campaign_id": "1021",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10211787",
-			"campaign_id": "1021",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10211808",
-			"campaign_id": "1021",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10211829",
-			"campaign_id": "1021",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10211850",
-			"campaign_id": "1021",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -38937,8 +35346,8 @@
 		{
 			"sequence": "10221368",
 			"campaign_id": "1022",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -38946,8 +35355,8 @@
 		{
 			"sequence": "10221389",
 			"campaign_id": "1022",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -38955,197 +35364,8 @@
 		{
 			"sequence": "10221410",
 			"campaign_id": "1022",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10221431",
-			"campaign_id": "1022",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10221452",
-			"campaign_id": "1022",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10221473",
-			"campaign_id": "1022",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10221494",
-			"campaign_id": "1022",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10221515",
-			"campaign_id": "1022",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10221536",
-			"campaign_id": "1022",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10221557",
-			"campaign_id": "1022",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10221578",
-			"campaign_id": "1022",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10221599",
-			"campaign_id": "1022",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10221620",
-			"campaign_id": "1022",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10221641",
-			"campaign_id": "1022",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10221662",
-			"campaign_id": "1022",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10221683",
-			"campaign_id": "1022",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10221704",
-			"campaign_id": "1022",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10221725",
-			"campaign_id": "1022",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10221746",
-			"campaign_id": "1022",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10221767",
-			"campaign_id": "1022",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10221788",
-			"campaign_id": "1022",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10221809",
-			"campaign_id": "1022",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10221830",
-			"campaign_id": "1022",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10221851",
-			"campaign_id": "1022",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -39585,8 +35805,8 @@
 		{
 			"sequence": "10241369",
 			"campaign_id": "1024",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "0",
 			"campaign_value_type": "0",
 			"message_text_id": "192"
@@ -39594,8 +35814,8 @@
 		{
 			"sequence": "10241390",
 			"campaign_id": "1024",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "1",
 			"campaign_value_type": "0",
 			"message_text_id": "2649"
@@ -39603,197 +35823,8 @@
 		{
 			"sequence": "10241411",
 			"campaign_id": "1024",
-			"start_date": "2022-02-18 06:00:00",
-			"end_date": "2022-02-28 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10241432",
-			"campaign_id": "1024",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10241453",
-			"campaign_id": "1024",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10241474",
-			"campaign_id": "1024",
-			"start_date": "2022-03-21 06:00:00",
-			"end_date": "2022-03-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10241495",
-			"campaign_id": "1024",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10241516",
-			"campaign_id": "1024",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10241537",
-			"campaign_id": "1024",
-			"start_date": "2022-04-20 06:00:00",
-			"end_date": "2022-04-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10241558",
-			"campaign_id": "1024",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10241579",
-			"campaign_id": "1024",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10241600",
-			"campaign_id": "1024",
-			"start_date": "2022-05-21 06:00:00",
-			"end_date": "2022-05-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10241621",
-			"campaign_id": "1024",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10241642",
-			"campaign_id": "1024",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10241663",
-			"campaign_id": "1024",
-			"start_date": "2022-06-20 06:00:00",
-			"end_date": "2022-06-30 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10241684",
-			"campaign_id": "1024",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10241705",
-			"campaign_id": "1024",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10241726",
-			"campaign_id": "1024",
-			"start_date": "2022-07-21 06:00:00",
-			"end_date": "2022-07-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10241747",
-			"campaign_id": "1024",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10241768",
-			"campaign_id": "1024",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10241789",
-			"campaign_id": "1024",
-			"start_date": "2022-08-21 06:00:00",
-			"end_date": "2022-08-31 23:59:59",
-			"campaign_type": "3",
-			"campaign_value_type": "1",
-			"message_text_id": "1943"
-		},
-		{
-			"sequence": "10241810",
-			"campaign_id": "1024",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "0",
-			"campaign_value_type": "0",
-			"message_text_id": "192"
-		},
-		{
-			"sequence": "10241831",
-			"campaign_id": "1024",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
-			"campaign_type": "1",
-			"campaign_value_type": "0",
-			"message_text_id": "2649"
-		},
-		{
-			"sequence": "10241852",
-			"campaign_id": "1024",
-			"start_date": "2022-09-20 06:00:00",
-			"end_date": "2022-09-30 23:59:59",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
@@ -46472,6 +42503,654 @@
 			"campaign_id": "7007",
 			"start_date": "2022-01-17 12:00:00",
 			"end_date": "2022-02-14 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20151101",
+			"campaign_id": "1101",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151102",
+			"campaign_id": "1102",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151103",
+			"campaign_id": "1103",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151104",
+			"campaign_id": "1104",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151105",
+			"campaign_id": "1105",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151106",
+			"campaign_id": "1106",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151107",
+			"campaign_id": "1107",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151108",
+			"campaign_id": "1108",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151109",
+			"campaign_id": "1109",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151110",
+			"campaign_id": "1110",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151111",
+			"campaign_id": "1111",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151112",
+			"campaign_id": "1112",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151113",
+			"campaign_id": "1113",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151114",
+			"campaign_id": "1114",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151115",
+			"campaign_id": "1115",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151116",
+			"campaign_id": "1116",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151117",
+			"campaign_id": "1117",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151118",
+			"campaign_id": "1118",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20151119",
+			"campaign_id": "1119",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20157001",
+			"campaign_id": "7001",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20157004",
+			"campaign_id": "7004",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20157005",
+			"campaign_id": "7005",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20157006",
+			"campaign_id": "7006",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20157007",
+			"campaign_id": "7007",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "1",
+			"campaign_value_type": "0",
+			"message_text_id": "2649"
+		},
+		{
+			"sequence": "20161101",
+			"campaign_id": "1101",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161102",
+			"campaign_id": "1102",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161103",
+			"campaign_id": "1103",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161104",
+			"campaign_id": "1104",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161105",
+			"campaign_id": "1105",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161106",
+			"campaign_id": "1106",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161107",
+			"campaign_id": "1107",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161108",
+			"campaign_id": "1108",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161109",
+			"campaign_id": "1109",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161110",
+			"campaign_id": "1110",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161111",
+			"campaign_id": "1111",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161112",
+			"campaign_id": "1112",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161113",
+			"campaign_id": "1113",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161114",
+			"campaign_id": "1114",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161115",
+			"campaign_id": "1115",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161116",
+			"campaign_id": "1116",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161117",
+			"campaign_id": "1117",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161118",
+			"campaign_id": "1118",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20161119",
+			"campaign_id": "1119",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20167001",
+			"campaign_id": "7001",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20167004",
+			"campaign_id": "7004",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20167005",
+			"campaign_id": "7005",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20167006",
+			"campaign_id": "7006",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20167007",
+			"campaign_id": "7007",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "0",
+			"campaign_value_type": "0",
+			"message_text_id": "192"
+		},
+		{
+			"sequence": "20171101",
+			"campaign_id": "1101",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171102",
+			"campaign_id": "1102",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171103",
+			"campaign_id": "1103",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171104",
+			"campaign_id": "1104",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171105",
+			"campaign_id": "1105",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171106",
+			"campaign_id": "1106",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171107",
+			"campaign_id": "1107",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171108",
+			"campaign_id": "1108",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171109",
+			"campaign_id": "1109",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171110",
+			"campaign_id": "1110",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171111",
+			"campaign_id": "1111",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171112",
+			"campaign_id": "1112",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171113",
+			"campaign_id": "1113",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171114",
+			"campaign_id": "1114",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171115",
+			"campaign_id": "1115",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171116",
+			"campaign_id": "1116",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171117",
+			"campaign_id": "1117",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171118",
+			"campaign_id": "1118",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20171119",
+			"campaign_id": "1119",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20177001",
+			"campaign_id": "7001",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20177004",
+			"campaign_id": "7004",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20177005",
+			"campaign_id": "7005",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20177006",
+			"campaign_id": "7006",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
+			"campaign_type": "3",
+			"campaign_value_type": "1",
+			"message_text_id": "1943"
+		},
+		{
+			"sequence": "20177007",
+			"campaign_id": "7007",
+			"start_date": "2022-02-14 12:00:00",
+			"end_date": "2022-02-21 11:59:59",
 			"campaign_type": "3",
 			"campaign_value_type": "1",
 			"message_text_id": "1943"
