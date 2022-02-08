@@ -1,3 +1,34 @@
 {
-	"masterRows": []
+	"masterRows": [
+		{
+			"battle_id": "112003",
+			"boss_icon_asset": "mpr/icon/mpr_icon_chr420_e08",
+			"ui_style": "1"
+		},
+		{
+			"battle_id": "112004",
+			"boss_icon_asset": "mpr/icon/mpr_icon_chr435_e10",
+			"ui_style": "1"
+		},
+		{
+			"battle_id": "112005",
+			"boss_icon_asset": "mpr/icon/mpr_icon_chr201_e09",
+			"ui_style": "1"
+		},
+		{
+			"battle_id": "112010",
+			"boss_icon_asset": "mpr/icon/mpr_icon_chr420_e08",
+			"ui_style": "1"
+		},
+		{
+			"battle_id": "112012",
+			"boss_icon_asset": "mpr/icon/mpr_icon_chr435_e10",
+			"ui_style": "1"
+		},
+		{
+			"battle_id": "112013",
+			"boss_icon_asset": "mpr/icon/mpr_icon_chr201_e09",
+			"ui_style": "1"
+		}
+	]
 }
