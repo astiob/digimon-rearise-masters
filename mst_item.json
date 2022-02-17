@@ -30207,6 +30207,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "23551",
+			"item_name": "Final Summon Ticket",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no051",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A ticket for the Final Ticket Summon.",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "236411001",
 			"item_name": "Attack-IV (Brave - Beelzemon BM)",
 			"sort_key": "",
@@ -40503,6 +40514,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25392",
+			"item_name": "Remodeled Dark Dragon DigiEgg",
+			"sort_key": "カイゾウノアンコクリュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama048",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Digimon that will definitely grow into an Ultimate Megadramon (Devoted) will hatch.",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "25393",
 			"item_name": "Meteor Warrior DigiEgg",
 			"sort_key": "リュウセイノチョウセンシノデジタマ",
@@ -40533,6 +40555,39 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A Digimon that will definitely grow into an Armor GoldVeedramon (Brave) will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25396",
+			"item_name": "Gleeful Monkey Attire DigiEgg",
+			"sort_key": "ヨウキナサルショウゾクノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Digimon that will definitely grow into an Ultimate Etemon (Brave) will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25397",
+			"item_name": "Helix Beastman DigiEgg",
+			"sort_key": "ラセンノトゲジュウジンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama084",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Digimon that will definitely grow into a Mega Rasenmon [Anniv.] (Deft) will hatch.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25398",
+			"item_name": "Raging Spiny Beast DigiEgg",
+			"sort_key": "ゲキコウノトゲヨウジュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama085",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Digimon that will definitely grow into a Mega Rasenmon GM [Anniv.] (Tenacious) will hatch.",
 			"max_amount": "9999"
 		},
 		{
@@ -55735,6 +55790,61 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "A Plugin that enhances a Digimon's PWR and SPD.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "340151",
+			"item_name": "Brisk-III",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment31503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Plugin that enhances a Digimon's SPD and HP.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "340152",
+			"item_name": "Brisk-III",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment31503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Plugin that enhances a Digimon's SPD and HP.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "340153",
+			"item_name": "Brisk-III",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment31503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Plugin that enhances a Digimon's SPD and HP.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "340154",
+			"item_name": "Brisk-III",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment31503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Plugin that enhances a Digimon's SPD and HP.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "340155",
+			"item_name": "Brisk-III",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment31503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Plugin that enhances a Digimon's SPD and HP.",
 			"max_amount": "9999"
 		},
 		{
@@ -74028,6 +74138,61 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "An ancient Plugin that lowers a Digimon's Block Rate, but raises its DEF.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "440151",
+			"item_name": "Brisk-IV",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment31503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Plugin that enhances a Digimon's SPD and HP.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "440152",
+			"item_name": "Brisk-IV",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment31503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Plugin that enhances a Digimon's SPD and HP.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "440153",
+			"item_name": "Brisk-IV",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment31503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Plugin that enhances a Digimon's SPD and HP.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "440154",
+			"item_name": "Brisk-IV",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment31503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Plugin that enhances a Digimon's SPD and HP.",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "440155",
+			"item_name": "Brisk-IV",
+			"sort_key": "",
+			"item_type": "4",
+			"icon_asset": "icon/item/equipment/iconequipment31503",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "A Plugin that enhances a Digimon's SPD and HP.",
 			"max_amount": "9999"
 		},
 		{
