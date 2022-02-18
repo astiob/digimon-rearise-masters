@@ -30119,6 +30119,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "23551",
+			"item_name": "ファイナルガシャチケット",
+			"sort_key": "",
+			"item_type": "14",
+			"icon_asset": "icon/item/icon_ticket_no051",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "ファイナルチケットガシャを回すことができるチケット",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "236411001",
 			"item_name": "攻Ⅳ(勇敢 ベルゼブモンBM)",
 			"sort_key": "",
@@ -38908,6 +38919,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25315",
+			"item_name": "陶酔の八頭竜のデジタマ",
+			"sort_key": "トウスイノヤズリュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama071",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体オロチモン(冷静)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "25317",
 			"item_name": "俊敏な猟犬のデジタマ",
 			"sort_key": "シュンビンナリョウケンノデジタマ",
@@ -38960,6 +38982,17 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "完全体ヴィカラーラモン(不屈)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25328",
+			"item_name": "ダンディな頑固親父のデジタマ",
+			"sort_key": "ダンディナガンコオヤジノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama009",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ガンクゥモン(冷静)に育つデジモンが必ず産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
@@ -39469,6 +39502,17 @@
 			"max_amount": "9999"
 		},
 		{
+			"item_id": "25377",
+			"item_name": "暗黒の骸骨悪魔のデジタマ",
+			"sort_key": "アンコクノガイコツアクマノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama050",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体スカルサタモン(器用)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
 			"item_id": "25384",
 			"item_name": "師走の勇敢デジタマ",
 			"sort_key": "シワスノユウカンデジタマ",
@@ -39565,6 +39609,61 @@
 			"friendship_point_rise_value": "0",
 			"mood_value_rise_value": "0",
 			"description": "完全体メガドラモン(献身)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25393",
+			"item_name": "流星の超戦士のデジタマ",
+			"sort_key": "リュウセイノチョウセンシノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama007",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体スーパースターモン(器用)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25395",
+			"item_name": "黄金の幻竜のデジタマ",
+			"sort_key": "オウゴンノゲンリュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama038",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "アーマー体ゴールドブイドラモン(勇敢)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25396",
+			"item_name": "陽気な猿装束のデジタマ",
+			"sort_key": "ヨウキナサルショウゾクノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama001",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "完全体エテモン(勇敢)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25397",
+			"item_name": "螺旋の棘獣人のデジタマ",
+			"sort_key": "ラセンノトゲジュウジンノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama084",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ラセンモン[Anniv.](器用)に育つデジモンが必ず産まれるデジタマ",
+			"max_amount": "9999"
+		},
+		{
+			"item_id": "25398",
+			"item_name": "激昂の棘妖獣のデジタマ",
+			"sort_key": "ゲキコウノトゲヨウジュウノデジタマ",
+			"item_type": "10",
+			"icon_asset": "icon/digitama/icondigitama085",
+			"friendship_point_rise_value": "0",
+			"mood_value_rise_value": "0",
+			"description": "究極体ラセンモンGM[Anniv.](不屈)に育つデジモンが必ず産まれるデジタマ",
 			"max_amount": "9999"
 		},
 		{
