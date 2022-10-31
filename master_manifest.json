@@ -653,17 +653,17 @@
 		},
 		{
 			"className": "ScenarioMaster",
-			"crc": 1500291944,
+			"crc": 2321979968,
 			"hashName": "4C5B99883DBFBF717DEA0E481C8CD54B",
 			"masterName": "mst_scenario",
-			"size": 11668
+			"size": 9268
 		},
 		{
 			"className": "ScenarioDictionaryMaster",
-			"crc": 3794198937,
+			"crc": 3699498242,
 			"hashName": "3997121E50B1073145FEE905B0250AAE",
 			"masterName": "mst_scenario_dictionary",
-			"size": 6852
+			"size": 5604
 		},
 		{
 			"className": "ScenarioEventUnlockMaster",
@@ -688,10 +688,10 @@
 		},
 		{
 			"className": "ScenarioMainCategoryMaster",
-			"crc": 4104461187,
+			"crc": 2979785053,
 			"hashName": "0959632C47BF29DB506337021027138D",
 			"masterName": "mst_scenario_main_category",
-			"size": 212
+			"size": 228
 		},
 		{
 			"className": "ScenarioMovieMaster",
@@ -709,10 +709,10 @@
 		},
 		{
 			"className": "ScenarioSubCategoryMaster",
-			"crc": 133207236,
+			"crc": 1714917603,
 			"hashName": "96001806A7849837B4F6A1B10D62CE49",
 			"masterName": "mst_scenario_sub_category",
-			"size": 2932
+			"size": 3556
 		},
 		{
 			"className": "ScroungeMaster",
@@ -1121,5 +1121,5 @@
 			"size": 148
 		}
 	],
-	"version": "2022-02-18 02:24:59"
+	"version": "2022-10-31 13:13:17"
 }
